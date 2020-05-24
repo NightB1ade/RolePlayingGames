@@ -1,2 +1,4 @@
 title: Role Playing Games
 description: Combined site of RPGs I help hosting website information
+titles_from_headings:
+    enabled: false
