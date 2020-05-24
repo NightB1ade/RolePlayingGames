@@ -8,5 +8,5 @@ defaults:
             path: ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
-            rpgdescription: A cycle of little animals
-            rpgrootlink: "ZodiacWheel/"
+            rpgdescription: A D&D4e game about a cycle of little animals
+            rpgrootlink: ZodiacWheel/
