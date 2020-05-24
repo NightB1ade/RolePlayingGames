@@ -5,6 +5,13 @@ titles_from_headings:
 defaults:
     -
         scope:
+            path: TalesOfAvernus
+        values:
+            rpgtitle: Tales of Avernus
+            rpgdescription: A D&D5e game about going into hell
+            rpgrootlink: TalesOfAvernus/
+    -
+        scope:
             path: ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
