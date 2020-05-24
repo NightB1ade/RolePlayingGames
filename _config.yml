@@ -5,6 +5,7 @@ titles_from_headings:
 defaults:
     -
         scope:
-            path: "ZodiacWheel"
+            path: ZodiacWheel
         values:
-            title: "Zodiac Wheel"
+            rpgtitle: Zodiac Wheel
+            rpgdescription: A cycle of little animals

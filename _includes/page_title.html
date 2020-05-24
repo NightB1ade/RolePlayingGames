@@ -1,26 +1,4 @@
 <section id="title">
-	<h1>{{ page.title | default: site.title }}</h1>
-	<p>
-		{%- if page.title != null -%}
-			{%- if page.backlink != null -%}
-				<a href="{{ page.backlink | relative_url }}">
-			{%- elsif layout.backlink != null -%}
-				<a href="{{ layout.backlink | relative_url }}">
-			{%- else -%}
-				<a href="{{ '/' | relative_url }}">
-			{%- endif -%}
-
-			{{ site.title }}
-
-			{%- if page.subtitlesuffix != null -%}
-				{{ page.subtitlesuffix | prepend: ": "}}
-			{%- elsif layout.subtitlesuffix != null -%}
-				{{ layout.subtitlesuffix | prepend: ": "}}
-			{%- endif -%}
-
-			</a>
-		{%- else -%}
-			{{ site.description }}
-		{%- endif -%}
-	</p>
+	<h1>{{ page.rpgtitle | default: site.title }}</h1>
+	<p>{{ page.rpgdescription | default: site.description }}</p>
 </section>
