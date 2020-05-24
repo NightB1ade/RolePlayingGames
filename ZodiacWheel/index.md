@@ -3,6 +3,9 @@
 
 {% include back_to_rpg_index.md %}
 
+# Lore
+
+[Setting](World/Setting.html)  
 
 # House Rules
 
