@@ -8,7 +8,7 @@
 
 	<title>
 		{%- if page.title != null -%}
-			{{ page.rpgtitle }} - {{ page.rpgtitle }}
+			{{ page.title }} - {{ page.rpgtitle }}
 		{%- elsif page.rpgtitle != null -%}
 			{{ page.rpgtitle | append: " - " }}
 		{%- endif -%}
