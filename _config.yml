@@ -9,3 +9,4 @@ defaults:
         values:
             rpgtitle: Zodiac Wheel
             rpgdescription: A cycle of little animals
+            rpgrootlink: "ZodiacWheel/"

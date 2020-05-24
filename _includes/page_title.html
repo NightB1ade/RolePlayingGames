@@ -1,4 +1,16 @@
 <section id="title">
-	<h1>{{ page.rpgtitle | default: site.title }}</h1>
-	<p>{{ page.rpgdescription | default: site.description }}</p>
+	<h1>
+		{%- if page.title != null -%}
+			{{ page.title }}
+		{%- else -%}
+			{{ page.rpgtitle | default: site.title }}
+		{%- endif -%}
+	</h1>
+	<p>
+		{%- if page.title != null -%}
+			<a href="{{ page.rpgrootlink | relative_url }}">{{ page.rpgtitle }}</a>
+		{%- else -%}
+			{{ page.rpgdescription | default: site.description }}
+		{%- endif -%}
+	</p>
 </section>
