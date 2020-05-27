@@ -48,5 +48,5 @@ defaults:
         scope:
             path: Shadowrun/5e/ShadowrunUK/AdventureLog
         values:
-            layout: adventureLog
+            subtitlesuffix: Adventure Log
             backlink: Shadowrun/5e/ShadowrunUK/AdventureLog
