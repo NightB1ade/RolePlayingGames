@@ -11,9 +11,10 @@
 
 [Contacts](Contacts/)  
 
-# World
+# Lore
 
-[Berlin History](World/BerlinHistory.html)  
+[Berlin History](Lore/BerlinHistory.html)  
+[Clarifications](Lore/Clarifications.html)  
 
 # Miscellaneous
 
