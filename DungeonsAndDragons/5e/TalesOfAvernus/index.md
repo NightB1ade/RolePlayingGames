@@ -10,6 +10,7 @@
 # Lore
 
 [Introduction](Lore/Introduction.html)  
+[Strum’s Background](Lore/PlayerBackground_Strum.html)  
 
 # Game
 
