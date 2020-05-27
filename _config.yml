@@ -26,6 +26,13 @@ defaults:
             rpgrootlink: DungeonsAndDragons/5e/TalesOfAvernus/
     -
         scope:
+            path: Lancer/WhiskeyCompany
+        values:
+            rpgtitle: Whiskey Company
+            rpgdescription: A Lancer game following the exploits of Whiskey Company
+            rpgrootlink: Lancer/WhiskeyCompany/
+    -
+        scope:
             path: Shadowrun/5e/ShadowrunUK
         values:
             rpgtitle: Shadowrun UK
