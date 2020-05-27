@@ -44,3 +44,9 @@ defaults:
             rpgtitle: Shadowrun UK
             rpgdescription: A SR5e game set in the UK
             rpgrootlink: Shadowrun/5e/ShadowrunUK/
+    -
+        scope:
+            path: Shadowrun/5e/ShadowrunUK/AdventureLog
+        values:
+            layout: adventureLog
+            backlink: Shadowrun/5e/ShadowrunUK/AdventureLog
