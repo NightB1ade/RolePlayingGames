@@ -5,15 +5,15 @@ titles_from_headings:
 defaults:
     -
         scope:
-            path: TalesOfAvernus
-        values:
-            rpgtitle: Tales of Avernus
-            rpgdescription: A D&D5e game about going into hell
-            rpgrootlink: TalesOfAvernus/
-    -
-        scope:
-            path: ZodiacWheel
+            path: DungeonsAndDragons/4e/ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
             rpgdescription: A D&D4e game about a cycle of little animals
-            rpgrootlink: ZodiacWheel/
+            rpgrootlink: DungeonsAndDragons/4e/ZodiacWheel/
+    -
+        scope:
+            path: DungeonsAndDragons/5e/TalesOfAvernus
+        values:
+            rpgtitle: Tales of Avernus
+            rpgdescription: A D&D5e game about going into hell
+            rpgrootlink: DungeonsAndDragons/5e/TalesOfAvernus/
