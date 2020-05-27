@@ -3,7 +3,7 @@
 
 {% include back_to_rpg_index.md %}
 
-# Crib Sheets
+# Cheat Sheets
 
 [Crib Sheet - Portrait](Kassoon DnD Crib Sheet.pdf)  
 [Crib Sheet - Landscape](Kassoon DnD Crib Sheet (Landscape).pdf)  
