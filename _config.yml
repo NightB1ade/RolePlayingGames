@@ -62,3 +62,10 @@ defaults:
         values:
             subtitlesuffix: Contacts
             backlink: Shadowrun/5e/ShadowrunUK/Contacts
+    -
+        scope:
+            path: Shadowrun/5e/Rules
+        values:
+            rpgtitle: Shadowrun 5e Rules
+            rpgdescription: Our Summary of SR5e Rules
+            rpgrootlink: Shadowrun/5e/Rules/
