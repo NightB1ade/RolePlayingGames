@@ -7,6 +7,10 @@
 
 [Adventure Log](AdventureLog/)  
 
+# Contacts
+
+[Contacts](Contacts/)  
+
 # World
 
 [Berlin History](World/BerlinHistory.html)  
