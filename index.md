@@ -25,6 +25,8 @@
 
 [Shadowrun UK](Shadowrun/5e/ShadowrunUK/)  
 
+[Rules](Shadowrun/5e/Rules/)  
+
 ---
 
 # Generic Resources
