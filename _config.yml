@@ -48,7 +48,7 @@ defaults:
             path: Shadowrun/5e/ShadowrunUK
         values:
             rpgtitle: Shadowrun UK
-            rpgdescription: A SR5e game set in the UK
+            rpgdescription: An SR5e game set in the UK
             rpgrootlink: Shadowrun/5e/ShadowrunUK/
     -
         scope:
