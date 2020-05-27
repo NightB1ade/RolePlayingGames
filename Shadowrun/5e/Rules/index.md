@@ -8,3 +8,11 @@
 [Metatypes](Metatypes.html)  
 [Run Rewards](RunRewards.html)  
 [Social Tests](SocialTests.html)  
+
+## Active Skills
+
+[Escape Artist](ActiveSkills/EscapeArtist.html)  
+[Gymnastics](ActiveSkills/Gymnastics.html)  
+[Running](ActiveSkills/Running.html)  
+[Swimming](ActiveSkills/Swimming.html)  
+[Tracking](ActiveSkills/Tracking.html)  
