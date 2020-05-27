@@ -33,6 +33,12 @@ defaults:
             rpgrootlink: Lancer/WhiskeyCompany/
     -
         scope:
+            path: Lancer/WhiskeyCompany/AdventureLog
+        values:
+            layout: adventureLog
+            backlink: Lancer/WhiskeyCompany/AdventureLog/
+    -
+        scope:
             path: Shadowrun/5e/ShadowrunUK
         values:
             rpgtitle: Shadowrun UK
