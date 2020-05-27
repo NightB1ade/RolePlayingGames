@@ -7,6 +7,10 @@
 
 [Adventure Log](AdventureLog/)  
 
+# Lore
+
+[Introduction](Lore/Introduction.html)  
+
 # Game
 
 [Pre-Release](Game/PreRelease.html)  
