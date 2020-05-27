@@ -11,9 +11,9 @@
 
 [Contacts](Contacts/)  
 
-# Rules
+# House Rules
 
-[House Rules](Rules/HouseRules.html)  
+[House Rules](HouseRules/HouseRules.html)  
 
 # Lore
 
