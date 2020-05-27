@@ -5,7 +5,7 @@
 
 # Adventure Log
 
-[Adventure Log](AdventureLog/)  
+[Mission Log](MissionLog/)  
 
 # World
 
