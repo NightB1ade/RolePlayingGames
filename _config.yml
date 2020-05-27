@@ -26,6 +26,12 @@ defaults:
             rpgrootlink: DungeonsAndDragons/5e/TalesOfAvernus/
     -
         scope:
+            path: DungeonsAndDragons/5e/TalesOfAvernus/AdventureLog
+        values:
+            subtitlesuffix: Adventure Log
+            backlink: DungeonsAndDragons/5e/TalesOfAvernus/AdventureLog/
+    -
+        scope:
             path: Lancer/WhiskeyCompany
         values:
             rpgtitle: Whiskey Company
