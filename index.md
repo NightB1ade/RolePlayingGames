@@ -6,5 +6,7 @@
 ## 4th Edition
 [Zodiac Wheel](DungeonsAndDragons/4e/ZodiacWheel/)  
 
+[Resources](DungeonsAndDragons/4e/Resources)  
+
 ## 5th Edition
 [Tales of Avernus](DungeonsAndDragons/5e/TalesOfAvernus/)  
