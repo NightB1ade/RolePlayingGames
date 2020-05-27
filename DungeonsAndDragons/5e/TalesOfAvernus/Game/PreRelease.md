@@ -3,6 +3,7 @@ title: Pre-Release for Descent Into Avernus
 ---
 
 # Type
+
 - This is an adventure module, not a wide-spanning campaign
 - Whilst players are encouraged to create characters who have interesting backstories which inform their decisions, there is not a larger meta-plot
 - It is not a massive open-world sandbox
@@ -34,6 +35,7 @@ title: Pre-Release for Descent Into Avernus
 	- For tone think Hellboy, Constantine, Mad Max
 
 # Guidance on Character Creation
+
 - WARNING:
 	- The temptation in a Hell based adventure may be to create a holy Cleric or Paladin of good
 	- This is workable, but be aware that a constant element of the adventure is interacting with Devils and Demons
@@ -61,6 +63,7 @@ title: Pre-Release for Descent Into Avernus
 	- If a player chooses the Human Variant Rule, they are allowed to pick two feats
 
 # Ideas For Characters
+
 - Feel free to come up with whatever you like from the premise information
 	- However, if you would like some guidance, feel free to use any of the below
 - Refugee
