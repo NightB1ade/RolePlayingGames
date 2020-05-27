@@ -7,3 +7,4 @@ pagetype: index
 | ---------- | -------------------------- |
 | 09/04/2020 | [Session 1](Session1.html) |
 | 16/04/2020 | [Session 2](Session2.html) |
+| 23/04/2020 | [Session 3](Session3.html) |
