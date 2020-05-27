@@ -14,6 +14,7 @@
 # Game
 
 [Pre-Release](Game/PreRelease.html)  
+[Player’s Guide](Game/PlayersGuide.pptx)  
 
 # Links
 
