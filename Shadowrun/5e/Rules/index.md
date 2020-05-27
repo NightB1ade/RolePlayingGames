@@ -30,3 +30,8 @@
 [Interrupt Actions](Combat/InterruptActions.html)  
 [Martial Arts](Combat/MartialArts.html)  
 [Modifiers](Combat/Modifiers.html)  
+
+## Magic
+
+[Illusion](Magic/Illusion.html)  
+[Spell Search](Magic/SpellSearch.html)  
