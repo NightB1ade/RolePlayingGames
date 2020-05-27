@@ -3,7 +3,7 @@
 
 {% include back_to_rpg_index.md %}
 
-# Adventure Log
+# Mission Log
 
 [Mission Log](MissionLog/)  
 

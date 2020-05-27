@@ -1,5 +1,5 @@
 ---
-title: Adventure Log
+title: Mission Log
 pagetype: index
 ---
 
