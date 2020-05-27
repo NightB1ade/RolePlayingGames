@@ -11,6 +11,10 @@
 
 [Contacts](Contacts/)  
 
+# Rules
+
+[House Rules](Rules/HouseRules.html)  
+
 # Lore
 
 [Berlin History](Lore/BerlinHistory.html)  
