@@ -21,7 +21,7 @@
 [Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.html)  
 [Games Master Dice Pools](Miscellaneous/GamesMasterDicePools.html)  
 
-# Link
+# Links
 
 [Party Notes](https://docs.google.com/document/d/17Ya2TPFLWeSvU2fiTV72KMWzybjQixAcTqo4kDByZGE/edit){:target="_blank"}  
 [Dunkelzahn’s Will](http://shadowrun.wikia.com/wiki/Dunkelzahn%27s_Will){:target="_blank"}  
