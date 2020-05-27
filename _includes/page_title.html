@@ -8,7 +8,7 @@
 	</h1>
 	<p>
 		{%- if page.title != null -%}
-			{%- if page.pagetype != "index" -%}
+			{%- if page.backlink != null and page.pagetype != "index" -%}
 				<a href="{{ page.backlink | relative_url }}">{{ page.rpgtitle }}{{ page.subtitlesuffix | prepend: ": " }}</a>
 			{%- else -%}
 				<a href="{{ page.rpgrootlink | relative_url }}">{{ page.rpgtitle }}</a>
