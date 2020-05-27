@@ -1,5 +1,3 @@
-# Rules
-
 [Attribute Tests](AttributeTests.html)  
 [Black Market](BlackMarket.html)  
 [Downtime Advancement](DowntimeAdvancement.html)  
@@ -9,7 +7,7 @@
 [Run Rewards](RunRewards.html)  
 [Social Tests](SocialTests.html)  
 
-## Active Skills
+# Active Skills
 
 [Escape Artist](ActiveSkills/EscapeArtist.html)  
 [Gymnastics](ActiveSkills/Gymnastics.html)  
@@ -17,7 +15,7 @@
 [Swimming](ActiveSkills/Swimming.html)  
 [Tracking](ActiveSkills/Tracking.html)  
 
-## Combat
+# Combat
 
 [Actions](Combat/Actions.html)  
 [Ammunition](Combat/Ammunition.html)  
@@ -31,12 +29,12 @@
 [Martial Arts](Combat/MartialArts.html)  
 [Modifiers](Combat/Modifiers.html)  
 
-## Magic
+# Magic
 
 [Illusion](Magic/Illusion.html)  
 [Spell Search](Magic/SpellSearch.html)  
 
-### Matrix
+# Matrix
 
 [Actions](Matrix/Actions.html)  
 [Device Ratings](Matrix/DeviceRatings.html)  
@@ -44,3 +42,11 @@
 [Intrusion Countermeasures](Matrix/IntrusionCountermeasures.html)  
 [Noise](Matrix/Noise.html)  
 [Technomancers](Matrix/Technomancers.html)  
+
+# Security Devices
+
+[Automated Defences](Rules/SecurityDevices/AutomatedDefences.html)  
+[Barriers](Rules/SecurityDevices/Barriers.html)  
+[Doors, Windows, and Locks](Rules/SecurityDevices/DoorsWindowsAndLocks.html)  
+[Landscaping](Rules/SecurityDevices/Landscaping.html)  
+[Sensors and Scanners](Rules/SecurityDevices/SensorsAndScanners.html)  
