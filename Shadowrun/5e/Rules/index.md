@@ -45,8 +45,8 @@
 
 # Security Devices
 
-[Automated Defences](Rules/SecurityDevices/AutomatedDefences.html)  
-[Barriers](Rules/SecurityDevices/Barriers.html)  
-[Doors, Windows, and Locks](Rules/SecurityDevices/DoorsWindowsAndLocks.html)  
-[Landscaping](Rules/SecurityDevices/Landscaping.html)  
-[Sensors and Scanners](Rules/SecurityDevices/SensorsAndScanners.html)  
+[Automated Defences](SecurityDevices/AutomatedDefences.html)  
+[Barriers](SecurityDevices/Barriers.html)  
+[Doors, Windows, and Locks](SecurityDevices/DoorsWindowsAndLocks.html)  
+[Landscaping](SecurityDevices/Landscaping.html)  
+[Sensors and Scanners](SecurityDevices/SensorsAndScanners.html)  
