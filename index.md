@@ -24,3 +24,9 @@
 ## 5th Edition
 
 [Shadowrun UK](Shadowrun/5e/ShadowrunUK/)  
+
+---
+
+# Generic Resources
+
+[Fantasy Name Generator](http://www.fantasynamegenerators.com/){:target="_blank"}  
