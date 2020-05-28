@@ -3,19 +3,19 @@
 
 {% include back_to_rpg_index.md %}
 
-# Adventure Log
+# Game
 
 [Adventure Log](AdventureLog/)  
+
+## Pre-Game
+
+[Pre-Release](Game/PreRelease.html)  
+[Player’s Guide](Game/PlayersGuide.pptx)  
 
 # Lore
 
 [Introduction](Lore/Introduction.html)  
 [Strum’s Background](Lore/PlayerBackground_Strum.html)  
-
-# Game
-
-[Pre-Release](Game/PreRelease.html)  
-[Player’s Guide](Game/PlayersGuide.pptx)  
 
 # Links
 
