@@ -7,6 +7,10 @@
 
 [Adventure Log](AdventureLog/)  
 
+## Party Items
+
+[Boomerang of Skardi](Game/Items/BoomerangOfSkardi.html)  
+
 ## Pre-Game
 
 [Pre-Release](Game/PreRelease.html)  
