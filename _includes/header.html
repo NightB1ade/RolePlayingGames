@@ -10,7 +10,9 @@
 		{%- if page.title != null -%}
 			{{ page.title }} - {{ page.rpgtitle }}
 		{%- elsif page.rpgtitle != null -%}
-			{{ page.rpgtitle | append: " - " }}
+			{{ page.rpgtitle }} - {{ site.title }}
+		{%- else -%}
+			{{ site.title }}
 		{%- endif -%}
-		{{ site.title }}</title>
+	</title>
 </head>
