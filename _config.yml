@@ -55,13 +55,13 @@ defaults:
             path: Shadowrun/5e/ShadowrunUK/AdventureLog
         values:
             subtitlesuffix: Adventure Log
-            backlink: Shadowrun/5e/ShadowrunUK/AdventureLog
+            backlink: Shadowrun/5e/ShadowrunUK/AdventureLog/
     -
         scope:
             path: Shadowrun/5e/ShadowrunUK/Contacts
         values:
             subtitlesuffix: Contacts
-            backlink: Shadowrun/5e/ShadowrunUK/Contacts
+            backlink: Shadowrun/5e/ShadowrunUK/Contacts/
     -
         scope:
             path: Shadowrun/5e/Rules
