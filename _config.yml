@@ -29,7 +29,7 @@ defaults:
             path: DungeonsAndDragons/5e/TalesOfAvernus/AdventureLog
         values:
             subtitlesuffix: Adventure Log
-            backlink: DungeonsAndDragons/5e/TalesOfAvernus/AdventureLog/
+            backlink: ./
     -
         scope:
             path: Lancer/WhiskeyCompany
@@ -42,7 +42,7 @@ defaults:
             path: Lancer/WhiskeyCompany/MissionLog
         values:
             subtitlesuffix: Mission Log
-            backlink: Lancer/WhiskeyCompany/MissionLog/
+            backlink: ./
     -
         scope:
             path: Shadowrun/5e/ShadowrunUK
@@ -55,13 +55,13 @@ defaults:
             path: Shadowrun/5e/ShadowrunUK/AdventureLog
         values:
             subtitlesuffix: Adventure Log
-            backlink: Shadowrun/5e/ShadowrunUK/AdventureLog/
+            backlink: ./
     -
         scope:
             path: Shadowrun/5e/ShadowrunUK/Contacts
         values:
             subtitlesuffix: Contacts
-            backlink: Shadowrun/5e/ShadowrunUK/Contacts/
+            backlink: ./
     -
         scope:
             path: Shadowrun/5e/Rules
