@@ -5,6 +5,7 @@
 
 # Cheat Sheets
 
+[Encounter Templates](EncounterTemplates.html)  
 [Encounter XP](EncounterXP.html)  
 
 [Crib Sheet - Portrait](Kassoon DnD Crib Sheet.pdf)  
