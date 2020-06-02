@@ -7,7 +7,7 @@ title: Encounter XP
 | Difficulty | Level                       |
 | ---------- | --------------------------- |
 | Easy       | Less than four levels below |
-| Normal     | Within two or three levels  |
+| Standard   | Within two or three levels  |
 | Hard       | Three to five levels above  |
 
 # XP Table
