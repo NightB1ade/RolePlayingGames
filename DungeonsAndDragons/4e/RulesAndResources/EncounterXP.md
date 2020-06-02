@@ -2,6 +2,16 @@
 title: Encounter XP
 ---
 
+# Difficulty
+
+| Difficulty | Level                       |
+| ---------- | --------------------------- |
+| Easy       | Less than four levels below |
+| Normal     | Within two or three levels  |
+| Hard       | Three to five levels above  |
+
+# XP Table
+
 | Monster Level | Standard Monster | Minion |   Elite |    Solo |
 | -------------:| ----------------:| ------:| -------:| -------:|
 |             1 |              100 |     25 |     200 |     500 |
