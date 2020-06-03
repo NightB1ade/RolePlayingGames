@@ -7,6 +7,7 @@
 
 [Encounter Templates](EncounterTemplates.html)  
 [Encounter XP](EncounterXP.html)  
+[Treasure Parcels](TreasureParcels.html)  
 
 [Crib Sheet - Portrait](Kassoon DnD Crib Sheet.pdf)  
 [Crib Sheet - Landscape](Kassoon DnD Crib Sheet (Landscape).pdf)  
