@@ -5,6 +5,7 @@
 
 # Cheat Sheets
 
+[Coinage](Coinage.html)  
 [Encounter Templates](EncounterTemplates.html)  
 [Encounter XP](EncounterXP.html)  
 [Treasure Parcels](TreasureParcels.html)  
