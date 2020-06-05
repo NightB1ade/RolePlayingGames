@@ -12,11 +12,11 @@ defaults:
             rpgrootlink: DungeonsAndDragons/4e/ZodiacWheel/
     -
         scope:
-            path: DungeonsAndDragons/4e/Resources
+            path: DungeonsAndDragons/4e/RulesAndResources
         values:
-            rpgtitle: D&D4e Resources
+            rpgtitle: D&D4e Rules and Resources
             rpgdescription: Various Resources for D&D4e
-            rpgrootlink: DungeonsAndDragons/4e/Resources/
+            rpgrootlink: DungeonsAndDragons/4e/RulesAndResources/
     -
         scope:
             path: DungeonsAndDragons/5e/TalesOfAvernus
