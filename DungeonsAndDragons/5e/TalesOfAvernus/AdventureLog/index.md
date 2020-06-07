@@ -13,3 +13,4 @@ pagetype: index
 | 14/05/2020 | [Session 6](Session6.html) |
 | 21/05/2020 | [Session 7](Session7.html) |
 | 28/05/2020 | [Session 8](Session8.html) |
+| 04/06/2020 | [Session 9](Session9.html) |
