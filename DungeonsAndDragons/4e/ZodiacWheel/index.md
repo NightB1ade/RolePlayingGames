@@ -7,6 +7,10 @@
 
 [Setting](World/Setting.html)  
 
+## Player Characters
+
+[Tenmei’s Background](World/TenmeiBackground.html)  
+
 # House Rules
 
 [Skill Challenges: The Lord Kensington Rules for Skill Challenges](Rules/HouseRules.html#skill-challenges)  
