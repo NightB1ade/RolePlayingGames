@@ -15,6 +15,7 @@ title: World Setting
 - No “common” languages apart from Common
 	- Naming will be using the Cantonese tones
 - Eladrin have a dialect (convenience called “Elvish”), which has spread into the world
+- Other dialects do exist (modelled as other languages) and introduced as required
 
 ![Cantonese Tones](CantoneseTones.png)
 
