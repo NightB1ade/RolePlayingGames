@@ -112,7 +112,7 @@ title: Strum’s Background
 		> I wish there was a way out, anything to escape him.
 		> But I have tried and I fear my time is up.
 		> I wish I had told Strum.
-		> I love ----
+		> I love ---
 
 	- On the other side of the page was writing in a different hand
 		- The message was far shorter, it simply read: “Payment has been taken, one gifted life damns another.”

@@ -90,8 +90,7 @@ As the game ends can hear a song start in elvish, the tavern falls silent
 
 When it ends the halfling says that it was a different song to what she normally sings
 - Tries to recount and translate what she can remember of it
-
-> “I sing a song of Elutrel...  A feels dream and still, land of long abiding joy...  Renowned by all across the realms...  I sing a song of Elutrel, When foes are at their door, infernal shore, arise the mighty hellriders, charge hellish fray, scatter devils hordes, sleep safe beneath companions light”
+	> “I sing a song of Elutrel...  A feels dream and still, land of long abiding joy...  Renowned by all across the realms...  I sing a song of Elutrel, When foes are at their door, infernal shore, arise the mighty Hellriders, charge hellish fray, scatter devils hordes, sleep safe beneath companions light”
 
 Moments later we can hear a commotion from downstairs, someone shouting over the crowd and offering free drinks to anyone who knows where Tarina is
 - Looking down the stairs, can see a group of pirates led by a man with one eye
