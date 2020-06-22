@@ -48,7 +48,12 @@ Heading back down the stairs the party investigates the lectern
 - Has an exact copy of the hand on the altar
 - There is a prayer to Heol engraved on the side:
 
-> Oh Heol, great light-giver, from the immense flame of the sun to the smallest ember of ash.  You point us in the right direction with your light, your just and righteous light.  The glorious sun, holy ring of the heavens, shine down upon us your grace.  Let a thousand scholars work for a thousand years, thumbing through the annals of history.  They would only ever say you, the most just and righteous, there at the middle of all things, the glory.  I will take your hand, we will take your hand and find the light within.
+> Oh Heol, great light-giver, from the immense flame of the sun to the smallest ember of ash.  
+> You point us in the right direction with your light, your just and righteous light.  
+> The glorious sun, holy ring of the heavens, shine down upon us your grace.  
+> Let a thousand scholars work for a thousand years, thumbing through the annals of history.  
+> They would only ever say you, the most just and righteous, there at the middle of all things, the glory.  
+> I will take your hand, we will take your hand and find the light within.  
 
 - No one recognises the prayer
 - Vigil reads it out
