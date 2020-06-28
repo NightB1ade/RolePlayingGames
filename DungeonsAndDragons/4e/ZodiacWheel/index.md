@@ -3,6 +3,10 @@
 
 {% include back_to_rpg_index.md %}
 
+# Game
+
+[Adventure Log](AdventureLog/)  
+
 # Lore
 
 [Setting](World/Setting.html)  

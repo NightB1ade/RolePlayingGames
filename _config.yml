@@ -12,6 +12,12 @@ defaults:
             rpgrootlink: DungeonsAndDragons/4e/ZodiacWheel/
     -
         scope:
+            path: DungeonsAndDragons/4e/ZodiacWheel/AdventureLog
+        values:
+            subtitlesuffix: Adventure Log
+            backlink: ./
+    -
+        scope:
             path: DungeonsAndDragons/4e/RulesAndResources
         values:
             rpgtitle: D&D4e Rules and Resources
