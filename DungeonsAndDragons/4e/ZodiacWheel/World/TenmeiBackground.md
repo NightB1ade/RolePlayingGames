@@ -2,6 +2,8 @@
 title: Tenmei’s Background
 ---
 
+# 天美 (tin1 mei5)
+
 - An Eladrin high-born (your choice of level of import) daughter
 - She is actually a bastard, conceived and born when her father was away on a diplomatic mission/war/etc. (your choice)
 - To conceal the affair and timing, her mother claimed she was born in the auspicious year of the Dragon, destined for greatness, etc.
