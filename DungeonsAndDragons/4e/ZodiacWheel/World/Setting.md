@@ -22,5 +22,5 @@ title: World Setting
 # Machines
 
 - There are no automatons (e.g. clockwork)
-	- But mechanics and gadgets do
+	- But mechanics and gadgets do exist
 - Also therefore no Warforged at the start
