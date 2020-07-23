@@ -2,7 +2,7 @@
 title: A Different Kind of Wetwork
 ---
 
-# RUN SUBTITLE
+# Things that Go Splash
 
 | Johnson   | The Suited Lady                             |
 | --------- | ------------------------------------------- |

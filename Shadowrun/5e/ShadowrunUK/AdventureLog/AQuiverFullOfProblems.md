@@ -2,7 +2,7 @@
 title: A Quiver Full of Problems
 ---
 
-# RUN SUBTITLE
+# But This Isn’t One of Them
 
 | Johnson   | Bow and Arrow                                 |
 | --------- | --------------------------------------------- |

@@ -2,7 +2,7 @@
 title: SWATing Up
 ---
 
-#
+# Friend of a friend of a friend
 
 | Johnson   | Corp Troll                                  |
 | --------- | ------------------------------------------- |
@@ -18,7 +18,7 @@ title: SWATing Up
 
 ### 03/07/2076 (Friday)  
 
-- Smith contacts Papa to put out a call for a job.
+- Smith contacts Papa to put out a call for a job
 	- 29-30th June we get a text to meet “Sonny” (another fixer - dwarf; ‘influential’ family) looking for runners. - Link to venue and meet-time, Fri 3rd July
 - Restaurant in ‘the soup’
 	- Does ‘pay what you can’ meals for the poor
@@ -328,7 +328,7 @@ Loki begins repairing titania (misses the pub, repairs and then passes out)
 <!-- -->
 
 - Jack and Sanguine’s mini-helicopter follows along with seb until they land
-- Jack and Seb go to meet the johnson together- successful hand off
+- Jack and Seb go to meet the Johnson together- successful hand off
 - Seb tries to persuade Jack to rejoin. Again.
 - Telling Seb about his teammates
 

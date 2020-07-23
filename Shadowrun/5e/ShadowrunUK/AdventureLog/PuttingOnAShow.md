@@ -2,7 +2,7 @@
 title: Putting on a Show
 ---
 
-# RUN SUBTITLE
+# When You’re More than an Extra
 
 | Johnson   | Haematoma                                                                    |
 | --------- | ---------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@ title: Putting on a Show
 
 <!-- -->
 
-- Before the film's release in 1 month on 02/04/2076 (Thursday)
+- Before the film’s release in 1 month on 02/04/2076 (Thursday)
 
 Ideas:
 - Where? Schedule, Security Detail, Location
@@ -118,6 +118,7 @@ After the Party:
 - Haematoma messaged and advised to watch the news
 
 ### 21/03/76 (Saturday)
+
 - Assassination attempt is on the news
 - Commlink off shooter given to Sanguine
 	- Have been on the thread sanguine started
@@ -127,7 +128,7 @@ After the Party:
 
 <!-- -->
 
-- Meeting with Haematoma that morning - driving from pub to club.
+- Meeting with Haematoma that morning - driving from pub to club
 	- Got into the club and into Haematoma’s office
 	- He’s watching a load of AR screens
 	- Wants to have ‘Vlad’ meet Troy

@@ -2,7 +2,7 @@
 title: Lending a Hand
 ---
 
-#
+# It’s Not Always Pristine When It’s Returned
 
 | Johnson   | Papa                                       |
 | --------- | ------------------------------------------ |
