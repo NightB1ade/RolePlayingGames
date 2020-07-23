@@ -4,14 +4,14 @@ title: Coming Out of Retirement
 
 # Nightwraith
 
-| Johnson   | Pierre (Saeder-Krupp)                           |
-| --------- | ----------------------------------------------- |
-| Summary   | Extraction                                      |
-| Meet      | 17/09/2076 (Thursday)                           |
+| Johnson   | Pierre (Saeder-Krupp)                        |
+| --------- | -------------------------------------------- |
+| Summary   | Extraction                                   |
+| Meet      | 17/09/2076 (Thursday)                        |
 | Legwork   | 18/08/2076 (Friday) - 30/09/2076 (Wednesday) |
-| Run       | 01/10/2076 (Thursday) - 02/10/2076 (Friday)     |
-| Pay       | £25k each, 5 Karma                              |
-| Game Time | 30/05/2019 - 27/06/2019 (5 Sessions)            |
+| Run       | 01/10/2076 (Thursday) - 02/10/2076 (Friday)  |
+| Pay       | £25k each, 5 Karma                           |
+| Game Time | 30/05/2019 - 27/06/2019 (5 Sessions)         |
 
 ## Details  
 
