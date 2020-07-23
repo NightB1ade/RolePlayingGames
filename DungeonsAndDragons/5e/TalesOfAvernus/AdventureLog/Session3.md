@@ -2,7 +2,7 @@
 title: Session 3
 ---
 
-After taking a chance to catch their breath and patch up any wounds the party continues on
+After taking a chance to catch their breath and patch up any wounds, the party continues on
 - Eliseo leads the way heading out of R9 and south along the corridor
 - Here there is a door in the right wall and steps up ahead leading to another door
 - He cautiously opens the door to the right, beyond is a small, empty room (R10) leading to another corridor
@@ -17,17 +17,15 @@ Beyond the door is a short corridor leading to another room (R11)
 - Here the party finds a third altar
 - Decorated with humanoid skulls and half melted, unlit candles
 - Behind the altar there is another message:
-	- ‘Present to me bones of the long dead so we can build again an army, you will be rewarded’
-
-<!-- -->
+	> Present to me bones of the long dead so we can build again an army, you will be rewarded
 
 - Marco sketches the altar
 	- Looking more closely at it he believes it to be less than a year old
 - Vigil and Marco discuss the altars that they have seen
 - Marco decides to destroy this one, pushing it over and scattering the skulls and candles on the floor
 
-At the back of the room there is a collection of alchemical equipment and here Hayate finds 3 red potions which he believes to be potions of healing
-- He distributes them to Marco, Vigil and Strum
+At the back of the room there is a collection of alchemical equipment and here Hayate finds 3 red potions which he believes to be Potions of Healing
+- He distributes them to Marco, Vigil, and Strum
 
 Eliseo scouts further ahead
 - Finds a large, flooded room (R12)
@@ -41,9 +39,9 @@ At the far end they find a thick yellow haze in the air
 - Can vaguely make out a sunken humanoid figure
 - Strum takes a rock and gets Marco to cast light on it before throwing it through the fog
 - It illuminates a blackened corpse wearing a pristine silver band on its head
-- Uses his mage hand to lift it off the corpse and retrieve it from a safe distance
+- Uses his Mage Hand to lift it off the corpse and retrieve it from a safe distance
 - The band appears to be pure silver with a small triangular icon at the front
-- Strum avoids touching it and maintains his mage hand to carry it, repeatedly muttering to cast the spell
+- Strum avoids touching it and maintains his Mage Hand to carry it, repeatedly muttering to cast the spell
 	- Hayate and Marco say they will take a closer look at a better time
 
 The party moves to quickly leave the flooded chamber and finds clearer air beyond
@@ -55,7 +53,7 @@ Eliseo advances along the corridor and listens at each door in turn
 - Behind the third he can make out the heavy breathing of several creatures
 - Beyond the end door he hears sobbing
 
-The rest of the party moves up and checks the doors:
+The rest of the party moves up and checks the doors
 - Behind the first is a small room (R13)
 	- The ceiling in here has collapsed, the rock fall covering a sarcophagus
 - Past the second there is another small room (R14)
@@ -104,7 +102,7 @@ Vigil informs Cicero that they need to continue on to stop the rest of the culti
 
 Eliseo leads the way through the door to the north into a corridor that bends to the right
 - Following it along with a light he hears a sudden exclamation followed by the sound of someone running away
-- The party gives chase through a winding corridor, spotting a heavily armoured, fleeing cultist who yells ‘Intruders!’ as Eliseo catches up to him
+- The party gives chase through a winding corridor, spotting a heavily armoured, fleeing cultist who yells, ‘Intruders!’, as Eliseo catches up to him
 
 The cultist flees into R18 and the party can hear several footsteps from behind the door to R17
 - The party bundles into the corridor and is engaged in a close quarters melee in the tight confines of the corridor with 5 armoured cultists
@@ -112,7 +110,7 @@ The cultist flees into R18 and the party can hear several footsteps from behind 
 Looking through the door to the north, Eliseo can see an open sarcophagus filled with blood (R16)
 
 The narrow corridor greatly restricts the parties movement and the heavy armour and shields of the cultists proves difficult to overcome
-- Vigil takes a couple of heavy hits and is forced to retreat, using up both his own healing potion and Marco’s in the early stages of the fight
+- Vigil takes a couple of heavy hits and is forced to retreat, using up both his own Potion of Healing and Marco’s in the early stages of the fight
 - Marco manages to finish off the initial guard and the party turns to focus on the four cultists in R17
 
 During the combat, Marco and Strum hear a bubbling noise from the blood sarcophagus followed by a wet slapping sound
@@ -140,7 +138,7 @@ Marco goes to use prestidigitation to clean the blood off her
 - He can see blood fly off her on to the floor but there is a delay before it disappears from her body
 - He draws his rapier again and points it at her, declaring that she is under some sort of illusion
 
-The old woman tries to explain that she was hiding in the blood and attempts to persuade Elisoe to help her as an Almogovar but she is met with hostility from Marco and retreats into R16
+The old woman tries to explain that she was hiding in the blood and attempts to persuade Eliseo to help her as an Almogavar but she is met with hostility from Marco and retreats into R16
 - The party follows, Hayate grabbing a tabard from a dead cultist and tossing it to her to wear
 
 As Marco sketches the sarcophagus, Vigil attempts to talk to the old lady, approaching her and patting her on the shoulder
@@ -163,12 +161,12 @@ Whatever magic she has cast seems to be unnerving the group, Eliseo hesitates wh
 Vigil takes his cloak and tosses it over her to reveal where she is hiding
 - Reveals white and red tabard with a horse wreathed in flame and a sun
 - Eliseo and Strum recognise is as the symbol of the Hellriders of Elturel
-	- Eliseo knows their presence in the city is banned by the Almogovars
+	- Eliseo knows their presence in the city is banned by the Almogavars
 
-Marco is unable to overcome the effects of her magic but Hayate is able to rush her and knock her prone into a cul de sac
+Marco is unable to overcome the effects of her magic, but Hayate is able to rush her and knock her prone into a cul-de-sac
 - She reappears still covered in the red glow
 
-Now trapped she offers information for her freedom but does not appear scared.
+Now trapped she offers information for her freedom but does not appear scared
 
 Vigil offers her an ultimatum, surrender or die
 - Whatever he does it seems to work, she is cowed and the magic drops
@@ -186,7 +184,7 @@ Party is clearly battered and decides that they need to rest
 
 Marco and Strum take the prisoner and head back to collect the halfling
 - He was hiding in the sarcophagus and whilst in there found a false floor
-	- Under this was a skeleton with 2 moonstones (50gp each) and a bag of beans inside it’s chest
+	- Under this was a skeleton with 2 moonstones (50gp each) and a bag of beans inside its chest
 	- He offers these to Strum as thanks
 - They head back to the bathhouse
 	- Here they encounter an irate customer

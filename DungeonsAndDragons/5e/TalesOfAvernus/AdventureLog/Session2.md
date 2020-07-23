@@ -35,13 +35,12 @@ Heading along it he finds a tapestry in an alcove at the left fork
 - Looks very old and faded
 - Marco joins him and begins sketching the tapestry
 
-<!-- -->
-
 Continuing to the right Hayate finds a flooded room supported by 3 beams (R4)
 - At the far end is a stone altar lit by candles
 - On the altar is a pile of bloody entrails, possibly human
 - Above the altar is a 3ft tall steel mask in the shape of a human skull
-- On the wall, written in blood: ‘Present to me your kill, so we may bathe in it’s blood and you will be rewarded’
+- On the wall, written in blood
+	> Present to me your kill, so we may bathe in it’s blood and you will be rewarded
 
 Marco follows Hayate into the room, investigating the altar he believes it to be magical and the bloody writing part of a ritual
 
@@ -122,13 +121,15 @@ Eliseo darts into the room ahead (R8) and attempts to hide behind a wooden pilla
 
 The prisoner thanks Eliseo for freeing him
 - Eliseo recognises him as Dario Alfieri, the nephew of the high duke
-- He praises the Almogovars but is disdainful of Marco’s group
+- He praises the Almogavars but is disdainful of Marco’s group
 - Dario wishes to leave immediately
 - Strum and Eliseo escort him to the bathhouse where he promises a reward if they come and see him at his mansion in the upper city later
 
 Whilst they are gone
 - Hayate inspects the altar
-	- Above it, written in blood: ‘Present to me your prisoners and oppressed so that we might rule’
+	- Above it, written in blood
+		> Present to me your prisoners and oppressed so that we might rule
+
 - Vigil is unimpressed by the lack of courage shown by the local nobility
 - He inspects a suit of plate mail standing in an alcove, it appears to be functional equipment, probably owned by the Iron consul
 - It could be modified by a smith to fit him
@@ -148,17 +149,17 @@ The party heads south along a flooded corridor, up some stairs and through a doo
 - The woman casts Darkness, blacking out the far side of the room and covering Vigil, Marco and the zombie
 	- The spell dispels the light spells cast by the party
 - Strum rushes back to the last room to grab a torch
-- Eliseo, Hayate and Strum engage the undead rat swarm in the corridor
+- Eliseo, Hayate, and Strum engage the undead rat swarm in the corridor
 - Vigil and Marco struggle to fight the zombie whilst blind but Marco is eventually able to stab it through the head
 - Whilst they are fighting they can feel blasts of energy narrowly missing them
 - Hayate kills the last of the rats and the rest of the party enters the room
 - Marco manages to find the witch in the darkness and stabs her, dropping the Darkness
-- Party rushes her and quickly kills her but not before Hayate, Marco and Vigil are caught in a wave of necrotic energy
+- Party rushes her and quickly kills her but not before Hayate, Marco, and Vigil are caught in a wave of necrotic energy
 
 With several injured members the party decides to take a rest
 - Vigil uses the table to barricade the entrance
 
-Searching the woman a black, locked spell book is discovered
+Searching the woman, a black, locked spell book is discovered
 - Marco finds a key in her hair and uses it to unlock the book
 - As he opens it a black mist rises from the book which he inadvertently breathes in
 - Feels terrible
