@@ -21,3 +21,4 @@ pagetype: index
 | 09/07/2020 | [Session 14](Session14.html) |
 | 16/07/2020 | [Session 15](Session15.html) |
 | 23/07/2020 | [Session 16](Session16.html) |
+| 06/08/2020 | [Session 17](Session17.html) |
