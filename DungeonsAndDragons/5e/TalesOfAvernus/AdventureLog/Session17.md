@@ -48,7 +48,7 @@ When the party reopen their eyes the being is standing up, floating above the gr
 - Vigil mentions Zariel - It seems this person was a friend of hers at some point
 - They can’t remember their own name
 - The form is constantly fluctuating as it talks
- 	> It was a fighter? A performer? It used to sing?
+	> It was a fighter? A performer? It used to sing?
 
 - Been in Avernus both a very long time and only a short while
 - Home is Artumbria
