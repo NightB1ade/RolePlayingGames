@@ -14,5 +14,6 @@
 [Crib Sheet - Landscape](Kassoon DnD Crib Sheet (Landscape).pdf)  
 Found here: <https://www.kassoon.com/dnd/crib-sheet/>  
 
-[MM3 GM Cheat Sheet](MM3 GM Cheat Sheet.pdf)  
+[MM3 GM Cheat Sheet - PDF](MM3 GM Cheat Sheet.pdf)  
+[MM3 GM Cheat Sheet - Webpage](MM3GMCheatSheet.html)  
 Found on: <https://slyflourish.com/>  
