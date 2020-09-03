@@ -7,11 +7,9 @@
 
 [Adventure Log](AdventureLog/)  
 
-# Lore
+## Lore
 
 [Setting](World/Setting.html)  
-
-## Player Characters
 
 [Saan’s Background](World/SaanBackground.html)  
 [Tenmei’s Background](World/TenmeiBackground.html)  
