@@ -7,10 +7,12 @@
 
 [Mission Log](MissionLog/)  
 
-# World
+## Lore
 
 [Pre-Game Infomation](World/PreGameInformation.html)  
 [UNS Thermopylae](World/UNSThermopylae.html)  
+
+[Benno Tennant’s Background](World/PlayerBackground_BennoTennant.html)  
 
 # Links
 

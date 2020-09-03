@@ -1,0 +1,21 @@
+---
+title: Benno Tennant’s Background
+---
+
+- Was sent to terraform World [XXX]
+	- This was a very isolated role
+	- Spent a lot of time in mechs
+	- They were given AIs to keep company
+	- Ultimately the terraforming was a partial success
+		- In part due to the destabilisation of the planet
+		- Due to the local government/powers deciding that it wasn’t getting enough support for the terraforming from the Hegemony
+- He was conscripted into the wars by the local government
+	- Acted as supply lines initially
+	- Eventually as the war went on, his engineering skills were put into being artillery/sapper
+- The war was eventually lost by the local government
+	- He was then cast out from the planet as part of the rebel troops
+- He then wandered doing freelance work for his talents
+- He inherited his equipment of the AI and the slyph suit from the rebel days
+- Found it hard to survive
+	- Decided to join up with the Union military
+- Then started the training…
