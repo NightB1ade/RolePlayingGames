@@ -1,0 +1,5 @@
+Greg:     #B000FF
+Harrison: #6b6b6b
+Jonny:    #80D0FF
+Niko:     #9A9A00
+Tenmei:   #CC0000
