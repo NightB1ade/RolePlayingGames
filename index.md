@@ -5,6 +5,7 @@
 
 ## 4th Edition
 [Zodiac Wheel](DungeonsAndDragons/4e/ZodiacWheel/)  
+[Lair Assault 1](DungeonsAndDragons/4e/LairAssault1){:target="_blank"}  
 
 [Rules and Resources](DungeonsAndDragons/4e/RulesAndResources/)  
 
