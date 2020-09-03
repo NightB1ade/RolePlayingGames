@@ -7,15 +7,13 @@
 
 [Adventure Log](AdventureLog/)  
 
-## Pre-Game
+## Lore
 
-[Pre-Release](Game/PreRelease.html)  
-[Player’s Guide](Game/PlayersGuide.pptx)  
+[Pre-Release for Descent into Avernus](World/PreRelease.html)  
+[Player’s Guide](World/PlayersGuide.pptx)  
+[World Introduction](World/Introduction.html)  
 
-# Lore
-
-[Introduction](Lore/Introduction.html)  
-[Strum’s Background](Lore/PlayerBackground_Strum.html)  
+[Strum’s Background](World/PlayerBackground_Strum.html)  
 
 # Links
 
