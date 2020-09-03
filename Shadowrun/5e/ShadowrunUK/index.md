@@ -13,12 +13,12 @@
 
 # House Rules
 
-[House Rules](HouseRules/HouseRules.html)  
+[House Rules](Rules/HouseRules.html)  
 
 # Lore
 
-[Berlin History](Lore/BerlinHistory.html)  
-[Clarifications](Lore/Clarifications.html)  
+[Berlin History](World/BerlinHistory.html)  
+[Clarifications](World/Clarifications.html)  
 
 # Miscellaneous
 
