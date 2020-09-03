@@ -11,8 +11,8 @@
 
 [Setting](World/Setting.html)  
 
-[Saan’s Background](World/SaanBackground.html)  
-[Tenmei’s Background](World/TenmeiBackground.html)  
+[Saan’s Background](World/PlayerBackground_Saan.html)  
+[Tenmei’s Background](World/PlayerBackground_Tenmei.html)  
 
 # House Rules
 
