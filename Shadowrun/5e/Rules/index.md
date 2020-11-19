@@ -36,6 +36,7 @@
 
 # Magic
 
+[Assensing](Magic/Assensing.html)  
 [Illusion](Magic/Illusion.html)  
 [Spell Search](Magic/SpellSearch.html)  
 
