@@ -8,6 +8,7 @@
 [Downtime Advancement](DowntimeAdvancement.html)  
 [Healing](Healing.html)  
 [HTR Response Time](HTRResponseTime.html)  
+[Information for Sale](InformationForSale.html)  
 [Metatypes](Metatypes.html)  
 [Run Rewards](RunRewards.html)  
 [Social Tests](SocialTests.html)  
