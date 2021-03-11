@@ -57,3 +57,7 @@
 [Doors, Windows, and Locks](SecurityDevices/DoorsWindowsAndLocks.html)  
 [Landscaping](SecurityDevices/Landscaping.html)  
 [Sensors and Scanners](SecurityDevices/SensorsAndScanners.html)  
+
+# Resources
+
+[NPC Group Generator](https://toktic.github.io/sr_gmt/){:target="_blank"}  
