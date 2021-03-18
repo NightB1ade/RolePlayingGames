@@ -24,6 +24,7 @@
 
 ## 5th Edition
 
+[Lone Star](Shadowrun/5e/LoneStar/)  
 [Shadowrun UK](Shadowrun/5e/ShadowrunUK/)  
 
 [Rules and Resources](Shadowrun/5e/RulesAndResources/)  
