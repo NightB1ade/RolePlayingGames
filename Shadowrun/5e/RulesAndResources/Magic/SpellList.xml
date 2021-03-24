@@ -2377,7 +2377,7 @@ Anyone who might hear the subject must first successfully resist the spell. Make
 	<Effects>Direct</Effects>
 	<Type>M</Type>
 	<Range>LOS</Range>
-	<Damage>P</Damage>
+	<Damage>S</Damage>
 	<Duration>I</Duration>
 	<Drain>F-3</Drain>
 	<Source>Core</Source>
