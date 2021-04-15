@@ -283,7 +283,7 @@ The caster must achieve a threshold equal to the Stun modifiers (or 1 for target
 	<Name>Ball Lightning</Name>
 	<Effects>Indirect, Elemental</Effects>
 	<Type>P</Type>
-	<Range>LOS</Range>
+	<Range>LOS(A)</Range>
 	<Damage>P</Damage>
 	<Duration>I</Duration>
 	<Drain>F-1</Drain>
