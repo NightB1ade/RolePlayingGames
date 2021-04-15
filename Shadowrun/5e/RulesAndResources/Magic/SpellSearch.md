@@ -119,7 +119,7 @@ function SearchSpells() {
 $(document).ready(function(){
 	//Get SpellList Data
 	$.get(
-		"{{ 'SpellList.xml?v=' | append: site.github.build_revision | relative_url }}"
+		"{{ 'SpellList.xml?v=' | append: site.github.build_revision }}"
 		,function(data){
 			SpellList = $(data).find("Spells");
 		}
