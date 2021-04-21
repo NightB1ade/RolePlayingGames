@@ -51,6 +51,13 @@ defaults:
             backlink: ./
     -
         scope:
+            path: RighteousBlood/RulesAndResources
+        values:
+            rpgtitle: Righteous Blood Rules and Resources
+            rpgdescription: Wuxia Roleplaying Quick Reference
+            rpgrootlink: RighteousBlood/RulesAndResources/
+    -
+        scope:
             path: Shadowrun/5e/LoneStar
         values:
             rpgtitle: Lone Star

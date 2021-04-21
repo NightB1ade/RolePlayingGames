@@ -20,6 +20,12 @@
 
 ---
 
+# Righteous Blood, Ruthless Blades
+
+[Rules and Resources](RighteousBlood/RulesAndResources/)  
+
+---
+
 # Shadowrun
 
 ## 5th Edition
