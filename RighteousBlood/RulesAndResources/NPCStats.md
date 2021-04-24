@@ -2,7 +2,7 @@
 title: NPC Stats
 ---
 
-# Basic Person
+# Unlevelled Characters
 
 | Attribute        |  Number  |
 |:---------------- |:--------:|
