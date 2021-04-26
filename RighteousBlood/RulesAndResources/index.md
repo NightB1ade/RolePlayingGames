@@ -14,4 +14,4 @@
 
 # External
 
-[Osprey Website](//ospreypublishing.com/gaming_resources_roleplaying)  
+[Osprey Website](//ospreypublishing.com/gaming_resources_roleplaying){:target="_blank"}  
