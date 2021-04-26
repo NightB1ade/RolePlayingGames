@@ -51,6 +51,13 @@ defaults:
             backlink: ./
     -
         scope:
+            path: RighteousBlood/BloodAndHonour
+        values:
+            rpgtitle: Blood and Honour
+            rpgdescription: Righteous Blood Adventures
+            rpgrootlink: RighteousBlood/BloodAndHonour/
+    -
+        scope:
             path: RighteousBlood/RulesAndResources
         values:
             rpgtitle: Righteous Blood Rules and Resources

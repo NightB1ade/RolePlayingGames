@@ -22,6 +22,8 @@
 
 # Righteous Blood, Ruthless Blades
 
+[Blood and Honour](RighteousBlood/BloodAndHonour/)  
+
 [Rules and Resources](RighteousBlood/RulesAndResources/)  
 
 ---
