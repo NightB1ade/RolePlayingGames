@@ -5,6 +5,8 @@
 [Roll Difficulty Tables](RollDifficultyTables.html)  
 [Top Ten](TopTen.html)  
 
+# Name Generators
+
 [Name Generator](NameGenerator/)  
 [Daoist Priest/Nun Generator](NameGenerator/DaoistGenerator.html)  
 
