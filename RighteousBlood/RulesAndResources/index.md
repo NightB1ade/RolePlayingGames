@@ -6,6 +6,7 @@
 [Top Ten](TopTen.html)  
 
 [Name Generator](NameGenerator/)  
+[Daoist Priest/Nun Generator](NameGenerator/DaoistGenerator.html)  
 
 # External
 

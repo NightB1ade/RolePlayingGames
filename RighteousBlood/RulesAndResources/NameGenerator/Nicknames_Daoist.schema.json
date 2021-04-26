@@ -1,0 +1,49 @@
+{
+	"title": "Daoist Nicknames"
+	, "type": "array"
+	, "format": "table"
+	, "uniqueItems": "true"
+	, "items": {
+		"type": "object"
+		, "title": "Daoist Nickname"
+		, "required": [
+			"traditional"
+			, "simplified"
+			, "gender"
+			, "english"
+			, "pinyin"
+			, "jyutping"
+			, "meaning"
+		]
+		, "properties": {
+			"traditional": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "simplified": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "gender": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "english": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "pinyin": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "jyutping": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "meaning": {
+				"type": "string"
+				, "minLength": 1
+			}
+		}
+	}
+}

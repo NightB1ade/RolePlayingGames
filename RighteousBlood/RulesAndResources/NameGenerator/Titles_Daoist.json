@@ -1,0 +1,91 @@
+[{
+		"traditional": "子"
+		, "simplified": "子"
+		, "gender": "M"
+		, "english": "Master"
+		, "pinyin": "zi"
+		, "jyutping": "zi2"
+		, "meaning": "This character has many meanings, but in this case is a title meaning “master”"
+	}
+	, {
+		"traditional": "真人"
+		, "simplified": "真人"
+		, "gender": "G"
+		, "english": "Reverend"
+		, "pinyin": "zhēnrén"
+		, "jyutping": "zan1 jan4"
+		, "meaning": "Literally “true person”"
+	}
+	, {
+		"traditional": "真人"
+		, "simplified": "真人"
+		, "gender": "G"
+		, "english": "Arhat"
+		, "pinyin": "zhēnrén"
+		, "jyutping": "zan1 jan4"
+		, "meaning": "Literally “true person”"
+	}
+	, {
+		"traditional": "聖人"
+		, "simplified": "聖人"
+		, "gender": "G"
+		, "english": "Saint"
+		, "pinyin": "shèngrén"
+		, "jyutping": "sin3 jan4"
+		, "meaning": "Literally “holy person”"
+	}
+	, {
+		"traditional": "聖人"
+		, "simplified": "聖人"
+		, "gender": "G"
+		, "english": "Sage"
+		, "pinyin": "shèngrén"
+		, "jyutping": "sin3 jan4"
+		, "meaning": "Literally “holy person”"
+	}
+	, {
+		"traditional": "大師"
+		, "simplified": "大师"
+		, "gender": "G"
+		, "english": "Guru"
+		, "pinyin": "dàshī"
+		, "jyutping": "daai6 si1"
+		, "meaning": "Literally “grand teacher”"
+	}
+	, {
+		"traditional": "散人"
+		, "simplified": "散人"
+		, "gender": "G"
+		, "english": "Ascetic"
+		, "pinyin": "sànrén"
+		, "jyutping": "saan2 jan4"
+		, "meaning": "Literally “idle person”"
+	}
+	, {
+		"traditional": "山人"
+		, "simplified": "山人"
+		, "gender": "G"
+		, "english": "Recluse"
+		, "pinyin": "shān rén"
+		, "jyutping": "saan1 jan4"
+		, "meaning": "Literally “mountain person”"
+	}
+	, {
+		"traditional": "山人"
+		, "simplified": "山人"
+		, "gender": "G"
+		, "english": "Hermit"
+		, "pinyin": "shān rén"
+		, "jyutping": "saan1 jan4"
+		, "meaning": "Literally “mountain person”"
+	}
+	, {
+		"traditional": "女冠"
+		, "simplified": "女冠"
+		, "gender": "F"
+		, "english": "Priestess"
+		, "pinyin": "nǚ guān"
+		, "jyutping": "neoi5 gun1"
+		, "meaning": "Literally “woman crown”"
+	}
+]
