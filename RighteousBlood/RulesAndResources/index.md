@@ -3,6 +3,7 @@
 
 {% include back_to_rpg_index.md %}
 
+[NPC Chinese Characters](NPCChineseCharacters.html)  
 [NPC Stats](NPCStats.html)  
 [Roll Difficulty Tables](RollDifficultyTables.html)  
 [Top Ten](TopTen.html)  
