@@ -1,0 +1,65 @@
+{
+	"title": "Given Names"
+	, "type": "array"
+	, "format": "table"
+	, "uniqueItems": "true"
+	, "items": {
+		"type": "object"
+		, "title": "Given Name"
+		, "required": [
+			"traditional"
+			, "simplified"
+			, "gender"
+			, "pinyin"
+			, "jyutping"
+			, "romanisation"
+		]
+		, "properties": {
+			"traditional": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "simplified": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "gender": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "pinyin": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "jyutping": {
+				"type": "string"
+				, "minLength": 1
+			}
+			, "romanisation": {
+				"type": "array"
+				, "title": "Romanisations"
+				, "format": "table"
+				, "uniqueItems": "true"
+				, "items": {
+					"type": "object"
+					, "title": "Romanisation"
+					, "required": [
+						"englishMandarin"
+						, "meaning"
+					]
+					, "properties": {
+						"englishMandarin": {
+							"type": "string"
+						}
+						, "englishCantonese": {
+							"type": "string"
+						}
+						, "meaning": {
+							"type": "string"
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,162 @@
+[{
+		"traditional": "國慶"
+		, "simplified": "国庆"
+		, "gender": "M"
+		, "pinyin": "guóqìng"
+		, "jyutping": "gwok3 hing3"
+		, "romanisation": [{
+				"englishMandarin": "Guoqing"
+				, "englishCantonese": ""
+				, "meaning": "Guoqing: National Day holiday in China"
+			}
+			, {
+				"englishMandarin": "Guo"
+				, "englishCantonese": ""
+				, "meaning": "Guo: Country, nation"
+			}
+			, {
+				"englishMandarin": "Qing"
+				, "englishCantonese": ""
+				, "meaning": "Qing: Celebrate, celebration"
+			}
+		]
+	}
+	, {
+		"traditional": "海濤"
+		, "simplified": "海涛"
+		, "gender": "M"
+		, "pinyin": "hǎi tāo"
+		, "jyutping": "hoi2 tou4"
+		, "romanisation": [{
+				"englishMandarin": "Haitao"
+				, "englishCantonese": ""
+				, "meaning": "Haitao: Ocean waves"
+			}
+			, {
+				"englishMandarin": "Hai"
+				, "englishCantonese": ""
+				, "meaning": "Hai: Ocean, sea"
+			}
+			, {
+				"englishMandarin": "Tao"
+				, "englishCantonese": ""
+				, "meaning": "Tao: Big wave"
+			}
+		]
+	}
+	, {
+		"traditional": "愛民"
+		, "simplified": "愛民"
+		, "gender": "M"
+		, "pinyin": "àimín"
+		, "jyutping": "oi3 man4"
+		, "romanisation": [{
+				"englishMandarin": "Aimin"
+				, "englishCantonese": ""
+				, "meaning": "Aimin: Care for the common people (usually said of a ruler, official, army, etc.)"
+			}
+			, {
+				"englishMandarin": "Ai"
+				, "englishCantonese": ""
+				, "meaning": "Ai: Love"
+			}
+			, {
+				"englishMandarin": ""
+				, "englishCantonese": ""
+				, "meaning": "Min: People, citizens, clan"
+			}
+		]
+	}
+	, {
+		"traditional": "小凡"
+		, "simplified": "小凡"
+		, "gender": "G"
+		, "pinyin": "xiǎo fán"
+		, "jyutping": "siu2 faan4"
+		, "romanisation": [{
+				"englishMandarin": "Xiaofan"
+				, "englishCantonese": ""
+				, "meaning": ""
+			}
+			, {
+				"englishMandarin": "Xiao"
+				, "englishCantonese": ""
+				, "meaning": "Xiao: Small, little"
+			}
+			, {
+				"englishMandarin": "Fan"
+				, "englishCantonese": ""
+				, "meaning": "Fan: Ordinary, normal, mortal"
+			}
+		]
+	}
+	, {
+		"traditional": "雅文"
+		, "simplified": "雅文"
+		, "gender": "G"
+		, "pinyin": "yǎwén"
+		, "jyutping": "ngaa5 man4"
+		, "romanisation": [{
+				"englishMandarin": "Yawen"
+				, "englishCantonese": ""
+				, "meaning": "Yawen: Refined and elegant"
+			}
+			, {
+				"englishMandarin": "Ya"
+				, "englishCantonese": ""
+				, "meaning": "Ya: Elegant"
+			}
+			, {
+				"englishMandarin": "Wen"
+				, "englishCantonese": ""
+				, "meaning": "Wen: Language, culture, writing"
+			}
+		]
+	}
+	, {
+		"traditional": "小磊"
+		, "simplified": "小磊"
+		, "gender": "G"
+		, "pinyin": "xiǎo lěi"
+		, "jyutping": "siu2 leoi5"
+		, "romanisation": [{
+				"englishMandarin": "Xiaolei"
+				, "englishCantonese": ""
+				, "meaning": ""
+			}
+			, {
+				"englishMandarin": "Xiao"
+				, "englishCantonese": ""
+				, "meaning": "Xiao: Small, little"
+			}
+			, {
+				"englishMandarin": "Lei"
+				, "englishCantonese": ""
+				, "meaning": "Lei: Heap of stones, open and honest"
+			}
+		]
+	}
+	, {
+		"traditional": "華鏡"
+		, "simplified": "华镜"
+		, "gender": "F"
+		, "pinyin": "huá jìng"
+		, "jyutping": "waa4 geng3"
+		, "romanisation": [{
+				"englishMandarin": "Huajing"
+				, "englishCantonese": ""
+				, "meaning": ""
+			}
+			, {
+				"englishMandarin": "Hua"
+				, "englishCantonese": ""
+				, "meaning": "Hua: Splendid, beautiful, glorious, China"
+			}
+			, {
+				"englishMandarin": "Jing"
+				, "englishCantonese": ""
+				, "meaning": "Jing: Mirror, lens, glass"
+			}
+		]
+	}
+]
