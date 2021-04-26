@@ -11,11 +11,11 @@ function GenerateName() {
 		var Nickname = Nicknames_Daoist[Math.floor(Math.random() * Nicknames_Daoist.length)];
 
 		GenerateHTML = GenerateHTML
-			+ "<tr><td nowrap>"
+			+ "<tr><td nowrap style='text-align:center'>"
 			+ Nickname.traditional + Title.traditional
-			+ "</td><td nowrap>"
+			+ "</td><td nowrap style='text-align:center'>"
 			+ Nickname.simplified + Title.simplified
-			+ "</td><td>"
+			+ "</td><td style='text-align:center'>"
 			+ Nickname.gender + " (nickname) / " + Title.gender + " (title)"
 			+ "</td><td>"
 			+ Title.english + " " + Nickname.english

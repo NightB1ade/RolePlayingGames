@@ -47,11 +47,11 @@ function GenerateName() {
 		var GivenNameRomanisations = GivenName.romanisation.length;
 
 		GenerateHTML = GenerateHTML
-			+ "<tr><td rowspan='" + GivenNameRomanisations + "' nowrap>"
+			+ "<tr><td rowspan='" + GivenNameRomanisations + "' nowrap style='text-align:center'>"
 			+ Surname.traditional + GivenName.traditional
-			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
+			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap style='text-align:center'>"
 			+ Surname.simplified + GivenName.simplified
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
+			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap style='text-align:center'>"
 			+ GivenName.gender
 			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
 			+ Surname.englishMandarin
