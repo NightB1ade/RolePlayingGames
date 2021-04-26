@@ -47,9 +47,9 @@ function GenerateName() {
 		var GivenNameRomanisations = GivenName.romanisation.length;
 
 		GenerateHTML = GenerateHTML
-			+ "<tr><td rowspan='" + GivenNameRomanisations + "'>"
+			+ "<tr><td rowspan='" + GivenNameRomanisations + "' nowrap>"
 			+ Surname.traditional + GivenName.traditional
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
+			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
 			+ Surname.simplified + GivenName.simplified
 			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
 			+ GivenName.gender
@@ -57,14 +57,10 @@ function GenerateName() {
 			+ Surname.englishMandarin
 			+ "</td><td>"
 			+ GivenName.romanisation[0].englishMandarin
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
-			+ Surname.pinyin
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
-			+ GivenName.pinyin
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
-			+ Surname.jyutping
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
-			+ GivenName.jyutping
+			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
+			+ Surname.pinyin + " " + GivenName.pinyin
+			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
+			+ Surname.jyutping + " " + GivenName.jyutping
 			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
 			+ Surname.meaning
 			+ "</td><td>"

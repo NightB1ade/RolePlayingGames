@@ -52,8 +52,8 @@ title: Name Generator
 	<th>简</th>
 	<th>Gender</th>
 	<th colspan="2">English</th>
-	<th colspan="2">Pinyin</th>
-	<th colspan="2">Jyutping</th>
+	<th>Pinyin</th>
+	<th>Jyutping</th>
 	<th>Surname Meaning</th>
 	<th>Given Name Meaning</th>
 </tr>
