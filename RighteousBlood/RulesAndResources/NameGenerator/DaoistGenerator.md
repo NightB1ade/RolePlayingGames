@@ -17,8 +17,8 @@ title: Daoist Priest/Nun Generator
 <table id="ResultsTable">
 <thead>
 <tr>
-	<th>Traditional</th>
-	<th>Simplified</th>
+	<th>繁</th>
+	<th>简</th>
 	<th>Gender</th>
 	<th>English</th>
 	<th>Pinyin</th>

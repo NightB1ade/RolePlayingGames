@@ -48,8 +48,8 @@ title: Name Generator
 <table id="ResultsTable">
 <thead>
 <tr>
-	<th>Traditional</th>
-	<th>Simplified</th>
+	<th>繁</th>
+	<th>简</th>
 	<th>Gender</th>
 	<th colspan="2">English</th>
 	<th colspan="2">Pinyin</th>
