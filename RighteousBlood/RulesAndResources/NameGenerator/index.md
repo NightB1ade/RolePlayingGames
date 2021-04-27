@@ -207,5 +207,13 @@ $(document).ready(function() {
 			GivenNames_Occupation_Assassin = $(data);
 		}
 	);
+
+	//Get GivenNames_Occupation_Bandit Data
+	$.get(
+		"{{ 'JSONs/GivenNames_Occupation_Bandit.json?v=' | append: site.github.build_revision }}"
+		,function(data){
+			GivenNames_Occupation_Bandit = $(data);
+		}
+	);
 });
 </script>
