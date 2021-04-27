@@ -173,6 +173,14 @@ $(document).ready(function() {
 		}
 	);
 
+	//Get GivenNames_Thematic_Feminine Data
+	$.get(
+		"{{ 'JSONs/GivenNames_Thematic_Feminine.json?v=' | append: site.github.build_revision }}"
+		,function(data){
+			GivenNames_Thematic_Feminine = $(data);
+		}
+	);
+
 
 
 
