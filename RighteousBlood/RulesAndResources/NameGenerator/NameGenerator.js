@@ -1,19 +1,6 @@
 var SurnamesFullList;
 
-var GivenNames_Thematic_Common;
-var GivenNames_Thematic_Uncommon;
-var GivenNames_Thematic_Dark;
-var GivenNames_Thematic_Righteous;
-var GivenNames_Thematic_Dramatic;
-var GivenNames_Thematic_BeautifulAttractive;
-var GivenNames_Thematic_Masculine;
-var GivenNames_Thematic_Feminine;
-var GivenNames_Thematic_GenderNeutral;
-
-var GivenNames_Occupation_Artisan;
-var GivenNames_Occupation_Assassin;
-var GivenNames_Occupation_Bandit;
-var GivenNames_Occupation_Beggar;
+var GivenNamesFullList;
 
 function GenerateName() {
 	var GenerateNumber = $("#GenerateNumber").spinner("value");
@@ -21,34 +8,7 @@ function GenerateName() {
 
 	var Surnames = SurnamesFullList[$("#SurnameType option:selected").val()].surnames;
 
-	var GivenNames
-		= ($("#GivenNameType option:selected").val() == "thematic_common")
-		? GivenNames_Thematic_Common
-		: ($("#GivenNameType option:selected").val() == "thematic_uncommon")
-		? GivenNames_Thematic_Uncommon
-		: ($("#GivenNameType option:selected").val() == "thematic_dark")
-		? GivenNames_Thematic_Dark
-		: ($("#GivenNameType option:selected").val() == "thematic_righteous")
-		? GivenNames_Thematic_Righteous
-		: ($("#GivenNameType option:selected").val() == "thematic_dramatic")
-		? GivenNames_Thematic_Dramatic
-		: ($("#GivenNameType option:selected").val() == "thematic_beautifulAttractive")
-		? GivenNames_Thematic_BeautifulAttractive
-		: ($("#GivenNameType option:selected").val() == "thematic_masculine")
-		? GivenNames_Thematic_Masculine
-		: ($("#GivenNameType option:selected").val() == "thematic_feminine")
-		? GivenNames_Thematic_Feminine
-		: ($("#GivenNameType option:selected").val() == "thematic_genderNeutral")
-		? GivenNames_Thematic_GenderNeutral
-		: ($("#GivenNameType option:selected").val() == "occupation_artisan")
-		? GivenNames_Occupation_Artisan
-		: ($("#GivenNameType option:selected").val() == "occupation_assassin")
-		? GivenNames_Occupation_Assassin
-		: ($("#GivenNameType option:selected").val() == "occupation_bandit")
-		? GivenNames_Occupation_Bandit
-		: ($("#GivenNameType option:selected").val() == "occupation_beggar")
-		? GivenNames_Occupation_Beggar
-		: "";
+	var GivenNames = GivenNamesFullList[$("#GivenNameCategory option:selected").val()].type[$("#GivenNameType option:selected").val()].givenNames;
 
 	for (i=0 ; i < GenerateNumber ; i++) {
 		var Surname = Surnames[Math.floor(Math.random() * Surnames.length)];
@@ -99,43 +59,46 @@ function ClearResults() {
 
 
 function GivenNameCategoryChange() {
-	if ($("#GivenNameCategory option:selected").val() == "thematic") {
-		$("#GivenNameType").html(
-			'<option value="thematic_common" selected>Common</option>'
-			+ '<option value="thematic_uncommon">Uncommon</option>'
-			+ '<option value="thematic_dark">Dark</option>'
-			+ '<option value="thematic_righteous">Righteous</option>'
-			+ '<option value="thematic_dramatic">Dramatic</option>'
-			+ '<option value="thematic_beautifulAttractive">Beautiful/Attractive</option>'
-			+ '<option value="thematic_masculine">Masculine</option>'
-			+ '<option value="thematic_feminine">Feminine</option>'
-			+ '<option value="thematic_genderNeutral">Gender-Neutral</option>'
-		);
-	} else if ($("#GivenNameCategory option:selected").val() == "occupation") {
-		$("#GivenNameType").html(
-			'<option value="occupation_artisan" selected>Artisan</option>'
-			+ '<option value="occupation_assassin">Assassin</option>'
-			+ '<option value="occupation_bandit">Bandit</option>'
-			+ '<option value="occupation_beggar">Beggar</option>'
-		);
-	}
+	var GivenNameHTML = "";
 
-	$("#GivenNameType").selectmenu("refresh");
-	ClearResults();
+	$(GivenNamesFullList[$("#GivenNameCategory option:selected").val()].type).toArray().forEach((item, i) => {
+		GivenNameHTML = GivenNameHTML
+			+ '<option value="' + i + '">' + item.title + '</option>';
+	});
+
+	$("#GivenNameType").html(GivenNameHTML).selectmenu("refresh");
+	GivenNameTypeChange();
+}
+
+
+
+
+function GivenNameTypeChange() {
+	$("#GivenNameTypeExplanation").html(GivenNamesFullList[$("#GivenNameCategory option:selected").val()].type[$("#GivenNameType option:selected").val()].explanation);
+
+	SelectMenuChange();
+}
+
+
+
+
+function GivenNameCreate() {
+	var GivenNameCategoryHTML = "";
+
+	GivenNamesFullList.forEach((item, i) => {
+		GivenNameCategoryHTML = GivenNameCategoryHTML
+			+ '<option value="' + i + '">' + item.category + '</option>';
+	});
+
+	$("#GivenNameCategory").html(GivenNameCategoryHTML).selectmenu("refresh");
+
+	GivenNameCategoryChange();
 }
 
 
 
 
 function SelectMenuChange() {
-	ClearResults();
-}
-
-
-
-
-function SurnameTypeChange() {
-	$("#SurnameTypeExplanation").html(SurnamesFullList[$("#SurnameType option:selected").val()].explanation);
 	ClearResults();
 }
 
@@ -157,18 +120,25 @@ function SurnameTypeCreate() {
 
 
 
+function SurnameTypeChange() {
+	$("#SurnameTypeExplanation").html(SurnamesFullList[$("#SurnameType option:selected").val()].explanation);
+	SelectMenuChange();
+}
+
+
+
+
 $(document).ready(function() {
-	$("select").selectmenu({
-		change: SelectMenuChange
-	});
+	$("select").selectmenu();
 	$("#SurnameType").selectmenu({
 		change: SurnameTypeChange
 	})
 	$("#GivenNameCategory").selectmenu({
 		change: GivenNameCategoryChange
 	});
+	$("#GivenNameType").selectmenu({
+		change: GivenNameTypeChange
+	})
 	$("input.spinner").spinner();
 	$("button").button();
-
-	GivenNameCategoryChange();
 });

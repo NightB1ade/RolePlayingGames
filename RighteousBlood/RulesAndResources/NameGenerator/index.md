@@ -20,15 +20,16 @@ title: Name Generator
 		<td>Given Name Category</td>
 		<td>
 			<select name="GivenNameCategory" id="GivenNameCategory">
-				<option value="thematic" selected>Thematic</option>
-				<option value="occupation">By Occupation</option>
+				<option>Loading…</option>
 			</select>
 		</td>
+		<td rowspan="2" id="GivenNameTypeExplanation"></td>
 	</tr>
 	<tr>
 		<td>Given Name</td>
 		<td>
 			<select name="GivenNameType" id="GivenNameType">
+				<option>Loading…</option>
 			</select>
 		</td>
 	</tr>
@@ -72,113 +73,13 @@ $(document).ready(function() {
 		}
 	);
 
-
-
-
-	//Get GivenNames_Thematic_Common Data
+	//Get GivenNames Data
 	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_Common.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/GivenNames.json?v=' | append: site.github.build_revision }}"
 		,function(data){
-			GivenNames_Thematic_Common = $(data);
-		}
-	);
+			GivenNamesFullList = $(data).toArray();
 
-	//Get GivenNames_Thematic_Uncommon Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_Uncommon.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_Uncommon = $(data);
-		}
-	);
-
-	//Get GivenNames_Thematic_Dark Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_Dark.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_Dark = $(data);
-		}
-	);
-
-	//Get GivenNames_Thematic_Righteous Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_Righteous.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_Righteous = $(data);
-		}
-	);
-
-	//Get GivenNames_Thematic_Dramatic Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_Dramatic.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_Dramatic = $(data);
-		}
-	);
-
-	//Get GivenNames_Thematic_BeautifulAttractive Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_BeautifulAttractive.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_BeautifulAttractive = $(data);
-		}
-	);
-
-	//Get GivenNames_Thematic_Masculine Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_Masculine.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_Masculine = $(data);
-		}
-	);
-
-	//Get GivenNames_Thematic_Feminine Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_Feminine.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_Feminine = $(data);
-		}
-	);
-
-	//Get GivenNames_Thematic_GenderNeutral Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Thematic_GenderNeutral.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Thematic_GenderNeutral = $(data);
-		}
-	);
-
-
-
-
-	//Get GivenNames_Occupation_Artisan Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Occupation_Artisan.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Occupation_Artisan = $(data);
-		}
-	);
-
-	//Get GivenNames_Occupation_Assassin Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Occupation_Assassin.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Occupation_Assassin = $(data);
-		}
-	);
-
-	//Get GivenNames_Occupation_Bandit Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Occupation_Bandit.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Occupation_Bandit = $(data);
-		}
-	);
-
-	//Get GivenNames_Occupation_Beggar Data
-	$.get(
-		"{{ 'JSONs/GivenNames_Occupation_Beggar.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			GivenNames_Occupation_Beggar = $(data);
+			GivenNameCreate();
 		}
 	);
 });
