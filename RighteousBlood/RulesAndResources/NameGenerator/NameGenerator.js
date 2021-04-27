@@ -13,6 +13,7 @@ var GivenNames_Thematic_Dramatic;
 var GivenNames_Thematic_BeautifulAttractive;
 var GivenNames_Thematic_Masculine;
 var GivenNames_Thematic_Feminine;
+var GivenNames_Thematic_GenderNeutral;
 
 var GivenNames_Occupation_Artisan;
 var GivenNames_Occupation_Assassin;
@@ -53,6 +54,8 @@ function GenerateName() {
 		? GivenNames_Thematic_Masculine
 		: ($("#GivenNameType option:selected").val() == "thematic_feminine")
 		? GivenNames_Thematic_Feminine
+		: ($("#GivenNameType option:selected").val() == "thematic_genderNeutral")
+		? GivenNames_Thematic_GenderNeutral
 		: ($("#GivenNameType option:selected").val() == "occupation_artisan")
 		? GivenNames_Occupation_Artisan
 		: ($("#GivenNameType option:selected").val() == "occupation_assassin")
@@ -118,6 +121,7 @@ function GivenNameCategoryChange() {
 			+ '<option value="thematic_beautifulAttractive">Beautiful/Attractive</option>'
 			+ '<option value="thematic_masculine">Masculine</option>'
 			+ '<option value="thematic_feminine">Feminine</option>'
+			+ '<option value="thematic_genderNeutral">Gender-Neutral</option>'
 		);
 	} else if ($("#GivenNameCategory option:selected").val() == "occupation") {
 		$("#GivenNameType").html(
