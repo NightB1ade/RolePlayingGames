@@ -1,26 +1,26 @@
 {
-	"title":"Surnames"
-	,"type":"array"
-	,"uniqueItems":"true"
-	,"items": {
-		"type":"object"
-		,"title":"Type"
-		,"required":[
+	"title": "Surnames"
+	, "type": "array"
+	, "uniqueItems": "true"
+	, "items": {
+		"type": "object"
+		, "title": "Type"
+		, "required": [
 			"title"
 		]
-		,"properties":{
-			"title":{
-				"type":"string"
-				,"minLength":1
+		, "properties": {
+			"title": {
+				"type": "string"
+				, "minLength": 1
 			}
-			,"explanation":{
-				"type":"string"
+			, "explanation": {
+				"type": "string"
 			}
-			,"surnames":{
-				"type":"array"
-				,"title":"Surname"
-				,"uniqueItems":"true"
-				,"items":{
+			, "surnames": {
+				"type": "array"
+				, "title": "Surname"
+				, "uniqueItems": "true"
+				, "items": {
 					"type": "object"
 					, "title": "Surname"
 					, "required": [
