@@ -18,6 +18,7 @@ var GivenNames_Thematic_GenderNeutral;
 var GivenNames_Occupation_Artisan;
 var GivenNames_Occupation_Assassin;
 var GivenNames_Occupation_Bandit;
+var GivenNames_Occupation_Beggar;
 
 function GenerateName() {
 	var GenerateNumber = $("#GenerateNumber").spinner("value");
@@ -63,6 +64,8 @@ function GenerateName() {
 		? GivenNames_Occupation_Assassin
 		: ($("#GivenNameType option:selected").val() == "occupation_bandit")
 		? GivenNames_Occupation_Bandit
+		: ($("#GivenNameType option:selected").val() == "occupation_beggar")
+		? GivenNames_Occupation_Beggar
 		: "";
 
 	for (i=0 ; i < GenerateNumber ; i++) {
@@ -131,6 +134,7 @@ function GivenNameCategoryChange() {
 			'<option value="occupation_artisan" selected>Artisan</option>'
 			+ '<option value="occupation_assassin">Assassin</option>'
 			+ '<option value="occupation_bandit">Bandit</option>'
+			+ '<option value="occupation_beggar">Beggar</option>'
 		);
 	}
 

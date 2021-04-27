@@ -215,5 +215,13 @@ $(document).ready(function() {
 			GivenNames_Occupation_Bandit = $(data);
 		}
 	);
+
+	//Get GivenNames_Occupation_Beggar Data
+	$.get(
+		"{{ 'JSONs/GivenNames_Occupation_Beggar.json?v=' | append: site.github.build_revision }}"
+		,function(data){
+			GivenNames_Occupation_Beggar = $(data);
+		}
+	);
 });
 </script>
