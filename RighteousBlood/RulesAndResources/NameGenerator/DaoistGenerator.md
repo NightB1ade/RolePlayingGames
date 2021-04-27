@@ -37,7 +37,7 @@ title: Daoist Priest/Nun Generator
 $(document).ready(function() {
 	//Get Titles_Daoist Data
 	$.get(
-		"{{ 'Titles_Daoist.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Titles_Daoist.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Titles_Daoist = $(data);
 		}
@@ -45,7 +45,7 @@ $(document).ready(function() {
 
 	//Get Nicknames_Daoist Data
 	$.get(
-		"{{ 'Nicknames_Daoist.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Nicknames_Daoist.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Nicknames_Daoist = $(data);
 		}

@@ -68,7 +68,7 @@ title: Name Generator
 $(document).ready(function() {
 	//Get Surnames_Common Data
 	$.get(
-		"{{ 'Surnames_Common.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Surnames_Common.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Surnames_Common = $(data);
 		}
@@ -76,7 +76,7 @@ $(document).ready(function() {
 
 	//Get Surnames_Rare Data
 	$.get(
-		"{{ 'Surnames_Rare.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Surnames_Rare.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Surnames_Rare = $(data);
 		}
@@ -84,7 +84,7 @@ $(document).ready(function() {
 
 	//Get Surnames_Compound Data
 	$.get(
-		"{{ 'Surnames_Compound.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Surnames_Compound.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Surnames_Compound = $(data);
 		}
@@ -92,7 +92,7 @@ $(document).ready(function() {
 
 	//Get Surnames_Dark Data
 	$.get(
-		"{{ 'Surnames_Dark.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Surnames_Dark.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Surnames_Dark = $(data);
 		}
@@ -100,7 +100,7 @@ $(document).ready(function() {
 
 	//Get Surnames_Dramatic Data
 	$.get(
-		"{{ 'Surnames_Dramatic.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Surnames_Dramatic.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Surnames_Dramatic = $(data);
 		}
@@ -108,7 +108,7 @@ $(document).ready(function() {
 
 	//Get Surnames_Profound Data
 	$.get(
-		"{{ 'Surnames_Profound.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Surnames_Profound.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			Surnames_Profound = $(data);
 		}
@@ -119,7 +119,7 @@ $(document).ready(function() {
 
 	//Get GivenNames_Thematic_Common Data
 	$.get(
-		"{{ 'GivenNames_Thematic_Common.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/GivenNames_Thematic_Common.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			GivenNames_Thematic_Common = $(data);
 		}
@@ -127,7 +127,7 @@ $(document).ready(function() {
 
 	//Get GivenNames_Thematic_Uncommon Data
 	$.get(
-		"{{ 'GivenNames_Thematic_Uncommon.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/GivenNames_Thematic_Uncommon.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			GivenNames_Thematic_Uncommon = $(data);
 		}
@@ -138,7 +138,7 @@ $(document).ready(function() {
 
 	//Get GivenNames_Occupation_Artisan Data
 	$.get(
-		"{{ 'GivenNames_Occupation_Artisan.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/GivenNames_Occupation_Artisan.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			GivenNames_Occupation_Artisan = $(data);
 		}
@@ -146,7 +146,7 @@ $(document).ready(function() {
 
 	//Get GivenNames_Occupation_Assassin Data
 	$.get(
-		"{{ 'GivenNames_Occupation_Assassin.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/GivenNames_Occupation_Assassin.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			GivenNames_Occupation_Assassin = $(data);
 		}
