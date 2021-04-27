@@ -1,0 +1,652 @@
+[{
+		"title": "Common"
+		, "explanation": "This list contains some of the most common surnames.  Throughout history, commoners and famous people alike have born these names, which in some way makes them anonymous, similar to common English surnames such as Smith or Jones."
+		, "surnames": [{
+				"traditional": "王"
+				, "simplified": "王"
+				, "englishMandarin": "Wang"
+				, "englishCantonese": "Wong"
+				, "pinyin": "wáng"
+				, "jyutping": "wong4"
+				, "meaning": "King"
+			}
+			, {
+				"traditional": "李"
+				, "simplified": "李"
+				, "englishMandarin": "Li"
+				, "englishCantonese": ""
+				, "pinyin": "Lǐ"
+				, "jyutping": "lei5"
+				, "meaning": "Plum"
+			}
+			, {
+				"traditional": "張"
+				, "simplified": "张"
+				, "englishMandarin": "Zhang"
+				, "englishCantonese": ""
+				, "pinyin": "zhāng"
+				, "jyutping": "zoeng1"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "劉"
+				, "simplified": "刘"
+				, "englishMandarin": "Liu"
+				, "englishCantonese": "Lau"
+				, "pinyin": "liú"
+				, "jyutping": "lau4"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "陳"
+				, "simplified": "陈"
+				, "englishMandarin": "Chen"
+				, "englishCantonese": ""
+				, "pinyin": "chén"
+				, "jyutping": "can4"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "楊"
+				, "simplified": "杨"
+				, "englishMandarin": "Yang"
+				, "englishCantonese": ""
+				, "pinyin": "yáng"
+				, "jyutping": "joeng4"
+				, "meaning": "Poplar tree"
+			}
+			, {
+				"traditional": "黃"
+				, "simplified": "黄"
+				, "englishMandarin": "Huang"
+				, "englishCantonese": "Wong"
+				, "pinyin": "huáng"
+				, "jyutping": "wong4"
+				, "meaning": "Yellow"
+			}
+			, {
+				"traditional": "趙"
+				, "simplified": "赵"
+				, "englishMandarin": "Zhao"
+				, "englishCantonese": ""
+				, "pinyin": "zhào"
+				, "jyutping": "ziu6"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "吳"
+				, "simplified": "吴"
+				, "englishMandarin": "Wu"
+				, "englishCantonese": "Ng"
+				, "pinyin": "wú"
+				, "jyutping": "ng4"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "徐"
+				, "simplified": "徐"
+				, "englishMandarin": "Xu"
+				, "englishCantonese": ""
+				, "pinyin": "xú"
+				, "jyutping": "ceoi4"
+				, "meaning": "Slow, gentle"
+			}
+			, {
+				"traditional": "孫"
+				, "simplified": "孙"
+				, "englishMandarin": "Sun"
+				, "englishCantonese": ""
+				, "pinyin": "sūn"
+				, "jyutping": "syun1"
+				, "meaning": "Grandson, descendant"
+			}
+			, {
+				"traditional": "馬"
+				, "simplified": "马"
+				, "englishMandarin": "Ma"
+				, "englishCantonese": ""
+				, "pinyin": "mǎ"
+				, "jyutping": "maa5"
+				, "meaning": "Horse"
+			}
+			, {
+				"traditional": "朱"
+				, "simplified": "朱"
+				, "englishMandarin": "Zhu"
+				, "englishCantonese": ""
+				, "pinyin": "zhū"
+				, "jyutping": "zyu1"
+				, "meaning": "Crimson, vermillion"
+			}
+			, {
+				"traditional": "胡"
+				, "simplified": "胡"
+				, "englishMandarin": "Hu"
+				, "englishCantonese": "Wu"
+				, "pinyin": "hú"
+				, "jyutping": "wu4"
+				, "meaning": "Beard, whiskers, moustache, non-Chinese"
+			}
+			, {
+				"traditional": "郭"
+				, "simplified": "郭"
+				, "englishMandarin": "Guo"
+				, "englishCantonese": "Gwok"
+				, "pinyin": "guō"
+				, "jyutping": "gwok3"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "何"
+				, "simplified": "何"
+				, "englishMandarin": "He"
+				, "englishCantonese": "Ho"
+				, "pinyin": "hé"
+				, "jyutping": "ho4"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "林"
+				, "simplified": "林"
+				, "englishMandarin": "Lin"
+				, "englishCantonese": "Lam"
+				, "pinyin": "lín"
+				, "jyutping": "lam4"
+				, "meaning": "Forest"
+			}
+			, {
+				"traditional": "高"
+				, "simplified": "高"
+				, "englishMandarin": "Gao"
+				, "englishCantonese": "Gou"
+				, "pinyin": "gāo"
+				, "jyutping": "gou1"
+				, "meaning": "High, tall, above average"
+			}
+			, {
+				"traditional": "羅"
+				, "simplified": "罗"
+				, "englishMandarin": "Luo"
+				, "englishCantonese": ""
+				, "pinyin": "luó"
+				, "jyutping": "lo4"
+				, "meaning": "Net, sieve, to collect"
+			}
+		]
+	}
+	, {
+		"title": "Rare"
+		, "explanation": "This list contains rare surnames, most of which are seen in less than 1% of the population in modern times.  Some were more common in ancient times.  These names are not necessarily extremely rare, but are uncommon enough that they would likely stick out in the minds of people who heard them."
+		, "surnames": [{
+				"traditional": "容"
+				, "simplified": "容"
+				, "englishMandarin": "Rong"
+				, "englishCantonese": ""
+				, "pinyin": "róng"
+				, "jyutping": "jung4"
+				, "meaning": "Countenance"
+			}
+			, {
+				"traditional": "遲"
+				, "simplified": "迟"
+				, "englishMandarin": "Chi"
+				, "englishCantonese": ""
+				, "pinyin": "chí"
+				, "jyutping": "ci4"
+				, "meaning": "Slow"
+			}
+			, {
+				"traditional": "顏"
+				, "simplified": "颜"
+				, "englishMandarin": "Yan"
+				, "englishCantonese": ""
+				, "pinyin": "yán"
+				, "jyutping": "ngaan4"
+				, "meaning": "Colour, face"
+			}
+			, {
+				"traditional": "花"
+				, "simplified": "花"
+				, "englishMandarin": "Hua"
+				, "englishCantonese": ""
+				, "pinyin": "huā"
+				, "jyutping": "faa1"
+				, "meaning": "Flower, blossom"
+			}
+			, {
+				"traditional": "虞"
+				, "simplified": "虞"
+				, "englishMandarin": "Yu"
+				, "englishCantonese": ""
+				, "pinyin": "yú"
+				, "jyutping": "jyu4"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "茶"
+				, "simplified": "茶"
+				, "englishMandarin": "Cha"
+				, "englishCantonese": ""
+				, "pinyin": "chá"
+				, "jyutping": "caa4"
+				, "meaning": "Tea"
+			}
+			, {
+				"traditional": "鹽"
+				, "simplified": "盐"
+				, "englishMandarin": "Yan"
+				, "englishCantonese": ""
+				, "pinyin": "yán"
+				, "jyutping": "jim4"
+				, "meaning": "Salt"
+			}
+			, {
+				"traditional": "殷"
+				, "simplified": "殷"
+				, "englishMandarin": "Yin"
+				, "englishCantonese": ""
+				, "pinyin": "yīn"
+				, "jyutping": "jan1"
+				, "meaning": "Flourishing"
+			}
+			, {
+				"traditional": "楚"
+				, "simplified": "楚"
+				, "englishMandarin": "Chu"
+				, "englishCantonese": ""
+				, "pinyin": "chǔ"
+				, "jyutping": "co2"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "羋"
+				, "simplified": "芈"
+				, "englishMandarin": "Mi"
+				, "englishCantonese": ""
+				, "pinyin": "mǐ"
+				, "jyutping": "me1"
+				, "meaning": "Surname"
+			}
+		]
+	}
+	, {
+		"title": "Compound"
+		, "explanation": "In ancient times it was more common to see surnames with two characters.  Many were associated with specific regions or groups.  These are some of the most common of those ancient compound surnames.  If historical accuracy is important to you, you might want to do some research into the specific compound name you plan to use, as it could be relevant to your character’s backstory."
+		, "surnames": [{
+				"traditional": "東方"
+				, "simplified": "东方"
+				, "englishMandarin": "Dongfang"
+				, "englishCantonese": ""
+				, "pinyin": "dōngfāng"
+				, "jyutping": "dung1 fong1"
+				, "meaning": "East"
+			}
+			, {
+				"traditional": "獨孤"
+				, "simplified": "独孤"
+				, "englishMandarin": "Dugu"
+				, "englishCantonese": ""
+				, "pinyin": "dúgū"
+				, "jyutping": "duk6 gu1"
+				, "meaning": "Surname of Xianbei origin"
+			}
+			, {
+				"traditional": "公孫"
+				, "simplified": "公孙"
+				, "englishMandarin": "Gongsun"
+				, "englishCantonese": ""
+				, "pinyin": "gōngsūn"
+				, "jyutping": "gung1 syun1"
+				, "meaning": "Descendants of dukes"
+			}
+			, {
+				"traditional": "皇甫"
+				, "simplified": "皇甫"
+				, "englishMandarin": "Huangfu"
+				, "englishCantonese": ""
+				, "pinyin": "huángfǔ"
+				, "jyutping": "wong4 fu2"
+				, "meaning": "A royal surname"
+			}
+			, {
+				"traditional": "慕容"
+				, "simplified": "慕容"
+				, "englishMandarin": "Murong"
+				, "englishCantonese": ""
+				, "pinyin": "mùróng"
+				, "jyutping": "mou6 jung4"
+				, "meaning": "Surname of Xianbei origin"
+			}
+			, {
+				"traditional": "歐陽"
+				, "simplified": "欧阳"
+				, "englishMandarin": "Ouyang"
+				, "englishCantonese": ""
+				, "pinyin": "ōuyáng"
+				, "jyutping": "au1 joeng4"
+				, "meaning": "South of Mount Ou"
+			}
+			, {
+				"traditional": "上官"
+				, "simplified": "上官"
+				, "englishMandarin": "Shangguan"
+				, "englishCantonese": ""
+				, "pinyin": "shàngguān"
+				, "jyutping": "soeng6 gun1"
+				, "meaning": "High Official"
+			}
+			, {
+				"traditional": "司徒"
+				, "simplified": "司徒"
+				, "englishMandarin": "Situ"
+				, "englishCantonese": ""
+				, "pinyin": "sītú"
+				, "jyutping": "si1 tou4"
+				, "meaning": "Minister over the masses"
+			}
+			, {
+				"traditional": "宇文"
+				, "simplified": "宇文"
+				, "englishMandarin": "Yuwen"
+				, "englishCantonese": ""
+				, "pinyin": "yǔwén"
+				, "jyutping": "jyu5 man4"
+				, "meaning": "Surname"
+			}
+			, {
+				"traditional": "諸葛"
+				, "simplified": "诸葛"
+				, "englishMandarin": "Zhuge"
+				, "englishCantonese": ""
+				, "pinyin": "zhūgé"
+				, "jyutping": "zyu1 got3"
+				, "meaning": "Surname for a branch of the Ge"
+			}
+		]
+	}
+	, {
+		"title": "Dark"
+		, "explanation": "These are real surnames, but they have a somewhat sinister feeling, especially when combined with the right given name.  They might sound evil, dangerous, violent, or somewhat frightening.  Although real, they are not necessarily very common, especially in modern times.  They are best paired with the Dark given names below, although that is not a hard and fast rule."
+		, "surnames": [{
+				"traditional": "屠"
+				, "simplified": "屠"
+				, "englishMandarin": "Tu"
+				, "englishCantonese": ""
+				, "pinyin": "tú"
+				, "jyutping": "tou4"
+				, "meaning": "Slaughter"
+			}
+			, {
+				"traditional": "黑"
+				, "simplified": "黑"
+				, "englishMandarin": "Hei"
+				, "englishCantonese": ""
+				, "pinyin": "hēi"
+				, "jyutping": "hak1"
+				, "meaning": "Black, dark"
+			}
+			, {
+				"traditional": "毒"
+				, "simplified": "毒"
+				, "englishMandarin": "Du"
+				, "englishCantonese": ""
+				, "pinyin": "dú"
+				, "jyutping": "duk6"
+				, "meaning": "Poison, toxin"
+			}
+			, {
+				"traditional": "屍"
+				, "simplified": "尸"
+				, "englishMandarin": "Shi"
+				, "englishCantonese": ""
+				, "pinyin": "shī"
+				, "jyutping": "si1"
+				, "meaning": "Corpse"
+			}
+			, {
+				"traditional": "血"
+				, "simplified": "血"
+				, "englishMandarin": "Xue"
+				, "englishCantonese": ""
+				, "pinyin": "xuè"
+				, "jyutping": "hyut3"
+				, "meaning": "Blood"
+			}
+			, {
+				"traditional": "刁"
+				, "simplified": "刁"
+				, "englishMandarin": "Diao"
+				, "englishCantonese": ""
+				, "pinyin": "diāo"
+				, "jyutping": "diu1"
+				, "meaning": "Tricky, artful, sly, wicked"
+			}
+			, {
+				"traditional": "刀"
+				, "simplified": "刀"
+				, "englishMandarin": "Dao"
+				, "englishCantonese": ""
+				, "pinyin": "dāo"
+				, "jyutping": "dou1"
+				, "meaning": "Blade, saber, knife"
+			}
+			, {
+				"traditional": "堵"
+				, "simplified": "堵"
+				, "englishMandarin": "Du"
+				, "englishCantonese": ""
+				, "pinyin": "dǔ"
+				, "jyutping": "dou2"
+				, "meaning": "Stifled, suffocated, oppressed"
+			}
+			, {
+				"traditional": "暴"
+				, "simplified": "暴"
+				, "englishMandarin": "Bao"
+				, "englishCantonese": ""
+				, "pinyin": "bào"
+				, "jyutping": "bou6"
+				, "meaning": "Violent, cruel, savage, fierce"
+			}
+			, {
+				"traditional": "陰"
+				, "simplified": "阴"
+				, "englishMandarin": "Yin"
+				, "englishCantonese": ""
+				, "pinyin": "yīn"
+				, "jyutping": "jam1"
+				, "meaning": "Shady, hidden, sinister (from Yin and Yang)"
+			}
+		]
+	}
+	, {
+		"title": "Dramatic"
+		, "explanation": "These are surnames which sound emotional, melancholic, or dramatic in some way.  They are all valid surnames with historical examples, although some might not be particularly common.  They are best paired with the Dramatic given names below, although that is not a hard and fast rule."
+		, "surnames": [{
+				"traditional": "蕭"
+				, "simplified": "萧"
+				, "englishMandarin": "Xiao"
+				, "englishCantonese": ""
+				, "pinyin": "xiāo"
+				, "jyutping": "siu1"
+				, "meaning": "Bleak, dreary, desolate"
+			}
+			, {
+				"traditional": "悲"
+				, "simplified": "悲"
+				, "englishMandarin": "Bei"
+				, "englishCantonese": ""
+				, "pinyin": "bēi"
+				, "jyutping": "bei1"
+				, "meaning": "Sorrow, grief"
+			}
+			, {
+				"traditional": "枯"
+				, "simplified": "枯"
+				, "englishMandarin": "Ku"
+				, "englishCantonese": ""
+				, "pinyin": "kū"
+				, "jyutping": "fu1"
+				, "meaning": "Withered, emaciated, dried up"
+			}
+			, {
+				"traditional": "優"
+				, "simplified": "优"
+				, "englishMandarin": "You"
+				, "englishCantonese": ""
+				, "pinyin": "yōu"
+				, "jyutping": "jau1"
+				, "meaning": "Anxious, mournful, sorrow"
+			}
+			, {
+				"traditional": "火"
+				, "simplified": "火"
+				, "englishMandarin": "Huo"
+				, "englishCantonese": ""
+				, "pinyin": "huǒ"
+				, "jyutping": "fo2"
+				, "meaning": "Fire, anger"
+			}
+			, {
+				"traditional": "愛"
+				, "simplified": "愛"
+				, "englishMandarin": "Ai"
+				, "englishCantonese": ""
+				, "pinyin": "ài"
+				, "jyutping": "oi3"
+				, "meaning": "Love"
+			}
+			, {
+				"traditional": "空"
+				, "simplified": "空"
+				, "englishMandarin": "Kong"
+				, "englishCantonese": ""
+				, "pinyin": "kōng"
+				, "jyutping": "hung1"
+				, "meaning": "Empty, void"
+			}
+			, {
+				"traditional": "歸"
+				, "simplified": "归"
+				, "englishMandarin": "Gui"
+				, "englishCantonese": ""
+				, "pinyin": "guī"
+				, "jyutping": "gwai1"
+				, "meaning": "Return, go back to"
+			}
+			, {
+				"traditional": "雙"
+				, "simplified": "双"
+				, "englishMandarin": "Shuang"
+				, "englishCantonese": ""
+				, "pinyin": "shuāng"
+				, "jyutping": "soeng1"
+				, "meaning": "Double, twofold, twin"
+			}
+			, {
+				"traditional": "機"
+				, "simplified": "机"
+				, "englishMandarin": "Ji"
+				, "englishCantonese": ""
+				, "pinyin": "jī"
+				, "jyutping": "gei1"
+				, "meaning": "Machine, opportunity, quick-witted"
+			}
+		]
+	}
+	, {
+		"title": "Profound"
+		, "explanation": "These are surnames which either sound inherently mysterious and profound, or are related to profound aspects of Chinese culture, philosophy, and religion.  Many of these characters appear in common words, but at the same time, can be combined with other characters to form deep and complex concepts.  Most are difficult to fully describe in only a few words, so the definitions provided are basic simplifications.  If you want to have a deeper understanding of the meaning of these characters, we recommend doing further research into the specific character you pick."
+		, "surnames": [{
+				"traditional": "玄"
+				, "simplified": "玄"
+				, "englishMandarin": "Xuan"
+				, "englishCantonese": ""
+				, "pinyin": "xuán"
+				, "jyutping": "jyun4"
+				, "meaning": "Black, dark, profound, mysterious"
+			}
+			, {
+				"traditional": "乾"
+				, "simplified": "乾"
+				, "englishMandarin": "Qian"
+				, "englishCantonese": ""
+				, "pinyin": "gān"
+				, "jyutping": "gon1"
+				, "meaning": "Heaven, male, Yang-related, one of the eight trigrams"
+			}
+			, {
+				"traditional": "坤"
+				, "simplified": "坤"
+				, "englishMandarin": "Kun"
+				, "englishCantonese": ""
+				, "pinyin": "kūn"
+				, "jyutping": "kwan1"
+				, "meaning": "Earth, feminine, female, Yin-related, one of the eight trigrams"
+			}
+			, {
+				"traditional": "陰"
+				, "simplified": "阴"
+				, "englishMandarin": "Yin"
+				, "englishCantonese": ""
+				, "pinyin": "yīn"
+				, "jyutping": "jam1"
+				, "meaning": "Shady, hidden, sinister (from Yin and Yang)"
+			}
+			, {
+				"traditional": "陽"
+				, "simplified": "阳"
+				, "englishMandarin": "Yang"
+				, "englishCantonese": ""
+				, "pinyin": "yáng"
+				, "jyutping": "joeng4"
+				, "meaning": "Positive, sun, hot, masculine (from Yin and Yang)"
+			}
+			, {
+				"traditional": "宇"
+				, "simplified": "宇"
+				, "englishMandarin": "Yu"
+				, "englishCantonese": ""
+				, "pinyin": "yǔ"
+				, "jyutping": "jyu5"
+				, "meaning": "Universe, cosmos, space"
+			}
+			, {
+				"traditional": "宙"
+				, "simplified": "宙"
+				, "englishMandarin": "Zhou"
+				, "englishCantonese": ""
+				, "pinyin": "zhòu"
+				, "jyutping": "zau6"
+				, "meaning": "Time, eternity, aeon"
+			}
+			, {
+				"traditional": "易"
+				, "simplified": "易"
+				, "englishMandarin": "Yi"
+				, "englishCantonese": ""
+				, "pinyin": "yì"
+				, "jyutping": "ji6"
+				, "meaning": "Change, transform, metamorphose"
+			}
+			, {
+				"traditional": "龍"
+				, "simplified": "龙"
+				, "englishMandarin": "Long"
+				, "englishCantonese": ""
+				, "pinyin": "lóng"
+				, "jyutping": "lung4"
+				, "meaning": "Dragon"
+			}
+			, {
+				"traditional": "桓"
+				, "simplified": "桓"
+				, "englishMandarin": "Huan"
+				, "englishCantonese": ""
+				, "pinyin": "huán"
+				, "jyutping": "wun4"
+				, "meaning": "Post, pillar, martial and mighty"
+			}
+		]
+	}
+]

@@ -1,46 +1,66 @@
 {
-	"title": "Surnames"
-	, "type": "array"
-	, "format": "table"
-	, "uniqueItems": "true"
-	, "items": {
-		"type": "object"
-		, "title": "Surname"
-		, "required": [
-			"traditional"
-			, "simplified"
-			, "englishMandarin"
-			, "pinyin"
-			, "jyutping"
-			, "meaning"
+	"title":"Surnames"
+	,"type":"array"
+	,"uniqueItems":"true"
+	,"items": {
+		"type":"object"
+		,"title":"Type"
+		,"required":[
+			"title"
 		]
-		, "properties": {
-			"traditional": {
-				"type": "string"
-				, "minLength": 1
+		,"properties":{
+			"title":{
+				"type":"string"
+				,"minLength":1
 			}
-			, "simplified": {
-				"type": "string"
-				, "minLength": 1
+			,"explanation":{
+				"type":"string"
 			}
-			, "englishMandarin": {
-				"type": "string"
-				, "minLength": 1
-			}
-			, "englishCantonese": {
-				"type": "string"
-			}
-			, "pinyin": {
-				"type": "string"
-				, "minLength": 1
-			}
-			, "jyutping": {
-				"type": "string"
-				, "minLength": 1
-			}
-			, "meaning": {
-				"type": "string"
-				, "minLength": 1
+			,"surnames":{
+				"type":"array"
+				,"title":"Surname"
+				,"uniqueItems":"true"
+				,"items":{
+					"type": "object"
+					, "title": "Surname"
+					, "required": [
+						"traditional"
+						, "simplified"
+						, "englishMandarin"
+						, "pinyin"
+						, "jyutping"
+						, "meaning"
+					]
+					, "properties": {
+						"traditional": {
+							"type": "string"
+							, "minLength": 1
+						}
+						, "simplified": {
+							"type": "string"
+							, "minLength": 1
+						}
+						, "englishMandarin": {
+							"type": "string"
+							, "minLength": 1
+						}
+						, "englishCantonese": {
+							"type": "string"
+						}
+						, "pinyin": {
+							"type": "string"
+							, "minLength": 1
+						}
+						, "jyutping": {
+							"type": "string"
+							, "minLength": 1
+						}
+						, "meaning": {
+							"type": "string"
+							, "minLength": 1
+						}
+					}
+				}
 			}
 		}
 	}

@@ -1,9 +1,4 @@
-var Surnames_Common;
-var Surnames_Rare;
-var Surnames_Compound;
-var Surnames_Dark;
-var Surnames_Dramatic;
-var Surnames_Profound;
+var SurnamesFullList;
 
 var GivenNames_Thematic_Common;
 var GivenNames_Thematic_Uncommon;
@@ -24,20 +19,7 @@ function GenerateName() {
 	var GenerateNumber = $("#GenerateNumber").spinner("value");
 	var GenerateHTML = "";
 
-	var Surnames
-		= ($("#SurnameType option:selected").val() == "common")
-		? Surnames_Common
-		: ($("#SurnameType option:selected").val() == "rare")
-		? Surnames_Rare
-		: ($("#SurnameType option:selected").val() == "compound")
-		? Surnames_Compound
-		: ($("#SurnameType option:selected").val() == "dark")
-		? Surnames_Dark
-		: ($("#SurnameType option:selected").val() == "dramatic")
-		? Surnames_Dramatic
-		: ($("#SurnameType option:selected").val() == "profound")
-		? Surnames_Profound
-		: "";
+	var Surnames = SurnamesFullList[$("#SurnameType option:selected").val()].surnames;
 
 	var GivenNames
 		= ($("#GivenNameType option:selected").val() == "thematic_common")
@@ -152,10 +134,36 @@ function SelectMenuChange() {
 
 
 
+function SurnameTypeChange() {
+	$("#SurnameTypeExplanation").html(SurnamesFullList[$("#SurnameType option:selected").val()].explanation);
+	ClearResults();
+}
+
+
+
+
+function SurnameTypeCreate() {
+	var SurnameHTML = "";
+
+	SurnamesFullList.forEach((item, i) => {
+		SurnameHTML = SurnameHTML
+			+ '<option value="' + i + '">' + item.title + '</option>';
+	});
+
+	$("#SurnameType").html(SurnameHTML).selectmenu("refresh");
+	SurnameTypeChange();
+}
+
+
+
+
 $(document).ready(function() {
 	$("select").selectmenu({
 		change: SelectMenuChange
 	});
+	$("#SurnameType").selectmenu({
+		change: SurnameTypeChange
+	})
 	$("#GivenNameCategory").selectmenu({
 		change: GivenNameCategoryChange
 	});

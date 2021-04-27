@@ -11,14 +11,10 @@ title: Name Generator
 		<td>Surname</td>
 		<td>
 			<select name="SurnameType" id="SurnameType">
-				<option value="common" selected>Common</option>
-				<option value="rare">Rare</option>
-				<option value="compound">Compound</option>
-				<option value="dark">Dark</option>
-				<option value="dramatic">Dramatic</option>
-				<option value="profound">Profound</option>
+				<option>Loading…</option>
 			</select>
 		</td>
+		<td id="SurnameTypeExplanation"></td>
 	</tr>
 	<tr>
 		<td>Given Name Category</td>
@@ -66,51 +62,13 @@ title: Name Generator
 
 <script>
 $(document).ready(function() {
-	//Get Surnames_Common Data
+	//Get Surnames Data
 	$.get(
-		"{{ 'JSONs/Surnames_Common.json?v=' | append: site.github.build_revision }}"
+		"{{ 'JSONs/Surnames.json?v=' | append: site.github.build_revision }}"
 		,function(data){
-			Surnames_Common = $(data);
-		}
-	);
+			SurnamesFullList = $(data).toArray();
 
-	//Get Surnames_Rare Data
-	$.get(
-		"{{ 'JSONs/Surnames_Rare.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			Surnames_Rare = $(data);
-		}
-	);
-
-	//Get Surnames_Compound Data
-	$.get(
-		"{{ 'JSONs/Surnames_Compound.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			Surnames_Compound = $(data);
-		}
-	);
-
-	//Get Surnames_Dark Data
-	$.get(
-		"{{ 'JSONs/Surnames_Dark.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			Surnames_Dark = $(data);
-		}
-	);
-
-	//Get Surnames_Dramatic Data
-	$.get(
-		"{{ 'JSONs/Surnames_Dramatic.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			Surnames_Dramatic = $(data);
-		}
-	);
-
-	//Get Surnames_Profound Data
-	$.get(
-		"{{ 'JSONs/Surnames_Profound.json?v=' | append: site.github.build_revision }}"
-		,function(data){
-			Surnames_Profound = $(data);
+			SurnameTypeCreate();
 		}
 	);
 
