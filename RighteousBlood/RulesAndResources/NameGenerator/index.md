@@ -40,7 +40,7 @@ title: Name Generator
 		<td>Number</td>
 		<td><input class="spinner" id="GenerateNumber" min="1" max="50" value="5"></td>
 	</tr>
-	<tr><td colspan="2"><button onclick="GenerateName()">Generate</button></td></tr>
+	<tr><td></td><td><button onclick="GenerateName()">Generate</button></td></tr>
 </table>
 
 # Results
