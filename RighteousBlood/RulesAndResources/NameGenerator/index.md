@@ -165,6 +165,14 @@ $(document).ready(function() {
 		}
 	);
 
+	//Get GivenNames_Thematic_Masculine Data
+	$.get(
+		"{{ 'JSONs/GivenNames_Thematic_Masculine.json?v=' | append: site.github.build_revision }}"
+		,function(data){
+			GivenNames_Thematic_Masculine = $(data);
+		}
+	);
+
 
 
 
