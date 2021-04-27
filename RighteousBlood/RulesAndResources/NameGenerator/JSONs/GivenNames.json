@@ -2963,6 +2963,241 @@
 					}
 				]
 			}
+			, {
+				"title": "Constable"
+				, "explanation": "For the most part, these are names for ordinary people, but emphasize justice and righteousness, qualities that upstanding constables would espouse."
+				, "givenNames": [{
+						"traditional": "展堂"
+						, "simplified": "展堂"
+						, "gender": "M"
+						, "pinyin": "zhǎn táng"
+						, "jyutping": "zin2 tong4"
+						, "romanisation": [{
+								"englishMandarin": "Zhantang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Zhan"
+								, "englishCantonese": ""
+								, "meaning": "Zhan: Open up, exhibit"
+							}
+							, {
+								"englishMandarin": "Tang"
+								, "englishCantonese": ""
+								, "meaning": "Tang: Hall, court, yamen hall"
+							}
+						]
+					}
+					, {
+						"traditional": "雲翔"
+						, "simplified": "云翔"
+						, "gender": "M"
+						, "pinyin": "yún xiáng"
+						, "jyutping": "wan4 coeng4"
+						, "romanisation": [{
+								"englishMandarin": "Yunxiang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yun"
+								, "englishCantonese": ""
+								, "meaning": "Yun: Cloud"
+							}
+							, {
+								"englishMandarin": "Xiang"
+								, "englishCantonese": ""
+								, "meaning": "Xiang: Soar, glide"
+							}
+						]
+					}
+					, {
+						"traditional": "俊傑"
+						, "simplified": "俊杰"
+						, "gender": "M"
+						, "pinyin": "jùnjié"
+						, "jyutping": "zoen3 git6"
+						, "romanisation": [{
+								"englishMandarin": "Junjie"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jun"
+								, "englishCantonese": ""
+								, "meaning": "Yun: Cloud"
+							}
+							, {
+								"englishMandarin": "Jie"
+								, "englishCantonese": ""
+								, "meaning": "Xiang: Soar, glide"
+							}
+						]
+					}
+					, {
+						"traditional": "小六"
+						, "simplified": "小六"
+						, "gender": "G"
+						, "pinyin": "xiǎo liù"
+						, "jyutping": "xiu2 luk6"
+						, "romanisation": [{
+								"englishMandarin": "Xiaoliu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xiao"
+								, "englishCantonese": ""
+								, "meaning": "Xiao: Small, little"
+							}
+							, {
+								"englishMandarin": "Liu"
+								, "englishCantonese": ""
+								, "meaning": "Liu: Six, sixth"
+							}
+						]
+					}
+					, {
+						"traditional": "鴻祺"
+						, "simplified": "鸿祺"
+						, "gender": "G"
+						, "pinyin": "hóng qí"
+						, "jyutping": "hung4 kei4"
+						, "romanisation": [{
+								"englishMandarin": "Hongqi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Hong"
+								, "englishCantonese": ""
+								, "meaning": "Hong: Grand, great, goose"
+							}
+							, {
+								"englishMandarin": "Qi"
+								, "englishCantonese": ""
+								, "meaning": "Qi: Felicity, lucky"
+							}
+						]
+					}
+					, {
+						"traditional": "王華"
+						, "simplified": "王华"
+						, "gender": "G"
+						, "pinyin": "wáng huá"
+						, "jyutping": "wong4 waa4"
+						, "romanisation": [{
+								"englishMandarin": "Wanghua"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Wang"
+								, "englishCantonese": ""
+								, "meaning": "Wang: King, royal"
+							}
+							, {
+								"englishMandarin": "Hua"
+								, "englishCantonese": ""
+								, "meaning": "Hua: Splendid, beautiful, glorious, China"
+							}
+						]
+					}
+					, {
+						"traditional": "景平"
+						, "simplified": "景平"
+						, "gender": "G"
+						, "pinyin": "jǐng píng"
+						, "jyutping": "ging2 ping4"
+						, "romanisation": [{
+								"englishMandarin": "Jingping"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jing"
+								, "englishCantonese": ""
+								, "meaning": "Jing: Scenery, revere, admire"
+							}
+							, {
+								"englishMandarin": "Ping"
+								, "englishCantonese": ""
+								, "meaning": "Ping: Peace, calm"
+							}
+						]
+					}
+					, {
+						"traditional": "瑾方"
+						, "simplified": "瑾方"
+						, "gender": "F"
+						, "pinyin": "jǐn fāng"
+						, "jyutping": "gan2 fong1"
+						, "romanisation": [{
+								"englishMandarin": "Jinfang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jin"
+								, "englishCantonese": ""
+								, "meaning": "Jin: Brilliance"
+							}
+							, {
+								"englishMandarin": "Fang"
+								, "englishCantonese": ""
+								, "meaning": "Fang: Square, direction, way"
+							}
+						]
+					}
+					, {
+						"traditional": "紅綾"
+						, "simplified": "红绫"
+						, "gender": "F"
+						, "pinyin": "hóng líng"
+						, "jyutping": "hung4 ling4"
+						, "romanisation": [{
+								"englishMandarin": "Hongling"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Hong"
+								, "englishCantonese": ""
+								, "meaning": "Hong: Red, popular, revolutionary"
+							}
+							, {
+								"englishMandarin": "Ling"
+								, "englishCantonese": ""
+								, "meaning": "Ling: Damask, thin silk"
+							}
+						]
+					}
+					, {
+						"traditional": "明月"
+						, "simplified": "明月"
+						, "gender": "F"
+						, "pinyin": "míngyuè"
+						, "jyutping": "ming4 jyut6"
+						, "romanisation": [{
+								"englishMandarin": "Mingyue"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ming"
+								, "englishCantonese": ""
+								, "meaning": "Ming: Brightness, justice, bright, brilliant"
+							}
+							, {
+								"englishMandarin": "Yue"
+								, "englishCantonese": ""
+								, "meaning": "Yue: Moon"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
