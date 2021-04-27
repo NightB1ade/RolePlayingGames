@@ -149,6 +149,14 @@ $(document).ready(function() {
 		}
 	);
 
+	//Get GivenNames_Thematic_Dramatic Data
+	$.get(
+		"{{ 'JSONs/GivenNames_Thematic_Dramatic.json?v=' | append: site.github.build_revision }}"
+		,function(data){
+			GivenNames_Thematic_Dramatic = $(data);
+		}
+	);
+
 
 
 
