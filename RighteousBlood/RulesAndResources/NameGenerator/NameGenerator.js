@@ -8,6 +8,7 @@ var Surnames_Profound;
 var GivenNames_Thematic_Common;
 var GivenNames_Thematic_Uncommon;
 var GivenNames_Thematic_Dark;
+var GivenNames_Thematic_Righteous;
 
 var GivenNames_Occupation_Artisan;
 var GivenNames_Occupation_Assassin;
@@ -38,6 +39,8 @@ function GenerateName() {
 		? GivenNames_Thematic_Uncommon
 		: ($("#GivenNameType option:selected").val() == "thematic_dark")
 		? GivenNames_Thematic_Dark
+		: ($("#GivenNameType option:selected").val() == "thematic_righteous")
+		? GivenNames_Thematic_Righteous
 		: ($("#GivenNameType option:selected").val() == "occupation_artisan")
 		? GivenNames_Occupation_Artisan
 		: ($("#GivenNameType option:selected").val() == "occupation_assassin")
@@ -98,6 +101,7 @@ function GivenNameCategoryChange() {
 			'<option value="thematic_common" selected>Common</option>'
 			+ '<option value="thematic_uncommon">Uncommon</option>'
 			+ '<option value="thematic_dark">Dark</option>'
+			+ '<option value="thematic_righteous">Righteous</option>'
 		);
 	} else if ($("#GivenNameCategory option:selected").val() == "occupation") {
 		$("#GivenNameType").html(

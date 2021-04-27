@@ -141,6 +141,14 @@ $(document).ready(function() {
 		}
 	);
 
+	//Get GivenNames_Thematic_Righteous Data
+	$.get(
+		"{{ 'JSONs/GivenNames_Thematic_Righteous.json?v=' | append: site.github.build_revision }}"
+		,function(data){
+			GivenNames_Thematic_Righteous = $(data);
+		}
+	);
+
 
 
 
