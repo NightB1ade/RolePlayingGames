@@ -3198,6 +3198,230 @@
 					}
 				]
 			}
+			, {
+				"title": "Dedicated Martial Practitioner"
+				, "explanation": "These names generally feature aspects that cause one to think of martial arts or combat."
+				, "givenNames": [{
+						"traditional": "三豐"
+						, "simplified": "三丰"
+						, "gender": "M"
+						, "pinyin": "sān fēng"
+						, "jyutping": "saam1 fung1"
+						, "romanisation": [{
+								"englishMandarin": "Sanfeng"
+								, "englishCantonese": ""
+								, "meaning": "Sanfeng: The given name of Zhan Sanfeng, legendary real-life Daoist who is credited with inventing Taichi"
+							}
+							, {
+								"englishMandarin": "San"
+								, "englishCantonese": ""
+								, "meaning": "San: Three, third"
+							}
+							, {
+								"englishMandarin": "Feng"
+								, "englishCantonese": ""
+								, "meaning": "Feng: Luxuriant, abundant, plentiful"
+							}
+						]
+					}
+					, {
+						"traditional": "宗元"
+						, "simplified": "宗元"
+						, "gender": "M"
+						, "pinyin": "zōng yuán"
+						, "jyutping": "zung1 jyun4"
+						, "romanisation": [{
+								"englishMandarin": "Zongyuan"
+								, "englishCantonese": ""
+								, "meaning": "Zongyuan: The given name of Liu Zongyuan, a Tang Dynasty poet"
+							}
+							, {
+								"englishMandarin": "Zong"
+								, "englishCantonese": ""
+								, "meaning": "Zong: School, sect, purpose, model, ancestor"
+							}
+							, {
+								"englishMandarin": "Yuan"
+								, "englishCantonese": ""
+								, "meaning": "Yuan: First, original, root, origin"
+							}
+						]
+					}
+					, {
+						"traditional": "葉問"
+						, "simplified": "叶问"
+						, "gender": "M"
+						, "pinyin": "yè wèn"
+						, "jyutping": "jip6 man6"
+						, "romanisation": [{
+								"englishMandarin": "Yewen"
+								, "englishCantonese": ""
+								, "meaning": "Yewen: The surname and given name of Ip Man, Cantonese martial artist and teacher of Bruce Lee"
+							}
+							, {
+								"englishMandarin": "Ye"
+								, "englishCantonese": ""
+								, "meaning": "Ye: Leaf"
+							}
+							, {
+								"englishMandarin": "Wen"
+								, "englishCantonese": ""
+								, "meaning": "Wen: Ask, inquire"
+							}
+						]
+					}
+					, {
+						"traditional": "謝笑"
+						, "simplified": "谢笑"
+						, "gender": "G"
+						, "pinyin": "xiè xiào"
+						, "jyutping": "ze6 siu3"
+						, "romanisation": [{
+								"englishMandarin": "Xiexiao"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xie"
+								, "englishCantonese": ""
+								, "meaning": "Xie: Thank, apologize, decline"
+							}
+							, {
+								"englishMandarin": "Xiao"
+								, "englishCantonese": ""
+								, "meaning": "Xiao: Smile, laugh"
+							}
+						]
+					}
+					, {
+						"traditional": "俠"
+						, "simplified": "侠"
+						, "gender": "G"
+						, "pinyin": "xiá"
+						, "jyutping": "haap6"
+						, "romanisation": [{
+							"englishMandarin": "Xia"
+							, "englishCantonese": ""
+							, "meaning": "Xia: Hero, brave, chivalrous"
+						}]
+					}
+					, {
+						"traditional": "劍飛"
+						, "simplified": "剑飞"
+						, "gender": "G"
+						, "pinyin": "jiàn fēi"
+						, "jyutping": "gim3 fei1"
+						, "romanisation": [{
+								"englishMandarin": "Jianfei"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jian"
+								, "englishCantonese": ""
+								, "meaning": "Jian: Sword"
+							}
+							, {
+								"englishMandarin": "Fei"
+								, "englishCantonese": ""
+								, "meaning": "Fei: Fly, flight"
+							}
+						]
+					}
+					, {
+						"traditional": "露禪"
+						, "simplified": "露禅"
+						, "gender": "G"
+						, "pinyin": "lù chán"
+						, "jyutping": "lou6 sim4"
+						, "romanisation": [{
+								"englishMandarin": "Luchan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Lu"
+								, "englishCantonese": ""
+								, "meaning": "Lu: Dew, syrup"
+							}
+							, {
+								"englishMandarin": "Chan"
+								, "englishCantonese": ""
+								, "meaning": "Chan: Zen"
+							}
+						]
+					}
+					, {
+						"traditional": "大娘"
+						, "simplified": "大娘"
+						, "gender": "F"
+						, "pinyin": "dàniáng"
+						, "jyutping": "daai6 noeng4"
+						, "romanisation": [{
+								"englishMandarin": "Daniang"
+								, "englishCantonese": ""
+								, "meaning": "Daniang: Aunt"
+							}
+							, {
+								"englishMandarin": "Da"
+								, "englishCantonese": ""
+								, "meaning": "Da: Great, Grand"
+							}
+							, {
+								"englishMandarin": "Niang"
+								, "englishCantonese": ""
+								, "meaning": "Niang: Young lady, woman, mother"
+							}
+						]
+					}
+					, {
+						"traditional": "劍雲"
+						, "simplified": "剑云"
+						, "gender": "F"
+						, "pinyin": "jiàn yún"
+						, "jyutping": "gim3 wan4"
+						, "romanisation": [{
+								"englishMandarin": "Jianyun"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jian"
+								, "englishCantonese": ""
+								, "meaning": "Jian: Sword"
+							}
+							, {
+								"englishMandarin": "Yun"
+								, "englishCantonese": ""
+								, "meaning": "Yun: Cloud"
+							}
+						]
+					}
+					, {
+						"traditional": "九兒"
+						, "simplified": "九儿"
+						, "gender": "F"
+						, "pinyin": "jiǔ er"
+						, "jyutping": "gau2 ji4"
+						, "romanisation": [{
+								"englishMandarin": "Jiu’er"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jiu"
+								, "englishCantonese": ""
+								, "meaning": "Jiu: Nine"
+							}
+							, {
+								"englishMandarin": "Er"
+								, "englishCantonese": ""
+								, "meaning": "Er: Child, son, or a sound word"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
