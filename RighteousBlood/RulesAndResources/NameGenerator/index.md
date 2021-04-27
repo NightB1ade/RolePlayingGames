@@ -157,6 +157,14 @@ $(document).ready(function() {
 		}
 	);
 
+	//Get GivenNames_Thematic_BeautifulAttractive Data
+	$.get(
+		"{{ 'JSONs/GivenNames_Thematic_BeautifulAttractive.json?v=' | append: site.github.build_revision }}"
+		,function(data){
+			GivenNames_Thematic_BeautifulAttractive = $(data);
+		}
+	);
+
 
 
 
