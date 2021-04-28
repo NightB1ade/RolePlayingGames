@@ -5024,6 +5024,236 @@
 					}
 				]
 			}
+			, {
+				"title": "Merchant"
+				, "explanation": "These names emphasise wealth and profit, making them perfect for business people."
+				, "givenNames": [{
+						"traditional": "萬貫"
+						, "simplified": "万贯"
+						, "gender": "M"
+						, "pinyin": "wànguàn"
+						, "jyutping": "maan6 gun3"
+						, "romanisations": [{
+								"englishMandarin": "Wanguan"
+								, "englishCantonese": ""
+								, "meaning": "Wanguan: Ten thousand strings of cash, wealthy, millionaire"
+							}
+							, {
+								"englishMandarin": "Wan"
+								, "englishCantonese": ""
+								, "meaning": "Wan: Myriad, ten thousand, countless"
+							}
+							, {
+								"englishMandarin": "Guan"
+								, "englishCantonese": ""
+								, "meaning": "Guan: Pierce, penetrate, follow"
+							}
+						]
+					}
+					, {
+						"traditional": "復銀"
+						, "simplified": "复银"
+						, "gender": "M"
+						, "pinyin": "fù yín"
+						, "jyutping": "fuk6 ngan4"
+						, "romanisations": [{
+								"englishMandarin": "Fuyin"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Fu"
+								, "englishCantonese": ""
+								, "meaning": "Fu: To return, to resume, to recover"
+							}
+							, {
+								"englishMandarin": "Yin"
+								, "englishCantonese": ""
+								, "meaning": "Yin: Silver"
+							}
+						]
+					}
+					, {
+						"traditional": "萬三"
+						, "simplified": "万三"
+						, "gender": "M"
+						, "pinyin": "wàn sān"
+						, "jyutping": "maan6 saam1"
+						, "romanisations": [{
+								"englishMandarin": "Wansan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Wan"
+								, "englishCantonese": ""
+								, "meaning": "Wan: Ten thousand, myriad, countless"
+							}
+							, {
+								"englishMandarin": "San"
+								, "englishCantonese": ""
+								, "meaning": "San: Three, third"
+							}
+						]
+					}
+					, {
+						"traditional": "向錢"
+						, "simplified": "向钱"
+						, "gender": "G"
+						, "pinyin": "xiàng qián"
+						, "jyutping": "hoeng3 cin4"
+						, "romanisations": [{
+								"englishMandarin": "Xiangqian"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xiang"
+								, "englishCantonese": ""
+								, "meaning": "Xiang: Toward, in the direction of"
+							}
+							, {
+								"englishMandarin": "Qian"
+								, "englishCantonese": ""
+								, "meaning": "Qian: Money"
+							}
+						]
+					}
+					, {
+						"traditional": "金玉"
+						, "simplified": "金玉"
+						, "gender": "G"
+						, "pinyin": "jīnyù"
+						, "jyutping": "gam1 juk6"
+						, "romanisations": [{
+								"englishMandarin": "Jinyu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jin"
+								, "englishCantonese": ""
+								, "meaning": "Jin: Gold, metal"
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Jade"
+							}
+						]
+					}
+					, {
+						"traditional": "清清"
+						, "simplified": "清清"
+						, "gender": "G"
+						, "pinyin": "qīng qīng"
+						, "jyutping": "cing1 cing1"
+						, "romanisations": [{
+								"englishMandarin": "Qingqing"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Qing"
+								, "englishCantonese": ""
+								, "meaning": "Qing: Bright, clear"
+							}
+						]
+					}
+					, {
+						"traditional": "于俊"
+						, "simplified": "于俊"
+						, "gender": "G"
+						, "pinyin": "yú jùn"
+						, "jyutping": "jyu1 zeon3"
+						, "romanisations": [{
+								"englishMandarin": "Yujun"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: To go, to take"
+							}
+							, {
+								"englishMandarin": "Jun"
+								, "englishCantonese": ""
+								, "meaning": "Jun: Smart, elegant, talented"
+							}
+						]
+					}
+					, {
+						"traditional": "金珠"
+						, "simplified": "金珠"
+						, "gender": "F"
+						, "pinyin": "jīn zhū"
+						, "jyutping": "gam1 zyu1"
+						, "romanisations": [{
+								"englishMandarin": "Jinzhu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jin"
+								, "englishCantonese": ""
+								, "meaning": "Jin: Gold, metal"
+							}
+							, {
+								"englishMandarin": "Zhu"
+								, "englishCantonese": ""
+								, "meaning": "Zhu: Pearl, bead"
+							}
+						]
+					}
+					, {
+						"traditional": "夏荷"
+						, "simplified": "夏荷"
+						, "gender": "F"
+						, "pinyin": "xià hé"
+						, "jyutping": "haa6 ho4"
+						, "romanisations": [{
+								"englishMandarin": "Fuhe"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xia"
+								, "englishCantonese": ""
+								, "meaning": "Xia: Summer"
+							}
+							, {
+								"englishMandarin": "He"
+								, "englishCantonese": ""
+								, "meaning": "He: Lotus"
+							}
+						]
+					}
+					, {
+						"traditional": "明珠"
+						, "simplified": "明珠"
+						, "gender": "F"
+						, "pinyin": "míngzhū"
+						, "jyutping": "ming4 zyu1"
+						, "romanisations": [{
+								"englishMandarin": "Mingzhu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ming"
+								, "englishCantonese": ""
+								, "meaning": "Ming: Brightness, justice, bright, brilliant"
+							}
+							, {
+								"englishMandarin": "Zhu"
+								, "englishCantonese": ""
+								, "meaning": "Zhu: Pearl, bead"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
