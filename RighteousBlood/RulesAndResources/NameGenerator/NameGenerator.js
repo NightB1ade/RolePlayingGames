@@ -13,7 +13,7 @@ function GenerateName() {
 	for (i=0 ; i < GenerateNumber ; i++) {
 		var Surname = Surnames[Math.floor(Math.random() * Surnames.length)];
 		var GivenName = GivenNames[Math.floor(Math.random() * GivenNames.length)];
-		var GivenNameRomanisations = GivenName.romanisation.length;
+		var GivenNameRomanisations = GivenName.romanisations.length;
 
 		GenerateHTML = GenerateHTML
 			+ "<tr><td rowspan='" + GivenNameRomanisations + "' nowrap style='text-align:center'>"
@@ -25,7 +25,7 @@ function GenerateName() {
 			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
 			+ Surname.englishMandarin
 			+ "</td><td>"
-			+ GivenName.romanisation[0].englishMandarin
+			+ GivenName.romanisations[0].englishMandarin
 			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
 			+ Surname.pinyin + " " + GivenName.pinyin
 			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
@@ -33,15 +33,15 @@ function GenerateName() {
 			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
 			+ Surname.meaning
 			+ "</td><td>"
-			+ GivenName.romanisation[0].meaning
+			+ GivenName.romanisations[0].meaning
 			+ "</td></tr>";
 
 		for (j=1 ; j < GivenNameRomanisations ; j++) {
 			GenerateHTML = GenerateHTML
 			+ "<tr><td>"
-			+ GivenName.romanisation[j].englishMandarin
+			+ GivenName.romanisations[j].englishMandarin
 			+ "</td><td>"
-			+ GivenName.romanisation[j].meaning
+			+ GivenName.romanisations[j].meaning
 			+ "</td></tr>";
 		}
 	}

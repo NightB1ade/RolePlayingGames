@@ -9,7 +9,7 @@
 						, "gender": "M"
 						, "pinyin": "guóqìng"
 						, "jyutping": "gwok3 hing3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Guoqing"
 								, "englishCantonese": ""
 								, "meaning": "Guoqing: National Day holiday in China"
@@ -32,7 +32,7 @@
 						, "gender": "M"
 						, "pinyin": "hǎi tāo"
 						, "jyutping": "hoi2 tou4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Haitao"
 								, "englishCantonese": ""
 								, "meaning": "Haitao: Ocean waves"
@@ -55,7 +55,7 @@
 						, "gender": "M"
 						, "pinyin": "àimín"
 						, "jyutping": "oi3 man4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Aimin"
 								, "englishCantonese": ""
 								, "meaning": "Aimin: Care for the common people (usually said of a ruler, official, army, etc.)"
@@ -78,7 +78,7 @@
 						, "gender": "G"
 						, "pinyin": "xiǎo fán"
 						, "jyutping": "siu2 faan4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xiaofan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -101,7 +101,7 @@
 						, "gender": "G"
 						, "pinyin": "yǎwén"
 						, "jyutping": "ngaa5 man4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yawen"
 								, "englishCantonese": ""
 								, "meaning": "Yawen: Refined and elegant"
@@ -124,7 +124,7 @@
 						, "gender": "G"
 						, "pinyin": "xiǎo lěi"
 						, "jyutping": "siu2 leoi5"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xiaolei"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -147,7 +147,7 @@
 						, "gender": "F"
 						, "pinyin": "huá jìng"
 						, "jyutping": "waa4 geng3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Huajing"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -175,7 +175,7 @@
 						, "gender": "M"
 						, "pinyin": "zhǎng qīng"
 						, "jyutping": "coeng4 hing1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Changqing"
 								, "englishCantonese": ""
 								, "meaning": "Changqing: An archaic word for butterfly"
@@ -198,7 +198,7 @@
 						, "gender": "M"
 						, "pinyin": "yuán chén"
 						, "jyutping": "jyun4 san4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yuanchen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -221,7 +221,7 @@
 						, "gender": "M"
 						, "pinyin": "yì tài"
 						, "jyutping": "ji3 taai3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yitai"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -244,7 +244,7 @@
 						, "gender": "G"
 						, "pinyin": "qíng yàn"
 						, "jyutping": "king4 jin6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qingyan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -267,7 +267,7 @@
 						, "gender": "G"
 						, "pinyin": "zé yuán"
 						, "jyutping": "zaak6 jyun4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zeyuan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -290,7 +290,7 @@
 						, "gender": "G"
 						, "pinyin": "nán shēng"
 						, "jyutping": "naam4 sang1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Nansheng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -313,7 +313,7 @@
 						, "gender": "G"
 						, "pinyin": "wén xī"
 						, "jyutping": "man4 hei1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wenxi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -336,7 +336,7 @@
 						, "gender": "F"
 						, "pinyin": "zi qī"
 						, "jyutping": "zi2 cat1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Ziqi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -359,7 +359,7 @@
 						, "gender": "F"
 						, "pinyin": "yǔ yān"
 						, "jyutping": "jyu5 jin1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yuyan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -382,7 +382,7 @@
 						, "gender": "F"
 						, "pinyin": "kě qīng"
 						, "jyutping": "ho2 hing1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Keqing"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -410,7 +410,7 @@
 						, "gender": "M"
 						, "pinyin": "tiān bà"
 						, "jyutping": "tin1 baa3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Tianba"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -433,7 +433,7 @@
 						, "gender": "M"
 						, "pinyin": "ào xuè"
 						, "jyutping": "ngou6 hyut3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Aoxue"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -456,7 +456,7 @@
 						, "gender": "M"
 						, "pinyin": "wàn chóu"
 						, "jyutping": "maan6 kau4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wanchou"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -479,7 +479,7 @@
 						, "gender": "G"
 						, "pinyin": "luò shāng"
 						, "jyutping": "lok3 soeng1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Luoshang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -502,7 +502,7 @@
 						, "gender": "G"
 						, "pinyin": "lěng yán"
 						, "jyutping": "laang5 jim4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Lengyan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -525,7 +525,7 @@
 						, "gender": "G"
 						, "pinyin": "shā lì"
 						, "jyutping": "saat3 lik1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shali"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -548,7 +548,7 @@
 						, "gender": "G"
 						, "pinyin": "wúqíng"
 						, "jyutping": "mou4 cing4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wuqing"
 								, "englishCantonese": ""
 								, "meaning": "Wuqing: Ruthless, pitiless, merciless"
@@ -571,7 +571,7 @@
 						, "gender": "F"
 						, "pinyin": "mò chóu"
 						, "jyutping": "mok6 sau4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mochou"
 								, "englishCantonese": ""
 								, "meaning": "Mochou: This is the given name of a famous wuxia villainess, Li Mouchou"
@@ -594,7 +594,7 @@
 						, "gender": "F"
 						, "pinyin": "mò yuè"
 						, "jyutping": "mut3 jyut6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Moyue"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -617,7 +617,7 @@
 						, "gender": "F"
 						, "pinyin": "líng jiě"
 						, "jyutping": "ling4 ze2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Lingjie"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -645,7 +645,7 @@
 						, "gender": "M"
 						, "pinyin": "zhǎn péng"
 						, "jyutping": "zin2 paang4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zhanpeng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -668,7 +668,7 @@
 						, "gender": "M"
 						, "pinyin": "tiānzhèng"
 						, "jyutping": "tin1 zing3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Tianzheng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -691,7 +691,7 @@
 						, "gender": "M"
 						, "pinyin": "fēng yì"
 						, "jyutping": "fung1 ngai6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Fengyi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -714,7 +714,7 @@
 						, "gender": "G"
 						, "pinyin": "xiāo yún"
 						, "jyutping": "siu1 wan4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xiaoyun"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -737,7 +737,7 @@
 						, "gender": "G"
 						, "pinyin": "wèi fēng"
 						, "jyutping": "mei6 fung1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Weifeng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -760,7 +760,7 @@
 						, "gender": "G"
 						, "pinyin": "shān lín"
 						, "jyutping": "saan1 lam4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shanlin"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -783,7 +783,7 @@
 						, "gender": "G"
 						, "pinyin": "shàng jié"
 						, "jyutping": "soeng6 git6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shangjie"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -806,7 +806,7 @@
 						, "gender": "F"
 						, "pinyin": "tiān yáo"
 						, "jyutping": "tin1 jiu4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Tianyao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -829,7 +829,7 @@
 						, "gender": "F"
 						, "pinyin": "jiā yǐng"
 						, "jyutping": "gaai1 wing6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jiaying"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -852,7 +852,7 @@
 						, "gender": "F"
 						, "pinyin": "chǔ qiáo"
 						, "jyutping": "co2 kiu4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Chuqiao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -880,7 +880,7 @@
 						, "gender": "M"
 						, "pinyin": "qīng yáng"
 						, "jyutping": "cing1 joeng4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qingyang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -903,7 +903,7 @@
 						, "gender": "M"
 						, "pinyin": "wèn qíng"
 						, "jyutping": "man6 cing4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wenqing"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -926,7 +926,7 @@
 						, "gender": "M"
 						, "pinyin": "qiūfēng"
 						, "jyutping": "cau1 fung1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qiufeng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -949,7 +949,7 @@
 						, "gender": "G"
 						, "pinyin": "qīng wǎn"
 						, "jyutping": "cing1 waan2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qingguan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -972,7 +972,7 @@
 						, "gender": "G"
 						, "pinyin": "jiàn huān"
 						, "jyutping": "gin3 fun1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jianhuan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -995,7 +995,7 @@
 						, "gender": "G"
 						, "pinyin": "zhuāng hén"
 						, "jyutping": "zong1 han4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zhuanghen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1018,7 +1018,7 @@
 						, "gender": "G"
 						, "pinyin": "fēng yín"
 						, "jyutping": "fung1 jam4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Fengyin"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1041,7 +1041,7 @@
 						, "gender": "F"
 						, "pinyin": "mèi lí"
 						, "jyutping": "mei6 lei4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Meili"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1064,7 +1064,7 @@
 						, "gender": "F"
 						, "pinyin": "mèng zhěn"
 						, "jyutping": "mung6 zam2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mengzhen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1087,7 +1087,7 @@
 						, "gender": "F"
 						, "pinyin": "míngyuè"
 						, "jyutping": "ming4 jyut6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mingyue"
 								, "englishCantonese": ""
 								, "meaning": "Mingyue: Bright moon"
@@ -1115,7 +1115,7 @@
 						, "gender": "M"
 						, "pinyin": "fēng mián"
 						, "jyutping": "fung1 min4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Fengmian"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1138,7 +1138,7 @@
 						, "gender": "M"
 						, "pinyin": "zhǎng qīng"
 						, "jyutping": "coeng4 hing1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Changqing"
 								, "englishCantonese": ""
 								, "meaning": "Changqing: A rare word for butterfly"
@@ -1161,7 +1161,7 @@
 						, "gender": "M"
 						, "pinyin": "zi chén"
 						, "jyutping": "zi2 san4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zichen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1184,7 +1184,7 @@
 						, "gender": "F"
 						, "pinyin": "mò yì"
 						, "jyutping": "mak6 jik1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Moyi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1207,7 +1207,7 @@
 						, "gender": "G"
 						, "pinyin": "mò niǎo"
 						, "jyutping": "mak6 niu5"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Moniao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1230,7 +1230,7 @@
 						, "gender": "G"
 						, "pinyin": "mù yán"
 						, "jyutping": "mou6 jin4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Muyan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1253,7 +1253,7 @@
 						, "gender": "G"
 						, "pinyin": "qiáomù"
 						, "jyutping": "kiu4 muk6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qiaomu"
 								, "englishCantonese": ""
 								, "meaning": "Qiaomu: Tall tree"
@@ -1276,7 +1276,7 @@
 						, "gender": "G"
 						, "pinyin": "wǎn xī"
 						, "jyutping": "waan2 hai4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wanxi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1299,7 +1299,7 @@
 						, "gender": "F"
 						, "pinyin": "chén xuě"
 						, "jyutping": "san4 syut3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Chenxue"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1322,7 +1322,7 @@
 						, "gender": "F"
 						, "pinyin": "mèng gē"
 						, "jyutping": "mung6 go1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mengge"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1350,7 +1350,7 @@
 						, "gender": "M"
 						, "pinyin": "xīng hàn"
 						, "jyutping": "sing1 hon6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xinghan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1373,7 +1373,7 @@
 						, "gender": "M"
 						, "pinyin": "zhǎn háo"
 						, "jyutping": "zin2 hou4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zhanhao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1396,7 +1396,7 @@
 						, "gender": "M"
 						, "pinyin": "wèn tiān"
 						, "jyutping": "man6 tin1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wentian"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1419,7 +1419,7 @@
 						, "gender": "M"
 						, "pinyin": "zhèng nán"
 						, "jyutping": "zing3 naam4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zhengnan"
 								, "englishCantonese": ""
 								, "meaning": "Zhengnan: Due south"
@@ -1442,7 +1442,7 @@
 						, "gender": "M"
 						, "pinyin": "shǎo lóng"
 						, "jyutping": "siu2 lung4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shaolong"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1465,7 +1465,7 @@
 						, "gender": "M"
 						, "pinyin": "bó hào"
 						, "jyutping": "bok3 hou6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Bohao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1488,7 +1488,7 @@
 						, "gender": "M"
 						, "pinyin": "qīngtiān"
 						, "jyutping": "cing1 tin1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qingtian"
 								, "englishCantonese": ""
 								, "meaning": "Qingtian: Blue sky, clear sky"
@@ -1511,7 +1511,7 @@
 						, "gender": "M"
 						, "pinyin": "qiánkūn"
 						, "jyutping": "kin4 kwan1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qiankun"
 								, "englishCantonese": ""
 								, "meaning": "Qiankun: Heaven and earth, Yin and Yang, the universe, the cosmos"
@@ -1534,7 +1534,7 @@
 						, "gender": "M"
 						, "pinyin": "xiān xiào"
 						, "jyutping": "tin1 siu3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Tianxiao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1557,7 +1557,7 @@
 						, "gender": "M"
 						, "pinyin": "qiān yuán"
 						, "jyutping": "cin1 jyun4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qianyuan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1585,7 +1585,7 @@
 						, "gender": "F"
 						, "pinyin": "yānyǔ"
 						, "jyutping": "jin1 jyu5"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yanyu"
 								, "englishCantonese": ""
 								, "meaning": "Yanyu: Drizzle, misty rain"
@@ -1608,7 +1608,7 @@
 						, "gender": "F"
 						, "pinyin": "wǎn tíng"
 						, "jyutping": "jyun2 ting4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wanting"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1631,7 +1631,7 @@
 						, "gender": "F"
 						, "pinyin": "mèng gē"
 						, "jyutping": "mung6 go1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mengge"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1654,7 +1654,7 @@
 						, "gender": "F"
 						, "pinyin": "ruò xī"
 						, "jyutping": "joek6 hei1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Ruoxi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1677,7 +1677,7 @@
 						, "gender": "F"
 						, "pinyin": "yíng yíng"
 						, "jyutping": "jing4 jing4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yingying"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1695,7 +1695,7 @@
 						, "gender": "F"
 						, "pinyin": "sī qíng"
 						, "jyutping": "si1 cing4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Siqing"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1718,7 +1718,7 @@
 						, "gender": "F"
 						, "pinyin": "yānrán"
 						, "jyutping": "jan1 jin4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yanran"
 								, "englishCantonese": ""
 								, "meaning": "Yanran: Beautiful, sweet, engaging, gracious"
@@ -1741,7 +1741,7 @@
 						, "gender": "F"
 						, "pinyin": "shū xīn"
 						, "jyutping": "syu1 jan1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shuxin"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1764,7 +1764,7 @@
 						, "gender": "F"
 						, "pinyin": "yǔ xī"
 						, "jyutping": "jyu5 hei1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yuxi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1787,7 +1787,7 @@
 						, "gender": "F"
 						, "pinyin": "zǐwēi"
 						, "jyutping": "zi2 mei4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Ziwei"
 								, "englishCantonese": ""
 								, "meaning": "Ziwei: Crape myrtle (a tree that usually has purplish flowers)"
@@ -1815,7 +1815,7 @@
 						, "gender": "G"
 						, "pinyin": "yuán yì"
 						, "jyutping": "jyun4 jat6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yuanyi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1838,7 +1838,7 @@
 						, "gender": "G"
 						, "pinyin": "yè qīng"
 						, "jyutping": "jip6 cing1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yeqing"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1861,7 +1861,7 @@
 						, "gender": "G"
 						, "pinyin": "jiā nán"
 						, "jyutping": "gaa1 naam4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jianan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1884,7 +1884,7 @@
 						, "gender": "G"
 						, "pinyin": "qǐmíng"
 						, "jyutping": "kai2 ming4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qiming"
 								, "englishCantonese": ""
 								, "meaning": "Qiming: Classical Chinese name for planet Venus"
@@ -1907,7 +1907,7 @@
 						, "gender": "G"
 						, "pinyin": "yī nuò"
 						, "jyutping": "jat1 nok6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yinuo"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1930,7 +1930,7 @@
 						, "gender": "G"
 						, "pinyin": "tiānchén"
 						, "jyutping": "tin1 san4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Tianchen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1953,7 +1953,7 @@
 						, "gender": "G"
 						, "pinyin": "líng chén"
 						, "jyutping": "ling4 can4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Lingchen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -1976,7 +1976,7 @@
 						, "gender": "G"
 						, "pinyin": "xiāo"
 						, "jyutping": "siu1"
-						, "romanisation": [{
+						, "romanisations": [{
 							"englishMandarin": "Xiao"
 							, "englishCantonese": ""
 							, "meaning": "Xiao: Miserable, desolate, dreary"
@@ -1988,7 +1988,7 @@
 						, "gender": "G"
 						, "pinyin": "zi fán"
 						, "jyutping": "zi2 faan4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zifan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2011,7 +2011,7 @@
 						, "gender": "G"
 						, "pinyin": "shuò"
 						, "jyutping": "sek6"
-						, "romanisation": [{
+						, "romanisations": [{
 							"englishMandarin": "Shuo"
 							, "englishCantonese": ""
 							, "meaning": "Shuo: Large, big"
@@ -2032,7 +2032,7 @@
 						, "gender": "M"
 						, "pinyin": "qīng yáng"
 						, "jyutping": "cing1 joeng4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Qingyang"
 								, "englishCantonese": ""
 								, "meaning": "Qingyang: Spring, youth"
@@ -2055,7 +2055,7 @@
 						, "gender": "M"
 						, "pinyin": "fēiyáng"
 						, "jyutping": "fei1 joeng4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Feiyang"
 								, "englishCantonese": ""
 								, "meaning": "Feiyang: Fly upward, rise"
@@ -2078,7 +2078,7 @@
 						, "gender": "M"
 						, "pinyin": "dàqiān"
 						, "jyutping": "daai6 cin1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Daqian"
 								, "englishCantonese": ""
 								, "meaning": "Daqian: The infinite universe, chiliocosm"
@@ -2101,7 +2101,7 @@
 						, "gender": "G"
 						, "pinyin": "yún dí"
 						, "jyutping": "wan4 dik6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yundi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2124,7 +2124,7 @@
 						, "gender": "G"
 						, "pinyin": "yì fēi"
 						, "jyutping": "wan4 dik6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yifei"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2147,7 +2147,7 @@
 						, "gender": "G"
 						, "pinyin": "wén zhuō"
 						, "jyutping": "man4 coek3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wenzhuo"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2170,7 +2170,7 @@
 						, "gender": "G"
 						, "pinyin": "chóng xià"
 						, "jyutping": "sung4 haa6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Chong Xia"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2193,7 +2193,7 @@
 						, "gender": "F"
 						, "pinyin": "mèng chén"
 						, "jyutping": "mung6 san4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mengchen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2216,7 +2216,7 @@
 						, "gender": "F"
 						, "pinyin": "fúshēng"
 						, "jyutping": "fau4 sang1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Fusheng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2239,7 +2239,7 @@
 						, "gender": "F"
 						, "pinyin": "zhú mù"
 						, "jyutping": "zuk1 muk6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zhumu"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2267,7 +2267,7 @@
 						, "gender": "M"
 						, "pinyin": "jīngkē"
 						, "jyutping": "ging1 o1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jingke"
 								, "englishCantonese": ""
 								, "meaning": "Jingke: A famous historical assassin"
@@ -2290,7 +2290,7 @@
 						, "gender": "M"
 						, "pinyin": "yào lí"
 						, "jyutping": "jiu3 lei4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yaoli"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2313,7 +2313,7 @@
 						, "gender": "M"
 						, "pinyin": "yè hén"
 						, "jyutping": "je6 han4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yehen"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2336,7 +2336,7 @@
 						, "gender": "G"
 						, "pinyin": "xuè yǐng"
 						, "jyutping": "hyut3 jing2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xueying"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2359,7 +2359,7 @@
 						, "gender": "G"
 						, "pinyin": "wúxīn"
 						, "jyutping": "mou4 sam1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wuxin"
 								, "englishCantonese": ""
 								, "meaning": "Wuxin: Without thought, the mind free from illusion, mindless"
@@ -2382,7 +2382,7 @@
 						, "gender": "G"
 						, "pinyin": "míng shā"
 						, "jyutping": "ming5 saa1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mingsha"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2405,7 +2405,7 @@
 						, "gender": "G"
 						, "pinyin": "cányuè"
 						, "jyutping": "caan4 jyut6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Canyue"
 								, "englishCantonese": ""
 								, "meaning": "Canyue: Waning moon"
@@ -2428,7 +2428,7 @@
 						, "gender": "F"
 						, "pinyin": "níng xuě"
 						, "jyutping": "jing4 syut3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Ningxue"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2451,7 +2451,7 @@
 						, "gender": "F"
 						, "pinyin": "yǐn niáng"
 						, "jyutping": "jan2 noeng4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yin’niang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2474,7 +2474,7 @@
 						, "gender": "F"
 						, "pinyin": "luóchà"
 						, "jyutping": "lo4 saat3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Luocha"
 								, "englishCantonese": ""
 								, "meaning": "Luocha: Raksha, rakshasa (demons that devour men)"
@@ -2502,7 +2502,7 @@
 						, "gender": "M"
 						, "pinyin": "bà tiān"
 						, "jyutping": "baa3 tin1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Batian"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2525,7 +2525,7 @@
 						, "gender": "M"
 						, "pinyin": "sàng biāo"
 						, "jyutping": "song1 biu1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Sangbiao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2548,7 +2548,7 @@
 						, "gender": "M"
 						, "pinyin": "hēi gǒu"
 						, "jyutping": "hak1 gau2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Heigou"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2571,7 +2571,7 @@
 						, "gender": "G"
 						, "pinyin": "zhāng qìng"
 						, "jyutping": "zoeng1 hing3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zhangqing"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2594,7 +2594,7 @@
 						, "gender": "G"
 						, "pinyin": "dù lì"
 						, "jyutping": "dou6 laap6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Duli"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2617,7 +2617,7 @@
 						, "gender": "G"
 						, "pinyin": "chōng guān"
 						, "jyutping": "cung1 gun1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Chongguan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2640,7 +2640,7 @@
 						, "gender": "G"
 						, "pinyin": "shísān"
 						, "jyutping": "sap6 saam1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shisan"
 								, "englishCantonese": ""
 								, "meaning": "Shisan: Thirteen, thirteenth"
@@ -2663,7 +2663,7 @@
 						, "gender": "F"
 						, "pinyin": "èr niáng"
 						, "jyutping": "ji6 noeng4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Erniang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2686,7 +2686,7 @@
 						, "gender": "F"
 						, "pinyin": "yāo mèi"
 						, "jyutping": "jiu1 mui6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yaomei"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2709,7 +2709,7 @@
 						, "gender": "F"
 						, "pinyin": "báilián"
 						, "jyutping": "baak6 lin4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Bailian"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2737,7 +2737,7 @@
 						, "gender": "M"
 						, "pinyin": "èr gǒu"
 						, "jyutping": "ji6 gau2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Ergou"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2760,7 +2760,7 @@
 						, "gender": "M"
 						, "pinyin": "shítou"
 						, "jyutping": "sek6 tau4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shitou"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2783,7 +2783,7 @@
 						, "gender": "M"
 						, "pinyin": "gǒu shèng"
 						, "jyutping": "gau2 sing6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Gousheng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2806,7 +2806,7 @@
 						, "gender": "G"
 						, "pinyin": "dàlín"
 						, "jyutping": "daai6 lam4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Dalin"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2829,7 +2829,7 @@
 						, "gender": "G"
 						, "pinyin": "hóuzi"
 						, "jyutping": "hau4 zi2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Houzi"
 								, "englishCantonese": ""
 								, "meaning": "Houzi: Monkey"
@@ -2852,7 +2852,7 @@
 						, "gender": "G"
 						, "pinyin": "hēi dàn"
 						, "jyutping": "hak1 daan2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Heidan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2875,7 +2875,7 @@
 						, "gender": "G"
 						, "pinyin": "sì léng"
 						, "jyutping": "sei3 ling4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Sileng"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2898,7 +2898,7 @@
 						, "gender": "F"
 						, "pinyin": "èr yā"
 						, "jyutping": "ji6 aa1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Erya"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2921,7 +2921,7 @@
 						, "gender": "F"
 						, "pinyin": "shǎ niū"
 						, "jyutping": "so4 nau2"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Shaniu"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2944,7 +2944,7 @@
 						, "gender": "F"
 						, "pinyin": "xiù gū"
 						, "jyutping": "sau3 gu1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xiugu"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2972,7 +2972,7 @@
 						, "gender": "M"
 						, "pinyin": "zhǎn táng"
 						, "jyutping": "zin2 tong4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zhantang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -2995,7 +2995,7 @@
 						, "gender": "M"
 						, "pinyin": "yún xiáng"
 						, "jyutping": "wan4 coeng4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yunxiang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3018,7 +3018,7 @@
 						, "gender": "M"
 						, "pinyin": "jùnjié"
 						, "jyutping": "zoen3 git6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Junjie"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3041,7 +3041,7 @@
 						, "gender": "G"
 						, "pinyin": "xiǎo liù"
 						, "jyutping": "xiu2 luk6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xiaoliu"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3064,7 +3064,7 @@
 						, "gender": "G"
 						, "pinyin": "hóng qí"
 						, "jyutping": "hung4 kei4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Hongqi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3087,7 +3087,7 @@
 						, "gender": "G"
 						, "pinyin": "wáng huá"
 						, "jyutping": "wong4 waa4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wanghua"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3110,7 +3110,7 @@
 						, "gender": "G"
 						, "pinyin": "jǐng píng"
 						, "jyutping": "ging2 ping4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jingping"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3133,7 +3133,7 @@
 						, "gender": "F"
 						, "pinyin": "jǐn fāng"
 						, "jyutping": "gan2 fong1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jinfang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3156,7 +3156,7 @@
 						, "gender": "F"
 						, "pinyin": "hóng líng"
 						, "jyutping": "hung4 ling4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Hongling"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3179,7 +3179,7 @@
 						, "gender": "F"
 						, "pinyin": "míngyuè"
 						, "jyutping": "ming4 jyut6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mingyue"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3207,7 +3207,7 @@
 						, "gender": "M"
 						, "pinyin": "sān fēng"
 						, "jyutping": "saam1 fung1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Sanfeng"
 								, "englishCantonese": ""
 								, "meaning": "Sanfeng: The given name of Zhan Sanfeng, legendary real-life Daoist who is credited with inventing Taichi"
@@ -3230,7 +3230,7 @@
 						, "gender": "M"
 						, "pinyin": "zōng yuán"
 						, "jyutping": "zung1 jyun4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Zongyuan"
 								, "englishCantonese": ""
 								, "meaning": "Zongyuan: The given name of Liu Zongyuan, a Tang Dynasty poet"
@@ -3253,7 +3253,7 @@
 						, "gender": "M"
 						, "pinyin": "yè wèn"
 						, "jyutping": "jip6 man6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yewen"
 								, "englishCantonese": ""
 								, "meaning": "Yewen: The surname and given name of Ip Man, Cantonese martial artist and teacher of Bruce Lee"
@@ -3276,7 +3276,7 @@
 						, "gender": "G"
 						, "pinyin": "xiè xiào"
 						, "jyutping": "ze6 siu3"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Xiexiao"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3299,7 +3299,7 @@
 						, "gender": "G"
 						, "pinyin": "xiá"
 						, "jyutping": "haap6"
-						, "romanisation": [{
+						, "romanisations": [{
 							"englishMandarin": "Xia"
 							, "englishCantonese": ""
 							, "meaning": "Xia: Hero, brave, chivalrous"
@@ -3311,7 +3311,7 @@
 						, "gender": "G"
 						, "pinyin": "jiàn fēi"
 						, "jyutping": "gim3 fei1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jianfei"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3334,7 +3334,7 @@
 						, "gender": "G"
 						, "pinyin": "lù chán"
 						, "jyutping": "lou6 sim4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Luchan"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3357,7 +3357,7 @@
 						, "gender": "F"
 						, "pinyin": "dàniáng"
 						, "jyutping": "daai6 noeng4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Daniang"
 								, "englishCantonese": ""
 								, "meaning": "Daniang: Aunt"
@@ -3380,7 +3380,7 @@
 						, "gender": "F"
 						, "pinyin": "jiàn yún"
 						, "jyutping": "gim3 wan4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jianyun"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3403,7 +3403,7 @@
 						, "gender": "F"
 						, "pinyin": "jiǔ er"
 						, "jyutping": "gau2 ji4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Jiu’er"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3431,7 +3431,7 @@
 						, "gender": "M"
 						, "pinyin": "rén jié"
 						, "jyutping": "jan4 git6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Renjie"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3454,7 +3454,7 @@
 						, "gender": "M"
 						, "pinyin": "wén bīn"
 						, "jyutping": "man4 ban1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Wenbin"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3477,7 +3477,7 @@
 						, "gender": "M"
 						, "pinyin": "ruì"
 						, "jyutping": "joei6"
-						, "romanisation": [{
+						, "romanisations": [{
 							"englishMandarin": "Rui"
 							, "englishCantonese": ""
 							, "meaning": "Rui: Astute, perspicacious, intelligent"
@@ -3489,7 +3489,7 @@
 						, "gender": "G"
 						, "pinyin": "yáo zhī"
 						, "jyutping": "jiu4 zi1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yaozhi"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3512,7 +3512,7 @@
 						, "gender": "G"
 						, "pinyin": "míngliàng"
 						, "jyutping": "ming4 loeng6"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Mingliang"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3535,7 +3535,7 @@
 						, "gender": "G"
 						, "pinyin": "líng huá"
 						, "jyutping": "ling4 waa4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Linghua"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3558,7 +3558,7 @@
 						, "gender": "G"
 						, "pinyin": "guān wéi"
 						, "jyutping": "gun1 mei4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Guanwei"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3581,7 +3581,7 @@
 						, "gender": "F"
 						, "pinyin": "rú gē"
 						, "jyutping": "jyu4 go1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Ruge"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3604,7 +3604,7 @@
 						, "gender": "F"
 						, "pinyin": "yǔ xún"
 						, "jyutping": "jyu5 cam4"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Yuxun"
 								, "englishCantonese": ""
 								, "meaning": ""
@@ -3627,7 +3627,7 @@
 						, "gender": "F"
 						, "pinyin": "sī sī"
 						, "jyutping": "si1 si1"
-						, "romanisation": [{
+						, "romanisations": [{
 								"englishMandarin": "Sisi"
 								, "englishCantonese": ""
 								, "meaning": ""
