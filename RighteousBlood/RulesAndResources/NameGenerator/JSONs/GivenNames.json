@@ -5489,6 +5489,476 @@
 					}
 				]
 			}
+			, {
+				"title": "Scholar"
+				, "explanation": "These names sound cultured, refined, and educated, perfect for experts in the scholarly arts."
+				, "givenNames": [{
+						"traditional": "崖子"
+						, "simplified": "崖子"
+						, "gender": "M"
+						, "pinyin": "yá zi"
+						, "jyutping": "ngaai4 zi2"
+						, "romanisations": [{
+								"englishMandarin": "Yazi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ya"
+								, "englishCantonese": ""
+								, "meaning": "Ya: Cliff, precipice"
+							}
+							, {
+								"englishMandarin": "Zi"
+								, "englishCantonese": ""
+								, "meaning": "Zi: Child, son, first Earthly branch"
+							}
+						]
+					}
+					, {
+						"traditional": "楓颯"
+						, "simplified": "枫飒"
+						, "gender": "M"
+						, "pinyin": "fēng sà"
+						, "jyutping": "fung1 saap3"
+						, "romanisations": [{
+								"englishMandarin": "Fengsa"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Feng"
+								, "englishCantonese": ""
+								, "meaning": "Feng: Tree name, maple"
+							}
+							, {
+								"englishMandarin": "Sa"
+								, "englishCantonese": ""
+								, "meaning": "Sa: Sound of the wind"
+							}
+						]
+					}
+					, {
+						"traditional": "伯仲"
+						, "simplified": "伯仲"
+						, "gender": "M"
+						, "pinyin": "bózhòng"
+						, "jyutping": "baak3 zung6"
+						, "romanisations": [{
+								"englishMandarin": "Bozhong"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Bo"
+								, "englishCantonese": ""
+								, "meaning": "Bo: Uncle, senior, count"
+							}
+							, {
+								"englishMandarin": "Zhong"
+								, "englishCantonese": ""
+								, "meaning": "Zhong: Second month of a season, middle, intermediate"
+							}
+						]
+					}
+					, {
+						"traditional": "敬梓"
+						, "simplified": "敬梓"
+						, "gender": "G"
+						, "pinyin": "jìng zǐ"
+						, "jyutping": "ging3 zi2"
+						, "romanisations": [{
+								"englishMandarin": "Jingzi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jing"
+								, "englishCantonese": ""
+								, "meaning": "Jing: Respect, venerate, salute, offer"
+							}
+							, {
+								"englishMandarin": "Zi"
+								, "englishCantonese": ""
+								, "meaning": "Zi: Catalpa (a genus of flowering plants)"
+							}
+						]
+					}
+					, {
+						"traditional": "俞宏"
+						, "simplified": "俞宏"
+						, "gender": "G"
+						, "pinyin": "yú hóng"
+						, "jyutping": "jyu4 wang4"
+						, "romanisations": [{
+								"englishMandarin": "Yuhong"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: accede, assent"
+							}
+							, {
+								"englishMandarin": "Hong"
+								, "englishCantonese": ""
+								, "meaning": "Hong: Great, magnificent, grand"
+							}
+						]
+					}
+					, {
+						"traditional": "班昭"
+						, "simplified": "班昭"
+						, "gender": "G"
+						, "pinyin": "bān zhāo"
+						, "jyutping": "baan1 ciu1"
+						, "romanisations": [{
+								"englishMandarin": "Banzhao"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ban"
+								, "englishCantonese": ""
+								, "meaning": "Ban: Team, class, squad"
+							}
+							, {
+								"englishMandarin": "Zhao"
+								, "englishCantonese": ""
+								, "meaning": "Zhao: Bright, clear, manifest"
+							}
+						]
+					}
+					, {
+						"traditional": "希文"
+						, "simplified": "希文"
+						, "gender": "G"
+						, "pinyin": "xī wén"
+						, "jyutping": "hei1 man4"
+						, "romanisations": [{
+								"englishMandarin": "Xiwen"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xi"
+								, "englishCantonese": ""
+								, "meaning": "Xi: Hope"
+							}
+							, {
+								"englishMandarin": "Wen"
+								, "englishCantonese": ""
+								, "meaning": "Wen: Language, culture, writing"
+							}
+						]
+					}
+					, {
+						"traditional": "阮君"
+						, "simplified": "阮君"
+						, "gender": "F"
+						, "pinyin": "ruǎn jūn"
+						, "jyutping": "jyun5 gwan1"
+						, "romanisations": [{
+								"englishMandarin": "Ruanjun"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ruan"
+								, "englishCantonese": ""
+								, "meaning": "Ruan: Ancient musical instrument"
+							}
+							, {
+								"englishMandarin": "Jun"
+								, "englishCantonese": ""
+								, "meaning": "Jun: Monarch, lord, princess"
+							}
+						]
+					}
+					, {
+						"traditional": "婉貞"
+						, "simplified": "婉贞"
+						, "gender": "F"
+						, "pinyin": "wǎn zhēn"
+						, "jyutping": "jyun2 zing1"
+						, "romanisations": [{
+								"englishMandarin": "Wanzhen"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Wan"
+								, "englishCantonese": ""
+								, "meaning": "Wan: Graceful, tactful"
+							}
+							, {
+								"englishMandarin": "Zhen"
+								, "englishCantonese": ""
+								, "meaning": "Zhen: Chase"
+							}
+						]
+					}
+					, {
+						"traditional": "清照"
+						, "simplified": "清照"
+						, "gender": "F"
+						, "pinyin": "qīngzhào"
+						, "jyutping": "cing1 ziu3"
+						, "romanisations": [{
+								"englishMandarin": "Qingzhao"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Qing"
+								, "englishCantonese": ""
+								, "meaning": "Qing: Bright, clear"
+							}
+							, {
+								"englishMandarin": "Zhao"
+								, "englishCantonese": ""
+								, "meaning": "Zhao: Bright, clear, manifest"
+							}
+						]
+					}
+				]
+			}
+			, {
+				"title": "Servant"
+				, "explanation": "These are humble but elegant names."
+				, "givenNames": [{
+						"traditional": "卓子"
+						, "simplified": "卓子"
+						, "gender": "M"
+						, "pinyin": "zhuōzi"
+						, "jyutping": "coek3 zi2"
+						, "romanisations": [{
+								"englishMandarin": "Zhuozi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Zhuo"
+								, "englishCantonese": ""
+								, "meaning": "Zhuo: Outstanding, eminent"
+							}
+							, {
+								"englishMandarin": "Zi"
+								, "englishCantonese": ""
+								, "meaning": "Zi: Child, son, first Earthly branch"
+							}
+						]
+					}
+					, {
+						"traditional": "天寶"
+						, "simplified": "天宝"
+						, "gender": "M"
+						, "pinyin": "tiānbǎo"
+						, "jyutping": "tin1 bou2"
+						, "romanisations": [{
+								"englishMandarin": "Tianbao"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Tian"
+								, "englishCantonese": ""
+								, "meaning": "Tian: Heaven, sky"
+							}
+							, {
+								"englishMandarin": "Bao"
+								, "englishCantonese": ""
+								, "meaning": "Bao: Treasure, gem"
+							}
+						]
+					}
+					, {
+						"traditional": "林三"
+						, "simplified": "林三"
+						, "gender": "M"
+						, "pinyin": "lín sān"
+						, "jyutping": "lam4 saam1"
+						, "romanisations": [{
+								"englishMandarin": "Linsan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Lin"
+								, "englishCantonese": ""
+								, "meaning": "Lin: Forest, jungle"
+							}
+							, {
+								"englishMandarin": "San"
+								, "englishCantonese": ""
+								, "meaning": "San: Three, third"
+							}
+						]
+					}
+					, {
+						"traditional": "來福"
+						, "simplified": "来福"
+						, "gender": "G"
+						, "pinyin": "lái fú"
+						, "jyutping": "lok4 fuk1"
+						, "romanisations": [{
+								"englishMandarin": "Laifu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Lai"
+								, "englishCantonese": ""
+								, "meaning": "Lai: Bring, come"
+							}
+							, {
+								"englishMandarin": "Fu"
+								, "englishCantonese": ""
+								, "meaning": "Fu: Blessing, fortune, luck"
+							}
+						]
+					}
+					, {
+						"traditional": "天玉"
+						, "simplified": "天玉"
+						, "gender": "G"
+						, "pinyin": "tiān yù"
+						, "jyutping": "tin1 juk6"
+						, "romanisations": [{
+								"englishMandarin": "Tianyu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Tian"
+								, "englishCantonese": ""
+								, "meaning": "Tian: Heaven, sky"
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Jade"
+							}
+						]
+					}
+					, {
+						"traditional": "碧痕"
+						, "simplified": "碧痕"
+						, "gender": "G"
+						, "pinyin": "bì hén"
+						, "jyutping": "bik1 han4"
+						, "romanisations": [{
+								"englishMandarin": "Bihen"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Bi"
+								, "englishCantonese": ""
+								, "meaning": "Bi: Green jade, bluish green, blue, jade"
+							}
+							, {
+								"englishMandarin": "Hen"
+								, "englishCantonese": ""
+								, "meaning": "Hen: Scar, mark, traces"
+							}
+						]
+					}
+					, {
+						"traditional": "洗玉"
+						, "simplified": "洗玉"
+						, "gender": "G"
+						, "pinyin": "xǐ yù"
+						, "jyutping": "sai2 juk6"
+						, "romanisations": [{
+								"englishMandarin": "Xiyu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xi"
+								, "englishCantonese": ""
+								, "meaning": "Xi: Wash, bathe"
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Jade"
+							}
+						]
+					}
+					, {
+						"traditional": "茗煙"
+						, "simplified": "茗烟"
+						, "gender": "F"
+						, "pinyin": "míng yān"
+						, "jyutping": "ming5 jin1"
+						, "romanisations": [{
+								"englishMandarin": "Mingyan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ming"
+								, "englishCantonese": ""
+								, "meaning": "Ming: Young tea leaves"
+							}
+							, {
+								"englishMandarin": "Yan"
+								, "englishCantonese": ""
+								, "meaning": "Yan: Mist, smoke, vapour"
+							}
+						]
+					}
+					, {
+						"traditional": "彩霞"
+						, "simplified": "彩霞"
+						, "gender": "F"
+						, "pinyin": "cǎixiá"
+						, "jyutping": "coi2 haa4"
+						, "romanisations": [{
+								"englishMandarin": "Caixia"
+								, "englishCantonese": ""
+								, "meaning": "Caixia: Rosy or pink clouds"
+							}
+							, {
+								"englishMandarin": "Cai"
+								, "englishCantonese": ""
+								, "meaning": "Cai: Colour, applause, cheer, variety"
+							}
+							, {
+								"englishMandarin": "Xia"
+								, "englishCantonese": ""
+								, "meaning": "Xia: Red clouds, sunset glow, sunrise glow"
+							}
+						]
+					}
+					, {
+						"traditional": "桑柔"
+						, "simplified": "桑柔"
+						, "gender": "F"
+						, "pinyin": "sāng róu"
+						, "jyutping": "song1 jau4"
+						, "romanisations": [{
+								"englishMandarin": "Sangrou"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Sang"
+								, "englishCantonese": ""
+								, "meaning": "Sang: White mulberry"
+							}
+							, {
+								"englishMandarin": "Rou"
+								, "englishCantonese": ""
+								, "meaning": "Rou: Soft, supple, flexible"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
