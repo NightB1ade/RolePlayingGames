@@ -4565,6 +4565,241 @@
 					}
 				]
 			}
+			, {
+				"title": "Government Official"
+				, "explanation": "These are names that sound formal and dignified, perfect for people attached to the imperial bureaucracy."
+				, "givenNames": [{
+						"traditional": "少康"
+						, "simplified": "少康"
+						, "gender": "M"
+						, "pinyin": "shǎokāng"
+						, "jyutping": "siu2 hong1"
+						, "romanisations": [{
+								"englishMandarin": "Xiaokang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xiao"
+								, "englishCantonese": ""
+								, "meaning": "Xiao: Small, little"
+							}
+							, {
+								"englishMandarin": "Kong"
+								, "englishCantonese": ""
+								, "meaning": "Kang: Healthy, peaceful, abundant"
+							}
+						]
+					}
+					, {
+						"traditional": "彥豪"
+						, "simplified": "彦豪"
+						, "gender": "M"
+						, "pinyin": "yàn háo"
+						, "jyutping": "jin6 hou4"
+						, "romanisations": [{
+								"englishMandarin": "Yanhao"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yan"
+								, "englishCantonese": ""
+								, "meaning": "Yan: Elegant, accomplished"
+							}
+							, {
+								"englishMandarin": "Hao"
+								, "englishCantonese": ""
+								, "meaning": "Hao: Grand, outstanding, heroic"
+							}
+						]
+					}
+					, {
+						"traditional": "正淳"
+						, "simplified": "正淳"
+						, "gender": "M"
+						, "pinyin": "zhèngchún"
+						, "jyutping": "zing3 seon4"
+						, "romanisations": [{
+								"englishMandarin": "Zhengchun"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Zheng"
+								, "englishCantonese": ""
+								, "meaning": "Zheng: Right, proper, positive, upright"
+							}
+							, {
+								"englishMandarin": "Chun"
+								, "englishCantonese": ""
+								, "meaning": "Chun: Genuine, pure, honest"
+							}
+						]
+					}
+					, {
+						"traditional": "敬宣"
+						, "simplified": "敬宣"
+						, "gender": "G"
+						, "pinyin": "jìng xuān"
+						, "jyutping": "ging3 syun1"
+						, "romanisations": [{
+								"englishMandarin": "Jingxuan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jing"
+								, "englishCantonese": ""
+								, "meaning": "Jing: Respect, venerate, salute, offer"
+							}
+							, {
+								"englishMandarin": "Xuan"
+								, "englishCantonese": ""
+								, "meaning": "Xuan: Announce, declare publicly"
+							}
+						]
+					}
+					, {
+						"traditional": "景瑜"
+						, "simplified": "景瑜"
+						, "gender": "G"
+						, "pinyin": "jǐng yú"
+						, "jyutping": "ging2 jyu4"
+						, "romanisations": [{
+								"englishMandarin": "Jingyu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jing"
+								, "englishCantonese": ""
+								, "meaning": "Jing: Bright, circumstance, scenery"
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Excellence, cluster of gems"
+							}
+						]
+					}
+					, {
+						"traditional": "望舒"
+						, "simplified": "望舒"
+						, "gender": "G"
+						, "pinyin": "wàng shū"
+						, "jyutping": "mong6 syu1"
+						, "romanisations": [{
+								"englishMandarin": "Wangshu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Wang"
+								, "englishCantonese": ""
+								, "meaning": "Wang: Hope, expect, watch, view, gaze"
+							}
+							, {
+								"englishMandarin": "Shu"
+								, "englishCantonese": ""
+								, "meaning": "Shu: Relax, smooth away, smooth down"
+							}
+						]
+					}
+					, {
+						"traditional": "羽豐"
+						, "simplified": "羽丰"
+						, "gender": "G"
+						, "pinyin": "yǔ fēng"
+						, "jyutping": "jyu5 fung1"
+						, "romanisations": [{
+								"englishMandarin": "Yufeng"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Feather"
+							}
+							, {
+								"englishMandarin": "Feng"
+								, "englishCantonese": ""
+								, "meaning": "Feng: Abundant, plentiful, vast, lavish"
+							}
+						]
+					}
+					, {
+						"traditional": "碧君"
+						, "simplified": "碧君"
+						, "gender": "F"
+						, "pinyin": "bì jūn"
+						, "jyutping": "bik1 gwan1"
+						, "romanisations": [{
+								"englishMandarin": "Bijun"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Bi"
+								, "englishCantonese": ""
+								, "meaning": "Bi: Green jade, bluish green, blue, jade"
+							}
+							, {
+								"englishMandarin": "Jun"
+								, "englishCantonese": ""
+								, "meaning": "Jun: Monarch, lord, princess"
+							}
+						]
+					}
+					, {
+						"traditional": "悅暢"
+						, "simplified": "悦畅"
+						, "gender": "F"
+						, "pinyin": "yuè chàng"
+						, "jyutping": "jyut6 coeng3"
+						, "romanisations": [{
+								"englishMandarin": "Yuechang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yue"
+								, "englishCantonese": ""
+								, "meaning": "Yue: Pleased, happy, delighted"
+							}
+							, {
+								"englishMandarin": "Chang"
+								, "englishCantonese": ""
+								, "meaning": "Chang: Smooth, free, fluent, joyful"
+							}
+						]
+					}
+					, {
+						"traditional": "聶青"
+						, "simplified": "聂青"
+						, "gender": "F"
+						, "pinyin": "niè qīng"
+						, "jyutping": "nip6 cing1"
+						, "romanisations": [{
+								"englishMandarin": "Nieqing"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Nie"
+								, "englishCantonese": ""
+								, "meaning": "Nie: Whisper"
+							}
+							, {
+								"englishMandarin": "Qing"
+								, "englishCantonese": ""
+								, "meaning": "Qing: Blue, azure, green, clear"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
