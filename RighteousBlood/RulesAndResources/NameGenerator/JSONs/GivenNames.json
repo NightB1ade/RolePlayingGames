@@ -4095,6 +4095,476 @@
 					}
 				]
 			}
+			, {
+				"title": "Farmer"
+				, "explanation": "These are simple, common names that one would expect to see among ordinary people.  Many emphasize an aspect of nature or hard work that typify farmers."
+				, "givenNames": [{
+						"traditional": "二虎"
+						, "simplified": "二虎"
+						, "gender": "M"
+						, "pinyin": "èr hǔ"
+						, "jyutping": "ji2 fu2"
+						, "romanisations": [{
+								"englishMandarin": "Erhu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Er"
+								, "englishCantonese": ""
+								, "meaning": "Er: Two, second"
+							}
+							, {
+								"englishMandarin": "Hu"
+								, "englishCantonese": ""
+								, "meaning": "Hu: Tiger"
+							}
+						]
+					}
+					, {
+						"traditional": "大業"
+						, "simplified": "大业"
+						, "gender": "M"
+						, "pinyin": "dà yè"
+						, "jyutping": "daai6 jip6"
+						, "romanisations": [{
+								"englishMandarin": "Daye"
+								, "englishCantonese": ""
+								, "meaning": "Daye: Great undertaking, great cause"
+							}
+							, {
+								"englishMandarin": "Da"
+								, "englishCantonese": ""
+								, "meaning": "Da: Great, Grand"
+							}
+							, {
+								"englishMandarin": "Ye"
+								, "englishCantonese": ""
+								, "meaning": "Ye: Industry, business, profession"
+							}
+						]
+					}
+					, {
+						"traditional": "鐵柱"
+						, "simplified": "铁柱"
+						, "gender": "M"
+						, "pinyin": "tiě zhù"
+						, "jyutping": "tit3 cyu5"
+						, "romanisations": [{
+								"englishMandarin": "Tiezhu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Tie"
+								, "englishCantonese": ""
+								, "meaning": "Tie: Iron, indisputable"
+							}
+							, {
+								"englishMandarin": "Zhu"
+								, "englishCantonese": ""
+								, "meaning": "Zhu: Column, pillar, post"
+							}
+						]
+					}
+					, {
+						"traditional": "玉海"
+						, "simplified": "玉海"
+						, "gender": "G"
+						, "pinyin": "yù hǎi"
+						, "jyutping": "juk6 hoi2"
+						, "romanisations": [{
+								"englishMandarin": "Yuhai"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Jade"
+							}
+							, {
+								"englishMandarin": "Hai"
+								, "englishCantonese": ""
+								, "meaning": "Hai: Ocean, sea"
+							}
+						]
+					}
+					, {
+						"traditional": "瓜娃"
+						, "simplified": "瓜娃"
+						, "gender": "G"
+						, "pinyin": "guā wá"
+						, "jyutping": "gwaa1 waa1"
+						, "romanisations": [{
+								"englishMandarin": "Guawa"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Gua"
+								, "englishCantonese": ""
+								, "meaning": "Gua: Melon"
+							}
+							, {
+								"englishMandarin": "Wa"
+								, "englishCantonese": ""
+								, "meaning": "Wa: Baby, doll, child"
+							}
+						]
+					}
+					, {
+						"traditional": "慶有"
+						, "simplified": "庆有"
+						, "gender": "G"
+						, "pinyin": "qìng yǒu"
+						, "jyutping": "hing3 jau5"
+						, "romanisations": [{
+								"englishMandarin": "Qingyou"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Qing"
+								, "englishCantonese": ""
+								, "meaning": "Qing: Celebrate, celebration"
+							}
+							, {
+								"englishMandarin": "You"
+								, "englishCantonese": ""
+								, "meaning": "You: Have, be, exist"
+							}
+						]
+					}
+					, {
+						"traditional": "春喜"
+						, "simplified": "春喜"
+						, "gender": "G"
+						, "pinyin": "chūnxǐ"
+						, "jyutping": "ceon1 hei2"
+						, "romanisations": [{
+								"englishMandarin": "Chunxi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Chun"
+								, "englishCantonese": ""
+								, "meaning": "Chun: Spring, youth"
+							}
+							, {
+								"englishMandarin": "Xi"
+								, "englishCantonese": ""
+								, "meaning": "Xi: Like, be fond of, happy, happiness"
+							}
+						]
+					}
+					, {
+						"traditional": "翠花"
+						, "simplified": "翠花"
+						, "gender": "F"
+						, "pinyin": "cuì huā"
+						, "jyutping": "ceoi3 faa1"
+						, "romanisations": [{
+								"englishMandarin": "Cuihua"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Cui"
+								, "englishCantonese": ""
+								, "meaning": "Cui: Emerald, green, blue-green"
+							}
+							, {
+								"englishMandarin": "Hua"
+								, "englishCantonese": ""
+								, "meaning": "Hua: Flower, blossom, flowery"
+							}
+						]
+					}
+					, {
+						"traditional": "美鳳"
+						, "simplified": "美凤"
+						, "gender": "F"
+						, "pinyin": "měifèng"
+						, "jyutping": "mei5 fung6"
+						, "romanisations": [{
+								"englishMandarin": "Meifeng"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Mei"
+								, "englishCantonese": ""
+								, "meaning": "Mei: Beautiful, good, pretty"
+							}
+							, {
+								"englishMandarin": "Feng"
+								, "englishCantonese": ""
+								, "meaning": "Feng: Phoenix"
+							}
+						]
+					}
+					, {
+						"traditional": "艷紅"
+						, "simplified": "艳红"
+						, "gender": "F"
+						, "pinyin": "yàn hóng"
+						, "jyutping": "jim6 hung4"
+						, "romanisations": [{
+								"englishMandarin": "Yanhong"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yan"
+								, "englishCantonese": ""
+								, "meaning": "Yan: Colourful, gaudy, amorous"
+							}
+							, {
+								"englishMandarin": "Hong"
+								, "englishCantonese": ""
+								, "meaning": "Hong: Red, popular, revolutionary"
+							}
+						]
+					}
+				]
+			}
+			, {
+				"title": "Fisher"
+				, "explanation": "These are simple, common names that one would expect to see among ordinary people.  Many emphasise an aspect of nature, water, rivers, or the ocean that typify fishers."
+				, "givenNames": [{
+						"traditional": "旺發"
+						, "simplified": "旺发"
+						, "gender": "M"
+						, "pinyin": "wàng fā"
+						, "jyutping": "wong6 faat3"
+						, "romanisations": [{
+								"englishMandarin": "Wangfa"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Wang"
+								, "englishCantonese": ""
+								, "meaning": "Wang: Prosperous, flourishing"
+							}
+							, {
+								"englishMandarin": "Fa"
+								, "englishCantonese": ""
+								, "meaning": "Fa: Send out, show, to issue, to develop"
+							}
+						]
+					}
+					, {
+						"traditional": "江濤"
+						, "simplified": "江涛"
+						, "gender": "M"
+						, "pinyin": "jiāngtāo"
+						, "jyutping": "gong1 tou4"
+						, "romanisations": [{
+								"englishMandarin": "Jiangtao"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Jiang"
+								, "englishCantonese": ""
+								, "meaning": "Jiang: River"
+							}
+							, {
+								"englishMandarin": "Tao"
+								, "englishCantonese": ""
+								, "meaning": "Tao: Big wave"
+							}
+						]
+					}
+					, {
+						"traditional": "海仔"
+						, "simplified": "海仔"
+						, "gender": "M"
+						, "pinyin": "hǎi zǐ"
+						, "jyutping": "hoi2 zai2"
+						, "romanisations": [{
+								"englishMandarin": "Haizai"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Hai"
+								, "englishCantonese": ""
+								, "meaning": "Hai: Ocean, sea"
+							}
+							, {
+								"englishMandarin": "Zai"
+								, "englishCantonese": ""
+								, "meaning": "Zai: Young man, child"
+							}
+						]
+					}
+					, {
+						"traditional": "阿波"
+						, "simplified": "阿波"
+						, "gender": "G"
+						, "pinyin": "ābō"
+						, "jyutping": "aa3 bo1"
+						, "romanisations": [{
+								"englishMandarin": "Abo"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "A"
+								, "englishCantonese": ""
+								, "meaning": "A: No meaning"
+							}
+							, {
+								"englishMandarin": "Bo"
+								, "englishCantonese": ""
+								, "meaning": "Bo: Wave, rippled, storm"
+							}
+						]
+					}
+					, {
+						"traditional": "漁歌"
+						, "simplified": "渔歌"
+						, "gender": "G"
+						, "pinyin": "yúgē"
+						, "jyutping": "jyu4 go1"
+						, "romanisations": [{
+								"englishMandarin": "Yuge"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Fish"
+							}
+							, {
+								"englishMandarin": "Ge"
+								, "englishCantonese": ""
+								, "meaning": "Ge: Song"
+							}
+						]
+					}
+					, {
+						"traditional": "舟山"
+						, "simplified": "舟山"
+						, "gender": "G"
+						, "pinyin": "zhōushān"
+						, "jyutping": "zau1 saan1"
+						, "romanisations": [{
+								"englishMandarin": "Zhoushan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Zhou"
+								, "englishCantonese": ""
+								, "meaning": "Zhou: Boat"
+							}
+							, {
+								"englishMandarin": "Shan"
+								, "englishCantonese": ""
+								, "meaning": "Shan: Mountain"
+							}
+						]
+					}
+					, {
+						"traditional": "許河"
+						, "simplified": "许河"
+						, "gender": "G"
+						, "pinyin": "xǔ hé"
+						, "jyutping": "heoi2 ho4"
+						, "romanisations": [{
+								"englishMandarin": "Xuhe"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xu"
+								, "englishCantonese": ""
+								, "meaning": "Xu: Allow, permit, promise"
+							}
+							, {
+								"englishMandarin": "He"
+								, "englishCantonese": ""
+								, "meaning": "He: River"
+							}
+						]
+					}
+					, {
+						"traditional": "海燕"
+						, "simplified": "海燕"
+						, "gender": "F"
+						, "pinyin": "hǎiyàn"
+						, "jyutping": "hoi2 jin3"
+						, "romanisations": [{
+								"englishMandarin": "Haiyan"
+								, "englishCantonese": ""
+								, "meaning": "Haiyan: Storm petrel (bird)"
+							}
+							, {
+								"englishMandarin": "Hai"
+								, "englishCantonese": ""
+								, "meaning": "Hai: Ocean, sea"
+							}
+							, {
+								"englishMandarin": "Yan"
+								, "englishCantonese": ""
+								, "meaning": "Yan: Swallow (bird)"
+							}
+						]
+					}
+					, {
+						"traditional": "綠宛"
+						, "simplified": "绿宛"
+						, "gender": "F"
+						, "pinyin": "lǜ wǎn"
+						, "jyutping": "luk6 jyun2"
+						, "romanisations": [{
+								"englishMandarin": "Luwan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Lu"
+								, "englishCantonese": ""
+								, "meaning": "Lu: Green"
+							}
+							, {
+								"englishMandarin": "Wan"
+								, "englishCantonese": ""
+								, "meaning": "Wan: Winding, similar"
+							}
+						]
+					}
+					, {
+						"traditional": "彩霞"
+						, "simplified": "彩霞"
+						, "gender": "F"
+						, "pinyin": "cǎixiá"
+						, "jyutping": "coi2 haa4"
+						, "romanisations": [{
+								"englishMandarin": "Caixia"
+								, "englishCantonese": ""
+								, "meaning": "Caixia: Rosy or pink clouds"
+							}
+							, {
+								"englishMandarin": "Cai"
+								, "englishCantonese": ""
+								, "meaning": "Cai: Colour, coloured, variety, prize"
+							}
+							, {
+								"englishMandarin": "Xia"
+								, "englishCantonese": ""
+								, "meaning": "Xia: Red clouds, sunset glow, sunrise glow"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
