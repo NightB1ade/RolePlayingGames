@@ -3422,6 +3422,225 @@
 					}
 				]
 			}
+			, {
+				"title": "Detective"
+				, "explanation": "These names conjure the image of an intelligent, free-thinking person."
+				, "givenNames": [{
+						"traditional": "仁傑"
+						, "simplified": "仁杰"
+						, "gender": "M"
+						, "pinyin": "rén jié"
+						, "jyutping": "jan4 git6"
+						, "romanisation": [{
+								"englishMandarin": "Renjie"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ren"
+								, "englishCantonese": ""
+								, "meaning": "Ren: Humane, benevolence"
+							}
+							, {
+								"englishMandarin": "Jie"
+								, "englishCantonese": ""
+								, "meaning": "Jie: Oustanding, prominent, heroic"
+							}
+						]
+					}
+					, {
+						"traditional": "文斌"
+						, "simplified": "文斌"
+						, "gender": "M"
+						, "pinyin": "wén bīn"
+						, "jyutping": "man4 ban1"
+						, "romanisation": [{
+								"englishMandarin": "Wenbin"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Wen"
+								, "englishCantonese": ""
+								, "meaning": "Wen: Language, culture, writing"
+							}
+							, {
+								"englishMandarin": "Bin"
+								, "englishCantonese": ""
+								, "meaning": "Bin: Refined, ornamental"
+							}
+						]
+					}
+					, {
+						"traditional": "睿"
+						, "simplified": "睿"
+						, "gender": "M"
+						, "pinyin": "ruì"
+						, "jyutping": "joei6"
+						, "romanisation": [{
+							"englishMandarin": "Rui"
+							, "englishCantonese": ""
+							, "meaning": "Rui: Astute, perspicacious, intelligent"
+						}]
+					}
+					, {
+						"traditional": "堯知"
+						, "simplified": "尧知"
+						, "gender": "G"
+						, "pinyin": "yáo zhī"
+						, "jyutping": "jiu4 zi1"
+						, "romanisation": [{
+								"englishMandarin": "Yaozhi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yao"
+								, "englishCantonese": ""
+								, "meaning": "Yao: A name"
+							}
+							, {
+								"englishMandarin": "Zhi"
+								, "englishCantonese": ""
+								, "meaning": "Zhi: Know, notify, inform"
+							}
+						]
+					}
+					, {
+						"traditional": "明亮"
+						, "simplified": "明亮"
+						, "gender": "G"
+						, "pinyin": "míngliàng"
+						, "jyutping": "ming4 loeng6"
+						, "romanisation": [{
+								"englishMandarin": "Mingliang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ming"
+								, "englishCantonese": ""
+								, "meaning": "Ming: Brightness, justice, bright, brilliant"
+							}
+							, {
+								"englishMandarin": "Liang"
+								, "englishCantonese": ""
+								, "meaning": "Liang: Bright, light"
+							}
+						]
+					}
+					, {
+						"traditional": "靈華"
+						, "simplified": "灵华"
+						, "gender": "G"
+						, "pinyin": "líng huá"
+						, "jyutping": "ling4 waa4"
+						, "romanisation": [{
+								"englishMandarin": "Linghua"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ling"
+								, "englishCantonese": ""
+								, "meaning": "Ling: Spirit, alert, quick"
+							}
+							, {
+								"englishMandarin": "Hua"
+								, "englishCantonese": ""
+								, "meaning": "Hua: Splendid, beautiful, glorious, China"
+							}
+						]
+					}
+					, {
+						"traditional": "觀微"
+						, "simplified": "观微"
+						, "gender": "G"
+						, "pinyin": "guān wéi"
+						, "jyutping": "gun1 mei4"
+						, "romanisation": [{
+								"englishMandarin": "Guanwei"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Guan"
+								, "englishCantonese": ""
+								, "meaning": "Guan: Watch, observe, view"
+							}
+							, {
+								"englishMandarin": "Wei"
+								, "englishCantonese": ""
+								, "meaning": "Wei: Micro, tiny, minute"
+							}
+						]
+					}
+					, {
+						"traditional": "如歌"
+						, "simplified": "如歌"
+						, "gender": "F"
+						, "pinyin": "rú gē"
+						, "jyutping": "jyu4 go1"
+						, "romanisation": [{
+								"englishMandarin": "Ruge"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ru"
+								, "englishCantonese": ""
+								, "meaning": "Ru: Like, as if"
+							}
+							, {
+								"englishMandarin": "Ge"
+								, "englishCantonese": ""
+								, "meaning": "Ge: Song"
+							}
+						]
+					}
+					, {
+						"traditional": "雨蕁"
+						, "simplified": "雨荨"
+						, "gender": "F"
+						, "pinyin": "yǔ xún"
+						, "jyutping": "jyu5 cam4"
+						, "romanisation": [{
+								"englishMandarin": "Yuxun"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Rain"
+							}
+							, {
+								"englishMandarin": "Xun"
+								, "englishCantonese": ""
+								, "meaning": "Xun: Nettle"
+							}
+						]
+					}
+					, {
+						"traditional": "思思"
+						, "simplified": "思思"
+						, "gender": "F"
+						, "pinyin": "sī sī"
+						, "jyutping": "si1 si1"
+						, "romanisation": [{
+								"englishMandarin": "Sisi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Si"
+								, "englishCantonese": ""
+								, "meaning": "Si: Thought, consider"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
