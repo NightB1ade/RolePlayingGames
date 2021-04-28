@@ -4800,6 +4800,230 @@
 					}
 				]
 			}
+			, {
+				"title": "Loyalist"
+				, "explanation": "These names are perfect for faithful, focused individuals."
+				, "givenNames": [{
+						"traditional": "蘇武"
+						, "simplified": "苏武"
+						, "gender": "M"
+						, "pinyin": "sūwǔ"
+						, "jyutping": "sou1 mou5"
+						, "romanisations": [{
+								"englishMandarin": "Suwu"
+								, "englishCantonese": ""
+								, "meaning": "Su Wu: A famous Chinese statesman from the Han Dynasty"
+							}
+							, {
+								"englishMandarin": ""
+								, "englishCantonese": ""
+								, "meaning": "Su: Recover consciousness, wake, awake"
+							}
+							, {
+								"englishMandarin": ""
+								, "englishCantonese": ""
+								, "meaning": "Wu: Martial, fierce, valiant"
+							}
+						]
+					}
+					, {
+						"traditional": "天祥"
+						, "simplified": "天祥"
+						, "gender": "M"
+						, "pinyin": "tiān xiáng"
+						, "jyutping": "tin1 coeng4"
+						, "romanisations": [{
+								"englishMandarin": "Tianxiang"
+								, "englishCantonese": ""
+								, "meaning": "Tianxiang: Blessed by heaven"
+							}
+							, {
+								"englishMandarin": ""
+								, "englishCantonese": ""
+								, "meaning": "Tian: Heaven, sky"
+							}
+							, {
+								"englishMandarin": ""
+								, "englishCantonese": ""
+								, "meaning": "Xiang: Auspicious, propitious, lucky"
+							}
+						]
+					}
+					, {
+						"traditional": "垣"
+						, "simplified": "垣"
+						, "gender": "M"
+						, "pinyin": "yuán"
+						, "jyutping": "wun4"
+						, "romanisations": [{
+							"englishMandarin": "Yuan"
+							, "englishCantonese": ""
+							, "meaning": "Yuan: Wall, city"
+						}]
+					}
+					, {
+						"traditional": "秦恬"
+						, "simplified": "秦恬"
+						, "gender": "G"
+						, "pinyin": "qín tián"
+						, "jyutping": "coen4 tim4"
+						, "romanisations": [{
+								"englishMandarin": "Qintian"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Qin"
+								, "englishCantonese": ""
+								, "meaning": "Qin: Dynasty name"
+							}
+							, {
+								"englishMandarin": "Tian"
+								, "englishCantonese": ""
+								, "meaning": "Tian: Quiet, calm, tranquil, peaceful"
+							}
+						]
+					}
+					, {
+						"traditional": "田恆"
+						, "simplified": "田恒"
+						, "gender": "G"
+						, "pinyin": "tián héng"
+						, "jyutping": "tin4 hang4"
+						, "romanisations": [{
+								"englishMandarin": "Tianheng"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Tian"
+								, "englishCantonese": ""
+								, "meaning": "Tian: Field, farm"
+							}
+							, {
+								"englishMandarin": "Heng"
+								, "englishCantonese": ""
+								, "meaning": "Heng: Permanent, constant, fixed"
+							}
+						]
+					}
+					, {
+						"traditional": "清風"
+						, "simplified": "清风"
+						, "gender": "G"
+						, "pinyin": "qīngfēng"
+						, "jyutping": "cing1 fung1"
+						, "romanisations": [{
+								"englishMandarin": "Qingfeng"
+								, "englishCantonese": ""
+								, "meaning": "Qingfeng: Cool breeze, pure and honest"
+							}
+							, {
+								"englishMandarin": "Qing"
+								, "englishCantonese": ""
+								, "meaning": "Qing: Bright, clear"
+							}
+							, {
+								"englishMandarin": "Feng"
+								, "englishCantonese": ""
+								, "meaning": "Feng: Wing"
+							}
+						]
+					}
+					, {
+						"traditional": "成信"
+						, "simplified": "成信"
+						, "gender": "G"
+						, "pinyin": "chéng xìn"
+						, "jyutping": "sing4 seon3"
+						, "romanisations": [{
+								"englishMandarin": "Chengxin"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Cheng"
+								, "englishCantonese": ""
+								, "meaning": "Cheng: Succeed, finish, complete, accomplish"
+							}
+							, {
+								"englishMandarin": "Xin"
+								, "englishCantonese": ""
+								, "meaning": "Xin: Confidence, trust, faith"
+							}
+						]
+					}
+					, {
+						"traditional": "魏瓊"
+						, "simplified": "魏琼"
+						, "gender": "F"
+						, "pinyin": "wèi qióng"
+						, "jyutping": "ngai6 king4"
+						, "romanisations": [{
+								"englishMandarin": "Weiqiong"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Wei"
+								, "englishCantonese": ""
+								, "meaning": "Wei: Tower, dynasty/kingdom name"
+							}
+							, {
+								"englishMandarin": "Qiong"
+								, "englishCantonese": ""
+								, "meaning": "Qiong: Jasper, fine jade, beautiful"
+							}
+						]
+					}
+					, {
+						"traditional": "勤思"
+						, "simplified": "勤思"
+						, "gender": "F"
+						, "pinyin": "qín sī"
+						, "jyutping": "kan4 si1"
+						, "romanisations": [{
+								"englishMandarin": "Qinsi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Qin"
+								, "englishCantonese": ""
+								, "meaning": "Qin: Diligent, industrious, thoughtful"
+							}
+							, {
+								"englishMandarin": "Si"
+								, "englishCantonese": ""
+								, "meaning": "Si: Thought, think, consider"
+							}
+						]
+					}
+					, {
+						"traditional": "羽彤"
+						, "simplified": "羽彤"
+						, "gender": "F"
+						, "pinyin": "yǔ tóng"
+						, "jyutping": "jyu5 tung4"
+						, "romanisations": [{
+								"englishMandarin": "Yutong"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Feather"
+							}
+							, {
+								"englishMandarin": "Tong"
+								, "englishCantonese": ""
+								, "meaning": "Tong: Red, scarlet, vermilion, crimson"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
