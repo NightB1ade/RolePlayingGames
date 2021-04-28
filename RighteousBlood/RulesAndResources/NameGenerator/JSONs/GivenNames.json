@@ -3641,6 +3641,242 @@
 					}
 				]
 			}
+			,{
+				"title":"Doctor"
+				,"explanation":"These names conjure a sensation of benevolence, thoughtfulness, and humanity."
+				,"givenNames":[
+					{
+						"traditional": "志卿"
+						, "simplified": "志卿"
+						, "gender": "M"
+						, "pinyin": "zhì qīng"
+						, "jyutping": "zi3 hing1"
+						, "romanisations": [{
+								"englishMandarin": "Zhiqing"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Zhi"
+								, "englishCantonese": ""
+								, "meaning": "Zhi: Annals, record, will"
+							}
+							, {
+								"englishMandarin": "Qing"
+								, "englishCantonese": ""
+								, "meaning": "Qing: Minister"
+							}
+						]
+					}
+					,{
+						"traditional": "華佗"
+						, "simplified": "华佗"
+						, "gender": "M"
+						, "pinyin": "huá tuó"
+						, "jyutping": "waa4 to4"
+						, "romanisations": [{
+								"englishMandarin": "Huatuo"
+								, "englishCantonese": ""
+								, "meaning": "Huatuo: Hua Tuo was a famous doctor during the Han Dynasty"
+							}
+							, {
+								"englishMandarin": "Hua"
+								, "englishCantonese": ""
+								, "meaning": "Hua: Splendid, beautiful, glorious, China"
+							}
+							, {
+								"englishMandarin": "Tuo"
+								, "englishCantonese": ""
+								, "meaning": "Tuo: To carry on the back"
+							}
+						]
+					}
+					,{
+						"traditional": "時珍"
+						, "simplified": "时珍"
+						, "gender": "M"
+						, "pinyin": "shí zhēn"
+						, "jyutping": "si4 zan1"
+						, "romanisations": [{
+								"englishMandarin": "Shizhen"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Shi"
+								, "englishCantonese": ""
+								, "meaning": "Shi: Time, hour, season, period"
+							}
+							, {
+								"englishMandarin": "Zhen"
+								, "englishCantonese": ""
+								, "meaning": "Zhen: Treasure, rare, precious thing, gem"
+							}
+						]
+					}
+					,{
+						"traditional": "思邈"
+						, "simplified": "思邈"
+						, "gender": "G"
+						, "pinyin": "sī miǎo"
+						, "jyutping": "si1 mok6"
+						, "romanisations": [{
+								"englishMandarin": "Simiao"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Si"
+								, "englishCantonese": ""
+								, "meaning": "Si: Thought, think, consider"
+							}
+							, {
+								"englishMandarin": "Miao"
+								, "englishCantonese": ""
+								, "meaning": "Miao: Profound, remote"
+							}
+						]
+					}
+					,{
+						"traditional": "符裳"
+						, "simplified": "符裳"
+						, "gender": "G"
+						, "pinyin": "fú shang"
+						, "jyutping": "fu4 soeng4"
+						, "romanisations": [{
+								"englishMandarin": "Fushang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Fu"
+								, "englishCantonese": ""
+								, "meaning": "Fu: Symbol, talisman, mark, seal"
+							}
+							, {
+								"englishMandarin": "Shang"
+								, "englishCantonese": ""
+								, "meaning": "Shang: Lower garment, skirts"
+							}
+						]
+					}
+					,{
+						"traditional": "於衍"
+						, "simplified": "于衍"
+						, "gender": "G"
+						, "pinyin": "yú yǎn"
+						, "jyutping": "jyu1 jin5"
+						, "romanisations": [{
+								"englishMandarin": "Yuyan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: To go, to take"
+							}
+							, {
+								"englishMandarin": "Yan"
+								, "englishCantonese": ""
+								, "meaning": "Yan: To spread out, develop, amplify"
+							}
+						]
+					}
+					,{
+						"traditional": "程壹"
+						, "simplified": "程一"
+						, "gender": "G"
+						, "pinyin": "chéng yī"
+						, "jyutping": "cing4 jat1"
+						, "romanisations": [{
+								"englishMandarin": "Chengyi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Cheng"
+								, "englishCantonese": ""
+								, "meaning": "Cheng: Rule, order, journey"
+							}
+							, {
+								"englishMandarin": "Yi"
+								, "englishCantonese": ""
+								, "meaning": "Yi: One, first"
+							}
+						]
+					}
+					,{
+						"traditional": "白芷"
+						, "simplified": "白芷"
+						, "gender": "F"
+						, "pinyin": "báizhǐ"
+						, "jyutping": "baak6 zi2"
+						, "romanisations": [{
+								"englishMandarin": "Baizhi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Bai"
+								, "englishCantonese": ""
+								, "meaning": "Bai: White, pure"
+							}
+							, {
+								"englishMandarin": "Zhi"
+								, "englishCantonese": ""
+								, "meaning": "Zhi: Chinese angelica (medicinal plant)"
+							}
+						]
+					}
+					,{
+						"traditional": "鍾秀"
+						, "simplified": "钟秀"
+						, "gender": "F"
+						, "pinyin": "zhōng xiù"
+						, "jyutping": "zung1 sau3"
+						, "romanisations": [{
+								"englishMandarin": "Zhongxiu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Zhong"
+								, "englishCantonese": ""
+								, "meaning": "Zhong: Bell, timepice, chime"
+							}
+							, {
+								"englishMandarin": "Xiu"
+								, "englishCantonese": ""
+								, "meaning": "Xiu: Beautiful, elegant, excellent"
+							}
+						]
+					}
+					,{
+						"traditional": "胡愔"
+						, "simplified": "胡愔"
+						, "gender": "F"
+						, "pinyin": "hú yīn"
+						, "jyutping": "wu4 jam1"
+						, "romanisations": [{
+								"englishMandarin": "Huyin"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Hu"
+								, "englishCantonese": ""
+								, "meaning": "Hu: Reckless, outrageous, beard, foreign"
+							}
+							, {
+								"englishMandarin": "Yin"
+								, "englishCantonese": ""
+								, "meaning": "Yin: Peaceful, solemn"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
