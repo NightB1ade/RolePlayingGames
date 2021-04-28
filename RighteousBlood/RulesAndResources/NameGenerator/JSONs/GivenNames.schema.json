@@ -45,7 +45,7 @@
 									, "gender"
 									, "pinyin"
 									, "jyutping"
-									, "romanisation"
+									, "romanisations"
 								]
 								, "properties": {
 									"traditional": {
@@ -68,7 +68,7 @@
 										"type": "string"
 										, "minLength": 1
 									}
-									, "romanisation": {
+									, "romanisations": {
 										"type": "array"
 										, "title": "Romanisations"
 										, "format": "table"
