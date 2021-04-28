@@ -3641,11 +3641,10 @@
 					}
 				]
 			}
-			,{
-				"title":"Doctor"
-				,"explanation":"These names conjure a sensation of benevolence, thoughtfulness, and humanity."
-				,"givenNames":[
-					{
+			, {
+				"title": "Doctor"
+				, "explanation": "These names conjure a sensation of benevolence, thoughtfulness, and humanity."
+				, "givenNames": [{
 						"traditional": "志卿"
 						, "simplified": "志卿"
 						, "gender": "M"
@@ -3668,7 +3667,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "華佗"
 						, "simplified": "华佗"
 						, "gender": "M"
@@ -3691,7 +3690,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "時珍"
 						, "simplified": "时珍"
 						, "gender": "M"
@@ -3714,7 +3713,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "思邈"
 						, "simplified": "思邈"
 						, "gender": "G"
@@ -3737,7 +3736,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "符裳"
 						, "simplified": "符裳"
 						, "gender": "G"
@@ -3760,7 +3759,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "於衍"
 						, "simplified": "于衍"
 						, "gender": "G"
@@ -3783,7 +3782,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "程壹"
 						, "simplified": "程一"
 						, "gender": "G"
@@ -3806,7 +3805,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "白芷"
 						, "simplified": "白芷"
 						, "gender": "F"
@@ -3829,7 +3828,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "鍾秀"
 						, "simplified": "钟秀"
 						, "gender": "F"
@@ -3852,7 +3851,7 @@
 							}
 						]
 					}
-					,{
+					, {
 						"traditional": "胡愔"
 						, "simplified": "胡愔"
 						, "gender": "F"
@@ -3872,6 +3871,225 @@
 								"englishMandarin": "Yin"
 								, "englishCantonese": ""
 								, "meaning": "Yin: Peaceful, solemn"
+							}
+						]
+					}
+				]
+			}
+			, {
+				"title": "Entertainer"
+				, "explanation": "These are light, creative names that are perfect for everyone from singers, to actors, to courtesans."
+				, "givenNames": [{
+						"traditional": "潤鳴"
+						, "simplified": "润鸣"
+						, "gender": "M"
+						, "pinyin": "rùn míng"
+						, "jyutping": "jeon6 ming4"
+						, "romanisations": [{
+								"englishMandarin": "Runming"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Run"
+								, "englishCantonese": ""
+								, "meaning": "Run: Profit, embellish, moist, smooth"
+							}
+							, {
+								"englishMandarin": "Ming"
+								, "englishCantonese": ""
+								, "meaning": "Ming: Sound, sing, ring"
+							}
+						]
+					}
+					, {
+						"traditional": "一洪"
+						, "simplified": "一洪"
+						, "gender": "M"
+						, "pinyin": "yī hóng"
+						, "jyutping": "jeon6 ming4"
+						, "romanisations": [{
+								"englishMandarin": "Yihong"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yi"
+								, "englishCantonese": ""
+								, "meaning": "Yi: One, first"
+							}
+							, {
+								"englishMandarin": "Hong"
+								, "englishCantonese": ""
+								, "meaning": "Hong: Flood, big, vast"
+							}
+						]
+					}
+					, {
+						"traditional": "嵇康"
+						, "simplified": "嵇康"
+						, "gender": "M"
+						, "pinyin": "jī kāng"
+						, "jyutping": "kai1 hong1"
+						, "romanisations": [{
+								"englishMandarin": "Jikang"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Ji"
+								, "englishCantonese": ""
+								, "meaning": "Ji: Name of a mountain"
+							}
+							, {
+								"englishMandarin": "Kang"
+								, "englishCantonese": ""
+								, "meaning": "Kang: Healthy, peaceful, abundant"
+							}
+						]
+					}
+					, {
+						"traditional": "朝雲"
+						, "simplified": "朝云"
+						, "gender": "G"
+						, "pinyin": "cháo yún"
+						, "jyutping": "ciu4 wan4"
+						, "romanisations": [{
+								"englishMandarin": "Chaoyun"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Chao"
+								, "englishCantonese": ""
+								, "meaning": "Chao: Court, government, dynasty"
+							}
+							, {
+								"englishMandarin": "Yun"
+								, "englishCantonese": ""
+								, "meaning": "Yun: Cloud"
+							}
+						]
+					}
+					, {
+						"traditional": "欣怡"
+						, "simplified": "欣怡"
+						, "gender": "G"
+						, "pinyin": "xīn yí"
+						, "jyutping": "jan1 ji4"
+						, "romanisations": [{
+								"englishMandarin": "Xinyi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xin"
+								, "englishCantonese": ""
+								, "meaning": "Xin: Glad, happy"
+							}
+							, {
+								"englishMandarin": "Yi"
+								, "englishCantonese": ""
+								, "meaning": "Yi: Happy, joyful, harmony"
+							}
+						]
+					}
+					, {
+						"traditional": "笑川"
+						, "simplified": "笑川"
+						, "gender": "G"
+						, "pinyin": "xiào chuān"
+						, "jyutping": "siu3 cyun1"
+						, "romanisations": [{
+								"englishMandarin": "Xiaochuan"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xiao"
+								, "englishCantonese": ""
+								, "meaning": "Xiao: Smile, laugh"
+							}
+							, {
+								"englishMandarin": "Chuan"
+								, "englishCantonese": ""
+								, "meaning": "Chuan: River, plain, Sichuan Province"
+							}
+						]
+					}
+					, {
+						"traditional": "言"
+						, "simplified": "笑川"
+						, "gender": "G"
+						, "pinyin": "yán"
+						, "jyutping": "jin4"
+						, "romanisations": [{
+							"englishMandarin": "Yan"
+							, "englishCantonese": ""
+							, "meaning": "Yan: Words, speech"
+						}]
+					}
+					, {
+						"traditional": "師師"
+						, "simplified": "师师"
+						, "gender": "F"
+						, "pinyin": "shī shī"
+						, "jyutping": "si1 si1"
+						, "romanisations": [{
+								"englishMandarin": "Shishi"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Shi"
+								, "englishCantonese": ""
+								, "meaning": "Shi: Teacher, master, expert"
+							}
+						]
+					}
+					, {
+						"traditional": "鳳仙"
+						, "simplified": "凤仙"
+						, "gender": "F"
+						, "pinyin": "fèng xiān"
+						, "jyutping": "fung6 sin1"
+						, "romanisations": [{
+								"englishMandarin": "Fengxian"
+								, "englishCantonese": ""
+								, "meaning": "Fengxian: Garden balsam"
+							}
+							, {
+								"englishMandarin": "Feng"
+								, "englishCantonese": ""
+								, "meaning": "Feng: Phoenix"
+							}
+							, {
+								"englishMandarin": "Xian"
+								, "englishCantonese": ""
+								, "meaning": "Xian: Immortal"
+							}
+						]
+					}
+					, {
+						"traditional": "藝嘉"
+						, "simplified": "艺嘉"
+						, "gender": "F"
+						, "pinyin": "yì jiā"
+						, "jyutping": "nhai6 gaa1"
+						, "romanisations": [{
+								"englishMandarin": "Yijia"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yi"
+								, "englishCantonese": ""
+								, "meaning": "Yi: Art, skill"
+							}
+							, {
+								"englishMandarin": "Jia"
+								, "englishCantonese": ""
+								, "meaning": "Jia: Fine, good, great, pretty, glorious"
 							}
 						]
 					}
