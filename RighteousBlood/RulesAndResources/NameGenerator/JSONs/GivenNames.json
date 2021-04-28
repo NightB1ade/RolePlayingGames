@@ -5254,6 +5254,241 @@
 					}
 				]
 			}
+			, {
+				"title": "Playboy/Young Master"
+				, "explanation": "These names are generally grandiose and refined."
+				, "givenNames": [{
+						"traditional": "留香"
+						, "simplified": "留香"
+						, "gender": "M"
+						, "pinyin": "liú xiāng"
+						, "jyutping": "lau4 hoeng1"
+						, "romanisations": [{
+								"englishMandarin": "Liuxiang"
+								, "englishCantonese": ""
+								, "meaning": "Liuxiang: The given name of a famous character from wuxia novels, Chu Liuxiang"
+							}
+							, {
+								"englishMandarin": "Liu"
+								, "englishCantonese": ""
+								, "meaning": "Liu: To leave, retain, stay, remain, keep"
+							}
+							, {
+								"englishMandarin": "Xiang"
+								, "englishCantonese": ""
+								, "meaning": "Xiang: Fragrant, aromatic, sweet-smelling"
+							}
+						]
+					}
+					, {
+						"traditional": "樂懷"
+						, "simplified": "乐怀"
+						, "gender": "M"
+						, "pinyin": "lè huái"
+						, "jyutping": "lok6 waai4"
+						, "romanisations": [{
+								"englishMandarin": "Yuehuai"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yue"
+								, "englishCantonese": ""
+								, "meaning": "Yue: Music"
+							}
+							, {
+								"englishMandarin": "Huai"
+								, "englishCantonese": ""
+								, "meaning": "Huai: Bosom, heart, mind"
+							}
+						]
+					}
+					, {
+						"traditional": "尋歡"
+						, "simplified": "寻欢"
+						, "gender": "M"
+						, "pinyin": "xún huān"
+						, "jyutping": "cam4 fun1"
+						, "romanisations": [{
+								"englishMandarin": "Xunhuan"
+								, "englishCantonese": ""
+								, "meaning": "Xunhuan: Seek pleasure, frolic"
+							}
+							, {
+								"englishMandarin": "Xun"
+								, "englishCantonese": ""
+								, "meaning": "Xun: Seek, search"
+							}
+							, {
+								"englishMandarin": "Huan"
+								, "englishCantonese": ""
+								, "meaning": "Huan: Joyous, merry, jubilant"
+							}
+						]
+					}
+					, {
+						"traditional": "子瑜"
+						, "simplified": "子瑜"
+						, "gender": "G"
+						, "pinyin": "zi yú"
+						, "jyutping": "zi2 jyu4"
+						, "romanisations": [{
+								"englishMandarin": "Ziyu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Zi"
+								, "englishCantonese": ""
+								, "meaning": "Zi: Child, son, first Earthly branch"
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Excellence, cluster of gems"
+							}
+						]
+					}
+					, {
+						"traditional": "滿天"
+						, "simplified": "满天"
+						, "gender": "G"
+						, "pinyin": "mǎn tiān"
+						, "jyutping": "mun5 tin1"
+						, "romanisations": [{
+								"englishMandarin": "Mantian"
+								, "englishCantonese": ""
+								, "meaning": "Mantian: Filling the whole sky, boundless, limitless, everywhere"
+							}
+							, {
+								"englishMandarin": "Man"
+								, "englishCantonese": ""
+								, "meaning": "Man: Overflow, inundate, be everywhere"
+							}
+							, {
+								"englishMandarin": "Tian"
+								, "englishCantonese": ""
+								, "meaning": "Tian: Heaven, sky"
+							}
+						]
+					}
+					, {
+						"traditional": "於彤"
+						, "simplified": "于彤"
+						, "gender": "G"
+						, "pinyin": "yú tóng"
+						, "jyutping": "jyu1 tung4"
+						, "romanisations": [{
+								"englishMandarin": "Yutong"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: To go, to take"
+							}
+							, {
+								"englishMandarin": "Tong"
+								, "englishCantonese": ""
+								, "meaning": "Tong: Red, scarlet, vermilion, crimson"
+							}
+						]
+					}
+					, {
+						"traditional": "林楓"
+						, "simplified": "林枫"
+						, "gender": "G"
+						, "pinyin": "línfēng"
+						, "jyutping": "lam4 fung1"
+						, "romanisations": [{
+								"englishMandarin": "Linfeng"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Lin"
+								, "englishCantonese": ""
+								, "meaning": "Lin: Forest, jungle"
+							}
+							, {
+								"englishMandarin": "Feng"
+								, "englishCantonese": ""
+								, "meaning": "Feng: Tree name, maple"
+							}
+						]
+					}
+					, {
+						"traditional": "心念"
+						, "simplified": "心念"
+						, "gender": "F"
+						, "pinyin": "xīn niàn"
+						, "jyutping": "sam1 nim6"
+						, "romanisations": [{
+								"englishMandarin": "Xin’nian"
+								, "englishCantonese": ""
+								, "meaning": "Xin’nian: Idea, thought, aspiration"
+							}
+							, {
+								"englishMandarin": "Xin"
+								, "englishCantonese": ""
+								, "meaning": "Xin: Heart, mind"
+							}
+							, {
+								"englishMandarin": "Nian"
+								, "englishCantonese": ""
+								, "meaning": "Nian: Thought, idea"
+							}
+						]
+					}
+					, {
+						"traditional": "蕭玉"
+						, "simplified": "萧玉"
+						, "gender": "F"
+						, "pinyin": "xiāo yù"
+						, "jyutping": "siu1 juk6"
+						, "romanisations": [{
+								"englishMandarin": "Xiaoyu"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xiao"
+								, "englishCantonese": ""
+								, "meaning": "Xiao: Bleak, dreary, desolate"
+							}
+							, {
+								"englishMandarin": "Yu"
+								, "englishCantonese": ""
+								, "meaning": "Yu: Jade"
+							}
+						]
+					}
+					, {
+						"traditional": "星兒"
+						, "simplified": "星儿"
+						, "gender": "F"
+						, "pinyin": "xīng er"
+						, "jyutping": "sing1 ji4"
+						, "romanisations": [{
+								"englishMandarin": "Xinger"
+								, "englishCantonese": ""
+								, "meaning": ""
+							}
+							, {
+								"englishMandarin": "Xing"
+								, "englishCantonese": ""
+								, "meaning": "Xing: Star, heavenly body"
+							}
+							, {
+								"englishMandarin": "Er"
+								, "englishCantonese": ""
+								, "meaning": "Er: Child, son, or a sound word"
+							}
+						]
+					}
+				]
+			}
 		]
 	}
 ]
