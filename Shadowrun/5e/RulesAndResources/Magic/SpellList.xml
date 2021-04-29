@@ -1406,7 +1406,7 @@ Invisibility affects the minds of viewers. Improved Invisibility mimics the subj
 	<Effects>Direct</Effects>
 	<Type>M</Type>
 	<Range>T</Range>
-	<Damage>P</Damage>
+	<Damage>S</Damage>
 	<Duration>I</Duration>
 	<Drain>F-6</Drain>
 	<Source>Core</Source>
