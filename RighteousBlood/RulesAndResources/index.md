@@ -6,6 +6,7 @@
 [NPC Chinese Characters](NPCChineseCharacters.html)  
 [NPC Stats](NPCStats.html)  
 [Roll Difficulty Tables](RollDifficultyTables.html)  
+[Roll20 Macros](Roll20Macros.html)  
 [Top Ten](TopTen.html)  
 
 # Name Generators
