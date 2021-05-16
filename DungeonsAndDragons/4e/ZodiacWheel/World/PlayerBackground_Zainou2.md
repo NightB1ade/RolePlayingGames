@@ -1,5 +1,5 @@
 ---
-title: ZaiNou’s Background
+title: Zainou’s Background
 ---
 
 # 徐濟努 (ceoi4 zai3 nou5)
