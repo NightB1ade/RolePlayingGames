@@ -13,6 +13,7 @@
 
 [Saan’s Background](World/PlayerBackground_Saan.html)  
 [Tenmei’s Background](World/PlayerBackground_Tenmei.html)  
+[ZaiNou’s Background](World/PlayerBackground_ZaiNou.html)  
 
 # House Rules
 
