@@ -1,8 +1,7 @@
 ---
 title: Daoist Priest/Nun Generator
+jQueryHead: true
 ---
-
-{% include jQuery.html %}
 
 <table>
 	<tr>

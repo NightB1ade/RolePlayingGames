@@ -1,8 +1,7 @@
 ---
 title: Name Generator
+jQueryHead: true
 ---
-
-{% include jQuery.html %}
 
 # Configuration
 

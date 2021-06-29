@@ -1,8 +1,7 @@
 ---
 title: Spell Search
+jQueryHead: true
 ---
-
-{% include jQuery.html %}
 
 <table>
 <tr>
