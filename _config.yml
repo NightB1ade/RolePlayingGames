@@ -5,6 +5,13 @@ titles_from_headings:
 defaults:
     -
         scope:
+            path: BandOfBlades/TheRoadToSkydaggerKeep
+        values:
+            rpgtitle: The Road to Skydagger Keep
+            rpgdescription: A Band of Blades Game
+            rpgrootlink: BandOfBlades/TheRoadToSkydaggerKeep/
+    -
+        scope:
             path: DungeonsAndDragons/4e/ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
