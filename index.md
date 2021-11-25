@@ -48,3 +48,4 @@
 # Generic Resources
 
 [Fantasy Name Generator](http://www.fantasynamegenerators.com/){:target="_blank"}  
+[Miscellaneous Group Assets](https://github.com/NightB1ade/RolePlayingGames/tree/master/GroupAssets){:target="_blank"}  
