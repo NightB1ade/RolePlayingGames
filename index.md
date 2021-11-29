@@ -1,6 +1,12 @@
 ---
 ---
 
+# 13th Age
+
+[Rules and Resources](13thAge/RulesAndResources/)  
+
+---
+
 # Band of Blades
 
 [The Road to Skydagger Keep](BandOfBlades/TheRoadToSkydaggerKeep/)  
