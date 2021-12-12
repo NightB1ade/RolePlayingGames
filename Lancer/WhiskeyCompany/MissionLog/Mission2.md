@@ -273,3 +273,45 @@ Delivered by Commander Seo-Hyun Park
 - Call in evac and are picked up by the BDF and taken to their moonbase
 
 # Downtime
+
+The team has been left to their own devices on the BDF moon base
+- The BDF officer corp are rather standoffish with their Union counterparts but the soldiers are friendly
+- The Thermopylae is still on its recon mission and hasn’t messaged in some time
+- The base serves as a low gravity, non-atmospheric resupply base for the Borean Navy and houses a small garrison
+- Mostly underground tunnels connecting sealed surface structures
+
+Over the next week, without any word from the Thermopylae the team enjoys some downtime
+- Mirbana spends some time schmoozing with the local troops and gets friendly with a BDF captain, Alexandra Ritter
+- Benno tries to get into the mech engineering area to look at his AI but is sent away by the locals
+	- He ends up drinking with Gethin who has been trying to get some more info on the Aun
+- Basco crashes from his drug induced high and when he recovers spends some time working on his drone
+- Aeric tries to spread the way of Union amongst the BDF troops
+
+After about a week and a half the team receive messages to your personal terminals, a group message inviting them to come to hangar bay 3 to meet the head mech mechanic
+- Entering the hangar they find 5 incomplete mechs lined up along the wall, metal walkways give access to the top
+- There are teams of mechanics working on them, assembling them from printed parts
+	- In front of the nearest mech a woman in heavily stained overalls is shouting up at the mechanics on its hull
+- Noticing you enter she turns and waves you over
+- She introduces herself as Yukina and is very excited about working on their new frames
+
+She gives them a tour of the new mechs
+- IPS-N Tortuga - Basco
+	- Hulking humanoid mech, standing around 20ft tall and covered in armour plates
+	> This beast is the IPS-N Tortuga.  Kind of simple compared to some of the others we’re building here, just armour plating and shrapnel but it’s my favourite, just don’t tell anyone.  She’s designed to breach and clear ship hangars and spinal columns and she is damn good at it, you do not want to be at the wrong end of this baby trust me
+
+- HA Sherman - Gethin
+	- A shorter humanoid mech with a boxy torso and large head
+	- The mechanics are installing a long gun onto its shoulder
+	> The Harrison Armoury Sherman, so common we even see them out here.  There’s a reason they’re so ubiquitous though, versatile, easy to repair and mounting Harrison’s extremely effective ZF4 SOLIDCORE beam weapon as standard.  The team is just hooking it up to the reactor now.
+
+- IPS-N Lancaster - Benno
+	- A Quadruped with a rectangular boxy form
+	> This one is a classic, the IPS-N Lancaster.  Driven a few of these myself over the years, engineers are more important than soldiers on the battlefield after all.  Although I might be a bit biased there.  Don’t let the ancient design fool you, these things are incredibly reliable and can mount some cutting edge repair tech.
+
+- SSC Mourning Cloak - Aeric
+	- A slim humanoid mech with long limbs
+	> Now this one, this one is probably the most exquisitely precise thing I’ve ever had to build.  This is the SSC Mourning Cloak and I’ve never seen anything like it, the design tolerances are to the micrometre, I’ve had to print new tools just to put it together.  Apparently the reason for all this is their proprietary EX slipstream module, damn thing’s a black box, I’ve no idea what’s in it and I watched the printer fucking build it!  But it’s supposed to enable nanosecond duration entry into blinkspace, so you’ll fucking teleport. I’ll believe that when I see it!
+
+- HA Saladin - Mirbana
+	- A heavily built humanoid mech, much less angular than the Tortuga
+	> Last but certainly not least, the Harrison Armoury Saladin.  Big Sal here has more shielding systems than most corvettes, including a hard light system reverse engineered from stolen Aun tech.  We’re still fiddling with the tachyon shield, calibrating a system that’s moving FTL is quite the challenge.
