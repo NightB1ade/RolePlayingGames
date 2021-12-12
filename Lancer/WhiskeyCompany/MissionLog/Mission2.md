@@ -28,8 +28,6 @@ Delivered by Commander Seo-Hyun Park
 - Expected smuggling - weapons, ship parts, scrap metal, debris metal
 - Not overly ‘scary’ but criminal actions
 
-<!-- -->
-
 # Mission
 
 - Borea is very green
