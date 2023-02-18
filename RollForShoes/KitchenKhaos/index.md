@@ -4,8 +4,8 @@
 {% include back_to_rpg_index.md %}
 
 # Rules
-1. Say what you do and roll a number of D6s, determined by the level of relevant skill you have
-1. If the sum of your roll is higher than the opposing roll, the thing you wanted to happen, happens
+1. Say what you do and roll a number of d6s, determined by the level of relevant skill you have
+1. If you roll a 6, the thing you wanted to happen, happens
 1. At start, you have only one skill: _Do Anything 1_
 1. If you roll all sixes, you get a new skill specific to the action, one level higher than the one you used
 1. For every roll you fail, you get 1 XP
