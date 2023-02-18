@@ -79,6 +79,13 @@ defaults:
             rpgrootlink: RighteousBlood/RulesAndResources/
     -
         scope:
+            path: RollForShoes/KitchenKhaos
+        values:
+            rpgtitle: "Roll for Shoes: Kitchen Khaos"
+            rpgdescription: Courtly servants rush to prepare and serve a fantastical feast.
+            rpgrootlink: RollForShoes/KitchenKhaos/
+    -
+        scope:
             path: Shadowrun/5e/LoneStar
         values:
             rpgtitle: Lone Star
