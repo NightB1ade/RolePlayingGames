@@ -207,7 +207,7 @@ As we still haven’t found dried fruit we do that as it’s in the oven Flagsta
 	> “Only if the king dies from eating this!” reassures Flagstaff
 
 - It does not reassure them
-	> “I think it is done!” says Randwulf, “a wizard knows when something is vaguely cooked, it’s a skill wizards have”
+	> “I think it is done!” says Randwulf, “A wizard knows when something is vaguely cooked, it’s a skill wizards have”
 
 <!-- -->
 
@@ -334,12 +334,13 @@ We’ve already done this
 
 ### Card 4: Parlour Trick
 
-The trick is I’ve already covered that card!
+> “The trick is I’ve already covered that card!”
+
 - Throws card away
 
-### CCard 5: Ad-lib Lines, Talk Around Drugs
+### Card 5: Ad-lib Lines, Talk Around Drugs
 
-And we feel very strongly around drugs in this country’ turning to Flagstaff
+> “And we feel very strongly around drugs in this country” turning to Flagstaff
 
 > “I’ve noticed that people seem to get very queasy if they take drugs straight after eating, so it is important to allow good digestion time before consuming drugs, like waiting an hour after eating to swim”
 
