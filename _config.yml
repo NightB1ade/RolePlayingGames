@@ -7,7 +7,7 @@ defaults:
         scope:
             path: 13thAge/RulesAndResources
         values:
-            rpgtitle: 13th Age Rules and Resources
+            rpgtitle: "13th Age: Rules and Resources"
             rpgdescription: Various Resources for 13th Age
             rpgrootlink: 13thAge/RulesAndResources
     -
@@ -34,7 +34,7 @@ defaults:
         scope:
             path: DungeonsAndDragons/4e/RulesAndResources
         values:
-            rpgtitle: D&D4e Rules and Resources
+            rpgtitle: "D&D4e: Rules and Resources"
             rpgdescription: Various Resources for D&D4e
             rpgrootlink: DungeonsAndDragons/4e/RulesAndResources/
     -
@@ -74,7 +74,7 @@ defaults:
         scope:
             path: RighteousBlood/RulesAndResources
         values:
-            rpgtitle: Righteous Blood Rules and Resources
+            rpgtitle: "Righteous Blood: Rules and Resources"
             rpgdescription: Wuxia Roleplaying Quick Reference
             rpgrootlink: RighteousBlood/RulesAndResources/
     -
@@ -107,6 +107,6 @@ defaults:
         scope:
             path: Shadowrun/5e/RulesAndResources
         values:
-            rpgtitle: Shadowrun 5e Rules and Resources
+            rpgtitle: "Shadowrun 5e: Rules and Resources"
             rpgdescription: Our Summary of SR5e Rules
             rpgrootlink: Shadowrun/5e/RulesAndResources/
