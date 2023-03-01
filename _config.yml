@@ -9,7 +9,7 @@ defaults:
         values:
             rpgtitle: "13th Age: Rules and Resources"
             rpgdescription: Various Resources for 13th Age
-            rpgrootlink: 13thAge/RulesAndResources
+            rpgrootlink: 13thAge/RulesAndResources/
     -
         scope:
             path: BandOfBlades/TheRoadToSkydaggerKeep
