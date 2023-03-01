@@ -48,6 +48,8 @@
 
 [Kitchen Khaos](RollForShoes/KitchenKhaos/)  
 
+[Blank Party Notes including Basic Rules](https://docs.google.com/document/d/1FWDlNGcke2Vv8XcSn0HV5Ga5lJi0O6YYcvIlvnS6orU/edit){:target="_blank"}  
+
 ---
 
 # Shadowrun
