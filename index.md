@@ -65,6 +65,8 @@
 
 # Wrath and Glory
 
+[Hunt the Heretek](WrathAndGlory/HuntTheHeretek/)  
+
 [Rules and Resources](WrathAndGlory/RulesAndResources/)  
 
 ---

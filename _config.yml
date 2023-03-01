@@ -126,6 +126,13 @@ defaults:
             rpgrootlink: Shadowrun/5e/RulesAndResources/
     -
         scope:
+            path: WrathAndGlory/HuntTheHeretek
+        values:
+            rpgtitle: Hunt the Heretek
+            rpgdescription: A Wrath and Glory game about the dregs of an Inquisitor’s retinue being sent off to survive
+            rpgrootlink: WrathAndGlory/HuntTheHeretek/
+    -
+        scope:
             path: WrathAndGlory/RulesAndResources
         values:
             rpgtitle: "Wrath and Glory: Rules and Resources"
