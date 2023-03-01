@@ -63,6 +63,12 @@
 
 ---
 
+# Wrath and Glory
+
+[Rules and Resources](WrathAndGlory/RulesAndResources/)  
+
+---
+
 # Generic Resources
 
 [Fantasy Name Generator](http://www.fantasynamegenerators.com/){:target="_blank"}  
