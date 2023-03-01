@@ -12,6 +12,13 @@ defaults:
             rpgrootlink: 13thAge/RulesAndResources/
     -
         scope:
+            path: 13thAge/IlmatrasLastHope
+        values:
+            rpgtitle: Ilmatra’s Last Hope
+            rpgdescription: A 13th Age Horror Game
+            rpgrootlink: 13thAge/IlmatrasLastHope/
+    -
+        scope:
             path: BandOfBlades/TheRoadToSkydaggerKeep
         values:
             rpgtitle: The Road to Skydagger Keep

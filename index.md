@@ -5,6 +5,8 @@
 
 [Rules and Resources](13thAge/RulesAndResources/)  
 
+[Ilmatra’s (Last) Hope](13thAge/IlmatrasLastHope/)  
+
 [Side Campaign Party Notes](https://docs.google.com/document/d/1y1qgnhn5zf1lxn1s-mFy0_d5IbN8AsIHSr7gWn3oyYo/edit#heading=h.vrn9mikw9ngz){:target="_blank"}  
 
 ---
