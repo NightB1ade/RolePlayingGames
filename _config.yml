@@ -59,6 +59,13 @@ defaults:
             backlink: ./
     -
         scope:
+            path: Lancer/OperationSolsticeRain
+        values:
+            rpgtitle: Operation Solstice Rain
+            rpgdescription: A Lancer side game
+            rpgrootlink: Lancer/OperationSolsticeRain/
+    -
+        scope:
             path: Lancer/WhiskeyCompany
         values:
             rpgtitle: Whiskey Company

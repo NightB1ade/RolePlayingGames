@@ -32,6 +32,7 @@
 
 # Lancer
 
+[Operation Solstice Rain](Lancer/OperationSolsticeRain/)  
 [Whiskey Company](Lancer/WhiskeyCompany/)  
 
 ---
