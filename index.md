@@ -66,7 +66,7 @@
 
 # Wrath and Glory
 
-[Hunt the Heretek](WrathAndGlory/HuntTheHeretek/)  
+[Gacromos Heresy](WrathAndGlory/GacromosHeresy/)  
 
 [Rules and Resources](WrathAndGlory/RulesAndResources/)  
 

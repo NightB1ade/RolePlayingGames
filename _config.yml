@@ -133,11 +133,11 @@ defaults:
             rpgrootlink: Shadowrun/5e/RulesAndResources/
     -
         scope:
-            path: WrathAndGlory/HuntTheHeretek
+            path: WrathAndGlory/GacromosHeresy
         values:
-            rpgtitle: Hunt the Heretek
-            rpgdescription: A Wrath and Glory game about the dregs of an Inquisitor’s retinue being sent off to survive
-            rpgrootlink: WrathAndGlory/HuntTheHeretek/
+            rpgtitle: Gacromos Heresy
+            rpgdescription: A Wrath and Glory game about the dregs of an Inquisitor’s retinue being sent off to hunt a heretek
+            rpgrootlink: WrathAndGlory/GacromosHeresy/
     -
         scope:
             path: WrathAndGlory/RulesAndResources
