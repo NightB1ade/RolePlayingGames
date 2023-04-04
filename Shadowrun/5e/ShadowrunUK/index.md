@@ -32,6 +32,7 @@
 
 [Assets](https://github.com/NightB1ade/RolePlayingGames/tree/master/Shadowrun/5e/ShadowrunUK/Assets){:target="_blank"}  
 [Party Notes](https://docs.google.com/document/d/17Ya2TPFLWeSvU2fiTV72KMWzybjQixAcTqo4kDByZGE/edit){:target="_blank"}  
+[Party Notes: Backup Copy 04/04/2023](PartyNotes_BackupCopy_2023_04_04.html){:target="_blank"}  
 
 [Dunkelzahn’s Will](http://shadowrun.wikia.com/wiki/Dunkelzahn%27s_Will){:target="_blank"}  
 
