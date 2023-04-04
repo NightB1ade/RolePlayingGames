@@ -20,6 +20,7 @@
 [Berlin History](World/BerlinHistory.html)  
 [Clarifications](World/Clarifications.html)  
 
+[Jack’s Background](World/PlayerCharacter_Jack.html)  
 [Sanguine’s Background](World/PlayerCharacter_Sanguine.html)  
 
 # Miscellaneous
