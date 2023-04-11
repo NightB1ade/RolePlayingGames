@@ -1,5 +1,6 @@
 ---
 title: NPC Stats
+layout: default_old
 ---
 
 # Unlevelled Characters

@@ -1,5 +1,6 @@
 ---
 title: Seb ‘Polecat’ Stephens
+layout: default_old
 ---
 
 # Description

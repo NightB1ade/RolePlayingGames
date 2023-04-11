@@ -1,5 +1,6 @@
 ---
 title: Games Master Dice Pools
+layout: default_old
 ---
 
 # Dice Pools

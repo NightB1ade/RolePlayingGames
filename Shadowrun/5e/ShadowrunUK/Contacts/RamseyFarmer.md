@@ -1,5 +1,6 @@
 ---
 title: Ramsey ‘Gear Monkey’ Farmer
+layout: default_old
 ---
 
 # Description

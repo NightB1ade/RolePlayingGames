@@ -1,5 +1,6 @@
 ---
 title: NPC Chinese Characters
+layout: default_old
 ---
 
 | English                                               |       繁       |       简       | Pinyin                   | Jyutping                              |

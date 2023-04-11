@@ -1,5 +1,6 @@
 ---
 title: Marc MacPhairce
+layout: default_old
 ---
 
 # Description

@@ -1,5 +1,6 @@
 ---
 title: Matrix Device Ratings
+layout: default_old
 ---
 
 | Device Type   | Rating | Examples                                                                                                                   |

@@ -1,5 +1,6 @@
 ---
 title: Zainou’s Background
+layout: default_old
 ---
 
 # 徐濟努 (ceoi4 zai3 nou5)

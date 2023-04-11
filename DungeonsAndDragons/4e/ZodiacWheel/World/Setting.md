@@ -1,5 +1,6 @@
 ---
 title: World Setting
+layout: default_old
 ---
 
 # Gods

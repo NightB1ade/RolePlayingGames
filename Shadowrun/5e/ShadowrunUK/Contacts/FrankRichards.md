@@ -1,5 +1,6 @@
 ---
-title: Frank Ricahrds
+title: Frank Richards
+layout: default_old
 ---
 
 # Description

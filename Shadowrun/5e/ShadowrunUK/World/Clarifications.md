@@ -1,5 +1,6 @@
 ---
 title: Clarifications
+layout: default_old
 ---
 
 # Clarifications

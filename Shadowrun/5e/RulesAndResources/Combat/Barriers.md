@@ -1,5 +1,6 @@
 ---
 title: Barriers
+layout: default_old
 ---
 
 | Barrier                                                                                | Structure | Armour |

@@ -1,6 +1,7 @@
 ---
 title: Name Generator
 jQueryHead: true
+layout: default_old
 ---
 
 # Configuration

@@ -1,5 +1,6 @@
 ---
 title: SWATing Up
+layout: default_old
 ---
 
 # Friend of a friend of a friend

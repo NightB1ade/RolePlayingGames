@@ -1,5 +1,6 @@
 ---
 title: Session 7
+layout: default_old
 ---
 
 In the dining room Marco drops down into a corner in exhaustion as the party attempts to catch their breath

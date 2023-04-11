@@ -1,5 +1,6 @@
 ---
 title: Sensors and Scanners
+layout: default_old
 ---
 
 # Lighting

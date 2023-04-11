@@ -1,5 +1,6 @@
 ---
 title: Mission 4
+layout: default_old
 ---
 
 It has been 5 years since the fall of Borea, but only 6 months have passed subjectively for the crew of the Thermopylae.

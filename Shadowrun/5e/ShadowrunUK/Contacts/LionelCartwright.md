@@ -1,5 +1,6 @@
 ---
 title: Lionel ‘Haematoma’ Cartwright
+layout: default_old
 ---
 
 # Description

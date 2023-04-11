@@ -1,5 +1,6 @@
 ---
 title: Session 13
+layout: default_old
 ---
 
 With the catacombs cleared out, the party plans their next move

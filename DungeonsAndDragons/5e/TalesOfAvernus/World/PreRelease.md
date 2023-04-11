@@ -1,5 +1,6 @@
 ---
 title: Pre-Release for Descent Into Avernus
+layout: default_old
 ---
 
 # Type

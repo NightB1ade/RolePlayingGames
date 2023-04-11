@@ -1,5 +1,6 @@
 ---
 title: Taylor Hamilton
+layout: default_old
 ---
 
 # Description

@@ -1,5 +1,6 @@
 ---
 title: Swimming
+layout: default_old
 ---
 
 - Swimming is a Complex action

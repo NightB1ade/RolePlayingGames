@@ -1,5 +1,6 @@
 ---
 title: Mission 1
+layout: default_old
 ---
 
 # Briefing

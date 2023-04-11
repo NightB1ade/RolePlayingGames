@@ -1,5 +1,6 @@
 ---
 title: Isaak Wendland
+layout: default_old
 ---
 
 # Description

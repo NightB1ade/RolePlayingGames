@@ -1,5 +1,6 @@
 ---
 title: Saan’s Background
+layout: default_old
 ---
 
 # 山崩 (saan1 bang1)

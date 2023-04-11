@@ -1,5 +1,6 @@
 ---
 title: Running
+layout: default_old
 ---
 
 - Running skill is used to take the sprint action

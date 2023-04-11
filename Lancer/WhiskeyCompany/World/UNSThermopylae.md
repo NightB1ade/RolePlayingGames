@@ -1,5 +1,6 @@
 ---
 title: UNS Thermopylae
+layout: default_old
 ---
 
 # Specifications

@@ -1,6 +1,7 @@
 ---
 title: Spell Search
 jQueryHead: true
+layout: default_old
 ---
 
 <table>

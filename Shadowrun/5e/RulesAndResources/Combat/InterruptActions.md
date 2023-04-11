@@ -1,5 +1,6 @@
 ---
 title: Interrupt Actions
+layout: default_old
 ---
 
 - These are actions that may be taken outside of a character's turn at the cost of some of their initiative. They may only be taken if the character has enough remaining initiative to pay the price of the action.

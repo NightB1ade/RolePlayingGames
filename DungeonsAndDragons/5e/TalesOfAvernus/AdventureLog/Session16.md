@@ -1,5 +1,6 @@
 ---
 title: Session 16
+layout: default_old
 ---
 
 Marco’s tiny hut provides a cramped but uneventful rest for the party

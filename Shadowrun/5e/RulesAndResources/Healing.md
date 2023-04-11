@@ -1,5 +1,6 @@
 ---
 title: Healing
+layout: default_old
 ---
 
 # First Aid

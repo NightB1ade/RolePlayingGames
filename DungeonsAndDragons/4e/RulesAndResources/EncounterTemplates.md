@@ -1,5 +1,6 @@
 ---
 title: Encounter Templates
+layout: default_old
 ---
 
 # Battlefield Control

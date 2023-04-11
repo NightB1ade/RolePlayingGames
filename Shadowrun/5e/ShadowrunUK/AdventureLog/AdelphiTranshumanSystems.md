@@ -1,5 +1,6 @@
 ---
 title: Adelphi Transhuman Systems
+layout: default_old
 ---
 
 # Better Out than In

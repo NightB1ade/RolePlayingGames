@@ -1,6 +1,7 @@
 ---
 title: Contacts
 pagetype: index
+layout: default_old
 ---
 
 | Name                                       | Title                   | Metatype      |  C  |           L            | Notes                               | Player         |

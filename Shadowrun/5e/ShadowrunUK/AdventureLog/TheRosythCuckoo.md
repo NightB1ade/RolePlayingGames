@@ -1,5 +1,6 @@
 ---
 title: The Rosyth Cuckoo
+layout: default_old
 ---
 
 # If It Survives One Rocket, Shoot Another One

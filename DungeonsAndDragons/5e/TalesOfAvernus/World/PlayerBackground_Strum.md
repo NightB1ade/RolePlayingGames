@@ -1,5 +1,6 @@
 ---
 title: Strum’s Background
+layout: default_old
 ---
 
 # First Memories

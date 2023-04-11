@@ -1,5 +1,6 @@
 ---
 title: Metatypes
+layout: default_old
 ---
 
 | Metatype | Av. Height | Av. Weight | Av. Lifespan           |

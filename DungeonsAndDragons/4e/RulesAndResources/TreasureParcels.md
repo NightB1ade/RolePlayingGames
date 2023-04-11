@@ -1,5 +1,6 @@
 ---
 title: Treasure Parcels
+layout: default_old
 ---
 
 # Magic Items per Level

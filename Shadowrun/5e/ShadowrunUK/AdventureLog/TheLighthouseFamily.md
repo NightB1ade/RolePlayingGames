@@ -1,5 +1,6 @@
 ---
 title: The Lighthouse Family
+layout: default_old
 ---
 
 # I’m Sorry Loki, but your Van is in Another Garage!

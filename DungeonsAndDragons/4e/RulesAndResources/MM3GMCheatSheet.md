@@ -1,5 +1,6 @@
 ---
 title: MM3 GM Cheat Sheet
+layout: default_old
 ---
 
 | Level | Low DC | Med DC | High DC | Low Dmg | Med Dmg | High Dmg | High Ltd Dmg | Minion Dmg | Avg AC | Avg Def | Low HP | Med HP | High HP | Atk vs AC | Atk vs Def |

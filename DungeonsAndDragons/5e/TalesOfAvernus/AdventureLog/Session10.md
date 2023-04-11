@@ -1,3 +1,8 @@
+---
+title: Session 10
+layout: default_old
+---
+
 After the battle at the bridge the party escorts the small group of refugees into the west side of the city and looks for a place to rest
 - Find a shop to hunker down in and patch their wounds
 

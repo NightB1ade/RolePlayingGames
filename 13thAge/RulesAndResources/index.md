@@ -1,7 +1,8 @@
 ---
+layout: default_old
 ---
 
-{% include back_to_rpg_index.md %}
+{% include back_to_rpg_index_old.md %}
 
 [13th Age Tools](https://13th-age.github.io/){:target="_blank"}  
 

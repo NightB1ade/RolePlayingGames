@@ -1,5 +1,6 @@
 ---
 title: Matrix Actions
+layout: default_old
 ---
 
 Note: These include houserules (changes listed below)

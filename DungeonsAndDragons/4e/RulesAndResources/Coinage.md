@@ -1,5 +1,6 @@
 ---
 title: Coinage
+layout: default_old
 ---
 
 - Coins are about 1 inch diameter

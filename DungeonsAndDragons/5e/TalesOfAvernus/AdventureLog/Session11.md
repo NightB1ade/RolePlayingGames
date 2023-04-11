@@ -1,5 +1,6 @@
 ---
 title: Session 11
+layout: default_old
 ---
 
 Heading up the stairs to the cathedral balcony the party finds a huge organ, choir pews and a lectern with a hand sculpture

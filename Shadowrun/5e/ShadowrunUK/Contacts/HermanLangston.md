@@ -1,5 +1,6 @@
 ---
 title: Herman ‘Kwack’ Langston
+layout: default_old
 ---
 
 # Description

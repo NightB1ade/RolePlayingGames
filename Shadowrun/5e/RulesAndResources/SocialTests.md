@@ -1,5 +1,6 @@
 ---
 title: Social Tests
+layout: default_old
 ---
 
 # Skill Tests

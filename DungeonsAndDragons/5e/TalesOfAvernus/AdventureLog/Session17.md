@@ -1,5 +1,6 @@
 ---
 title: Session 17
+layout: default_old
 ---
 
 Hayate cuts Satomi free and introduces the rest of the party

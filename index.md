@@ -1,4 +1,5 @@
 ---
+layout: default_old
 ---
 
 # 13th Age

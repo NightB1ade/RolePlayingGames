@@ -1,5 +1,6 @@
 ---
 title: A Quiver Full of Problems
+layout: default_old
 ---
 
 # But This Isn’t One of Them

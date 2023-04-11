@@ -1,5 +1,6 @@
 ---
 title: Session 3
+layout: default_old
 ---
 
 After taking a chance to catch their breath and patch up any wounds, the party continues on

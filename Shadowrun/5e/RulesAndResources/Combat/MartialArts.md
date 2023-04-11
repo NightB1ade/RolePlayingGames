@@ -1,5 +1,6 @@
 ---
 title: Martial Arts
+layout: default_old
 ---
 
 - Martial arts offer enhancements to close quarters fighting

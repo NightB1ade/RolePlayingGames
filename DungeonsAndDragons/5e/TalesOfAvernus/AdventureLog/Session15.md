@@ -1,5 +1,6 @@
 ---
 title: Session 15
+layout: default_old
 ---
 
 Eliseo and Hayate go to investigate the small octagonal building behind the chapel

@@ -1,5 +1,6 @@
 ---
 title: Pre-Game Information
+layout: default_old
 ---
 
 # Background/Terms

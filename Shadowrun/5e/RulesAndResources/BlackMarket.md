@@ -1,5 +1,6 @@
 ---
 title: Black Market
+layout: default_old
 ---
 
 # Purchasing

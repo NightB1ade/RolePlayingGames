@@ -1,5 +1,6 @@
 ---
 title: House Rules
+layout: default_old
 ---
 
 - Weapons are generally more restricted/illegal in the UK

@@ -1,5 +1,6 @@
 ---
 title: Information for Sale
+layout: default_old
 ---
 
 |         Type          |     Cost      |

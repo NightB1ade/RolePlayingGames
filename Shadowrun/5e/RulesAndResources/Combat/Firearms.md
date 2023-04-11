@@ -1,5 +1,6 @@
 ---
 title: Firearms
+layout: default_old
 ---
 
 ## Firing Modes

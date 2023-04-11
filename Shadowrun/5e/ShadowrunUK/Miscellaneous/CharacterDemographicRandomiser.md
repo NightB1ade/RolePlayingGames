@@ -1,5 +1,6 @@
 ---
 title: Character Demographic Randomiser
+layout: default_old
 ---
 <script>
 function Randomise() {

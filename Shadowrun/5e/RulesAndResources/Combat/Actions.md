@@ -1,5 +1,6 @@
 ---
 title: Combat Actions
+layout: default_old
 ---
 
 # Free Actions

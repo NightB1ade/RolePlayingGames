@@ -1,5 +1,6 @@
 ---
 title: Top Ten
+layout: default_old
 ---
 
 # Top Ten Fighters

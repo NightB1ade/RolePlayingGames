@@ -1,5 +1,6 @@
 ---
 title: Initiative
+layout: default_old
 ---
 
 - Encounters are divided into 3s _Combat Turns_

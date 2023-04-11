@@ -1,5 +1,6 @@
 ---
 title: Session 9
+layout: default_old
 ---
 
 As the teleportation spell activates and the floor seems to give way beneath them, the party are floating and spinning around with no sense of up or down before suddenly gravity kicks back in and they find themselves falling to the ground

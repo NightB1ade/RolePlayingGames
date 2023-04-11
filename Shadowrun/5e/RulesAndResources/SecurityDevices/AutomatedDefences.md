@@ -1,5 +1,6 @@
 ---
 title: Automated Defences
+layout: default_old
 ---
 
 # Automated Gun Systems

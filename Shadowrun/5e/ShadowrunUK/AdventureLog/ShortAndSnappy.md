@@ -1,5 +1,6 @@
 ---
 title: Short and Snappy
+layout: default_old
 ---
 
 # Biting Off More Than We Can Chew

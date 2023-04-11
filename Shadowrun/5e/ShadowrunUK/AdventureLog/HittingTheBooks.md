@@ -1,5 +1,6 @@
 ---
 title: Hitting the Books
+layout: default_old
 ---
 
 # A Novel Run

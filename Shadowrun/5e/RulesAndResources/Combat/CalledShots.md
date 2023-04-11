@@ -1,5 +1,6 @@
 ---
 title: Called Shots
+layout: default_old
 ---
 
 # Standard Called Shots

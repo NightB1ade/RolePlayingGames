@@ -1,5 +1,6 @@
 ---
 title: Benno Tennant’s Background
+layout: default_old
 ---
 
 - Was sent to terraform World [XXX]

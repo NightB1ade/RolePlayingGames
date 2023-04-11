@@ -1,5 +1,6 @@
 ---
 title: Introduction
+layout: default_old
 ---
 
 The civil war between the Royalists and the Confederates is tearing Artumbria apart.  Three years in and Chiavari is the only duchy not to declare for either side.  To begin with this put it in a position of strength.  But that was before the goblinoid invasion.  They came out of the western forests, burning villages and slaughtering the people.  The Chiavarian forces have mobilised and are now engaged in a fierce counter-attack, led by Grand Duke Fiero himself.  None of the other duchies will come to help, Chiavari is on its own.

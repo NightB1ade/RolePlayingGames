@@ -1,5 +1,6 @@
 ---
 title: Berlin History
+layout: default_old
 ---
 
 ### Berlin History:

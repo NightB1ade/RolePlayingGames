@@ -1,5 +1,6 @@
 ---
 title: Session 6
+layout: default_old
 ---
 
 Party continues its way to the Bandiera mansion

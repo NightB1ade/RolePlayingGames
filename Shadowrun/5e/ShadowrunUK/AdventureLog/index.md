@@ -1,6 +1,7 @@
 ---
 title: Adventure Log
 pagetype: index
+layout: default_old
 ---
 
 | Dates                  |                        | Run                                                         |

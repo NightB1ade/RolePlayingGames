@@ -1,6 +1,7 @@
 ---
 title: Mission Log
 pagetype: index
+layout: default_old
 ---
 
 | Dates                   | Mission                    |

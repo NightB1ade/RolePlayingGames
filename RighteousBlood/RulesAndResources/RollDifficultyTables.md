@@ -1,5 +1,6 @@
 ---
 title: Roll Difficulty Tables
+layout: default_old
 ---
 
 # Situational Modifier Table

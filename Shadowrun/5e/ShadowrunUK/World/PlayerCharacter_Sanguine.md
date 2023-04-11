@@ -1,5 +1,6 @@
 ---
 title: Sanguine’s Background
+layout: default_old
 ---
 
 # Background

@@ -1,5 +1,6 @@
 ---
 title: Session 8
+layout: default_old
 ---
 
 Marco and Francesca head to Casimo manor

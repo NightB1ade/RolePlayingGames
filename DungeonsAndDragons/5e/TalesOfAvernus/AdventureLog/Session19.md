@@ -1,5 +1,6 @@
 ---
 title: Session 19
+layout: default_old
 ---
 
 The party rests after their climb at the top of the peg anchoring the huge chain to the ground

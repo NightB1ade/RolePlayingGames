@@ -1,5 +1,6 @@
 ---
 title: Ghoul Child
+layout: default_old
 ---
 
 # It’s Always the Father

@@ -1,5 +1,6 @@
 ---
 title: Jack’s Background
+layout: default_old
 ---
 
 # Jack General Notes

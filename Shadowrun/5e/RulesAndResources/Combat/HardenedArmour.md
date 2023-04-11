@@ -1,5 +1,6 @@
 ---
 title: Hardened Armour
+layout: default_old
 ---
 
 - Hardened armour provides an additional layer of protection against attacks

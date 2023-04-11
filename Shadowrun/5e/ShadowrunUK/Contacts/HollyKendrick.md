@@ -1,5 +1,6 @@
 ---
 title: Holly Kendrick
+layout: default_old
 ---
 
 # Description

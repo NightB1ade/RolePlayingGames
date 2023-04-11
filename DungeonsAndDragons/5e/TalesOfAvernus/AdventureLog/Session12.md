@@ -1,5 +1,6 @@
 ---
 title: Session 12
+layout: default_old
 ---
 
 Having been ambushed by 3 goat headed Bulezau the party is split by a dropped portcullis

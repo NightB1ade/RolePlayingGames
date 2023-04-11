@@ -1,5 +1,6 @@
 ---
 title: Session 2
+layout: default_old
 ---
 
 # The Bandiera Bath-house

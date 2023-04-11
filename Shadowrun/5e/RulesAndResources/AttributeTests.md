@@ -1,5 +1,6 @@
 ---
 title: Attribute Tests
+layout: default_old
 ---
 
 | Test                | Dice Pool | Description                                                                     |

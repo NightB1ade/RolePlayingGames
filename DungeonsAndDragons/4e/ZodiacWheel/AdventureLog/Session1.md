@@ -1,5 +1,6 @@
 ---
 title: Session 1
+layout: default_old
 ---
 
 Whilst on their travels Tenmei and Bui Janling have received a job from the patriarch of Saan Tin (山田) village to investigate the potential contamination of a local river

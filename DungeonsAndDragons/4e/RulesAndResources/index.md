@@ -1,7 +1,8 @@
 ---
+layout: default_old
 ---
 
-{% include back_to_rpg_index.md %}
+{% include back_to_rpg_index_old.md %}
 
 # Cheat Sheets
 

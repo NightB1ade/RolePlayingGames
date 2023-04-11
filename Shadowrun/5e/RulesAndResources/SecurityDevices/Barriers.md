@@ -1,5 +1,6 @@
 ---
 title: Barriers
+layout: default_old
 ---
 
 - Prevent entry, escaping, deter surveillance, deter terrorist attacks

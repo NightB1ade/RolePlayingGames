@@ -1,5 +1,6 @@
 ---
 title: Getting Ahead in Life
+layout: default_old
 ---
 
 # Se7en

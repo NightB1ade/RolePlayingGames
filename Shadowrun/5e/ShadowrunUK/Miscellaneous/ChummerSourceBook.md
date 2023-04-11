@@ -1,5 +1,6 @@
 ---
 title: Chummer Source Books
+layout: default_old
 ---
 
 List of Sourcebooks in Chummer and their page offset values

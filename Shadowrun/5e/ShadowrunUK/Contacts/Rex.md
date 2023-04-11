@@ -1,5 +1,6 @@
 ---
 title: ‘Rex’
+layout: default_old
 ---
 
 # Description

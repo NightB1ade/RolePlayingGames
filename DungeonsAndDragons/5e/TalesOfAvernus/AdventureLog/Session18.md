@@ -1,5 +1,6 @@
 ---
 title: Session 18
+layout: default_old
 ---
 
 The next ‘morning’ the party prepares to leave Elturel, they will descend the chain below the cathedral

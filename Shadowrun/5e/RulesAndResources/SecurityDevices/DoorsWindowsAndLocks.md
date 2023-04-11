@@ -1,5 +1,6 @@
 ---
 title: Doors, Windows, and Locks
+layout: default_old
 ---
 
 # Doors and Windows

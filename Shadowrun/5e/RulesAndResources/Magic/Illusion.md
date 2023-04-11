@@ -1,5 +1,6 @@
 ---
 title: Illusion Magic
+layout: default_old
 ---
 
 *No matter how realistic they are, illusions cannot directly cause physical harm. They can cause distractions, loss of balance or orientation, and even symptoms like nausea or pain. All such effects vanish, though, as soon as the magician drops the illusion. Illusions can certainly cause harm by manipulating the senses so a victim walks into traffic or off a high building, for example, but they cannot directly cause damage.*

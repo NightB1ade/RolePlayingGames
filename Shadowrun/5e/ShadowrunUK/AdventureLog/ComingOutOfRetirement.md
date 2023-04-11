@@ -1,5 +1,6 @@
 ---
 title: Coming Out of Retirement
+layout: default_old
 ---
 
 # Nightwraith

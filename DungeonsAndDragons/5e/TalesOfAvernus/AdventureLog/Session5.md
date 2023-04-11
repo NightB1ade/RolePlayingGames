@@ -1,5 +1,6 @@
 ---
 title: Session 5
+layout: default_old
 ---
 
 Overnight Hayate has attuned to the mask and bag of bones

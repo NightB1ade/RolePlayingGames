@@ -1,5 +1,6 @@
 ---
 title: Gymnastics
+layout: default_old
 ---
 
 ## Climbing

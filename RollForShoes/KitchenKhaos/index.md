@@ -1,7 +1,8 @@
 ---
+layout: default_old
 ---
 
-{% include back_to_rpg_index.md %}
+{% include back_to_rpg_index_old.md %}
 
 # Rules
 1. Say what you do and roll a number of d6s, determined by the level of relevant skill you have

@@ -1,5 +1,6 @@
 ---
 title: Tenmei’s Background
+layout: default_old
 ---
 
 # 天美 (tin1 mei5)

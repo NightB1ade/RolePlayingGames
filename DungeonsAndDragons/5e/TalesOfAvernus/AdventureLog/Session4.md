@@ -1,5 +1,6 @@
 ---
 title: Session 4
+layout: default_old
 ---
 
 The wait is uneventful but listening at the door Eliseo hears some muted sounds over the last 5-10 minutes as the party waits for Marco and Strum to return

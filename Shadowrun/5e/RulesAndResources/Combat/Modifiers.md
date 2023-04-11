@@ -1,5 +1,6 @@
 ---
 title: Combat Modifiers
+layout: default_old
 ---
 
 # Ranged Attack Modifiers

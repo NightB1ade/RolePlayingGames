@@ -1,5 +1,6 @@
 ---
 title: Encounter XP
+layout: default_old
 ---
 
 # Difficulty

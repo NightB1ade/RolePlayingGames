@@ -1,20 +1,10 @@
-<section id="title">
-	<h1>
-		{%- if page.title != null -%}
-			{{ page.title }}
-		{%- else -%}
-			{{ page.rpgtitle | default: site.title }}
-		{%- endif -%}
-	</h1>
-	<p>
-		{%- if page.title != null -%}
-			{%- if page.backlink != null and page.pagetype != "index" -%}
-				<a href="{{ page.backlink }}">{{ page.rpgtitle }}{{ page.subtitlesuffix | prepend: ": " }}</a>
-			{%- else -%}
-				<a href="{{ page.rpgrootlink | relative_url }}">{{ page.rpgtitle }}</a>
-			{%- endif -%}
-		{%- else -%}
-			{{ page.rpgdescription | default: site.description }}
-		{%- endif -%}
-	</p>
+<section
+	id="title">
+	<div class="container mt-2">
+		<h1 class="display-1 text-center">{{ page.title | default:site.title }}</h1>
+
+		{%- if page.title != null %}
+		<p>{{ site.title }}</p>
+		{%- endif %}
+	</div>
 </section>

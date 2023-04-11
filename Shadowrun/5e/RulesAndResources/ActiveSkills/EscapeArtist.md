@@ -1,5 +1,6 @@
 ---
 title: Escape Artist
+layout: default_old
 ---
 
 - Escape Artist + AGI [Physical]

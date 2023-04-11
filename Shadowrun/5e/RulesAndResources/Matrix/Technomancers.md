@@ -1,5 +1,6 @@
 ---
 title: Technomancers
+layout: default_old
 ---
 
 # Living Persona

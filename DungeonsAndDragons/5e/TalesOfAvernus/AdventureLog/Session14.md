@@ -1,5 +1,6 @@
 ---
 title: Session 14
+layout: default_old
 ---
 
 The journey to the cemetery takes the party several hours and it is mid afternoon by the time they arrive

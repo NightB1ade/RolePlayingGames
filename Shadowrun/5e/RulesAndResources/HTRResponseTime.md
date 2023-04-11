@@ -1,5 +1,6 @@
 ---
 title: HTR Team Response Time
+layout: default_old
 ---
 
 | Security Level | Example                                              |  Response Time   |

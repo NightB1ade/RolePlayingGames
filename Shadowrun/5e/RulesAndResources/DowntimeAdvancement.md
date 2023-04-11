@@ -1,5 +1,6 @@
 ---
 title: Downtime Advancement
+layout: default_old
 ---
 
 In a single downtime period, a runner can improve on:

@@ -1,5 +1,6 @@
 ---
 title: Bursting the Bubble
+layout: default_old
 ---
 
 # Run from the Bug!

@@ -1,5 +1,6 @@
 ---
 title: Angela ‘Black Tag’ Ziegler
+layout: default_old
 ---
 
 # Description

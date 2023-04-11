@@ -1,5 +1,6 @@
 ---
 title: Putting on a Show
+layout: default_old
 ---
 
 # When You’re More than an Extra

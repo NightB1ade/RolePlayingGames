@@ -1,5 +1,6 @@
 ---
 title: ‘Dax’
+layout: default_old
 ---
 
 # Description

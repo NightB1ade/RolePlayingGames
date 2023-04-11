@@ -1,6 +1,7 @@
 ---
 title: Daoist Priest/Nun Generator
 jQueryHead: true
+layout: default_old
 ---
 
 <table>

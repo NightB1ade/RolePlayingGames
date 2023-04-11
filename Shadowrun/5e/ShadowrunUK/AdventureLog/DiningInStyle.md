@@ -1,5 +1,6 @@
 ---
 title: Dining in Style
+layout: default_old
 ---
 
 # For the Last Time, We are not a Catering Company!

@@ -1,5 +1,6 @@
 ---
 title: Ammunition
+layout: default_old
 ---
 
 | Ammo                    |   DV    |      AP      | Availability | Cost per 10 |

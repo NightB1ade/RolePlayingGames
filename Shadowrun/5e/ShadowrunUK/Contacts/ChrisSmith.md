@@ -1,5 +1,6 @@
 ---
 title: Chris ‘Card Shark’ Smith
+layout: default_old
 ---
 
 # Description

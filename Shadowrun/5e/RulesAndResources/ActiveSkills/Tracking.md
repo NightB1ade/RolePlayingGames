@@ -1,5 +1,6 @@
 ---
 title: Tracking
+layout: default_old
 ---
 
 - Tracking a person or critter requires Tracking + INT [Mental]

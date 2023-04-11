@@ -1,5 +1,6 @@
 ---
 title: Varnish
+layout: default_old
 ---
 
 # Description

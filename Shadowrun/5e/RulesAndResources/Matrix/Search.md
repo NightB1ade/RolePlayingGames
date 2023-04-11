@@ -2,6 +2,7 @@
 title: Matrix Search
 subtitlesuffix: Matrix Actions
 backlink: Actions.html
+layout: default_old
 ---
 
 | Information is                       | Threshold |    Time    |

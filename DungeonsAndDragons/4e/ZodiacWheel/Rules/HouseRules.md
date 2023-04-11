@@ -1,5 +1,6 @@
 ---
 title: House Rules
+layout: default_old
 ---
 
 # Skill Challenges

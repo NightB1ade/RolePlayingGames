@@ -1,5 +1,6 @@
 ---
 title: Rabbit Food
+layout: default_old
 ---
 
 # Yes, This Was Weirder Than The Dolphin

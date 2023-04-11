@@ -1,5 +1,6 @@
 ---
 title: Elemental Damage
+layout: default_old
 ---
 
 # Acid

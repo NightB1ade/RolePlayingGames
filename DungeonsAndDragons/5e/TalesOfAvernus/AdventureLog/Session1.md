@@ -1,5 +1,6 @@
 ---
 title: Session 1
+layout: default_old
 ---
 
 # Rossano Calabro
