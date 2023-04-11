@@ -1,10 +1,15 @@
-<section
-	id="title">
-	<div class="container mt-2">
-		<h1 class="display-1 text-center">{{ page.title | default:site.title }}</h1>
+<section id="title">
+<div class="container mt-2">
+	<h1 class="display-1 text-center">{{ page.title | default: site.title }}</h1>
 
-		{%- if page.title != null %}
-		<p>{{ site.title }}</p>
-		{%- endif %}
-	</div>
+	{%- if page.title != null %}
+	<p>{{ site.title }}</p>
+	{%- endif %}
+	<nav>
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item"><a href="/">NightB1ade’s Sites</a></li>
+			<li class="breadcrumb-item active">{{ page:title | default: site.title }}</li>
+		</ol>
+	</nav>
+</div>
 </section>
