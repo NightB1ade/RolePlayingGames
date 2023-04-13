@@ -3,12 +3,35 @@
 	<h1 class="display-1 text-center">{{ page.title | default: site.title }}</h1>
 
 	{%- if page.title != null %}
-	<p>{{ site.title }}</p>
+	<h5 class="mt-3 text-center">{{ page.rpgtitle }}: {{ page.rpgdescription }}</h5>
+	{%- elsif page.rpgtitle != null %}
+	<h5 class="mt-3 text-center">{{ page.rpgdescription }}</h5>
 	{%- endif %}
 	<nav>
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item"><a href="/">NightB1ade’s Sites</a></li>
-			<li class="breadcrumb-item active">{{ page.title | default: site.title }}</li>
+			{%- assign crumbs = page.url | remove: "/index.html" | split: "/" %}
+			{%- for crumb in crumbs offset: 1 %}
+				{%- if forloop.last == false %}
+					{%- case crumb %}
+						{%- when "Lancer" %}
+			<li class="breadcrumb-item">Lancer</li>
+						{%- when "Lore" %}
+			<li class="breadcrumb-item">Lore</li>
+						{%- when "OperationSolsticeRain" %}
+			<li class="breadcrumb-item"><a href="{{ '/Lancer/OperationSolsticeRain/' | relative_url }}">Operation Solstice Rain</a></li>
+					{%- endcase %}
+				{%- endif %}
+			{%- endfor %}
+			<li class="breadcrumb-item active">
+				{%- if page.title != null -%}
+					{{ page.title }}
+				{%- elsif page.rpgtitle != null -%}
+					{{ page.rpgtitle }}
+				{%- else -%}
+					{{ site.title }}
+				{%- endif -%}
+			</li>
 		</ol>
 	</nav>
 </div>
