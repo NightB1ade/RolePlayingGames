@@ -17,6 +17,8 @@
 			{%- for crumb in crumbs offset: 1 %}
 				{%- if forloop.last == false %}
 					{%- case crumb %}
+						{%- when "GacromosHeresy" %}
+			<li class="breadcrumb-item"><a href="{{ '/WrathAndGlory/GacromosHeresy/' | relative_url }}">Gacromos Heresy</a></li>
 						{%- when "Lancer" %}
 			<li class="breadcrumb-item">Lancer</li>
 						{%- when "Lore" %}
@@ -25,6 +27,8 @@
 			<li class="breadcrumb-item"><a href="{{ '/Lancer/OperationSolsticeRain/' | relative_url }}">Operation Solstice Rain</a></li>
 						{%- when "RollForShoes" %}
 			<li class="breadcrumb-item">Roll for Shoes</li>
+						{%- when "WrathAndGlory" %}
+			<li class="breadcrumb-item">Wrath & Glory</li>
 					{%- endcase %}
 				{%- endif %}
 			{%- endfor %}

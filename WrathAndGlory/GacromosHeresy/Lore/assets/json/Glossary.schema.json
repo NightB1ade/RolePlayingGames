@@ -1,0 +1,32 @@
+{
+	"type": "array"
+	, "title": "Glossary"
+	, "format": "tabs"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Glossary Item"
+		, "headerTemplate": "{{ self.term }}"
+		, "required": [
+			"term"
+			, "description"
+		]
+		, "properties": {
+			"term": {
+				"type": "string"
+				, "title": "Term"
+				, "minLength": 1
+			}
+			, "description": {
+				"type": "array"
+				, "title": "Description"
+				, "format": "table"
+				, "uniqueItems": true
+				, "items": {
+					"type": "string"
+					, "minLength": 1
+				}
+			}
+		}
+	}
+}

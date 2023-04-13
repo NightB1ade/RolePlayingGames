@@ -1,0 +1,235 @@
+[{
+		"term": "Adepta Sororitas"
+		, "description": [
+			"The Adepta Sororitas, colloquially called the “Sisterhood”, whose military arm is also known as the Sisters of Battle and formerly as the Daughters of the Emperor, are an all female division of the Imperium of Man’s state church known as the Ecclesiarchy or, more formally, as the Adeptus Ministorum."
+			, "The Sisterhood’s Orders Militant serve as the Ecclesiarchy’s armed forces, mercilessly rooting out spiritual corruption and heresy within Humanity and every organisation of the Adeptus Terra."
+			, "There is naturally some overlap between the duties of the Sisterhood and the Imperial Inquisition; for this reason, although the Inquisition and the Sisterhood remain entirely separate organisations, the Orders Militant of the Adepta Sororitas also act as the Chamber Militant of the Inquisition’s Ordo Hereticus."
+			, "For testing: Eh? Chaos God, what is going on? chaos God, Chaos god"
+		]
+	}
+	, {
+		"term": "Adeptus Mechanicus"
+		, "description": [
+			"The Adeptus Mechanicus is the official Imperial name within the Adeptus Terra for the Cult Mechanicus or Cult of the Machine based on Mars which provides the Imperium with its scientists, engineers and technicians.  The tech-adepts of the Mechanicus are the primary keepers of what is viewed as sacred wisdom, a privileged caste of Tech-priests who jealously guard the knowledge required to maintain and construct much of the Imperium’s advanced technology."
+		]
+	}
+	, {
+		"term": "Adeptus Ministorum"
+		, "description": [
+			"See Ecclesiarchy."
+		]
+	}
+	, {
+		"term": "Adeptus Terra"
+		, "description": [
+			"The Adeptus Terra, also known as the “Priesthood of Earth”, is the central bureaucratic governmental organisation of the Imperium of Man and not really an agency in and of itself."
+			, "It is made up of many autonomous departments that receive the orders of the High Lords of Terra, passing them down to the different branches that will enact their commands."
+		]
+	}
+	, {
+		"term": "Age of Strife"
+		, "description": [
+			"The Age of Strife, also sometimes referred to as “Old Night” based on the name for the era on Terra in older Imperial histories, is the name for the apocalyptic and highly fragmented period of Human history that began roughly in the 25th Millennium A.D. and ended in the 30th Millennium with the birth of the Imperium of Man."
+			, "It was in this time that the great Human interstellar civilisation created during the golden age of the Age of Technology collapsed into isolation, constant warfare, disease, rampant mutation, famine and a host of other terrible tragedies.  These events killed tens of trillions of people and pushed Humanity to the brink of extinction."
+		]
+	}
+	, {
+		"term": "Astronomican"
+		, "description": [
+			"From the damaged soul of the emperor shines forth the Astronomicon.  This beacon allows for more reliable navigation in the warp and is maintained by the sacrifice of 1,000 psykers a day."
+		]
+	}
+	, {
+		"term": "Black Ships"
+		, "description": [
+			"The black ships visit planets of the Imperium to strip them of their psykers for transportation to Terra, where they will be either trained to become Sanctioned Psykers who can serve the Imperium in a number of important roles or their lives will be sacrificed to the Emperor of Mankind so that He will have the psychic energy necessary to maintain the crucial telepathic navigational beacon of the Astronomican."
+		]
+	}
+	, {
+		"term": "Chaos God"
+		, "description": [
+			"The Chaos Gods, also called the Dark Gods or the Ruinous Powers, are powerful, self-aware entities comprised solely of psychic energy who inhabit and control the psychic dimension that underlies all physical reality known as the Immaterium or the “Warp”."
+		]
+	}
+	, {
+		"term": "Ecclesiarchy"
+		, "description": [
+			"The Ecclesiarchy (officially the Adeptus Ministorum) is the official state church of the Imperium.  It maintains and spreads the Imperial Cult throughout the Imperium.  Although the interpretation of particular Imperial Cult dogmas varies through the Imperium, any serious deviance from its strictures is considered heresy and dealt with extreme severity."
+		]
+	}
+	, {
+		"term": "Emperor"
+		, "description": [
+			"An immortal man, born at least before 5000 BC who has shepherded mankind for the last 40k years.  A powerful psyker, his wounded body is now interred on Terra.  From his damaged soul shines forth the astronomicon."
+		]
+	}
+	, {
+		"term": "Enduring Requiem"
+		, "description": [
+			"The Ecclesiarchy vessel on which you arrived into the Gacromos System."
+		]
+	}
+	, {
+		"term": "High Lords of Terra"
+		, "description": [
+			"The High Lords of Terra, also called the “High Twelve”, collectively form the Council of the High Lords of Terra, also known as the Senatorum Imperialis."
+			, "The Senatorum is an Imperial governing body comprised of the twelve highest-ranked officials of the most powerful adepta of the Imperium of Man.  During much of Imperial history they have ruled the Imperium as a collective oligarchy in the name of the Emperor."
+			, "This body carries out the day-to-day decisions required to govern the Imperium according to what they believe to be the divine will of the Emperor of Mankind.  The primary task of the High Lords is thus to interpret and enact the will of the Emperor.  Accordingly, the rank of High Lord is among the most politically powerful in the Imperium."
+		]
+	}
+	, {
+		"term": "Immaterium"
+		, "description": [
+			"See Warp."
+		]
+	}
+	, {
+		"term": "Imperium"
+		, "description": [
+			"The Imperium of Man, also called simply the Imperium, is a galaxy-spanning, interstellar Human empire, the ultimate authority for the majority of the Human species in the Milky Way Galaxy in the 41st Millennium A.D.  It is ruled by the living god who is known as the Emperor of Mankind."
+		]
+	}
+	, {
+		"term": "Infeasible Anomaly"
+		, "description": [
+			"An adeptus mechanicus vessel under the command of Taulk Daedasninich that appears to have gone rogue."
+		]
+	}
+	, {
+		"term": "Inquisitor"
+		, "description": [
+			"An Inquisitor is a clandestine agent and one of the highest-ranking members of the Imperial Inquisition.  Inquisitors are the secret policemen and intelligence agents of the Imperium."
+		]
+	}
+	, {
+		"term": "Inquisitorial Acolyte"
+		, "description": [
+			"Inquisitors will form their own cadre of agents of various roles and functions in order to achieve whatever goal is put before them.  Acolytes are initiates into the Inquisition’s service.  They can be drawn from every facet of imperial society.  Some may be used briefly for special tasks or one-shot missions while others may serve alongside the Inquisitor for the duration of their career."
+		]
+	}
+	, {
+		"term": "Inquisitorial Rosette"
+		, "description": [
+			"An Inquisitorial Rosette is a symbolic icon of the members of the Inquisition.  This is a small amulet or icon in the shape of a stylised column.  This powerful symbol is recognised throughout Imperial society, for those who bear it wield ultimate authority, and they do so in the name of the Emperor.  Rosettes are often inscribed with verification technology and coded encryption in order to communicate the bearer’s authority to any cogitator, confirming the bearer’s clearance as well as preventing forgeries. The rosette, however, is used very sparingly, as most Inquisitors prefer to keep themselves and their Acolytes inconspicuous.  The rosette is most commonly used when in the company of fellow members of the Inquisition or when an Inquisitor wishes to strike fear and awe into the common man."
+		]
+	}
+	, {
+		"term": "Khornate Cult"
+		, "description": [
+			"Khorne, also called the “Blood God”, the “Lord of Skulls”, and “Kharneth” among many other titles, is the Chaos God of war, hatred, rage, wrath, blood, martial honour, strength and murder.  Its portfolio of interest covers the most basic and brutal of sentient emotions and actions, such as hate, anger, rage, the desire for destruction and the joy of killing one’s enemies."
+		]
+	}
+	, {
+		"term": "Lex Imperialis"
+		, "description": [
+			"The Lex Imperialis, known also as the Dictates Imperialis or simply “Imperial Law” in Low Gothic, is the legal code of the Imperium of Man which consists of a vast body of laws and codes that have been compiled over ten Terran millennia."
+		]
+	}
+	, {
+		"term": "Men of Iron"
+		, "description": [
+			"During the Dark Age of Technology, the Men of Iron were created by the Men of Stone to aid them in colonizing the Galaxy.  Powerful sentient machines."
+		]
+	}
+	, {
+		"term": "Men of Stone"
+		, "description": [
+			"The Men of Stone were a class of artificially created beings created during the Dark Age of Technology in roughly M21.  Powerful sentient machines."
+		]
+	}
+	, {
+		"term": "Merore Expanse"
+		, "description": [
+			"An area ravaged by warp storms.  Warp travel in this area has been considered impossible for most of imperial history.  Recent abatements in the severity of the storm wall have allowed limited exploration in recent decades."
+		]
+	}
+	, {
+		"term": "Ordela Thassovyon"
+		, "description": [
+			"An inqusitor of the Ordo Hereticus and your ultimate superior.  Ordela is currently aboard the Enduring Requiem persuing the Infeasible Anomaly."
+		]
+	}
+	, {
+		"term": "Ordo Hereticus"
+		, "description": [
+			"The Ordo Hereticus is one of the three major orders of the secretive organisation known as the Imperial Inquisition.  They are tasked with protecting Mankind from itself, by combatting such internal threats to the Imperium as treason, mutation, heresy, apostate members of the Ecclesiarchy and unsanctioned psykers, colloquially known as “witches” across much of the Imperium."
+		]
+	}
+	, {
+		"term": "Planetary Governor"
+		, "description": [
+			"The political leader of a world of the Imperium of Man is known as a planetary governor or sometimes as an Imperial governor, and is considered an Imperial Commander in military matters.  Regardless of his or her specific title, a planetary governor is an individual with the (often hereditary) authority to rule a world or even an entire star system in the name of the Emperor of Mankind."
+		]
+	}
+	, {
+		"term": "Psyker"
+		, "description": [
+			"All psykers draw their powers from the extradimensional realm known as the Immaterium or the Warp that underlies four-dimensional realspace and is the source of all psychic energy in the universe."
+			, "As such, psykers, particularly Human psykers whose minds are far less disciplined and easily tempted than their Aeldari counterparts, are often in danger of possession by the daemonic entities of the Warp, insanity and ultimate corruption by the Ruinous Powers of Chaos.  See Sanctioned Psyker."
+		]
+	}
+	, {
+		"term": "Sanctioned"
+		, "description": [
+			"A Sanctioned Psyker is a Human psyker who plays an ordained role as a servant of the Imperium of Man, for they have the rare willpower to control their abilities and not become a danger to others.  A Sanctioned Psyker’s exact role in Imperial society depends on the psychic powers they manifest and the strength of their character and will."
+			, "Such psykers are soul-bound to the Emperor, a psychic ritual that hardens their minds and souls against possession by the daemonic entities of the Warp.  Most psykers are recruited by the black ships."
+		]
+	}
+	, {
+		"term": "The Scourge"
+		, "description": [
+			"From 86.M35 – 94.M36 the planet was embroiled in civil war stemming from the rise of a Khornate Cult.  The war and resultant pacification lead to tens of billions of deaths and the destruction of entire hive cities."
+		]
+	}
+	, {
+		"term": "Standard Template Construct"
+		, "description": [
+			"The Standard Template Construct (STC) systems were complex analytical and processing programs, artificial intelligences, created during the Dark Age of Technology (M21 – M23).  They are said to have contained the entirety of human technological knowledge up to that point.  Following the Age of Technology, the systems became increasingly rare, until becoming lost entirely.  In the current Age of the Imperium, the ancient technological knowledge survives only because it was preserved in STC hard copies."
+		]
+	}
+	, {
+		"term": "Taulk Daedasninich"
+		, "description": [
+			"A Tech-priest who while searching for a Standard Template Construct in the Merore Expanse appears to have betrayed the Imperium.  He is believed to be aboard the Adeptus Mechanicus vessel the Infeasible Anomaly."
+		]
+	}
+	, {
+		"term": "Tech-Adept"
+		, "description": [
+			"See Tech-priest."
+		]
+	}
+	, {
+		"term": "Tech-Priest"
+		, "description": [
+			"A Tech-priest, also spelled Tech-Priest or even tech-priest, is an adept of the Adeptus Mechanicus of the Imperium of Man who is generally responsible for maintaining all of the advanced technology of the Imperium, enlarging the Imperium’s stocks of technical knowledge and conducting what little new scientific research occurs within the Imperium since the end of the Horus Heresy."
+			, "Tech-priests are members of the Cult Mechanicus, the Cult of the Machine, a priesthood which forms an ecclesiastical hierarchy of technicians, scientists, and religious leaders who believe that knowledge represents the only true divinity in the universe."
+		]
+	}
+	, {
+		"term": "Throne Agent"
+		, "description": [
+			"Throne Agents form the retinue (also known as a cadre) of an Inquisitor, and sometimes eventually become Inquisitors themselves.  Throne Agents possess many resources that Acolytes do not, ranging from the nearly limitless authority of the Inquisitorial Rosette to the blend of sophisticated technology and lethal skills of the Vindicare Assassin.  For most Throne Agents, it is not enough to simply uncover a conspiracy or locate the core of a heretical cult.  Instead, Throne Agents are often solely responsible for completely rooting out the conspiracy, or are charged with the utter and complete destruction of every cult cell within a star system."
+		]
+	}
+	, {
+		"term": "Virus Bomb"
+		, "description": [
+			"A Virus Bomb is a potent Imperial biological weapon and weapon of mass destruction, commonly used to carry out Exterminatus actions during the Great Crusade and Horus Heresy periods of the late 30th and early 31st Millennia."
+			, "The pathogen can penetrate even sealed environment suits, including power armour."
+			, "It rapidly converts living tissue and plant matter into flammable gases which react with the planet’s atmosphere to create a global firestorm."
+		]
+	}
+	, {
+		"term": "Warp"
+		, "description": [
+			"An alternate spacetime in which the chaos gods reside, from which pyskers draw their power.  Direct exposure to the warp causes corruption and/or death in unprotected individuals.  All FTL communications and travel rely on the warp.  Referred to as the Immaterium by those of a learned nature."
+		]
+	}
+	, {
+		"term": "Xenos"
+		, "description": [
+			"Non-humans.  All non-humans are full of heresy.  Your duty as an imperial citizen is to cleanse them with the purifying fire of the emperor."
+		]
+	}
+]

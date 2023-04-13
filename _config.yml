@@ -137,8 +137,7 @@ defaults:
             path: WrathAndGlory/GacromosHeresy
         values:
             rpgtitle: Gacromos Heresy
-            rpgdescription: A Wrath and Glory game about the dregs of an Inquisitor’s retinue being sent off to hunt a heretek
-            rpgrootlink: WrathAndGlory/GacromosHeresy/
+            rpgdescription: Hunt the Heretek
     -
         scope:
             path: WrathAndGlory/RulesAndResources
