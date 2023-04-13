@@ -97,9 +97,8 @@ defaults:
         scope:
             path: RollForShoes/KitchenKhaos
         values:
-            rpgtitle: "Roll for Shoes: Kitchen Khaos"
-            rpgdescription: Courtly servants rush to prepare and serve a fantastical feast.
-            rpgrootlink: RollForShoes/KitchenKhaos/
+            rpgtitle: Kitchen Khaos
+            rpgdescription: Courtly servants rush to prepare and serve a fantastical feast
     -
         scope:
             path: Shadowrun/5e/LoneStar
