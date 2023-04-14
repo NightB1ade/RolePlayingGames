@@ -8,18 +8,22 @@ defaults:
             layout: default
     -
         scope:
-            path: 13thAge/RulesAndResources
-        values:
-            rpgtitle: "13th Age: Rules and Resources"
-            rpgdescription: Various Resources for 13th Age
-            rpgrootlink: 13thAge/RulesAndResources/
-    -
-        scope:
             path: 13thAge/IlmatrasLastHope
         values:
             rpgtitle: Ilmatra’s Last Hope
             rpgdescription: A 13th Age Horror Game
-            rpgrootlink: 13thAge/IlmatrasLastHope/
+    -
+        scope:
+            path: 13thAge/RulesAndResources
+        values:
+            rpgtitle: Rules and Resources
+            rpgdescription: Various Resources for 13th Age
+    -
+        scope:
+            path: 13thAge/SideCampaign
+        values:
+            rpgtitle: Crown of Axis
+            rpgdescription: A 13th Age Side Campaign
     -
         scope:
             path: BandOfBlades/TheRoadToSkydaggerKeep

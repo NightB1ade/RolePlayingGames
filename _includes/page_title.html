@@ -17,6 +17,8 @@
 			{%- for crumb in crumbs offset: 1 %}
 				{%- if forloop.last == false %}
 					{%- case crumb %}
+						{%- when "13thAge" %}
+			<li class="breadcrumb-item">13th Age</li>
 						{%- when "GacromosHeresy" %}
 			<li class="breadcrumb-item"><a href="{{ '/WrathAndGlory/GacromosHeresy/' | relative_url }}">Gacromos Heresy</a></li>
 						{%- when "Lancer" %}
