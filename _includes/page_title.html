@@ -19,10 +19,18 @@
 					{%- case crumb %}
 						{%- when "13thAge" %}
 			<li class="breadcrumb-item">13th Age</li>
+						{%- when "4e" %}
+			<li class="breadcrumb-item">4e</li>
+						{%- when "AdventureLog" %}
+			<li class="breadcrumb-item"><a href="./">Adventure Log</a></li>
 						{%- when "BandOfBlades" %}
 			<li class="breadcrumb-item">Band of Blades</li>
+						{%- when "DungeonsAndDragons" %}
+			<li class="breadcrumb-item">Dungeons and Dragons</li>
 						{%- when "GacromosHeresy" %}
 			<li class="breadcrumb-item"><a href="{{ '/WrathAndGlory/GacromosHeresy/' | relative_url }}">Gacromos Heresy</a></li>
+						{%- when "HouseRules" %}
+			<li class="breadcrumb-item">House Rules</li>
 						{%- when "Lancer" %}
 			<li class="breadcrumb-item">Lancer</li>
 						{%- when "Lore" %}
@@ -33,6 +41,8 @@
 			<li class="breadcrumb-item">Roll for Shoes</li>
 						{%- when "WrathAndGlory" %}
 			<li class="breadcrumb-item">Wrath & Glory</li>
+						{%- when "ZodiacWheel" %}
+			<li class="breadcrumb-item"><a href="{{ '/DungeonsAndDragons/4e/ZodiacWheel' | relative_url }}">Zodiac Wheel</a></li>
 					{%- endcase %}
 				{%- endif %}
 			{%- endfor %}

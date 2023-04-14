@@ -35,14 +35,7 @@ defaults:
             path: DungeonsAndDragons/4e/ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
-            rpgdescription: A D&D4e game about a cycle of little animals
-            rpgrootlink: DungeonsAndDragons/4e/ZodiacWheel/
-    -
-        scope:
-            path: DungeonsAndDragons/4e/ZodiacWheel/AdventureLog
-        values:
-            subtitlesuffix: Adventure Log
-            backlink: ./
+            rpgdescription: A D&D4e Game About a Cycle of Little Animals
     -
         scope:
             path: DungeonsAndDragons/4e/RulesAndResources
