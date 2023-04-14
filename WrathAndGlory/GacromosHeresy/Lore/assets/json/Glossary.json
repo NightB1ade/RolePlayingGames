@@ -35,7 +35,7 @@
 	, {
 		"term": "Astronomican"
 		, "description": [
-			"From the damaged soul of the emperor shines forth the Astronomicon.  This beacon allows for more reliable navigation in the warp and is maintained by the sacrifice of 1,000 psykers a day."
+			"From the damaged soul of the Emperor shines forth the Astronomicon.  This beacon allows for more reliable navigation in the warp and is maintained by the sacrifice of 1,000 psykers a day."
 		]
 	}
 	, {
@@ -59,7 +59,7 @@
 	, {
 		"term": "Emperor"
 		, "description": [
-			"An immortal man, born at least before 5000 BC who has shepherded mankind for the last 40k years.  A powerful psyker, his wounded body is now interred on Terra.  From his damaged soul shines forth the astronomicon."
+			"An immortal man, born at least before 5000 BC who has shepherded mankind for the last 40k years.  A powerful psyker, his wounded body is now interred on Terra.  From his damaged soul shines forth the Astronomicon."
 		]
 	}
 	, {
@@ -91,7 +91,7 @@
 	, {
 		"term": "Infeasible Anomaly"
 		, "description": [
-			"An adeptus mechanicus vessel under the command of Taulk Daedasninich that appears to have gone rogue."
+			"An Adeptus Mechanicus vessel under the command of Taulk Daedasninich that appears to have gone rogue."
 		]
 	}
 	, {
@@ -127,7 +127,7 @@
 	, {
 		"term": "Men of Iron"
 		, "description": [
-			"During the Dark Age of Technology, the Men of Iron were created by the Men of Stone to aid them in colonizing the Galaxy.  Powerful sentient machines."
+			"During the Dark Age of Technology, the Men of Iron were created by the Men of Stone to aid them in colonising the Galaxy.  Powerful sentient machines."
 		]
 	}
 	, {
@@ -145,7 +145,7 @@
 	, {
 		"term": "Ordela Thassovyon"
 		, "description": [
-			"An inqusitor of the Ordo Hereticus and your ultimate superior.  Ordela is currently aboard the Enduring Requiem persuing the Infeasible Anomaly."
+			"An inquisitor of the Ordo Hereticus and your ultimate superior.  Ordela is currently aboard the Enduring Requiem persuing the Infeasible Anomaly."
 		]
 	}
 	, {
@@ -228,7 +228,7 @@
 	, {
 		"term": "Xenos"
 		, "description": [
-			"Non-humans.  All non-humans are full of heresy.  Your duty as an imperial citizen is to cleanse them with the purifying fire of the emperor."
+			"Non-humans.  All non-humans are full of heresy.  Your duty as an imperial citizen is to cleanse them with the purifying fire of the Emperor."
 		]
 	}
 ]

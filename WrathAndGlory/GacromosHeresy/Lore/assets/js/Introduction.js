@@ -65,27 +65,32 @@ function OnDocumentLoad() {
 			glossary.forEach((entry, i) => {
 				var entryTerm = '<dt class="col-sm-4 col-lg-3 text-end">' + entry.term + '</dt>';
 				var entryDesc = '<dd class="col-sm-8 col-lg-9">';
+				var entryPopover = "";
 
 				entry.description.forEach((item, j) => {
 					entryDesc += '<p>' + item + '</p>';
 				});
+				entryDesc += '</dd>';
 
-				entryDesc += '</dd>'
-					+ '<div class="d-none" id="GlossaryEntry_' + i + '">';
-
+				entryPopover += '<div class="d-none" id="GlossaryEntry_' + i + '">';
 				entry.description.forEach((item, k) => {
-					entryDesc += (k == entry.description.length - 1 ? '<p class="mb-0">' : '<p>') + item + '</p>';
+					entryPopover += (k == entry.description.length - 1 ? '<p class="mb-0">' : '<p>') + item + '</p>';
 				});
-
-				entryDesc += '</div>';
+				entryPopover += '</div>';
 
 				glossary.forEach((compare, l) => {
 					if (i != l) {
-						entryDesc = entryDesc.replace(new RegExp(compare.term,"g"),'<a tabindex="0" class="link-underline-secondary popover_Uninitialised" data-bs-toggle="popover" data-bs-content-id="GlossaryEntry_' + l + '">' + compare.term + '</a>')
+						entryDesc = entryDesc.replace(new RegExp(compare.term,"i"),function(x) {
+							return '<a tabindex="0" class="link-underline-secondary" data-bs-toggle="popover" data-bs-content-id="GlossaryEntry_' + l + '">' + x + '</a>'
+						});
+
+						entryPopover = entryPopover.replace(new RegExp(compare.term,"i"),function(x) {
+							return '<a tabindex="0" class="link-underline-secondary popover_Uninitialised" data-bs-toggle="popover" data-bs-content-id="GlossaryEntry_' + l + '">' + x + '</a>'
+						});
 					}
 				});
 
-				html += entryTerm + entryDesc;
+				html += entryTerm + entryDesc + entryPopover;
 			});
 
 			document.getElementById("GlossaryList").innerHTML = html;
@@ -94,7 +99,9 @@ function OnDocumentLoad() {
 				var newHtml = item.innerHTML;
 
 				glossary.forEach((entry, i) => {
-					newHtml = newHtml.replace(entry.term,'<a tabindex="0" class="link-underline-secondary" data-bs-toggle="popover" data-bs-content-id="GlossaryEntry_' + i + '">' + entry.term + '</a>')
+					newHtml = newHtml.replace(new RegExp(entry.term,"i"),function(x) {
+						return '<a tabindex="0" class="link-underline-secondary" data-bs-toggle="popover" data-bs-content-id="GlossaryEntry_' + i + '">' + x + '</a>'
+					});
 				});
 
 				item.innerHTML = newHtml;
