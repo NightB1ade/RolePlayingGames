@@ -46,7 +46,7 @@ function InitialisePopovers(popovers,removeClass) {
 			var popovers = Array.from(document.getElementById(id).querySelectorAll("a"));
 
 			popovers.forEach((item, i) => {
-				console.log(bootstrap.Popover.getInstance(item).hide().dispose());
+				bootstrap.Popover.getInstance(item).hide();
 			});
 		});
 	});
