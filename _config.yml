@@ -145,6 +145,5 @@ defaults:
         scope:
             path: WrathAndGlory/RulesAndResources
         values:
-            rpgtitle: "Wrath and Glory: Rules and Resources"
-            rpgdescription: Various Resources for Wrath and Glory
-            rpgrootlink: WrathAndGlory/RulesAndResources/
+            rpgtitle: Rules and Resources
+            rpgdescription: Various Resources for Wrath & Glory
