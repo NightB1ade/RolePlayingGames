@@ -40,9 +40,8 @@ defaults:
         scope:
             path: DungeonsAndDragons/4e/RulesAndResources
         values:
-            rpgtitle: "D&D4e: Rules and Resources"
+            rpgtitle: Rules and Resources
             rpgdescription: Various Resources for D&D4e
-            rpgrootlink: DungeonsAndDragons/4e/RulesAndResources/
     -
         scope:
             path: DungeonsAndDragons/5e/TalesOfAvernus
