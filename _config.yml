@@ -30,7 +30,6 @@ defaults:
         values:
             rpgtitle: The Road to Skydagger Keep
             rpgdescription: A Band of Blades Game
-            rpgrootlink: BandOfBlades/TheRoadToSkydaggerKeep/
     -
         scope:
             path: DungeonsAndDragons/4e/ZodiacWheel
