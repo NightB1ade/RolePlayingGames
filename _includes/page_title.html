@@ -15,6 +15,8 @@
 			{%- endif %}
 			{%- assign crumbs = page.url | remove: "/index.html" | split: "/" %}
 			{%- for crumb in crumbs offset: 1 %}
+				{%- capture breadcrumbUrl %}{{ breadcrumbUrl }}{{ crumb }}/{%- endcapture %}
+
 				{%- if forloop.last == false %}
 					{%- case crumb %}
 						{%- when "13thAge" %}
@@ -22,13 +24,13 @@
 						{%- when "4e" %}
 			<li class="breadcrumb-item">4e</li>
 						{%- when "AdventureLog" %}
-			<li class="breadcrumb-item"><a href="./">Adventure Log</a></li>
+			<li class="breadcrumb-item"><a href="{{ breadcrumbUrl | relative_url }}">Adventure Log</a></li>
 						{%- when "BandOfBlades" %}
 			<li class="breadcrumb-item">Band of Blades</li>
 						{%- when "DungeonsAndDragons" %}
 			<li class="breadcrumb-item">Dungeons and Dragons</li>
 						{%- when "GacromosHeresy" %}
-			<li class="breadcrumb-item"><a href="{{ '/WrathAndGlory/GacromosHeresy/' | relative_url }}">Gacromos Heresy</a></li>
+			<li class="breadcrumb-item"><a href="{{ breadcrumbUrl | relative_url }}">Gacromos Heresy</a></li>
 						{%- when "HouseRules" %}
 			<li class="breadcrumb-item">House Rules</li>
 						{%- when "Lancer" %}
@@ -36,15 +38,15 @@
 						{%- when "Lore" %}
 			<li class="breadcrumb-item">Lore</li>
 						{%- when "OperationSolsticeRain" %}
-			<li class="breadcrumb-item"><a href="{{ '/Lancer/OperationSolsticeRain/' | relative_url }}">Operation Solstice Rain</a></li>
+			<li class="breadcrumb-item"><a href="{{ breadcrumbUrl | relative_url }}">Operation Solstice Rain</a></li>
 						{%- when "RollForShoes" %}
 			<li class="breadcrumb-item">Roll for Shoes</li>
 						{%- when "RulesAndResources" %}
-			<li class="breadcrumb-item"><a href="./">Rules and Resources</a></li>
+			<li class="breadcrumb-item"><a href="{{ breadcrumbUrl | relative_url }}">Rules and Resources</a></li>
 						{%- when "WrathAndGlory" %}
 			<li class="breadcrumb-item">Wrath & Glory</li>
 						{%- when "ZodiacWheel" %}
-			<li class="breadcrumb-item"><a href="{{ '/DungeonsAndDragons/4e/ZodiacWheel' | relative_url }}">Zodiac Wheel</a></li>
+			<li class="breadcrumb-item"><a href="{{ breadcrumbUrl | relative_url }}">Zodiac Wheel</a></li>
 					{%- endcase %}
 				{%- endif %}
 			{%- endfor %}
