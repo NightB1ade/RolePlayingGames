@@ -66,7 +66,6 @@ defaults:
         values:
             rpgtitle: Blood and Honour
             rpgdescription: Righteous Blood Adventures
-            rpgrootlink: RighteousBlood/BloodAndHonour/
     -
         scope:
             path: RighteousBlood/RulesAndResources
