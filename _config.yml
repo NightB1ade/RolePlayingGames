@@ -60,13 +60,6 @@ defaults:
         values:
             rpgtitle: Whiskey Company
             rpgdescription: A Lancer game following the exploits of Whiskey Company
-            rpgrootlink: Lancer/WhiskeyCompany/
-    -
-        scope:
-            path: Lancer/WhiskeyCompany/MissionLog
-        values:
-            subtitlesuffix: Mission Log
-            backlink: ./
     -
         scope:
             path: RighteousBlood/BloodAndHonour
