@@ -48,13 +48,6 @@ defaults:
         values:
             rpgtitle: Tales of Avernus
             rpgdescription: A D&D5e game about going into hell
-            rpgrootlink: DungeonsAndDragons/5e/TalesOfAvernus/
-    -
-        scope:
-            path: DungeonsAndDragons/5e/TalesOfAvernus/AdventureLog
-        values:
-            subtitlesuffix: Adventure Log
-            backlink: ./
     -
         scope:
             path: Lancer/OperationSolsticeRain
