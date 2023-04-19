@@ -1,0 +1,35 @@
+---
+title: Roll20 Macros
+---
+
+<div class="container">
+	<p>Dice pool rolls include Deep Penalties</p>
+
+
+	<h1>Roll</h1>
+<pre>
+Dice Pool: [[?{Dice Pool|1}]]
+/roll [[ (?{Dice Pool|1} + abs(?{Dice Pool|1})) / 2 ]]d10kh1 + [[ (abs([[ ((?{Dice Pool|1}-0.5) / abs(?{Dice Pool|1}-0.5)) - 1 ]]) / 2) * (abs(?{Dice Pool|1} - 2)) ]]d10kl1
+</pre>
+
+
+	<h1>Turn Order Roll and Add to Tracker</h1>
+	<ul>
+		<li>Token macro using a character attribute (“Speed”) and a queried modifier</li>
+		<li>Rolls 3 times and adds them as fractions to decrease player initiative collisions</li>
+	</ul>
+
+
+	<h2>Players</h2>
+<pre>
+Speed ([[ @{selected|Speed} ]]) + Modifier ([[ ?{Modifier|0} ]]) = Dice Pool ([[ @{selected|Speed}+?{Modifier} ]])
+/roll [[ ( (@{selected|Speed}+?{Modifier}) + abs(@{selected|Speed}+?{Modifier}) ) / 2 ]]d10kh1 + ([[ ( (@{selected|Speed}+?{Modifier}) + abs(@{selected|Speed}+?{Modifier}) ) / 2 ]]d10kh1)/100 + ([[ ( (@{selected|Speed}+?{Modifier}) + abs(@{selected|Speed}+?{Modifier}) ) / 2 ]]d10kh1)/10000 + [[ (abs([[ ((@{selected|Speed}+?{Modifier}-0.5) / abs(@{selected|Speed}+?{Modifier}-0.5)) - 1 ]]) / 2) * (abs(@{selected|Speed}+?{Modifier}-2)) ]]d10kl1 + [[ (abs([[ ((@{selected|Speed}+?{Modifier}-0.5) / abs(@{selected|Speed}+?{Modifier}-0.5)) - 1 ]]) / 2) * (abs(@{selected|Speed}+?{Modifier}-2)) ]]d10kl1/100 + [[ (abs([[ ((@{selected|Speed}+?{Modifier}-0.5) / abs(@{selected|Speed}+?{Modifier}-0.5)) - 1 ]]) / 2) * (abs(@{selected|Speed}+?{Modifier}-2)) ]]d10kl1/10000 &{tracker}
+</pre>
+
+
+	<h2>NPCs</h2>
+<pre>
+/w gm Dice Pool ([[ ?{Dice Pool|1} ]])
+/gmroll [[ ( (?{Dice Pool|1}) + abs(?{Dice Pool|1}) ) / 2 ]]d10kh1 + ([[ ( (?{Dice Pool|1}) + abs(?{Dice Pool|1}) ) / 2 ]]d10kh1)/100 + ([[ ( (?{Dice Pool|1}) + abs(?{Dice Pool|1}) ) / 2 ]]d10kh1)/10000 + [[ (abs([[ ((?{Dice Pool|1}-0.5) / abs(?{Dice Pool|1}-0.5)) - 1 ]]) / 2) * (abs(?{Dice Pool|1}-2)) ]]d10kl1 + [[ (abs([[ ((?{Dice Pool|1}-0.5) / abs(?{Dice Pool|1}-0.5)) - 1 ]]) / 2) * (abs(?{Dice Pool|1}-2)) ]]d10kl1/100 + [[ (abs([[ ((?{Dice Pool|1}-0.5) / abs(?{Dice Pool|1}-0.5)) - 1 ]]) / 2) * (abs(?{Dice Pool|1}-2)) ]]d10kl1/10000 &{tracker}
+</pre>
+</div>

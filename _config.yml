@@ -70,9 +70,8 @@ defaults:
         scope:
             path: RighteousBlood/RulesAndResources
         values:
-            rpgtitle: "Righteous Blood: Rules and Resources"
+            rpgtitle: Rules and Resources
             rpgdescription: Wuxia Roleplaying Quick Reference
-            rpgrootlink: RighteousBlood/RulesAndResources/
     -
         scope:
             path: RollForShoes/KitchenKhaos
