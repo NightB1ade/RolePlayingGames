@@ -84,7 +84,6 @@ defaults:
         values:
             rpgtitle: Lone Star
             rpgdescription: An anti-narcotics squad
-            rpgrootlink: Shadowrun/5e/LoneStar/
     -
         scope:
             path: Shadowrun/5e/ShadowrunUK
