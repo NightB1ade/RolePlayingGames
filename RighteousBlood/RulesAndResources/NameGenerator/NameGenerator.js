@@ -1,144 +1,115 @@
-var SurnamesFullList;
-
-var GivenNamesFullList;
-
-function GenerateName() {
-	var GenerateNumber = $("#GenerateNumber").spinner("value");
-	var GenerateHTML = "";
-
-	var Surnames = SurnamesFullList[$("#SurnameType option:selected").val()].surnames;
-
-	var GivenNames = GivenNamesFullList[$("#GivenNameCategory option:selected").val()].type[$("#GivenNameType option:selected").val()].givenNames;
-
-	for (i=0 ; i < GenerateNumber ; i++) {
-		var Surname = Surnames[Math.floor(Math.random() * Surnames.length)];
-		var GivenName = GivenNames[Math.floor(Math.random() * GivenNames.length)];
-		var GivenNameRomanisations = GivenName.romanisations.length;
-
-		GenerateHTML = GenerateHTML
-			+ "<tr><td rowspan='" + GivenNameRomanisations + "' nowrap style='text-align:center'>"
-			+ Surname.traditional + GivenName.traditional
-			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap style='text-align:center'>"
-			+ Surname.simplified + GivenName.simplified
-			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap style='text-align:center'>"
-			+ GivenName.gender
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
-			+ Surname.englishMandarin
-			+ "</td><td>"
-			+ GivenName.romanisations[0].englishMandarin
-			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
-			+ Surname.pinyin + " " + GivenName.pinyin
-			+ "</td><td rowspan='" + GivenNameRomanisations + "' nowrap>"
-			+ Surname.jyutping + " " + GivenName.jyutping
-			+ "</td><td rowspan='" + GivenNameRomanisations + "'>"
-			+ Surname.meaning
-			+ "</td><td>"
-			+ GivenName.romanisations[0].meaning
-			+ "</td></tr>";
-
-		for (j=1 ; j < GivenNameRomanisations ; j++) {
-			GenerateHTML = GenerateHTML
-			+ "<tr><td>"
-			+ GivenName.romanisations[j].englishMandarin
-			+ "</td><td>"
-			+ GivenName.romanisations[j].meaning
-			+ "</td></tr>";
-		}
-	}
-
-	$("#ResultsTable tbody").html(GenerateHTML);
-}
+var SurnamesList;
+var GivenNamesList;
 
 
 
 
 function ClearResults() {
-	$("#ResultsTable tbody").html("");
-}
-
-
-
-function GivenNameCategoryChange() {
-	var GivenNameHTML = "";
-
-	$(GivenNamesFullList[$("#GivenNameCategory option:selected").val()].type).toArray().forEach((item, i) => {
-		GivenNameHTML = GivenNameHTML
-			+ '<option value="' + i + '">' + item.title + '</option>';
-	});
-
-	$("#GivenNameType").html(GivenNameHTML).selectmenu("refresh");
-	GivenNameTypeChange();
+	document.getElementById("ResultsTable").innerHTML = "";
 }
 
 
 
 
-function GivenNameTypeChange() {
-	$("#GivenNameTypeExplanation").html(GivenNamesFullList[$("#GivenNameCategory option:selected").val()].type[$("#GivenNameType option:selected").val()].explanation);
+function ExplanationUpdate() {
+	var form = document.getElementById("Configuration_Form");
 
-	SelectMenuChange();
-}
-
-
-
-
-function GivenNameCreate() {
-	var GivenNameCategoryHTML = "";
-
-	GivenNamesFullList.forEach((item, i) => {
-		GivenNameCategoryHTML = GivenNameCategoryHTML
-			+ '<option value="' + i + '">' + item.category + '</option>';
-	});
-
-	$("#GivenNameCategory").html(GivenNameCategoryHTML).selectmenu("refresh");
-
-	GivenNameCategoryChange();
-}
-
-
-
-
-function SelectMenuChange() {
+	document.getElementById("SurnameTypeExplanation").innerText = SurnamesList[form.SurnameType.value].explanation;
+	document.getElementById("GivenNameTypeExplanation").innerText = GivenNamesList[form.GivenNameCategory.value].type[form.GivenNameType.value].explanation;
 	ClearResults();
 }
 
 
 
 
-function SurnameTypeCreate() {
-	var SurnameHTML = "";
+function GenerateNames() {
+	var html = "";
 
-	SurnamesFullList.forEach((item, i) => {
-		SurnameHTML = SurnameHTML
-			+ '<option value="' + i + '">' + item.title + '</option>';
-	});
+	var form = document.getElementById("Configuration_Form");
 
-	$("#SurnameType").html(SurnameHTML).selectmenu("refresh");
-	SurnameTypeChange();
+	var surnames = SurnamesList[form.SurnameType.value].surnames;
+	var givenNames = GivenNamesList[form.GivenNameCategory.value].type[form.GivenNameType.value].givenNames;
+
+	for (i=0 ; i < form.NumNames.value ; i++) {
+		var surname = surnames[Math.floor(Math.random() * surnames.length)];
+		var givenName = givenNames[Math.floor(Math.random() * givenNames.length)];
+		var givenNameRomanisations = givenName.romanisations.length;
+
+		html += "<tr>"
+				+ '<td class="text-center" rowspan="' + givenNameRomanisations + '" nowrap>'
+					+ surname.traditional + givenName.traditional
+				+ "</td>"
+				+ '<td class="text-center" rowspan="' + givenNameRomanisations + '" nowrap>'
+					+ surname.simplified + givenName.simplified
+				+ "</td>"
+				+ '<td class="text-center" rowspan="' + givenNameRomanisations + '" nowrap>'
+					+ givenName.gender
+				+ "</td>"
+				+ "<td rowspan='" + givenNameRomanisations + "'>" + surname.englishMandarin + "</td>"
+				+ "<td>" + givenName.romanisations[0].englishMandarin + "</td>"
+				+ "<td rowspan='" + givenNameRomanisations + "' nowrap>" + surname.pinyin + " " + givenName.pinyin + "</td>"
+				+ "<td rowspan='" + givenNameRomanisations + "' nowrap>" + surname.jyutping + " " + givenName.jyutping + "</td>"
+				+ "<td rowspan='" + givenNameRomanisations + "'>" + surname.meaning + "</td>"
+				+ "<td>" + givenName.romanisations[0].meaning + "</td>"
+			+ "</tr>";
+
+		for (j=1 ; j < givenNameRomanisations ; j++) {
+			html += "<tr>"
+					+ "<td>" + givenName.romanisations[j].englishMandarin + "</td>"
+					+ "<td>" + givenName.romanisations[j].meaning + "</td>"
+				+ "</tr>";
+		}
+	}
+
+	document.getElementById("ResultsTable").innerHTML = html;
 }
 
 
 
 
-function SurnameTypeChange() {
-	$("#SurnameTypeExplanation").html(SurnamesFullList[$("#SurnameType option:selected").val()].explanation);
-	SelectMenuChange();
+function GivenNameListUpdate(i) {
+	var html = "";
+
+	Array.from(GivenNamesList[i].type).forEach((item, i) => {
+		html += '<option value="' + i + '">' + item.title + '</option>';
+	});
+
+	document.getElementById("Configuration_Form").GivenNameType.innerHTML = html;
 }
 
 
 
 
-$(document).ready(function() {
-	$("select").selectmenu();
-	$("#SurnameType").selectmenu({
-		change: SurnameTypeChange
-	})
-	$("#GivenNameCategory").selectmenu({
-		change: GivenNameCategoryChange
-	});
-	$("#GivenNameType").selectmenu({
-		change: GivenNameTypeChange
-	})
-	$("input.spinner").spinner();
-	$("button").button();
-});
+function DocumentLoad() {
+	fetch("json/Surnames.json")
+		.then(x => x.text())
+		.then(y => {
+			var html = "";
+
+			SurnamesList = JSON.parse(y);
+
+			SurnamesList.forEach((item, i) => {
+				html += '<option value="' + i + '">' + item.title + '</option>';
+			});
+
+			document.getElementById("Configuration_Form").SurnameType.innerHTML = html;
+		});
+
+	fetch("json/GivenNames.json")
+		.then(x => x.text())
+		.then(y => {
+			var html = "";
+
+			GivenNamesList = JSON.parse(y)
+
+			GivenNamesList.forEach((item, i) => {
+				html += '<option value="' + i + '">' + item.category + '</option>';
+			});
+
+			document.getElementById("Configuration_Form").GivenNameCategory.innerHTML = html;
+
+			GivenNameListUpdate(0);
+
+			ExplanationUpdate();
+		});
+}
