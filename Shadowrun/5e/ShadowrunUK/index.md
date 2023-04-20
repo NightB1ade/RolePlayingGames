@@ -21,6 +21,8 @@ layout: default_old
 [Berlin History](World/BerlinHistory.html)  
 [Clarifications](World/Clarifications.html)  
 
+[Fire Station](Assets/Miscellaneous/Fire Station.png)  
+
 [Jack’s Background](World/PlayerCharacter_Jack.html)  
 [Sanguine’s Background](World/PlayerCharacter_Sanguine.html)  
 
