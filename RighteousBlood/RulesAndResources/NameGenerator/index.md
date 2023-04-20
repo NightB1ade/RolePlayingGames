@@ -65,7 +65,7 @@ layout: default_old
 $(document).ready(function() {
 	//Get Surnames Data
 	$.get(
-		"{{ 'JSONs/Surnames.json?v=' | append: site.github.build_revision }}"
+		"{{ 'json/Surnames.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			SurnamesFullList = $(data).toArray();
 
@@ -75,7 +75,7 @@ $(document).ready(function() {
 
 	//Get GivenNames Data
 	$.get(
-		"{{ 'JSONs/GivenNames.json?v=' | append: site.github.build_revision }}"
+		"{{ 'json/GivenNames.json?v=' | append: site.github.build_revision }}"
 		,function(data){
 			GivenNamesFullList = $(data).toArray();
 
