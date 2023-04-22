@@ -28,7 +28,7 @@
 	, {
 		"term": "Age of Strife"
 		, "description": [
-			"The Age of Strife, also sometimes referred to as “Old Night” based on the name for the era on Terra in older Imperial histories, is the name for the apocalyptic and highly fragmented period of Human history that began roughly in the 25th Millennium A.D. and ended in the 30th Millennium with the birth of the Imperium of Man."
+			"The Age of Strife, also sometimes referred to as “Old Night” based on the name for the era on Terra in older Imperial histories, is the name for the apocalyptic and highly fragmented period of Human history that began roughly in the 25<sup>th</sup> Millennium A.D. and ended in the 30<sup>th</sup> Millennium with the birth of the Imperium of Man."
 			, "It was in this time that the great Human interstellar civilisation created during the golden age of the Age of Technology collapsed into isolation, constant warfare, disease, rampant mutation, famine and a host of other terrible tragedies.  These events killed tens of trillions of people and pushed Humanity to the brink of extinction."
 		]
 	}
@@ -85,7 +85,7 @@
 	, {
 		"term": "Imperium"
 		, "description": [
-			"The Imperium of Man, also called simply the Imperium, is a galaxy-spanning, interstellar Human empire, the ultimate authority for the majority of the Human species in the Milky Way Galaxy in the 41st Millennium A.D.  It is ruled by the living god who is known as the Emperor of Mankind."
+			"The Imperium of Man, also called simply the Imperium, is a galaxy-spanning, interstellar Human empire, the ultimate authority for the majority of the Human species in the Milky Way Galaxy in the 41<sup>st</sup> Millennium A.D.  It is ruled by the living god who is known as the Emperor of Mankind."
 		]
 	}
 	, {
@@ -214,7 +214,7 @@
 	, {
 		"term": "Virus Bomb"
 		, "description": [
-			"A Virus Bomb is a potent Imperial biological weapon and weapon of mass destruction, commonly used to carry out Exterminatus actions during the Great Crusade and Horus Heresy periods of the late 30th and early 31st Millennia."
+			"A Virus Bomb is a potent Imperial biological weapon and weapon of mass destruction, commonly used to carry out Exterminatus actions during the Great Crusade and Horus Heresy periods of the late 30<sup>th</sup> and early 31<sup>st</sup> Millennia."
 			, "The pathogen can penetrate even sealed environment suits, including power armour."
 			, "It rapidly converts living tissue and plant matter into flammable gases which react with the planet’s atmosphere to create a global firestorm."
 		]
