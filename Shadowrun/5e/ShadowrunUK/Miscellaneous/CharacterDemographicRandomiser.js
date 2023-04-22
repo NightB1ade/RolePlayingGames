@@ -1,14 +1,9 @@
----
-title: Character Demographic Randomiser
-layout: default_old
----
-<script>
 function Randomise() {
 	var html = "";
 	var x;
 
 	html += "<hr>";
-	html += "<table>";
+	html += '<table class="table table-dark table-striped table-hover w-auto">';
 
 	html += "<tr><td>Metatype</td><td>";
 	x = Math.random();
@@ -92,12 +87,5 @@ function Randomise() {
 
 	html += "</table>";
 
-	var theDiv = document.getElementById("Character");
-	theDiv.innerHTML = html + theDiv.innerHTML;
+	document.getElementById("Character").insertAdjacentHTML("afterbegin",html);
 }
-</script>
-
-<button onclick="Randomise()">Randomise</button>
-
-<div id="Character">
-</div>
