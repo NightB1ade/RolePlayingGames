@@ -1,0 +1,17 @@
+- startdate: 2019-12-01
+  name: Mission 1
+  link: Mission1.html
+
+- startdate: 2020-01-23
+  enddate: 2020-02-27
+  name: Mission 2
+  link: Mission2.html
+
+- startdate: 2020-03-05
+  enddate: 2020-04-02
+  name: Mission 3
+  link: Mission3.html
+
+- startdate: 2020-11-28
+  name: Mission 4
+  link: Mission4.html

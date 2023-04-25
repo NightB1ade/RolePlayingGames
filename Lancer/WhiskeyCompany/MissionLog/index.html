@@ -3,30 +3,23 @@ title: Mission Log
 ---
 
 <div class="container">
-	<table class="table table-dark table-striped table-hover w-auto">
-		<thead>
-			<tr>
-				<th>Dates</th>
-				<th>Mission</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>01/12/2019</td>
-				<td><a href="Mission1.html">Mission 1</a></td>
-			</tr>
-			<tr>
-				<td>23/01/2020 – 27/02/2020</td>
-				<td><a href="Mission2.html">Mission 2</a></td>
-			</tr>
-			<tr>
-				<td>05/03/2020 – 02/04/2020</td>
-				<td><a href="Mission3.html">Mission 3</a></td>
-			</tr>
-			<tr>
-				<td>28/11/2020</td>
-				<td><a href="Mission4.html">Mission 4</a></td>
-			</tr>
-		</tbody>
-	</table>
+	<div class="row gy-2">
+	{% for session in site.data.Lancer_WhiskeyCompany.MissionLog %}
+		<div class="col col-6 col-sm-4 col-md-3 col-lg-2">
+			<div class="card">
+				<div class="card-header">
+					<h5 class="card-title">{{ session.startdate | date: "%d/%m/%Y"}}</h5>
+					<h6 class="card-subtitle text-body-secondary">&emsp;
+					{%- if session.enddate != null %}– {{ session.enddate | date: "%d/%m/%Y" }}
+					{%- endif %}</h6>
+				</div>
+				<div class="card-body">
+					<p class="card-text">
+						<a class="btn btn-primary"
+							href="{{ session.link }}">{{ session.name }}</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	{%- endfor %}
 </div>
