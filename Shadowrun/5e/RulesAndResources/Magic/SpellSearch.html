@@ -1,0 +1,35 @@
+---
+title: Spell Search
+onLoad: DocumentLoad()
+---
+
+<div class="container">
+	<form id="SpellSearchForm"
+		action="javascript:SearchSpells()">
+	<table class="table table-dark table-striped table-hover w-auto">
+		<tr>
+			<td class="align-middle">Name</td>
+			<td><input class="form-control"
+				type="text"
+				name="Name"
+				minlength="3"
+				required></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<button class="btn btn-secondary"
+					type="submit">Search</button>
+			</td>
+		</tr>
+	</table>
+	</form>
+</div>
+
+<div class="container mt-3"
+	id="SpellSearchResults">
+</div>
+
+
+
+
+<script src="{{ 'SpellSearch.js?v=' | append: site.github.build_revision }}"></script>
