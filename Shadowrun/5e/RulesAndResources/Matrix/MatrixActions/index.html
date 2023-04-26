@@ -1,0 +1,297 @@
+---
+title: Matrix Actions
+---
+
+<div class="container">
+	<p>Note: These include houserules (changes listed below)</p>
+
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th></th>
+				<th>Action</th>
+				<th class="text-center">Skill Test</th>
+				<th class="text-center">Opposed By</th>
+				<th class="text-center">Action Type</th>
+				<th class="text-center">Marks Req.</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Attack</td>
+				<td>Brute Force</td>
+				<td class="text-center">Cybercombat + LOG</td>
+				<td class="text-center">Firewall + WIL</td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">0</td>
+				<td>Gain Mark (-4 for 2 marks, -10 for 3), 1 Matrix Damage/2 net hits, Grid Hop</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Crack File</td>
+				<td class="text-center">Hacking + LOG</td>
+				<td class="text-center">Protection Rating ×2</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">1</td>
+				<td>Remove protection from file so you can read it (reading sets off Data Bombs)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Crash Program</td>
+				<td class="text-center">Cybercombat + LOG</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">1</td>
+				<td>Program stops running, can’t be reloaded until device is rebooted</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Data Spike</td>
+				<td class="text-center">Cybercombat + LOG</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">0</td>
+				<td>Cause Matrix Damage = [Attack] + 1/net hit + 2/mark</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Erase Mark</td>
+				<td class="text-center">Computer + LOG</td>
+				<td class="text-center">Firewall + WIL</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">3</td>
+				<td>Remove Mark (-4 for 2 marks, -10 for 3), need 3 Marks on target you are removing Marks from (need none on whoever marked the target)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Jam Signals</td>
+				<td class="text-center">Electronic Warfare + LOG</td>
+				<td></td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">Owner</td>
+				<td>Turns your device into a jammer, can’t use device for Matrix actions while jamming, add hits to Noise rating within 100m</td>
+			</tr>
+			<tr>
+				<td>Data Processing</td>
+				<td>Change Icon</td>
+				<td></td>
+				<td></td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">Owner</td>
+				<td>Change icon to new image (Wrapper program required to disguise icon)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Edit File</td>
+				<td class="text-center">Computer + LOG</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">1</td>
+				<td>Create, change, copy, delete, or protect (test unopposed, Hits = Protection Rating) file, sets off Data Bombs</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Enter/Exit Host</td>
+				<td></td>
+				<td></td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">1</td>
+				<td>Enter or exit host (return to grid you entered from)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Grid Hop</td>
+				<td></td>
+				<td></td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">0</td>
+				<td>Move to grid you have access to (if no access, Brute Force or Hack on the Fly)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Invite Mark</td>
+				<td></td>
+				<td></td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">Owner</td>
+				<td>Let other icon put mark on you as Free Action, you decide number of marks and duration</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Jump into Rigged Device</td>
+				<td class="text-center">Electronic Warfare + LOG</td>
+				<td class="text-center">Firewall + WIL</td>
+				<td class="text-center">Special</td>
+				<td class="text-center">3</td>
+				<td>In VR - Simple Action, in AR - Complex Action, jump into device with rigger interface, must have a Control Rig, device can’t have someone else already jumped in</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><a href="Perception.html">Matrix Perception</a></td>
+				<td class="text-center">Computer + INT (+2 for Technomancers)</td>
+				<td class="text-center">Sleaze + LOG</td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">0</td>
+				<td>Find hidden icons or icons 100+ metres away.
+					Analyse icon: 1 piece of information per hit</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><a href="Search.html">Matrix Search</a></td>
+				<td class="text-center">Computer + INT</td>
+				<td></td>
+				<td class="text-center">Special</td>
+				<td class="text-center">0</td>
+				<td>Search for information in Matrix (see Matrix Search table).
+					Searching for any information in Host always has Base Tme of 1 minute. Divide Base Time by Hits above Threshold</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Reboot Device</td>
+				<td class="text-center">Computer + LOG</td>
+				<td class="text-center">Firewall + WIL</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">3</td>
+				<td>Can’t be link-locked, suffer Dumpshock, resets OS.
+					Back online at end of next Combat Turn</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Send Message</td>
+				<td></td>
+				<td></td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">1</td>
+				<td>Use device to send short message/file or open live feed to commcode you know</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Switch Interface Mode</td>
+				<td></td>
+				<td></td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">Owner</td>
+				<td>Switch from AR to VR or vice versa, or enter/exit Matrix (can’t be link-locked)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Trace Icon</td>
+				<td class="text-center">Computer + INT</td>
+				<td class="text-center">Sleaze + WIL</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">2</td>
+				<td>Find physical location of device or persona</td>
+			</tr>
+			<tr>
+				<td>Sleaze</td>
+				<td>Check Overwatch Score</td>
+				<td class="text-center">Electronic Warfare + LOG</td>
+				<td class="text-center">6 dice</td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">0</td>
+				<td>Learn Overwatch Score (before hits from this roll are added)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Control Device</td>
+				<td class="text-center">Electronic Warfare + INT</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">Variable</td>
+				<td class="text-center">Varies</td>
+				<td>Use device, action type same as action device is doing. Marks required= 1 Free, 2 Simple, 3 Complex.
+					Use your skills.
+					Can command multiple devices with the same action if Owner</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Format Device</td>
+				<td class="text-center">Computer + LOG</td>
+				<td class="text-center">Firewall + WIL</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">3</td>
+				<td>When device is rebooted, won’t start back up until Software + LOG (12,1 hour) [Mental]</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Hack on the Fly</td>
+				<td class="text-center">Hacking + LOG</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">0</td>
+				<td>Gain Mark (-4 for 2 marks, -10 for 3), 1 Matrix Perception/2 net hits, Grid Hop</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Hide</td>
+				<td class="text-center">Electronic Warfare + INT</td>
+				<td class="text-center">Data Processing + INT</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">0</td>
+				<td>Become hidden to target (can’t use if they have mark on you)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Set Data Bomb</td>
+				<td class="text-center">Software + LOG</td>
+				<td class="text-center">Device Rating ×2</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">1</td>
+				<td>Rating = net hits, choose if trigger deletes file, does (Rating)d6 Matrix damage</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Snoop</td>
+				<td class="text-center">Electronic Warfare + INT</td>
+				<td class="text-center">Firewall + LOG</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">1</td>
+				<td>Intercept Matrix traffic to and from target</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Spoof Command</td>
+				<td class="text-center">Hacking + INT</td>
+				<td class="text-center">Firewall + LOG</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">1</td>
+				<td>Give device or agent command (need Mark on owner you are imitating)</td>
+			</tr>
+			<tr>
+				<td>Firewall</td>
+				<td>Disarm Data Bomb</td>
+				<td class="text-center">Software + INT</td>
+				<td class="text-center">Data Bomb Rating ×2</td>
+				<td class="text-center">Complex</td>
+				<td class="text-center">0</td>
+				<td>Safely remove Data Bomb (only need 1 net hit, must find with Matrix Perception)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Full Matrix Defence</td>
+				<td></td>
+				<td></td>
+				<td class="text-center">Interrupt</td>
+				<td class="text-center">Owner</td>
+				<td>-10 initiative, +WIL to Defence tests against Matrix Actions (lasts for rest of Combat Turn)</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>Jack Out</td>
+				<td class="text-center">Hardware + WIL</td>
+				<td class="text-center">Attack + LOG</td>
+				<td class="text-center">Simple</td>
+				<td class="text-center">Owner</td>
+				<td>Only roll if link-locked, exit Matrix, reboot device, suffer Dumpshock if in VR</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<h3>Houserules</h3>
+	<ul>
+		<li>Brute Force changed to Simple Action</li>
+		<li>Matrix Perception changed to Simple Action</li>
+		<li>Hack on the Fly changed to Simple Action</li>
+	</ul>
+</div>

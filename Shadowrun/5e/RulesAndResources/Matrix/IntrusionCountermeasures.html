@@ -1,0 +1,133 @@
+---
+title: Matrix Intrusion Countermeasures (IC)
+---
+
+<div class="container">
+	<ul>
+		<li>All IC actions are Complex actions</li>
+		<li>All Dice rolls are Host Rating ×2</li>
+		<li>All Limits are Attack, except for Patrol IC, which is Data Processing</li>
+		<li>Condition Monitor: 8 + Host Rating/2</li>
+		<li>Initiative: Data Processing + INT + 4d6</li>
+	</ul>
+
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th class="text-center">IC</th>
+				<th class="text-center">Opposed By</th>
+				<th class="text-center">Marks Required</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="text-center">Acid</td>
+				<td class="text-center">Firewall + WIL</td>
+				<td class="text-center">-</td>
+				<td>Reduces Firewall by 1 (regardless of Net Hits).
+					If Firewall already 0, 1DV Matrix Damage per Net Hit.
+					Reduction is cumulative with multiple attacks.
+					Lasts until Reboot</td>
+			</tr>
+			<tr>
+				<td class="text-center">Binder</td>
+				<td class="text-center">Data Processing + WIL</td>
+				<td class="text-center">-</td>
+				<td>Reduces Data Processing by 1 (regardless of Net Hits).
+					If Data Processing already 0, 1DV Matrix Damage per Net Hit.
+					Reduction is cumulative with multiple attacks.
+					Lasts until Reboot</td>
+			</tr>
+			<tr>
+				<td class="text-center">Black IC</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">-</td>
+				<td>Link-Locks target.
+					Matrix Damage: (Attack)DV, +1/Net Hit, +2/Mark, Equal amount of Biofeedback Damage</td>
+			</tr>
+			<tr>
+				<td class="text-center">Blaster (Grey IC)</td>
+				<td class="text-center">Firewall + LOG</td>
+				<td class="text-center">-</td>
+				<td>Link-Locks target.
+					Matrix Damage: (Attack)DV, +1/Net Hit, +2/Mark,	Equal amount of Biofeedback Damage (always only Stun Damage)</td>
+			</tr>
+			<tr>
+				<td class="text-center">Crash</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">1</td>
+				<td>If IC/Host has 1 Mark, randomly crashes 1 of your programs (that program is unavailable until Reboot)</td>
+			</tr>
+			<tr>
+				<td class="text-center">Jammer</td>
+				<td class="text-center">Attack + WIL</td>
+				<td class="text-center">-</td>
+				<td>Reduces Attack by 1 (regardless of Net Hits).
+					If Attack already 0, 1DV Matrix Damage per Net Hit.
+					Reduction is cumulative with multiple attacks.
+					Lasts until Reboot</td>
+			</tr>
+			<tr>
+				<td class="text-center">Killer</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">-</td>
+				<td>Matrix Damage: (Attack)DV, +1/Net Hit, +2/Mark</td>
+			</tr>
+			<tr>
+				<td class="text-center">Marker</td>
+				<td class="text-center">Sleaze + WIL</td>
+				<td class="text-center">-</td>
+				<td>Reduces Sleaze by 1 (regardless of Net Hits).
+					If Sleaze already 0, 1DV Matrix Damage per Net Hit.
+					Reduction is cumulative with multiple attacks.
+					Lasts until Reboot</td>
+			</tr>
+			<tr>
+				<td class="text-center">Patrol</td>
+				<td class="text-center">Sleaze + LOG</td>
+				<td class="text-center">-</td>
+				<td>Patrols host, scans for marks, looks for illegal activity, icons running silent.
+					Uses Matrix Perception Action – not an Attack.
+					No damage on failed attempt.
+					Shares info with Host and other IC</td>
+			</tr>
+			<tr>
+				<td class="text-center">Probe</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">-</td>
+				<td>Gains Mark (shared with Host and other IC).
+					Max Marks = 3</td>
+			</tr>
+			<tr>
+				<td class="text-center">Scramble</td>
+				<td class="text-center">Firewall + WIL</td>
+				<td class="text-center">3</td>
+				<td>If IC/Host has 3 Marks, forced to reboot.
+					Suffer Dumpshock if in VR</td>
+			</tr>
+			<tr>
+				<td class="text-center">Sparky</td>
+				<td class="text-center">Firewall + INT</td>
+				<td class="text-center">-</td>
+				<td>Matrix Damage: (Attack)DV, +1/Net Hit, +2/Mark.
+					Equal amount of Biofeedback Damage</td>
+			</tr>
+			<tr>
+				<td class="text-center">Tar Baby</td>
+				<td class="text-center">Firewall + LOG</td>
+				<td class="text-center">-</td>
+				<td>Link-Locks target.
+					If target already Link-locked, gains Mark (shared with other IC/Host).
+					Max Marks = 3</td>
+			</tr>
+			<tr>
+				<td class="text-center">Track</td>
+				<td class="text-center">Sleaze + WIL</td>
+				<td class="text-center">2</td>
+				<td>If IC/Host has 2 Marks, Host (and owners/security spiders) discover physical location of target’s body.
+					Usually immediately reported to real-world authorities</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
