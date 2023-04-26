@@ -1,0 +1,267 @@
+---
+title: Combat Modifiers
+---
+
+<div class="container">
+	<h1>Ranged Attack Modifiers</h1>
+	<h2>Environmental Modifiers</h2>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th class="text-center">Visibility</th>
+				<th class="text-center">Light/Glare</th>
+				<th class="text-center">Wind</th>
+				<th class="text-center">Range</th>
+				<th class="text-center">Modifier</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="text-center">Clear</td>
+				<td class="text-center">Full light/no glare</td>
+				<td class="text-center">None/light breeze</td>
+				<td class="text-center">Short</td>
+				<td class="text-center">-</td>
+			</tr>
+			<tr>
+				<td class="text-center">Light rain/fog/smoke</td>
+				<td class="text-center">Partial light/weak glare</td>
+				<td class="text-center">Light winds</td>
+				<td class="text-center">Medium</td>
+				<td class="text-center">-1</td>
+			</tr>
+			<tr>
+				<td class="text-center">Moderate rain/fog/smoke</td>
+				<td class="text-center">Dim light/moderate glare</td>
+				<td class="text-center">Moderate winds</td>
+				<td class="text-center">Long</td>
+				<td class="text-center">-3</td>
+			</tr>
+			<tr>
+				<td class="text-center">Heavy rain/fog/smoke</td>
+				<td class="text-center">Total darkness/blinding glare</td>
+				<td class="text-center">Strong winds</td>
+				<td class="text-center">Extreme</td>
+				<td class="text-center">-6</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<ul>
+		<li>Take the highest level if multiple columns</li>
+		<li>If two highest, then take modifier one worse</li>
+		<li>A combination of &gt;2 modifiers at the -6 level is represented by a -10</li>
+	</ul>
+
+
+	<h2>Situational Modifiers</h2>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th>Situation</th>
+				<th class="text-center">Modifier</th>
+				<th>Notes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Blind fire</td>
+				<td class="text-center">-6</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Firing from a moving vehicle</td>
+				<td class="text-center">-2</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Attacker in melee combat</td>
+				<td class="text-center">-3</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Attacker running</td>
+				<td class="text-center">-2</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Attacker using offhand weapon</td>
+				<td class="text-center">-2</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Attacker firing from cover with imaging device</td>
+				<td class="text-center">-3</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Attacker wounded</td>
+				<td class="text-center">-Wound penalties</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Recoil</td>
+				<td class="text-center">-Cumulative recoil</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<h1>Melee Attack Modifiers</h1>
+	<h2>Positive Modifiers</h2>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th>Situation</th>
+				<th class="text-center">Modifier</th>
+				<th>Notes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Charge attack</td>
+				<td class="text-center">+2</td>
+				<td>Made when attacker is running, ignore the normal -2 from running</td>
+			</tr>
+			<tr>
+				<td>Character has superior position</td>
+				<td class="text-center">+2</td>
+				<td>At GMs discretion (e.g. Attacking from behind or above/from better footing etc.)</td>
+			</tr>
+			<tr>
+				<td>Opponent prone</td>
+				<td class="text-center">+1</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Touch only attack</td>
+				<td class="text-center">+2</td>
+				<td>Touch only attacks do not benefit from net hits</td>
+			</tr>
+			<tr>
+				<td>Friends in melee</td>
+				<td class="text-center">+1</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<h2>Negative Modifiers</h2>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th>Situation</th>
+				<th class="text-center">Modifier</th>
+				<th>Notes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Attacker prone</td>
+				<td class="text-center">-1</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Attacker using offhand weapon</td>
+				<td class="text-center">-2</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Environmental modifiers</td>
+				<td class="text-center">As above</td>
+				<td>Only light and visibility, ignore if affecting attacker and defender equally</td>
+			</tr>
+			<tr>
+				<td>Attacker wounded</td>
+				<td class="text-center">-Wound penalties</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<h1>Defence Modifiers</h1>
+	<h2>Positive Modifiers</h2>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th>Situation</th>
+				<th class="text-center">Modifier</th>
+				<th>Notes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Defender inside moving vehicle</td>
+				<td class="text-center">+3</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Defender has longer reach</td>
+				<td class="text-center">+1 per net reach</td>
+				<td>Melee only</td>
+			</tr>
+			<tr>
+				<td>Defender receiving a charge</td>
+				<td class="text-center">+1</td>
+				<td>Delayed action</td>
+			</tr>
+			<tr>
+				<td>Defender running</td>
+				<td class="text-center">+2</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Defender sprinting</td>
+				<td class="text-center">+4</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Partial cover</td>
+				<td class="text-center">+2</td>
+				<td>&gt;25% but &lt;50%, Ranged attacks/Indirect spells</td>
+			</tr>
+			<tr>
+				<td>Good cover</td>
+				<td class="text-center">+4</td>
+				<td>&gt;50%, Ranged attacks/Indirect spells</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<h2>Negative Modifiers</h2>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th>Situation</th>
+				<th class="text-center">Modifier</th>
+				<th>Notes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Defender prone</td>
+				<td class="text-center">-2</td>
+				<td>Melee + Ranged within 5m</td>
+			</tr>
+			<tr>
+				<td>Attacker has longer reach</td>
+				<td class="text-center">-1 per net reach</td>
+				<td>Melee only</td>
+			</tr>
+			<tr>
+				<td>Defender in melee</td>
+				<td class="text-center">-3</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Defender wounded</td>
+				<td class="text-center">-Wound penalties</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
