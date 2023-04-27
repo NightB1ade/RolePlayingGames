@@ -4,7 +4,7 @@ title: Adventure Log
 
 <div class="container">
 	<div class="row gy-2">
-	{% for session in site.data.Shadowrun_5e_ShadowrunUK.AdventureLog %}
+	{%- for session in site.data.Shadowrun_5e_ShadowrunUK.AdventureLog %}
 		<div class="col col-12 col-sm-6 col-lg-4 col-xl-3">
 			<div class="card">
 				<div class="card-header">
@@ -22,4 +22,5 @@ title: Adventure Log
 			</div>
 		</div>
 	{%- endfor %}
+	</div>
 </div>
