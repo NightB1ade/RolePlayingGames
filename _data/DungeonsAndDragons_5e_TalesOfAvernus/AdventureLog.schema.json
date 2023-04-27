@@ -1,0 +1,30 @@
+{
+	"type": "array"
+	, "title": "Log Entries"
+	, "format": "table"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Log Entry"
+		, "required": [
+			"date"
+			, "name"
+			, "link"
+		]
+		, "properties": {
+			"date": {
+				"type": "string"
+				, "title": "Date"
+				, "format": "date"
+			}
+			, "name": {
+				"type": "string"
+				, "title": "Name"
+			}
+			, "link": {
+				"type": "string"
+				, "title": "Link"
+			}
+		}
+	}
+}
