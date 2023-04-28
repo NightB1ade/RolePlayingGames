@@ -80,7 +80,7 @@ function SearchSpells() {
 
 
 
-function DocumentLoad() {
+function OnDocumentLoad() {
 	fetch("json/SpellList.json")
 		.then(x => x.text())
 		.then(y => SpellList = JSON.parse(y));

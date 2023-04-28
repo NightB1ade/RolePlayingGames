@@ -80,7 +80,7 @@ function GivenNameListUpdate(i) {
 
 
 
-function DocumentLoad() {
+function OnDocumentLoad() {
 	fetch("json/Surnames.json")
 		.then(x => x.text())
 		.then(y => {

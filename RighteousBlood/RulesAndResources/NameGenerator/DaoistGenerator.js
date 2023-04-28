@@ -37,7 +37,7 @@ function GenerateNames() {
 
 
 
-function DocumentLoad() {
+function OnDocumentLoad() {
 	fetch("json/Titles_Daoist.json")
 		.then(x => x.text())
 		.then(y => Titles_Daoist = JSON.parse(y));
