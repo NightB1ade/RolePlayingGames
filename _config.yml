@@ -80,6 +80,12 @@ defaults:
             rpgdescription: Courtly servants rush to prepare and serve a fantastical feast
     -
         scope:
+            path: RollForShoes/RulesAndResources
+        values:
+            rpgtitle: Rules and Resources
+            rpgdescription: Summary of Roll for Shoes micro-ttRPG
+    -
+        scope:
             path: Shadowrun/5e/LoneStar
         values:
             rpgtitle: Lone Star
