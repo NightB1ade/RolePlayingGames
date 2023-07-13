@@ -26,6 +26,12 @@ defaults:
             rpgdescription: A 13th Age Side Campaign
     -
         scope:
+            path: 13thAge/SwordsAgainstOwlbears
+        values:
+            rpgtitle: Swords Against Owlbears
+            rpgdescription: A 13th Age Oneshot
+    -
+        scope:
             path: BandOfBlades/TheRoadToSkydaggerKeep
         values:
             rpgtitle: The Road to Skydagger Keep
