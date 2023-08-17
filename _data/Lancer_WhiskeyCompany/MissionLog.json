@@ -22,4 +22,10 @@
 		, "name": "Mission 4"
 		, "link": "Mission4.html"
 	}
+	, {
+		"startDate": "2021-12-09"
+		, "endDate": "2022-02-03"
+		, "name": "Mission 5"
+		, "link": "Mission5.html"
+	}
 ]
