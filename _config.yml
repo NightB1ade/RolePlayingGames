@@ -68,6 +68,12 @@ defaults:
             rpgdescription: A Lancer game following the exploits of Whiskey Company
     -
         scope:
+            path: LegendOfThe5Rings/WayOfTheBushido
+        values:
+            rpgtitle: Way of the Bushido
+            rpgdescription: Five Volunteers are Given a Job
+    -
+        scope:
             path: RighteousBlood/BloodAndHonour
         values:
             rpgtitle: Blood and Honour
