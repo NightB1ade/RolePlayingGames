@@ -68,13 +68,13 @@ defaults:
             rpgdescription: A Lancer game following the exploits of Whiskey Company
     -
         scope:
-            path: LegendOfThe5Rings/RulesAndResources
+            path: LegendOfTheFiveRings/RulesAndResources
         values:
             rpgtitle: Rules and Resources
             rpgdescription: Various Resources for L5R
     -
         scope:
-            path: LegendOfThe5Rings/WayOfTheBushido
+            path: LegendOfTheFiveRings/WayOfTheBushido
         values:
             rpgtitle: Way of the Bushido
             rpgdescription: Five Volunteers are Given a Job
