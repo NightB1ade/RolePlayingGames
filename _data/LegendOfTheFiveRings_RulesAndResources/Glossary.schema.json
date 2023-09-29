@@ -1,0 +1,24 @@
+{
+	"type": "array"
+	, "title": "Glossary"
+	, "format": "table"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Glossary Item"
+		, "required": [
+			"name"
+			, "description"
+		]
+		, "properties": {
+			"name": {
+				"type": "string"
+				, "title": "Item"
+			}
+			, "description": {
+				"type": "string"
+				, "title": "Description"
+			}
+		}
+	}
+}

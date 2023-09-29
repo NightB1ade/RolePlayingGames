@@ -1,0 +1,401 @@
+[{
+		"name": "Akodo"
+		, "description": "Founding Kami of the Lion Clan"
+	}
+	, {
+		"name": "ashigaru"
+		, "description": "Peasant warriors under the command of a samurai"
+	}
+	, {
+		"name": "Bayushi"
+		, "description": "Founding Kami of the Scorpion Clan"
+	}
+	, {
+		"name": "Benten"
+		, "description": "The Fortune of romantic love and the arts"
+	}
+	, {
+		"name": "bisentō"
+		, "description": "A heavy polearm with a large blade"
+	}
+	, {
+		"name": "Bishamon"
+		, "description": "The Fortune of strength"
+	}
+	, {
+		"name": "biwa"
+		, "description": "A short-necked fretted lute (musical instrument)"
+	}
+	, {
+		"name": "bō"
+		, "description": "A quarterstaff"
+	}
+	, {
+		"name": "bokken"
+		, "description": "A wooden practice sword"
+	}
+	, {
+		"name": "bonge"
+		, "description": "The laborer caste, see <em>heimin</em>"
+	}
+	, {
+		"name": "budōka"
+		, "description": "The personal armed retainers of a samurai"
+	}
+	, {
+		"name": "buke"
+		, "description": "The samurai caste that does not wield authority over other samurai “Those who serve.”"
+	}
+	, {
+		"name": "burakumin"
+		, "description": "The lowest caste of “non-people,” see <em>hinin</em>"
+	}
+	, {
+		"name": "bushi"
+		, "description": "A warrior"
+	}
+	, {
+		"name": "Bushidō"
+		, "description": "The code of the samurai, consisting of seven tenants: Compassion, Courage, Courtesy, Honor, Honesty, Loyalty and Sincerity"
+	}
+	, {
+		"name": "chokutō"
+		, "description": "A straight, single-edged sword"
+	}
+	, {
+		"name": "courtier"
+		, "description": "A samurai whose primary duties are in court"
+	}
+	, {
+		"name": "Daikoku"
+		, "description": "The Fortune of wealth, who is associated with death"
+	}
+	, {
+		"name": "daikyū"
+		, "description": "A longbow"
+	}
+	, {
+		"name": "daimyō"
+		, "description": "Lord of a family, clan, or territory"
+	}
+	, {
+		"name": "daishō"
+		, "description": "The weapons which mark a samurai’s status, traditionally made up by a katana (longsword) and wakizashi (shortsword)"
+	}
+	, {
+		"name": "Doji"
+		, "description": "Founding Kami of the Crane Clan"
+	}
+	, {
+		"name": "dōjō"
+		, "description": "A place of instruction, practice, and study"
+	}
+	, {
+		"name": "Ebisu"
+		, "description": "The Fortune of honest work"
+	}
+	, {
+		"name": "Fu Leng"
+		, "description": "The Lost Kami and lord of demons"
+	}
+	, {
+		"name": "Fukurokujin"
+		, "description": "The Fortune of wisdom and mercy"
+	}
+	, {
+		"name": "gaijin"
+		, "description": "A foreigner to Rokugan"
+	}
+	, {
+		"name": "geisha"
+		, "description": "A host and entertainer who is hired by a samurai for the joy of their company"
+	}
+	, {
+		"name": "gempuku"
+		, "description": "The coming-of-age ceremony for samurai. Occurs between ages 13-21, typically 16"
+	}
+	, {
+		"name": "hakama"
+		, "description": "A divided skirt worn over a kimono, primarily by men and warrior women"
+	}
+	, {
+		"name": "Hantei"
+		, "description": "The divine first emperor of Rokugan"
+	}
+	, {
+		"name": "haori"
+		, "description": "A hip or thigh-length jacket worn over other clothes"
+	}
+	, {
+		"name": "heimin"
+		, "description": "“The common folk,” or the peasants that make up the bonge caste"
+	}
+	, {
+		"name": "Hida"
+		, "description": "Founding Kami of the Crab Clan"
+	}
+	, {
+		"name": "hinin"
+		, "description": "“The non-people,” or members of the burakumin lowest caste"
+	}
+	, {
+		"name": "Hōtei"
+		, "description": "The Fortune of contentment"
+	}
+	, {
+		"name": "iaijutsu"
+		, "description": "A form of swordfighting focusing on draw speed and precision"
+	}
+	, {
+		"name": "ji"
+		, "description": "A polearm weapon with a hooked blade at one end"
+	}
+	, {
+		"name": "jian"
+		, "description": "A straight, double-edged sword"
+	}
+	, {
+		"name": "jitte"
+		, "description": "A hooked tool used to disarm an opponent’s sword, typically worn by guards and government officials"
+	}
+	, {
+		"name": "jizamurai"
+		, "description": "Smaller groups of samurai, such as vassal families, small Minor Clans, or officially-sanctioned bands of rōnin"
+	}
+	, {
+		"name": "jūjutsu"
+		, "description": "A form of martial arts that does not use weapons"
+	}
+	, {
+		"name": "Jigoku"
+		, "description": "The realm of evil"
+	}
+	, {
+		"name": "Jurōjin"
+		, "description": "The Fortune of longevity"
+	}
+	, {
+		"name": "Kabuki"
+		, "description": "A stylized type of theater that focuses on the heroism or tragedy of the samurai"
+	}
+	, {
+		"name": "kabuto"
+		, "description": "A samurai’s helmet"
+	}
+	, {
+		"name": "kama"
+		, "description": "A sickle-like farming implement often used as a weapon"
+	}
+	, {
+		"name": "katana"
+		, "description": "A longsword, the weapon of the samurai"
+	}
+	, {
+		"name": "kata"
+		, "description": "A martial technique"
+	}
+	, {
+		"name": "kami"
+		, "description": "Spirits that inhabit the natural world"
+	}
+	, {
+		"name": "Kami"
+		, "description": "The gods that fell to Rokugan and founded the Great Clans"
+	}
+	, {
+		"name": "kenjutsu"
+		, "description": "The art of swordsmanship"
+	}
+	, {
+		"name": "kihō"
+		, "description": "A mystical technique used by monks"
+	}
+	, {
+		"name": "kimono"
+		, "description": "A robe with a collar and large sleeves that falls to the ankle, the primary garment worn by samurai"
+	}
+	, {
+		"name": "kiseru"
+		, "description": "A smoking pipe"
+	}
+	, {
+		"name": "Kisshōten"
+		, "description": "The Fortune of happiness, fertility, and beauty"
+	}
+	, {
+		"name": "kuge"
+		, "description": "The samurai caste that wields authority (Imperials, daimyō, clan champions, etc) “Those who rule”"
+	}
+	, {
+		"name": "kubi bukuro"
+		, "description": "A netted bag used to carry the severed head of one’s enemy"
+	}
+	, {
+		"name": "kusari-gama"
+		, "description": "A weapon composed of a kama attached to a long chain"
+	}
+	, {
+		"name": "kyūjutsu"
+		, "description": "A combat style focusing on archery"
+	}
+	, {
+		"name": "li"
+		, "description": "A unit of length rough equal to a third of a mile"
+	}
+	, {
+		"name": "naginata"
+		, "description": "A polearm with a blade at one end"
+	}
+	, {
+		"name": "Ningen-dō"
+		, "description": "The physical, mortal, world"
+	}
+	, {
+		"name": "mahō"
+		, "description": "Blood magic"
+	}
+	, {
+		"name": "masakari"
+		, "description": "A hatchet"
+	}
+	, {
+		"name": "Meido"
+		, "description": "The realm of the dead where souls go to be judged for reincarnation"
+	}
+	, {
+		"name": "meishōdō"
+		, "description": "“The way of names,” the style of magic wielded by the Unicorn clan that uses a spirit’s name to bind and command it"
+	}
+	, {
+		"name": "mon"
+		, "description": "The crest or symbol of a clan or family"
+	}
+	, {
+		"name": "nodachi"
+		, "description": "A massive two-handed sword"
+	}
+	, {
+		"name": "nunchaku"
+		, "description": "A weapon consisting of two rods connected by a short chain or rope"
+	}
+	, {
+		"name": "omamori"
+		, "description": "A small rectangular amulet of wood or paper meant to provide spiritual aid or protection"
+	}
+	, {
+		"name": "oni"
+		, "description": "A demon of Jigoku"
+	}
+	, {
+		"name": "ono"
+		, "description": "An axe"
+	}
+	, {
+		"name": "ōtsuchi"
+		, "description": "An immense wooden hammer"
+	}
+	, {
+		"name": "oyumi"
+		, "description": "A crossbow"
+	}
+	, {
+		"name": "Rokugan"
+		, "description": "The setting of Legend of the Five Rings, a land of samurai, honor, and spirits"
+	}
+	, {
+		"name": "rōnin"
+		, "description": "A samurai with no lord, an outcast"
+	}
+	, {
+		"name": "sake"
+		, "description": "A popular alcoholic drink made of fermented rice"
+	}
+	, {
+		"name": "samurai"
+		, "description": "Members of the highest caste, either kuge or buke depending upon their hierarchy within the caste"
+	}
+	, {
+		"name": "scimitar"
+		, "description": "A curved sword originating from the Burning Sands"
+	}
+	, {
+		"name": "shaku"
+		, "description": "A unit of length roughly equal to one foot"
+	}
+	, {
+		"name": "shamisen"
+		, "description": "A three-stringed lute (musical instrument)"
+	}
+	, {
+		"name": "Shiba"
+		, "description": "Founding Kami of the Phoenix Clan"
+	}
+	, {
+		"name": "Shinjo"
+		, "description": "Founding Kami of the Unicorn Clan"
+	}
+	, {
+		"name": "Shinsei"
+		, "description": "“The Little Teacher,” the wise figure who spoke with the first Emperor and inspired the philosophical understandings of reincarnation and the elements"
+	}
+	, {
+		"name": "shinobi"
+		, "description": "A covert operative and infiltrator"
+	}
+	, {
+		"name": "shugenja"
+		, "description": "A priest with a strong bond to the kami, who invokes supernatural feats"
+	}
+	, {
+		"name": "shūji"
+		, "description": "A rhetorical technique"
+	}
+	, {
+		"name": "shuriken"
+		, "description": "An easily-concealed bladed weapon intended to be thrown"
+	}
+	, {
+		"name": "Tao of Shinsei"
+		, "description": "The sacred text that recorded the conversation between Shinsei and the first Emperor"
+	}
+	, {
+		"name": "Tengoku"
+		, "description": "The realm of heaven"
+	}
+	, {
+		"name": "tessen"
+		, "description": "A war fan"
+	}
+	, {
+		"name": "tetsubō"
+		, "description": "A large studded club"
+	}
+	, {
+		"name": "Togashi"
+		, "description": "Founding Kami of the Dragon Clan"
+	}
+	, {
+		"name": "torii"
+		, "description": "A gate that indicates the transition between the mundane and the sacred, often found at the entrances to shrines"
+	}
+	, {
+		"name": "yari"
+		, "description": "A spear"
+	}
+	, {
+		"name": "yōjimbō"
+		, "description": "A bodyguard"
+	}
+	, {
+		"name": "yumi"
+		, "description": "A shortbow"
+	}
+	, {
+		"name": "wakizashi"
+		, "description": "A shortsword worn by all members of the samurai caste to indicate their status"
+	}
+	, {
+		"name": "zanbatō"
+		, "description": "A large single-bladed sword designed to combat cavalry"
+	}
+]
