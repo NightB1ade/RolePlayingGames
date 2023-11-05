@@ -1,0 +1,49 @@
+{
+	"type": "array"
+	, "title": "Opportunities"
+	, "format": "tabs"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Section"
+		, "headerTemplate": "{{ self.name }}"
+		, "required": [
+			"name"
+			, "opportunities"
+		]
+		, "properties": {
+			"name": {
+				"type": "string"
+				, "title": "Name"
+			}
+			, "opportunities": {
+				"type": "array"
+				, "title": "Opportunities"
+				, "format": "table"
+				, "items": {
+					"type": "object"
+					, "title": "Opportunity"
+					, "required": [
+						"name"
+						, "descriptions"
+					]
+					, "properties": {
+						"name": {
+							"type": "string"
+							, "title": "Name"
+						}
+						, "descriptions": {
+							"type": "array"
+							, "title": "Descriptions"
+							, "format": "table"
+							, "items": {
+								"type": "string"
+								, "title": "Description"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,219 @@
+[{
+		"name": "General Examples of (O)"
+		, "opportunities": [{
+				"name": "Any"
+				, "descriptions": [
+					"(O): If you failed, determine the easiest way to accomplish the task you were attempting (skill and approach)."
+					, "(O)+: Remove 1 strife you gained from this check per (O) spend this way."
+					, "(O)(O): Provide assistance to the next character to attempt a check to accomplish something similar."
+				]
+			}
+			, {
+				"name": "Air"
+				, "descriptions": [
+					"(O): Learn another character in the scene’s demeanor (if an NPC) and current strife."
+					, "(O)+: Act subtly to attract minimal attention in your efforts.  Extra (O) makes the attempt even subtler."
+					, "(O)(O): Notice an interesting detail about a character in the scene, such as an advantage or disadvantage.  At the GM’s discretion, you may establish a new detail for an NPC."
+				]
+			}
+			, {
+				"name": "Earth"
+				, "descriptions": [
+					"(O): Reassure another character in the scene with your presence, allowing them to remove 2 strife."
+					, "(O)+: Act carefully to minimise consequences of failure or other dangers that could arise from the task.  Extra (O) makes the attempt even safer."
+					, "(O)(O): Suddenly recall an important piece of information not directly related to the task.  At the GM’s discretion, you may establish a small preparatory action you took earlier, such as bringing alont a common useful item."
+				]
+			}
+			, {
+				"name": "Fire"
+				, "descriptions": [
+					"(O): Inflame another character in the scene with your presence, causing them to receive 2 strife."
+					, "(O)+: Perform the task in a flashy way, drawing attention to yourself.  Extra (O) attrats even more notice."
+					, "(O)(O): Notice something missing or out of place in the vidinity that is not directly related to the task.  At the GM’s discretion, you may establish an absence, such as a lack of shoes outside indicating the occupant’s absence."
+				]
+			}
+			, {
+				"name": "Water"
+				, "descriptions": [
+					"(O): Remove 2 strife from yourself."
+					, "(O)+: Perform the task efficently, completing it more quickly or saving supplies.  Extra (O) further reduces the time or materials expended."
+					, "(O)(O): Spot an interesting physical detail present in your environment not directly related to your check.  At the GM’s discretion, you may establish a piece of terrain or a mundane object nearby."
+				]
+			}
+			, {
+				"name": "Void"
+				, "descriptions": [
+					"(O): Choose a ring other than Void.  Reduce the TN of your next check by 1 if it uses that ring."
+					, "(O)+: Feel a chill down your spine, notice a sudden silence, or detect another sign of the supernatural if there is a spiritual disturbance in the scene.  Extra (O) gives an increasingly precise location for the supernatural occurrence."
+					, "(O)(O): Gain spiritual insight into the nature of the universe or your own heart.  At the GM’s discretion, you may establish a fact about your character that has not been previously revealed but relates to the situation."
+				]
+			}
+		]
+	}
+	, {
+		"name": "Conflict and Martial Skill Examples of (O)"
+		, "opportunities": [{
+				"name": "Air"
+				, "descriptions": [
+					"(O): Add a rolled (Ring die) set to an (O) result to your next Martial skill check."
+					, "(O)+: During a Movement action check, up to 1 range band of any distance you move per (O) spent this way may be along a vertical surface."
+					, "(O)(O): Increase the TN of the next Martial Arts [Ranged] check targeting you before the start of your next turn by 2."
+				]
+			}
+			, {
+				"name": "Earth"
+				, "descriptions": [
+					"(O): During a Movement action, ignore one terrain quality of your choice."
+					, "(O)+: Reduce the severity of the next critical strike you suffer before the start of your next turn by 1 per (O) spent this way."
+					, "(O)(O): Do not apply one of your disadvantages to checks until the end of your next turn."
+				]
+			}
+			, {
+				"name": "Fire"
+				, "descriptions": [
+					"(O): Choose another character in the scene; increase the TN of the next check they make before the end of your next turn by 1 if it does not include you as a target."
+					, "(O)+: During an Attack action check, increase the TN of the next check the target makes to resist a critical strike they suffer before the start of your next turn by 1 per (O) spent this way."
+					, "(O)(O): Other characters must receive 2 strife to choose you as the target of their Attack and Scheme actions until the start of your next turn."
+				]
+			}
+			, {
+				"name": "Water"
+				, "descriptions": [
+					"(O): Remove 1 fatigue."
+					, "(O)+: During an Attack action check, ignore 1 point of target’s physical resistance per (O) spent this way."
+					, "(O)(O): Move 1 range band."
+				]
+			}
+			, {
+				"name": "Void"
+				, "descriptions": [
+					"(O): During the next Attack action check you make before the end of your next turn, ignore one terrain quality of your choice."
+					, "(O)+: During a Support action check, increase your Initiative value by 1 per (O) spent this way."
+					, "(O)(O): Ignore the effects of one condition you are suffering until the end of your next turn."
+				]
+			}
+		]
+	}
+	, {
+		"name": "Initiative Check Examples of (O)"
+		, "opportunities": [{
+				"name": "Air"
+				, "descriptions": [
+					"(O): On an Initiative check, assess one foe’s weakness.  Learn one of their disadvantages of that foe’s choice."
+				]
+			}
+			, {
+				"name": "Earth"
+				, "descriptions": [
+					"(O): On an Initiative check, choose another character’s disadvantage you know.  They do not apply that disadvantage to their checks this scene."
+				]
+			}
+			, {
+				"name": "Fire"
+				, "descriptions": [
+					"(O): On an Initiative check, use your focus instead of your vigilance for you initiative when surprised."
+				]
+			}
+			, {
+				"name": "Water"
+				, "descriptions": [
+					"(O): On an Initiative check, assess the qualities of all terrain in the scene."
+				]
+			}
+			, {
+				"name": "Void"
+				, "descriptions": [
+					"(O): On an Initiative check, sense if there is an Otherworldly being in the scene."
+				]
+			}
+		]
+	}
+	, {
+		"name": "Other Skill Examples of (O)"
+		, "opportunities": [{
+				"name": "Air"
+				, "descriptions": [
+					"Artisan (O): If you succeed, add the Resplendent or Subtle quality to an item that you are refining."
+					, "Scholar (O): Learn a something about a character who created or used the item you are studying (such as one of their advantages or disadvantages of the GM’s choice that affected their creation or use of the item)."
+					, "Social (O): Learn if the honour, glory, or status attribute of a character in the scene is higher, lower, or equal to yours."
+					, "Trade (O): Convince a buyer to pay an additional 10% for an item you are selling."
+				]
+			}
+			, {
+				"name": "Earth"
+				, "descriptions": [
+					"Artisan (O): If you succeed, add the Durable quality to an item that you are restoring."
+					, "Scholar (O): Remember a place where you can research or study the topic you were attempting to recall."
+					, "Social (O): Increase the TN of the next Social check another character makes before the end of the scene by 1."
+					, "Trade (O): Reduce the TN of the next check another character makes with the same skill before the end of the scene by 1."
+				]
+			}
+			, {
+				"name": "Fire"
+				, "descriptions": [
+					"Artisan (O): If you succeed, make one additional copy of the item you are creating."
+					, "Scholar (O): Extrapolate the motivations or desires of another character in the scene or wider situation."
+					, "Social (O): Reduce the TN of the next Social check another character makes before the end of the scene by 1."
+					, "Trade (O): Unusual inspiration strikes; add a kept (Ring die) set to an (O) result to the next check you make with another skill."
+				]
+			}
+			, {
+				"name": "Water"
+				, "descriptions": [
+					"Artisan (O): Add a kept (Ring die) set to an (O) result to the next Artisan skill check you make before the end of the game session."
+					, "Scholar (O): Spot a unique or identifying quality, aspect, or ability of something that you are identifying."
+					, "Social (O): Add a kept (Ring die) set to an (O) result to your Social check before the end of the scene."
+					, "Trade (O): Convince a seller to give you an additional 10% discount for an item you are buying."
+				]
+			}
+			, {
+				"name": "Void"
+				, "descriptions": [
+					"Artisan (O): Reduce the TN of the next check you make using the item you are attuning yourself to by 1."
+					, "Scholar (O): Intuit whether you can learn anything of value from your current course of inquiry."
+					, "Social (O): Discern the objective of another character in the scene."
+					, "Trade (O): Reduce any effect you have on your environment (and physical traces of your efforts) to a minimum."
+				]
+			}
+		]
+	}
+	, {
+		"name": "Downtime Check Examples of (O)"
+		, "opportunities": [{
+				"name": "Air"
+				, "descriptions": [
+					"(O)+: Learn a detail about one person in your company (such as an advantage or disadvantage of their choice) per (O) spent this way.  You can learn only one detail about each person this way in a single downtime scene."
+					, "(O)(O): Perform your downtime activity without letting one or more others of your choice know that you did."
+				]
+			}
+			, {
+				"name": "Earth"
+				, "descriptions": [
+					"(O)+: Another character in your company may remove 1 strife or fatigue per (O) spent this way."
+					, "(O)(O): Memorise a small but vital detail from your activity; you can recall it later without a check."
+				]
+			}
+			, {
+				"name": "Fire"
+				, "descriptions": [
+					"(O)+: Assist one other character per (O) spent this way wyth their next downtime activity check this session."
+					, "(O)(O): Energise another character in your company with your efforts; they may perform 1 additional downtime action this downtime (to a maximum of 2)."
+				]
+			}
+			, {
+				"name": "Water"
+				, "descriptions": [
+					"(O)+: Remove 1 strife or fatigue per (O) spent this way."
+					, "(O)(O): Make a new friend while undertaking your downtime activity."
+				]
+			}
+			, {
+				"name": "Void"
+				, "descriptions": [
+					"(O)+: Reserve 1 dropped die from your check, to a maximum of your ranks in the skill you used.  Add that die to your next check with the same skill as a kept die instead of rolling it."
+					, "(O)(O): Have a brief premonition of a possible future event while undertaking your downtime activity."
+				]
+			}
+		]
+	}
+]
