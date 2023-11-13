@@ -1,0 +1,25 @@
+[{
+		"name": "Assist"
+		, "description": "You offer an ally an argument they might use, an insight about the opposition, or a novel idea."
+		, "activation": "As an Attack, Scheme, and Support action, describe how you are helping one other character at range 0-2 with their next action."
+		, "effects": "If the GM accepts your suggestion, you provide assistance on the chosen character’s next action check."
+	}
+	, {
+		"name": "Calming Breath"
+		, "description": "During a conflict, you may inhale deeply before exhaling, drawing upon your inner strength."
+		, "activation": "As a Support action, you may take a deep breath to calm yourself and recover stamina."
+		, "effects": "If your strife is greater than half your composure, you remove 1 strife.  If your fatigue is greater than half your endurance, you remove 1 fatigue."
+	}
+	, {
+		"name": "Persuade"
+		, "description": "You attempt to foster or quell an idea, emotion, or desire in a person (based on the approach you are using, as described in Social Skills)."
+		, "activation": "As a Scheme action, you make a Social skill check targeting one or more characters who can hear you.  The TN of the check is equal to the highest vigilance among your targets.  Additionally, if applicable, apply one of the following modifications to the TN based on the skill you use on the check:<ul><li><b>Command:</b> You present a plan with authority, sweeping your targets along with all the confidence a lord should have among their vassals.  If each target’s status rank is lower than yours, decrease the TN of this check by 1.</li><li><b>Courtesy:</b> You present a proposal backed by honeyed words and clever implications – perfect for dealing with one’s superiors, but perhaps overly deferential when addressing equals or subordinates.  If each target’s status rank is higher than yours, decrease the TN of this check by 1.</li><li><b>Games/Perfomance/Other Skills:</b> You offer a diversion from the affairs at hand, turning the conversation to a less pressing topic.  If each target’s status rank is equal to yours, decrease the TN of this check by 1.</li></ul>"
+		, "effects": "If you succeed, you add one momentum point toward an appropriate social objective, plus one additional momentum point for every two bonus successes.  Further, any narrative ramifications of your check resolve."
+	}
+	, {
+		"name": "Unique Action"
+		, "description": "You make a check using a skill for a mechanical or narrative effect."
+		, "activation": "As an action, you make a skill check to attempt a task you have described to the GM."
+		, "effects": "If you succeed, you may use the skill for its narrative effects, for implementing any sample use that can be completed in a single action, or for pursuing another task that the GM deems appropriate."
+	}
+]

@@ -1,0 +1,29 @@
+---
+title: Intrigues
+---
+
+<div class="container">
+	<h1>Initiative Checks</h1>
+	<p>TN 1 Sentiment check</p>
+
+
+	<h1>Sample Social Objectives</h1>
+	<ul>
+		<li>Appeal to a Person or Group</li>
+		<li>Discern Someone’s Qualities</li>
+		<li>Discredit Someone</li>
+		<li>iespread a Rumour</li>
+	</ul>
+
+
+	<h1>Intrigue Actions</h1>
+	{%- for action in site.data.LegendOfTheFiveRings_RulesAndResources.IntrigueActions %}
+	<h2>{{ action.name }}</h2>
+	<h5>Description</h5>
+	<p>{{ action.description }}</p>
+	<h5>Activation</h5>
+	<p>{{ action.activation }}</p>
+	<h5>Effects</h5>
+	<p>{{ action.effects }}</p>
+	{%- endfor %}
+</div>

@@ -1,0 +1,35 @@
+{
+	"type": "array"
+	, "title": "Intrigue Actions"
+	, "format": "tabs"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Intrigue Action"
+		, "headerTemplate": "{{ self.name }}"
+		, "required": [
+			"name"
+			, "description"
+			, "activation"
+			, "effects"
+		]
+		, "properties": {
+			"name": {
+				"type": "string"
+				, "title": "Name"
+			}
+			, "description": {
+				"type": "string"
+				, "title": "Description"
+			}
+			, "activation": {
+				"type": "string"
+				, "title": "Activation"
+			}
+			, "effects": {
+				"type": "string"
+				, "title": "Effects"
+			}
+		}
+	}
+}
