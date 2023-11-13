@@ -1,0 +1,129 @@
+---
+title: Duels
+---
+
+<div class="container">
+	<h1>Initiative Checks</h1>
+	<p>TN 1 Meditation check</p>
+
+
+	<h1>Common Forms of Duels</h1>
+	<ul>
+		<li>Iaijutsu Duel (to first strike or first blood)</li>
+		<li>Iaijutsu Duel (to the death)</li>
+		<li>Sparring Bout (to incapacitation)</li>
+		<li>Warrior’s Duel (to defeat)</li>
+		<li>Taryu-Jiai (to incapacitation)</li>
+	</ul>
+
+
+	<h1>Staredown</h1>
+	<ul>
+		<li>Special step at the start of Phase 2: Take Turns</li>
+		<li>Receive strife equal to the number of the round</li>
+		<li>Bid additional strife (between 0 and their focus attribute) and adds to initiative</li>
+	</ul>
+
+
+	<h1>Finishing Blow</h1>
+	<ul>
+		<li>First time their opponent becomes Compromised or unmasks during a duel</li>
+		<li>Interrupts and can be interrupted by another finishing blow</li>
+		<li>Attack action</li>
+		<li>If successful, no damage, but critical strike with severity equal to two times the deadliness of the weapon or Attack action used, plus the attacker’s bonus successes</li>
+		<li>Any other effects of the Attack action are resolved as usual</li>
+		<li>Lower honour for tie break</li>
+	</ul>
+
+
+	<h1>Duel Actions</h1>
+	{%- for action in site.data.LegendOfTheFiveRings_RulesAndResources.DuelActions %}
+	<h2>{{ action.name }}</h2>
+	<h5>Description</h5>
+	<p>{{ action.description }}</p>
+	<h5>Activation</h5>
+	<p>{{ action.activation }}</p>
+	<h5>Effects</h5>
+	<p>{{ action.effects }}</p>
+	{%- endfor %}
+
+
+	<h1>Duel Scoring</h1>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th class="text-center">Feat</th>
+				<th class="text-center">Score</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Achieved your objective</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Struck the enemy first</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Inflicted fatigue on the enemy</td>
+				<td>1 per fatigue</td>
+			</tr>
+			<tr>
+				<td>Inflicted one or more critical strikes on the enemy</td>
+				<td>Severity of the highest critical strike (after reductions)</td>
+			</tr>
+			<tr>
+				<td>Killed the enemy (in a duel to the death only)</td>
+				<td>14</td>
+			</tr>
+			<tr>
+				<td>Unmasked</td>
+				<td>-2</td>
+			</tr>
+			<tr>
+				<td>Was witnessed cheating</td>
+				<td>Automatic loss</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<h1>Duel Result</h1>
+	<table class="table table-dark table-striped table-hover w-auto">
+		<thead>
+			<tr>
+				<th class="text-center">Score</th>
+				<th class="text-center">Outcome</th>
+				<th class="text-center">Notes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>0</td>
+				<td>No Winner</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Narrow Victory</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Clear Victory</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>3-6</td>
+				<td>Absolute Victory</td>
+				<td>If the winner receives a glory award, increase it by 3</td>
+			</tr>
+			<tr>
+				<td>7+</td>
+				<td>No Contest</td>
+				<td>If the winner receives a glory award, increase it by 5</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

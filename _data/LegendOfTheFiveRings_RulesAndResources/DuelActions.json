@@ -1,0 +1,37 @@
+[{
+		"name": "Calming Breath"
+		, "description": "During a conflict, you may inhale deeply before exhaling, drawing upon your inner strength."
+		, "activation": "As a Support action, you may take a deep breath to calm yourself and recover stamina."
+		, "effects": "If your strife is greater than half your composure, you remove 1 strife.  If your fatigue is greater than half your endurance, you remove 1 fatigue."
+	}
+	, {
+		"name": "Centre"
+		, "description": "You let the world around you slow as the Void overtakes your senses.  Everything but the moment fades as you instinctively seek victory.  Your mind weaves through infinite treacherous possibilities and the razor steel of your foe to the outcome you desire."
+		, "activation": "As a Support action in Void stance, you may focus your energy inward, envisioning your action in your mind and seeking the perfect moment to take it. You must name a skill when you use Centre."
+		, "effects": "Roll a number of Skill dice up to your ranks in the skill you chose and reserve any number of those dice.  If you do, the next time you make a check using the chosen skill (or use the Centre action) this scene, after rolling dice, you may replace any number of rolled dice with the reserved dice (set to the results they were showing when reserved).  You cannot reserve a number of dice greater than your ranks in the skill this way."
+	}
+	, {
+		"name": "Predict"
+		, "description": "You shift subtly to draw a reaction out of your foe by repositioning or signaling a strike you never intend to throw.  By predicting your foe’s reaction, you aim to win the battle in the mind, leaving the foe open to a decisive strike or forcing them to attack early."
+		, "activation": "As an Attack and Scheme action, you may secretly select Air, Earth, Fire, or Water and record it."
+		, "effects": "The next time your opponent chooses their stance, you may reveal your selection; if it matches the stance they chose, your opponent receives 4 strife and must choose a different stance.  This effect persists until the end of your next turn."
+	}
+	, {
+		"name": "Prepare Item"
+		, "description": "You prepare, ready, or stow one weapon or other item."
+		, "activation": "As a Support actoin, you may use this action."
+		, "effects": "Prepare one item for use, ready a weapon in a grip of your choice, or stow an item."
+	}
+	, {
+		"name": "Strike"
+		, "description": "You make an attack against a single foe."
+		, "activation": "As an Attack action using one readied weapon, you may make a TN 2 Martial Arts check using the appropriate skill for the weapon, targeting one character within the weapon’s range."
+		, "effects": "If you succeed, you deal physical damage to the target equal to the weapon’s base damage plus your bonus successes.</p><h6>New Opportunities</h6><p>(O)(O): If you succeed, inflict a critical strike on your target with severity equal to your weapon’s deadliness."
+	}
+	, {
+		"name": "Unique Action"
+		, "description": "You make a check using a skill for a mechanical or narrative effect."
+		, "activation": "As an action, you make a skill check to attempt a task you have described to the GM."
+		, "effects": "If you succeed, you may use the skill for its narrative effects, for implementing any sample use that can be completed in a single action, or for pursuing another task that the GM deems appropriate."
+	}
+]
