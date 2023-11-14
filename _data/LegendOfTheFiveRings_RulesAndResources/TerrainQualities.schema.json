@@ -1,0 +1,35 @@
+{
+	"type": "array"
+	, "title": "Terrain Qualities"
+	, "format": "tabs"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Terrain Quality"
+		, "headerTemplate": "{{ self.name }}"
+		, "required": [
+			"name"
+			, "description"
+			, "effects"
+			, "examples"
+		]
+		, "properties": {
+			"name": {
+				"type": "string"
+				, "title": "Name"
+			}
+			, "description": {
+				"type": "string"
+				, "title": "Description"
+			}
+			, "effects": {
+				"type": "string"
+				, "title": "Effects"
+			}
+			, "examples": {
+				"type": "string"
+				, "title": "Examples"
+			}
+		}
+	}
+}

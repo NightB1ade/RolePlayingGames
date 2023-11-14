@@ -1,0 +1,16 @@
+---
+title: Terrain
+---
+
+<div class="container">
+	<h1>Terrain Qualities</h1>
+	{%- for terrain in site.data.LegendOfTheFiveRings_RulesAndResources.TerrainQualities %}
+	<h2>{{ terrain.name }}</h2>
+	<h5>Description</h5>
+	<p>{{ terrain.description }}</p>
+	<h5>Effects</h5>
+	<p>{{ terrain.effects }}</p>
+	<h5>Examples</h5>
+	<p>{{ terrain.examples }}</p>
+	{%- endfor %}
+</div>

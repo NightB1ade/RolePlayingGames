@@ -1,0 +1,37 @@
+[{
+		"name": "Dangerous"
+		, "description": "Dangerous terrain is physically hazardous to enter or even linger in.  This is mundane terrain found in most regions."
+		, "effects": "Whenever a character performs a check while within Dangerous terrain, the character suffers physical damage equal to the (strife) symbols on their kept dice."
+		, "examples": "Fire, intense cold, thawing ice, steep inclines, jagged rocks, an uncovered foundation, rubble."
+	}
+	, {
+		"name": "Defiled"
+		, "description": "Defiled terrain is afflicted by the vile touch of the Shadowlands.  Even those uneducated in the dark secrets of the realm beyond the Kaiu Wall feel a pervasive sense of wrongness on such unholy ground.  It is more common in the Shadowlands than within the Emerald Empire.  This is supernatural terrain found in especially unhallowed places."
+		, "effects": "At the end of the scene, each character who was within Defiled terrain must make a TN 2 Fitness or Meditation check.  Each character who fails suffers the Afflicted condition.  Tainted beings reduce the TNs of their checks to resist effects by 1 while in Defiled terrain."
+		, "examples": "An oni’s liar, a battlefield filled with unburned dead, a haunted castle, the secret hideout of a maho-tsukai."
+	}
+	, {
+		"name": "Entangling"
+		, "description": "Entangling terrain it ground that seriously hampers the mobility of anyone within it.  This mundane terrain found in most regions."
+		, "effects": "While within Entangling terrain, a character increases the TN of all their checks to move and for Movement actions by 2."
+		, "examples": "Sucking mud, brier patches, deep snow, icy ground, moving water."
+	}
+	, {
+		"name": "Hallowed (One or More Elements)"
+		, "description": "Hallowed terrain is close to one or more of the Spirit Realms, and invocations are easier to perform in such a location.  This is supernatural terrain found in places where kami dwell os miracles have occurred."
+		, "effects": "While within Hallowed terrain, a character reduces the TN of their Meditation and Theology checks using the specified ring or rings by 1.  Tainted beings increase the TN of their checks to resist effects by 1, or 2 if they are using the specified ring."
+		, "examples": "A shrine to a kami, a particular place of natural beauty, a location where a powerful spirit resides."
+	}
+	, {
+		"name": "Imbalanced (One or More Elements)"
+		, "description": "Imbalanced terrain is marked by a distinct absence or disquiet of the kami of a certain element, and thus invocations are harder to perform in such a location.  This is supernatural terrain found in regions affected by an elemental imbalance."
+		, "effects": "While within Imbalanced terrain, a character increases the TN of their Meditation and Theology checks using the terrain’s specified ring by 1.  Otherworldly beings increase the TN of their checks to resist effects by 1, or 2 if they are using the specified ring."
+		, "examples": "A forest mysteriously missing its leaves, a barren farm field, an out-of-control river."
+	}
+	, {
+		"name": "Obscuring"
+		, "description": "Obscuring terrain limits the visibility of (and to) anyone within, making it very difficult to land strikes.  This is mundane terrain found in most regions."
+		, "effects": "Increase the TN of all Attack checks targeting characters within Obscuring terrain by 1.  A character within Obscuring terrain generally cannot see beyond range 2 of their current position into the Obscuring terrain (though they can generally see out of it, if they are within range 2 of an edge).  A character outside Obscuring terrain cannot see into it beyond range 2 of the edge."
+		, "examples": "Dense foliage, darkness, cramped indoor quarters, heavy rain or snow, chiking smoke."
+	}
+]
