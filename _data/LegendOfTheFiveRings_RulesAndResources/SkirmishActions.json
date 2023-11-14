@@ -1,0 +1,55 @@
+[{
+		"name": "Assist"
+		, "description": "You offer an ally plan of attack they might use, an insight about the opposition, or a novel idea."
+		, "activation": "As an Attack, Scheme, and Support action, describe how you are helping one other character at range 0-2 with their next action."
+		, "effects": "If the GM accepts your suggestion, you provide assistance on the chosen character’s next action check."
+	}
+	, {
+		"name": "Calming Breath"
+		, "description": "During a conflict, you may inhale deeply before exhaling, drawing upon your inner strength."
+		, "activation": "As a Support action, you may take a deep breath to calm yourself and recover stamina."
+		, "effects": "If your strife is greater than half your composure, you remove 1 strife.  If your fatigue is greater than half your endurance, you remove 1 fatigue."
+	}
+	, {
+		"name": "Challenge"
+		, "description": "You issue a challenge to a foe, calling for them to face you in single combat."
+		, "activation": "As a Scheme action, you may make a TN 1 Command check to issue a formal combat challenge targeting one character at range 0-5.  You must stake 10 honour and 5 glory upon the challenge, which you forfeit if you sabotage the clash."
+		, "effects": "If you succeed, the target must choose whether to accept or decline; resolve one of the following:<ul><li>If the target accepts, they stake 10 honour and 5 glory, which they forfeit if they take any Attack or Scheme action before the clash.  At the end of the round, the clash begins.</li><li>To decline, the target must forfeit glory equal to your ranks in Command plus your bonus successes.  Each of their allies with lower glory than you suffers 2 strife.  Then, you gain 1 Void point.</li></ul>If you win the clash, each of your foe’s allies in the skirmish suffers 3 strife.  If you lost the clash, each of your allies suffers 3 strife."
+	}
+	, {
+		"name": "Guard"
+		, "description": "You focus on warding off foes from yourself or an ally by positioning yourself defensively, taking cover, throwing strategically placed strikes, or even firing shots menacingly close to the enemy."
+		, "activation": "As a Support action using a readied weapon, you may make a TN 1 Tactics check targeting yourself or one other character within the weapon’s range."
+		, "effects": "If you succeed, you guard the target until the beginning of your next turn.  Increase the TN of Attack checks against the guarded target by one, plus an additional one per two bonus successes."
+	}
+	, {
+		"name": "Manoeuvre"
+		, "description": "You shift on the battlefield, moving to a more advantageous position."
+		, "activation": "As a Movement action, you may reposition for more distance.  Optionally, you may make a TN 2 Fitness check as part of this action."
+		, "effects": "Move one range band.  If you choose to make the Fitness check and you succeed, you may instead move two range bands, plus one additional range band per two bonus successes."
+	}
+	, {
+		"name": "Prepare Item"
+		, "description": "You prepare, ready, or stow one weapon or other item."
+		, "activation": "As a Support action, you may interact with one item."
+		, "effects": "Prepare one item for use, ready a weapon in a grip of your choice, or stow an item."
+	}
+	, {
+		"name": "Strike"
+		, "description": "You make an attack against a single foe."
+		, "activation": "As an Attack action using one readied weapon, you may make a TN 2 Martial Arts check using the appropriate skill for the weapon, targeting one character within the weapon’s range."
+		, "effects": "If you succeed, you deal physical damage to the target equal to the weapon’s base damage plus your bonus successes.</p><h6>New Opportunities</h6><p>(O)(O): If you succeed, you inflict a critical strike on your target with severity equal to your weapon’s deadliness."
+	}
+	, {
+		"name": "Unique Action"
+		, "description": "You make a check using a skill for a mechanical or narrative effect."
+		, "activation": "As an action, you make a skill check to attempt a task you have described to the GM."
+		, "effects": "If you succeed, you may use the skill for its narrative effects, for implementing any sample use that can be completed in a single action, or for pursuing another task that the GM deems appropriate."
+	}
+	, {
+		"name": "Wait"
+		, "description": "You bide your time, waiting to spring into action."
+		, "activation": "As an Attack, Scheme, and Support action, you may declare a non-Movement action you will perform after the occurrence of a specified event before the end of the round."
+		, "effects": "After the specified event occurs before then end of the round, you may perform the action.  You must still use the ring matching your stance for this action.  If the specified event does not occur this round, you may perform one action of your choice (other than Wait) at the end of the round."
+	}
+]

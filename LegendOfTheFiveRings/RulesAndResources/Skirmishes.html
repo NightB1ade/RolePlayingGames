@@ -1,0 +1,30 @@
+---
+title: Skirmishes
+---
+
+<div class="container">
+	<h1>Initiative Checks</h1>
+	<p>TN 1 Tactics check</p>
+
+
+	<h1>Movement</h1>
+	<ul>
+		<li>Once per turn</li>
+		<li>Before or after performing an action</li>
+		<li>Move 1 range band</li>
+		<li>Not an action</li>
+		<li>Greater distance can be achieved by using the Manoeuvre action</li>
+	</ul>
+
+
+	<h1>Skirmish Actions</h1>
+	{%- for action in site.data.LegendOfTheFiveRings_RulesAndResources.SkirmishActions %}
+	<h2>{{ action.name }}</h2>
+	<h5>Description</h5>
+	<p>{{ action.description }}</p>
+	<h5>Activation</h5>
+	<p>{{ action.activation }}</p>
+	<h5>Effects</h5>
+	<p>{{ action.effects }}</p>
+	{%- endfor %}
+</div>
