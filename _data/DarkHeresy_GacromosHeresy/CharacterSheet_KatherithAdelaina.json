@@ -1,0 +1,319 @@
+{
+	"wounds": 18
+	, "fatePoints": 3
+	, "characteristics": [{
+			"name": "Weapon Skill"
+			, "abbreviation": "WS"
+			, "stat": 40
+		}
+		, {
+			"name": "Ballistic Skill"
+			, "abbreviation": "BS"
+			, "stat": 20
+		}
+		, {
+			"name": "Strength"
+			, "abbreviation": "S"
+			, "stat": 30
+		}
+		, {
+			"name": "Toughness"
+			, "abbreviation": "T"
+			, "stat": 40
+		}
+		, {
+			"name": "Agility"
+			, "abbreviation": "Ag"
+			, "stat": 52
+		}
+		, {
+			"name": "Intelligence"
+			, "abbreviation": "Int"
+			, "stat": 35
+		}
+		, {
+			"name": "Perception"
+			, "abbreviation": "Per"
+			, "stat": 25
+		}
+		, {
+			"name": "Willpower"
+			, "abbreviation": "WP"
+			, "stat": 30
+		}
+		, {
+			"name": "Fellowship"
+			, "abbreviation": "Fel"
+			, "stat": 20
+		}
+	]
+	, "basicSkills": [{
+			"name": "Awareness"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Barter"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Carouse"
+			, "stat": "T"
+			, "bonus": 0
+		}
+		, {
+			"name": "Charm"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Climb"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Command"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Administration)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Ecclesiarchy)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Imperium)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (War)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Concealment"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Contortionist"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Deceive"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Disguise"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Evaluate"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Gamble"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Inquiry"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Intimidate"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Logic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Scholastic Lore (Philosophy)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Scrutiny"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Search"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Silent Move"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Swim"
+			, "stat": "S"
+			, "bonus": 0
+		}
+	]
+	, "trainedSkills": [{
+			"name": "Common Lore (Imperial Creed)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Dodge"
+			, "stat": "Ag"
+			, "bonus": 10
+		}
+		, {
+			"name": "Literacy"
+			, "stat": "Int"
+			, "bonus": 10
+		}
+		, {
+			"name": "Performer (Singer)"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (High Gothic)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (Low Gothic)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Tech-Use"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Trade (Copyist)"
+			, "stat": "Int"
+			, "bonus": 20
+		}
+	]
+	, "talents": [{
+			"name": "Basic Weapon Training (Las or SP)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Basic Weapon Training (Primitive)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Flagellant"
+			, "effects": [
+				"Each day, you must spend twenty minutes praying and inflicting 1 point of Damage upon yourself"
+				, "You may not treat this Damage or allow it to be healed"
+				, "Once you have castigated your flesh, you gain a +10 bonus to Willpower Tests made to resist mind control or Malignancy"
+				, "Additionally, if you have the Frenzy talent, you may enter a frenzied state as a Free Action"
+				, "Should you fail to flagellate yourself on any given day, you take a –5 penalty to all Tests due to shame and guilt"
+			]
+		}
+		, {
+			"name": "Hard Target"
+			, "effects": [
+				"Whenever you Charge or Run, all opponents take a –20 penalty to Ballistic Skill Tests made to hit you with a ranged weapon"
+				, "This penalty lasts until the start of your next Turn"
+			]
+		}
+		, {
+			"name": "Hardy"
+			, "effects": [
+				"For the purposes of removing Damage, you are always considered to be Lightly Wounded"
+			]
+		}
+		, {
+			"name": "Hatred (For Reference)"
+			, "effects": [
+				"When fighting opponents that qualify as members of you Hatred group, you gain +10 bonus to all Weapon Skill Tests made to attack them"
+			]
+		}
+		, {
+			"name": "Holy Hatred"
+			, "effects": [
+				"Against any target that is not a true servant of the Imperium of Mankind (GM’s discretion), you are treated as having the Hatred talent"
+				, "If you already have a talent appropriate to the target, she gains an additional +5 to WS Tests to hit the target"
+				, "This talent cannot be shared by the effects of the Litany of Hate talent"
+			]
+		}
+		, {
+			"name": "Iron Jaw"
+			, "effects": [
+				"When you become Stunned you may make a Toughness Test to shrug off its effects"
+			]
+		}
+		, {
+			"name": "Melee Weapon Training (Chain)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Melee Weapon Training (Primitive)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Pistol Training (Las)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Pistol Training (SP)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Pure Faith"
+			, "effects": [
+				"You are always immune to the effects of Daemonic Presence (including the negative modifiers to your Willpower)"
+				, "You may avoid taking a Fear Test, avoid acquiring Insanity Points and avoid gaining Corruption Points by spending a Fate Point"
+				, "These safeguards remain in place for the duration of the encounter only"
+				, "You may burn a Fate Point to resist the effects of any single Daemonic or psychic attack, effectively allowing You to emerge enscathed as if by a miracle"
+			]
+		}
+		, {
+			"name": "Sheltered Upbringing"
+			, "effects": [
+				"You take a –10 penalty on all Charm, Command, Deceive, and Scrutiny Tests when dealing with the worst of examples of humanity (cultists, traitors, narco-addicts, gutter scum, mutants, and the like)"
+			]
+		}
+		, {
+			"name": "Tempered Will"
+			, "effects": [
+				"Whenever you would attempt a Very Hard (–30) Willpower Test, you only take a –20 penalty for your Characteristic instead of the normal –30"
+			]
+		}
+		, {
+			"name": "Unshakeable Faith"
+			, "effects": [
+				"You may re-roll any failed Willpower Tests to avoid the effects of Fear"
+			]
+		}
+	]
+}

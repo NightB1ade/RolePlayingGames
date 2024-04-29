@@ -1,0 +1,147 @@
+{
+	"type": "object"
+	, "title": "Character Sheet"
+	, "properties": {
+		"wounds": {
+			"type": "integer"
+			, "title": "Wounds"
+		}
+		, "fatePoints": {
+			"type": "integer"
+			, "title": "Fate Points"
+		}
+		, "characteristics": {
+			"type": "array"
+			, "title": "Characteristics"
+			, "format": "table"
+			, "uniqueItems": true
+			, "items": {
+				"type": "object"
+				, "title": "Characteristic"
+				, "required": [
+					"name"
+					, "abbreviation"
+					, "stat"
+				]
+				, "properties": {
+					"name": {
+						"type": "string"
+						, "title": "Name"
+					}
+					, "abbreviation": {
+						"type": "string"
+						, "title": "Abbr"
+					}
+					, "stat": {
+						"type": "integer"
+						, "title": "Stat"
+					}
+				}
+			}
+		}
+		, "basicSkills": {
+			"type": "array"
+			, "title": "Basic Skills"
+			, "format": "table"
+			, "uniqueItems": true
+			, "items": {
+				"type": "object"
+				, "title": "Basic Skill"
+				, "required": [
+					"name"
+					, "stat"
+				]
+				, "properties": {
+					"name": {
+						"type": "string"
+						, "title": "Name"
+					}
+					, "stat": {
+						"type": "string"
+						, "title": "Stat"
+						, "enum": [
+							"S"
+							, "T"
+							, "Ag"
+							, "Int"
+							, "Per"
+							, "WP"
+							, "Fel"
+						]
+					}
+					, "bonus": {
+						"type": "integer"
+						, "title": "Bonus"
+					}
+				}
+			}
+		}
+		, "trainedSkills": {
+			"type": "array"
+			, "title": "Trained Skills"
+			, "format": "table"
+			, "uniqueItems": true
+			, "items": {
+				"type": "object"
+				, "title": "Trained Skill"
+				, "required": [
+					"name"
+					, "stat"
+				]
+				, "properties": {
+					"name": {
+						"type": "string"
+						, "title": "Name"
+					}
+					, "stat": {
+						"type": "string"
+						, "title": "Stat"
+						, "enum": [
+							"S"
+							, "T"
+							, "Ag"
+							, "Int"
+							, "Per"
+							, "WP"
+							, "Fel"
+						]
+					}
+					, "bonus": {
+						"type": "integer"
+						, "title": "Bonus"
+					}
+				}
+			}
+		}
+		, "talents": {
+			"type": "array"
+			, "title": "Talents"
+			, "format": "table"
+			, "uniqueItems": true
+			, "items": {
+				"type": "object"
+				, "title": "Talent"
+				, "required": [
+					"name"
+					, "effects"
+				]
+				, "properties": {
+					"name": {
+						"type": "string"
+						, "title": "Name"
+					}
+					, "effects": {
+						"type": "array"
+						, "title": "Effects"
+						, "uniqueItems": true
+						, "items": {
+							"type": "string"
+							, "title": "Effect"
+							, "minLength": 1
+						}
+					}
+				}
+			}
+		}
+	}
+}
