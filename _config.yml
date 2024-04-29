@@ -38,6 +38,12 @@ defaults:
             rpgdescription: A Band of Blades Game
     -
         scope:
+            path: DarkHeresy/GacromosHeresy
+        values:
+            rpgtitle: Gacromos Heresy
+            rpgdescription: Hunt the Heretek
+    -
+        scope:
             path: DungeonsAndDragons/4e/ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
@@ -126,12 +132,6 @@ defaults:
         values:
             rpgtitle: Rules and Resources
             rpgdescription: Our Summary of SR5e Rules
-    -
-        scope:
-            path: WrathAndGlory/GacromosHeresy
-        values:
-            rpgtitle: Gacromos Heresy
-            rpgdescription: Hunt the Heretek
     -
         scope:
             path: WrathAndGlory/RulesAndResources
