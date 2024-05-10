@@ -210,7 +210,7 @@
 		}
 	]
 	, "talents": [{
-			"name": "Basic Weapon Training (Las or SP)"
+			"name": "Basic Weapon Training (Las)"
 			, "effects": [
 				"No penalty to use these weapons"
 			]
