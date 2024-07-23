@@ -10,6 +10,10 @@
 			"type": "integer"
 			, "title": "Fate Points"
 		}
+		, "insanity": {
+			"type": "integer"
+			, "title": "Insanity"
+		}
 		, "characteristics": {
 			"type": "array"
 			, "title": "Characteristics"

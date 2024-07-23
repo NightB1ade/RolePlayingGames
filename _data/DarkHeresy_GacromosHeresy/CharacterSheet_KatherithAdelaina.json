@@ -1,6 +1,7 @@
 {
 	"wounds": 18
 	, "fatePoints": 3
+	, "insanity": 15
 	, "characteristics": [{
 			"name": "Weapon Skill"
 			, "abbreviation": "WS"
