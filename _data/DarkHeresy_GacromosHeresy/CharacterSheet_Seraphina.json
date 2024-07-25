@@ -4,47 +4,47 @@
 	, "insanity": 0
 	, "characteristics": [{
 			"name": "Weapon Skill"
-			, "abbreviation": "(WS)"
+			, "abbreviation": "WS"
 			, "stat": 20
 		}
 		, {
 			"name": "Ballistic Skill"
-			, "abbreviation": "(BS)"
+			, "abbreviation": "BS"
 			, "stat": 35
 		}
 		, {
 			"name": "Strength"
-			, "abbreviation": "(S)"
+			, "abbreviation": "S"
 			, "stat": 20
 		}
 		, {
 			"name": "Toughness"
-			, "abbreviation": "(T)"
+			, "abbreviation": "T"
 			, "stat": 45
 		}
 		, {
 			"name": "Agility"
-			, "abbreviation": "(Ag)"
+			, "abbreviation": "Ag"
 			, "stat": 30
 		}
 		, {
 			"name": "Intelligence"
-			, "abbreviation": "(Int)"
+			, "abbreviation": "Int"
 			, "stat": 50
 		}
 		, {
 			"name": "Perception"
-			, "abbreviation": "(Per)"
+			, "abbreviation": "Per"
 			, "stat": 29
 		}
 		, {
 			"name": "Willpower"
-			, "abbreviation": "(WP)"
+			, "abbreviation": "WP"
 			, "stat": 45
 		}
 		, {
 			"name": "Fellowship"
-			, "abbreviation": "(Fel)"
+			, "abbreviation": "Fel"
 			, "stat": 35
 		}
 	]
