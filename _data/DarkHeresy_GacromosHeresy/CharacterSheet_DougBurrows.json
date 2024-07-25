@@ -1,0 +1,126 @@
+{
+	"wounds": 14
+	, "fatePoints": 2
+	, "insanity": 0
+	, "characteristics": [{
+			"name": "Weapon Skill"
+			, "abbreviation": "WS"
+			, "stat": 20
+		}
+		, {
+			"name": "Ballistic Skill"
+			, "abbreviation": "BS"
+			, "stat": 45
+		}
+		, {
+			"name": "Strength"
+			, "abbreviation": "S"
+			, "stat": 40
+		}
+		, {
+			"name": "Toughness"
+			, "abbreviation": "T"
+			, "stat": 35
+		}
+		, {
+			"name": "Agility"
+			, "abbreviation": "Ag"
+			, "stat": 35
+		}
+		, {
+			"name": "Intelligence"
+			, "abbreviation": "Int"
+			, "stat": 30
+		}
+		, {
+			"name": "Perception"
+			, "abbreviation": "Per"
+			, "stat": 37
+		}
+		, {
+			"name": "Willpower"
+			, "abbreviation": "WP"
+			, "stat": 25
+		}
+		, {
+			"name": "Fellowship"
+			, "abbreviation": "Fel"
+			, "stat": 25
+		}
+	]
+	, "basicSkills": [{
+		"name": "Tech-Use"
+		, "stat": "Int"
+		, "bonus": 0
+	}]
+	, "trainedSkills": [{
+			"name": "Awareness"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Ciphers (War Cant)"
+			, "stat": "Int"
+			, "bonus": 10
+		}
+		, {
+			"name": "Common Lore (War)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Dodge"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Drive (Ground Vehicle)"
+			, "stat": "Ag"
+			, "bonus": 20
+		}
+		, {
+			"name": "Interrogation"
+			, "stat": "WP"
+			, "bonus": 0
+		}
+		, {
+			"name": "Navigation (Surface)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Pilot (Military Craft)"
+			, "stat": "Ag"
+			, "bonus": 10
+		}
+		, {
+			"name": "Speak Language (Hive Dialect)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (Low Gothic)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+	]
+	, "talents": [{
+			"name": "Basic Weapon Training (SP)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Basic Weapon Training (Las)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Pistol Training (Las)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+	]
+}
