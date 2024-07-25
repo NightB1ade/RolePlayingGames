@@ -1,0 +1,304 @@
+{
+	"wounds": 12
+	, "fatePoints": 3
+	, "insanity": 0
+	, "characteristics": [{
+			"name": "Weapon Skill"
+			, "abbreviation": "(WS)"
+			, "stat": 20
+		}
+		, {
+			"name": "Ballistic Skill"
+			, "abbreviation": "(BS)"
+			, "stat": 35
+		}
+		, {
+			"name": "Strength"
+			, "abbreviation": "(S)"
+			, "stat": 20
+		}
+		, {
+			"name": "Toughness"
+			, "abbreviation": "(T)"
+			, "stat": 45
+		}
+		, {
+			"name": "Agility"
+			, "abbreviation": "(Ag)"
+			, "stat": 30
+		}
+		, {
+			"name": "Intelligence"
+			, "abbreviation": "(Int)"
+			, "stat": 50
+		}
+		, {
+			"name": "Perception"
+			, "abbreviation": "(Per)"
+			, "stat": 29
+		}
+		, {
+			"name": "Willpower"
+			, "abbreviation": "(WP)"
+			, "stat": 45
+		}
+		, {
+			"name": "Fellowship"
+			, "abbreviation": "(Fel)"
+			, "stat": 35
+		}
+	]
+	, "basicSkills": [{
+			"name": "Awareness"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Barter"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Carouse"
+			, "stat": "T"
+			, "bonus": 0
+		}
+		, {
+			"name": "Climb"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Command"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Concealment"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Contortionist"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Deceive"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Disguise"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Evaluate"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Gamble"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Intimidate"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Logic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Scrutiny"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Search"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Silent Move"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Swim"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Imperium)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (War)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Philosophy)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+	]
+	, "trainedSkills": [{
+			"name": "Charm"
+			, "stat": "Fel"
+			, "bonus": 10
+		}
+		, {
+			"name": "Dodge"
+			, "stat": "Ag"
+			, "bonus": 10
+		}
+		, {
+			"name": "Inquiry"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Administratum)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Ecclesiarchy)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Imperial Creed)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Literacy"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Performer (Singer)"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Trade (Copyist)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak High Gothic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Low Gothic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Medicae"
+			, "stat": "Int"
+			, "bonus": 10
+		}
+		, {
+			"name": "Chem Use"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Navigation (Surface)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Forbidden Lore (Warp)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+	]
+	, "talents": [{
+			"name": "Basic Weapon Training (Primitive)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Melee Weapon Training (Primitive)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Pistol Training (Las)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Basic Weapon Training (Las)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Peer (Imperial Guard)"
+			, "effects": [
+				"+10 to Fel Test with this group"
+			]
+		}
+		, {
+			"name": "Pure Faith"
+			, "effects": [
+				"         You are always immune to the effects of Daemonic Presence (including the negative modifiers to your Willpower)         You may avoid taking a Fear Test, avoid acquiring Insanity Points and avoid gaining Corruption Points by spending a Fate Point         These safeguards remain in place for the duration of the encounter only         You may burn a Fate Point to resist the effects of any single Daemonic or psychic attack, effectively allowing You to emerge enscathed as if by a miracle"
+			]
+		}
+		, {
+			"name": "Basic Weapon Training (Flame)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Cleanse and Purify"
+			, "effects": [
+				"Targets of Flame Weapons take -20 to avoid being hit"
+			]
+		}
+		, {
+			"name": "Divine Ministration"
+			, "effects": [
+				"All medicae tests (even without spending Fate) are 1 step easier"
+				, "Spend Fate: Add Will Bonus to damage healed using medicae (once per test, may be activated after the skill test, may effect mulitple tests made on multiple targets in succession"
+				, "Alternatively - spend fate to remove all Fatigue from people = 2xWill Bonus"
+				, "Burn: Allow a character that has just died to become critically wounded (subject to GM approval)"
+			]
+		}
+		, {
+			"name": "Resistance (Fear)"
+			, "effects": [
+				"+10 to resist Fear"
+			]
+		}
+		, {
+			"name": "Sheltered Upbringing"
+			, "effects": [
+				"You take a –10 penalty on all Charm, Command, Deceive, and Scrutiny Tests when dealing with the worst of examples of humanity (cultists, traitors, narco-addicts, gutter scum, mutants, and the like)"
+			]
+		}
+		, {
+			"name": "Tempered Will"
+			, "effects": [
+				"Whenever you would attempt a Very Hard (–30) Willpower Test, you only take a –20 penalty for your Characteristic instead of the normal –30"
+			]
+		}
+	]
+}
