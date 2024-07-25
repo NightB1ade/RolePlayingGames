@@ -223,6 +223,12 @@
 			]
 		}
 		, {
+			"name": "Fearless"
+			, "effects": [
+				"You are immune to the effects of Fear and Pinning, but to disengage from combat or back down from combat or back down from a fight you must first succeed on a Willpower Test"
+			]
+		}
+		, {
 			"name": "Flagellant"
 			, "effects": [
 				"Each day, you must spend twenty minutes praying and inflicting 1 point of Damage upon yourself"
