@@ -59,11 +59,6 @@
 			, "bonus": 0
 		}
 		, {
-			"name": "Tech-Use"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
 			"name": "Command"
 			, "stat": "Fel"
 			, "bonus": 0
@@ -111,6 +106,11 @@
 		, {
 			"name": "Swim"
 			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Tech-Use"
+			, "stat": "Int"
 			, "bonus": 0
 		}
 	]
