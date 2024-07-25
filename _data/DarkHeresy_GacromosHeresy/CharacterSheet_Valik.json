@@ -1,0 +1,279 @@
+{
+	"wounds": 13
+	, "fatePoints": 3
+	, "insanity": 0
+	, "characteristics": [{
+			"name": "Weapon Skill"
+			, "abbreviation": "WS"
+			, "stat": 25
+		}
+		, {
+			"name": "Ballistic Skill"
+			, "abbreviation": "BS"
+			, "stat": 43
+		}
+		, {
+			"name": "Strength"
+			, "abbreviation": "S"
+			, "stat": 20
+		}
+		, {
+			"name": "Toughness"
+			, "abbreviation": "T"
+			, "stat": 30
+		}
+		, {
+			"name": "Agility"
+			, "abbreviation": "Ag"
+			, "stat": 35
+		}
+		, {
+			"name": "Intelligence"
+			, "abbreviation": "Int"
+			, "stat": 20
+		}
+		, {
+			"name": "Perception"
+			, "abbreviation": "Per"
+			, "stat": 35
+		}
+		, {
+			"name": "Willpower"
+			, "abbreviation": "WP"
+			, "stat": 30
+		}
+		, {
+			"name": "Fellowship"
+			, "abbreviation": "Fel"
+			, "stat": 45
+		}
+	]
+	, "basicSkills": [{
+			"name": "Carouse"
+			, "stat": "T"
+			, "bonus": 0
+		}
+		, {
+			"name": "Climb"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Tech-Use"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Command"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Contortionist"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Disguise"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Evaluate"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Gamble"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Inquiry"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Intimidate"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Logic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Scrutiny"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Swim"
+			, "stat": "S"
+			, "bonus": 0
+		}
+	]
+	, "trainedSkills": [{
+			"name": "Awareness"
+			, "stat": "Per"
+			, "bonus": 10
+		}
+		, {
+			"name": "Barter"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Blather"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Charm"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Concealment"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Deceive"
+			, "stat": "Fel"
+			, "bonus": 10
+		}
+		, {
+			"name": "Dodge"
+			, "stat": "Ag"
+			, "bonus": 10
+		}
+		, {
+			"name": "Medicae"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Search"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Secret Tongue (Gutter)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Silent Move"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Sleight of Hand"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (Hive Dialect)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (Low Gothic)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+	]
+	, "talents": [{
+			"name": "Accustomed to Crowds"
+			, "effects": [
+				"Crowds do not count as Difficult Terrain for hivers"
+				, "When Running or Charging through a dense crowd, hivers take no penalty to the Agility Test to keep their feet"
+			]
+		}
+		, {
+			"name": "Basic Weapon Training (Las)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Basic Weapon Training (SP)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Caves of Steel"
+			, "effects": [
+				"Hivers treat the Tech-Use (Int) skill as a Basic Skill"
+			]
+		}
+		, {
+			"name": "Crack Shot"
+			, "effects": [
+				"You are able to target your shots at the places where they will inflict more harm"
+				, "When your ranged attack deals Critical Damage, you deal an extra 2 points"
+			]
+		}
+		, {
+			"name": "Deadeye Shot"
+			, "effects": [
+				"You always hit an opponent right between the eyes... or wherever else you intended to hit him"
+				, "When making a Called Shot, you take only a –10 penalty instead of the normal –20"
+			]
+		}
+		, {
+			"name": "Heightened Senses (Hearing)"
+			, "effects": [
+				"You gain a +10 bonus to any Tests involving this sense"
+			]
+		}
+		, {
+			"name": "Heightened Senses (Sight)"
+			, "effects": [
+				"You gain a +10 bonus to any Tests involving this sense"
+			]
+		}
+		, {
+			"name": "Hivebound"
+			, "effects": [
+				"Hivers take a –10 penalty to all Survival (Int) Tests"
+				, "While out of a “proper hab” (e.g. places without manufactured goods, solid ceilings and electrical power) the hiver takes a –5 penalty to all Intelligence Tests"
+			]
+		}
+		, {
+			"name": "Melee Weapon Training (Primitive)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Mighty Shot"
+			, "effects": [
+				"You know how to blast away with a gun to cause the most damage to a target"
+				, "You add +2 to Damage you inflict with a ranged weapon"
+			]
+		}
+		, {
+			"name": "Pistol Training (SP)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Unremarkable"
+			, "effects": [
+				"You have a forgettable face and are able to blend in with a crowd"
+				, "Attempts to notice you when amongst other people or anyone attempting to describe you or recall details about you incurs a –20 penalty"
+			]
+		}
+		, {
+			"name": "Wary"
+			, "effects": [
+				"All hivers gain a +1 bonus to Initiative rolls"
+			]
+		}
+	]
+}
