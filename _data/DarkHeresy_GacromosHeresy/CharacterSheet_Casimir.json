@@ -18,6 +18,11 @@
 			, "stat": 30
 		}
 		, {
+			"name": "Toughness"
+			, "abbreviation": "T"
+			, "stat": 40
+		}
+		, {
 			"name": "Agility"
 			, "abbreviation": "Ag"
 			, "stat": 27
