@@ -1,0 +1,265 @@
+{
+	"wounds": 9
+	, "fatePoints": 4
+	, "insanity": 9
+	, "characteristics": [{
+			"name": "Weapon Skill"
+			, "abbreviation": "WS"
+			, "stat": 40
+		}
+		, {
+			"name": "Ballistic Skill"
+			, "abbreviation": "BS"
+			, "stat": 20
+		}
+		, {
+			"name": "Strength"
+			, "abbreviation": "S"
+			, "stat": 30
+		}
+		, {
+			"name": "Agility"
+			, "abbreviation": "Ag"
+			, "stat": 27
+		}
+		, {
+			"name": "Intelligence"
+			, "abbreviation": "Int"
+			, "stat": 40
+		}
+		, {
+			"name": "Perception"
+			, "abbreviation": "Per"
+			, "stat": 30
+		}
+		, {
+			"name": "Will Power"
+			, "abbreviation": "WP"
+			, "stat": 60
+		}
+		, {
+			"name": "Fellowship"
+			, "abbreviation": "Fel"
+			, "stat": 25
+		}
+	]
+	, "untrainedBasicSkills": [{
+			"name": "Barter"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Carous"
+			, "stat": "T"
+			, "bonus": 0
+		}
+		, {
+			"name": "Charm"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Climb"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Command"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Concealment"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Contortionist"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Evaluate"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Gamble"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Scrutiny"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Search"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Silent Move"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Swim"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (Tech)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Survival"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+	]
+	, "trainedSkills": [{
+			"name": "Speak Low Gothic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Chem Use"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Forbidden Lore (Psyker)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Interrogation"
+			, "stat": "WP"
+			, "bonus": 0
+		}
+		, {
+			"name": "Blather"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Invocation"
+			, "stat": "WP"
+			, "bonus": 10
+		}
+		, {
+			"name": "Psyniscience"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Trade (Merchant)"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Literacy"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Awareness"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Deceive"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Dodge"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Inquiry"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Intimidate"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Logic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+	]
+	, "talents": [{
+			"name": "Psy Rating 1"
+			, "effects": []
+		}
+		, {
+			"name": "Psy Rating 2"
+			, "effects": []
+		}
+		, {
+			"name": "Psy Rating 3"
+			, "effects": []
+		}
+		, {
+			"name": "Blind Fighting"
+			, "effects": [
+				"Take half the usual penalties when fighting in environments that obscure your vision, such as fog, smoke and darkness"
+			]
+		}
+		, {
+			"name": "Jaded"
+			, "effects": [
+				"Never gain insanity points from any mundane horrors such as blood, death and violence. Supernatural terrors still affect you as normal."
+			]
+		}
+		, {
+			"name": "Pistol Weapon Training (SP)"
+			, "effects": []
+		}
+		, {
+			"name": "Pistol Weapon Training (Las)"
+			, "effects": []
+		}
+		, {
+			"name": "Melee Weapon Training (Primitive)"
+			, "effects": []
+		}
+		, {
+			"name": "Resistance (Psychic Powers)"
+			, "effects": [
+				"Gain a +10 bonus when making a test to resist or avoid Psychic Powers"
+			]
+		}
+		, {
+			"name": "Unreadable Mind (Living Nightmare)"
+			, "effects": [
+				"The deep recesses of your mind cannot be read by psychic (or other) means and any attempt to do so simply finds a fathomless void of darkness. You are completely immune to the Psychic Power, Mind Scan, as well as any similar effects or abilities"
+			]
+		}
+		, {
+			"name": "Failsafe Control"
+			, "effects": [
+				"All Mind Cleansed Inquisitorial agents have a failsafe command trigger implanted in their minds to prevent them from turning on their masters. Only the relevant NPC (their Inquisitor for example), should ever have access to this trigger, which usually must be delivered telepathically or by a specific sonic cadence (a simple code phrase is usually judged too risky). Effect: The trigger works just like the use of the Dominate Psychic Power (see page 178 in Dark Heresy). If the trigger is successful, you may be given an order or set of instructions you must carry out to the best of your abilities. However, if the command is antithetical or directly harmful to you, you may receive an appropriate bonus to resist the control."
+			]
+		}
+		, {
+			"name": "Imnperial Conditioning"
+			, "effects": [
+				"+10 bonus on Willpower tests made to resist Fear or attempts to control of possess your mind"
+			]
+		}
+		, {
+			"name": "Through a Mirror Darkly"
+			, "effects": [
+				"Start with insanity points, At GM's discretion, certain rare events, individuals may trigger repressed memories. When this occurs you must pass a Willpower test or roll on the Shock Table. Talents that resist Fear or Insanity do not help with this."
+			]
+		}
+	]
+}

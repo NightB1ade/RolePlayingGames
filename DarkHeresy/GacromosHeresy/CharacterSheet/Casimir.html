@@ -1,0 +1,111 @@
+---
+title: Casimir
+---
+
+<div class="container">
+	<div class="row text-center">
+		<div class="col">
+			<p class="fs-3">Wounds</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.wounds }}</p>
+		</div>
+		<div class="col">
+			<p class="fs-3">Fate Points</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.fatePoints }}</p>
+		</div>
+		<div class="col">
+			<p class="fs-3">Insanity</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.insanity }}</p>
+		</div>
+	</div>
+
+
+
+
+	<h2>Characteristics</h2>
+	<div class="row text-center">
+		{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.characteristics %}
+		<div class="col">
+			<p>{{ characteristic.name }} ({{ characteristic.abbreviation }})</p>
+			<p class="fw-bold fs-2">{{ characteristic.stat }}</p>
+		</div>
+		{%- endfor %}
+	</div>
+
+
+
+
+	<div class="row">
+		<div class="col">
+			<h2>Untrained Basic Skills</h2>
+			<table class="table table-dark table-striped table-hover w-auto">
+				<thead>
+					<tr>
+						<th>Basic Skill</th>
+						<th>Stat</th>
+						<th>Total</th>
+					</tr>
+				</thead>
+				<tbody>
+				{%- for untrainedBasicSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.untrainedBasicSkills %}
+					<tr>
+						<td>{{ untrainedBasicSkill.name }}</td>
+						<td>{{ untrainedBasicSkill.stat }}</td>
+						<td class="text-center">
+							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.characteristics -%}
+								{%- if untrainedBasicSkill.stat == characteristic.abbreviation -%}
+									{{ characteristic.stat | plus: untrainedBasicSkill.bonus | divided_by: 2 }}
+								{%- endif -%}
+							{%- endfor -%}
+						</td>
+					</tr>
+				{%- endfor %}
+				</tbody>
+			</table>
+		</div>
+
+
+		<div class="col">
+			<h2>Trained Skills</h2>
+			<table class="table table-dark table-striped table-hover w-auto">
+				<thead>
+					<tr>
+						<th>Trained Skill</th>
+						<th>Stat</th>
+						<th>Bonus</th>
+						<th>Total</th>
+					</tr>
+				</thead>
+				<tbody>
+				{%- for trainedSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.trainedSkills %}
+					<tr>
+						<td>{{ trainedSkill.name }}</td>
+						<td>{{ trainedSkill.stat }}</td>
+						<td class="text-center">{% if trainedSkill.bonus != 0 %}{{ trainedSkill.bonus }}{% endif %}</td>
+						<td class="text-center">
+							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.characteristics -%}
+								{%- if trainedSkill.stat == characteristic.abbreviation -%}
+									{{ characteristic.stat | plus: trainedSkill.bonus }}
+								{%- endif -%}
+							{%- endfor -%}
+						</td>
+					</tr>
+				{%- endfor %}
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+
+	<div>
+		<h2>Talents</h2>
+		<dl class="row">
+		{%- for talent in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.talents %}
+			<dt class="col-sm-3">{{ talent.name }}</dt>
+			<dd class="col-sm-9"><ul class="list-unstyled">{%- for effect in talent.effects %}
+				<li>{{ effect }}</li>
+				{%- endfor %}
+			</ul></dd>
+		{%- endfor %}
+		</dl>
+	</div>
+</div>
