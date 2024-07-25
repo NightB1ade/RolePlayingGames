@@ -48,7 +48,7 @@
 			, "stat": 35
 		}
 	]
-	, "basicSkills": [{
+	, "untrainedBasicSkills": [{
 			"name": "Awareness"
 			, "stat": "Per"
 			, "bonus": 0

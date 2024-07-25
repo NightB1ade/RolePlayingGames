@@ -43,14 +43,14 @@
 				}
 			}
 		}
-		, "basicSkills": {
+		, "untrainedBasicSkills": {
 			"type": "array"
-			, "title": "Basic Skills"
+			, "title": "Untrained Basic Skills"
 			, "format": "table"
 			, "uniqueItems": true
 			, "items": {
 				"type": "object"
-				, "title": "Basic Skill"
+				, "title": "Untrained Basic Skill"
 				, "required": [
 					"name"
 					, "stat"

@@ -48,7 +48,7 @@
 			, "stat": 45
 		}
 	]
-	, "basicSkills": [{
+	, "untrainedBasicSkills": [{
 			"name": "Carouse"
 			, "stat": "T"
 			, "bonus": 0

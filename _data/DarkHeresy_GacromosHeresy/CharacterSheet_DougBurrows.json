@@ -48,7 +48,7 @@
 			, "stat": 25
 		}
 	]
-	, "basicSkills": [{
+	, "untrainedBasicSkills": [{
 			"name": "Barter"
 			, "stat": "Fel"
 			, "bonus": 0
