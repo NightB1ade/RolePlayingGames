@@ -44,6 +44,12 @@ defaults:
             rpgdescription: Hunt the Heretek
     -
         scope:
+            path: DarkHeresy/RulesAndResources
+        values:
+            rpgtitle: Rules and Resources
+            rpgdescription: Various Resources for Dark Heresy
+    -
+        scope:
             path: DungeonsAndDragons/4e/ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
