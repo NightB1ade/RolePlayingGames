@@ -46,12 +46,12 @@ title: Doug Burrows
 					</tr>
 				</thead>
 				<tbody>
-				{%- for untrainedBasicSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.untrainedBasicSkills %}
+				{%- for untrainedBasicSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_DougBurrows.untrainedBasicSkills %}
 					<tr>
 						<td>{{ untrainedBasicSkill.name }}</td>
 						<td>{{ untrainedBasicSkill.stat }}</td>
 						<td class="text-center">
-							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Casimir.characteristics -%}
+							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_DougBurrows.characteristics -%}
 								{%- if untrainedBasicSkill.stat == characteristic.abbreviation -%}
 									{{ characteristic.stat | plus: untrainedBasicSkill.bonus | divided_by: 2 }}
 								{%- endif -%}
