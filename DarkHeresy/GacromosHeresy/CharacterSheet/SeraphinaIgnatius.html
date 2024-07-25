@@ -6,15 +6,15 @@ title: Seraphina
 	<div class="row text-center">
 		<div class="col">
 			<p class="fs-3">Wounds</p>
-			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.wounds }}</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.wounds }}</p>
 		</div>
 		<div class="col">
 			<p class="fs-3">Fate Points</p>
-			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.fatePoints }}</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.fatePoints }}</p>
 		</div>
 		<div class="col">
 			<p class="fs-3">Insanity</p>
-			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.insanity }}</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.insanity }}</p>
 		</div>
 	</div>
 
@@ -23,7 +23,7 @@ title: Seraphina
 
 	<h2>Characteristics</h2>
 	<div class="row text-center">
-		{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.characteristics %}
+		{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.characteristics %}
 		<div class="col">
 			<p>{{ characteristic.name }} ({{ characteristic.abbreviation }})</p>
 			<p class="fw-bold fs-2">{{ characteristic.stat }}</p>
@@ -46,12 +46,12 @@ title: Seraphina
 					</tr>
 				</thead>
 				<tbody>
-				{%- for basicSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.basicSkills %}
+				{%- for basicSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.basicSkills %}
 					<tr>
 						<td>{{ basicSkill.name }}</td>
 						<td>{{ basicSkill.stat }}</td>
 						<td class="text-center">
-							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.characteristics -%}
+							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.characteristics -%}
 								{%- if basicSkill.stat == characteristic.abbreviation -%}
 									{{ characteristic.stat | plus: basicSkill.bonus }}
 								{%- endif -%}
@@ -76,13 +76,13 @@ title: Seraphina
 					</tr>
 				</thead>
 				<tbody>
-				{%- for trainedSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.trainedSkills %}
+				{%- for trainedSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.trainedSkills %}
 					<tr>
 						<td>{{ trainedSkill.name }}</td>
 						<td>{{ trainedSkill.stat }}</td>
 						<td class="text-center">{% if trainedSkill.bonus != 0 %}{{ trainedSkill.bonus }}{% endif %}</td>
 						<td class="text-center">
-							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.characteristics -%}
+							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.characteristics -%}
 								{%- if trainedSkill.stat == characteristic.abbreviation -%}
 									{{ characteristic.stat | plus: trainedSkill.bonus }}
 								{%- endif -%}
@@ -99,7 +99,7 @@ title: Seraphina
 	<div>
 		<h2>Talents</h2>
 		<dl class="row">
-		{%- for talent in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Seraphina.talents %}
+		{%- for talent in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_SeraphinaIgnatius.talents %}
 			<dt class="col-sm-3">{{ talent.name }}</dt>
 			<dd class="col-sm-9"><ul class="list-unstyled">{%- for effect in talent.effects %}
 				<li>{{ effect }}</li>
