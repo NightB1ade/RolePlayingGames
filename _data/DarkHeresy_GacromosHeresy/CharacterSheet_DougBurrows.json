@@ -49,10 +49,86 @@
 		}
 	]
 	, "basicSkills": [{
-		"name": "Tech-Use"
-		, "stat": "Int"
-		, "bonus": 0
-	}]
+			"name": "Barter"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Carouse"
+			, "stat": "T"
+			, "bonus": 0
+		}
+		, {
+			"name": "Charm"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Climb"
+			, "stat": "S"
+			, "bonus": 0
+		}
+		, {
+			"name": "Command"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Concealment"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Contortionist"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Disguise"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Evaluate"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Gamble"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Inquiry"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Logic"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Scrutiny"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Search"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Silent Move"
+			, "stat": "Ag"
+			, "bonus": 0
+		}
+		, {
+			"name": "Tech-Use"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+	]
 	, "trainedSkills": [{
 			"name": "Awareness"
 			, "stat": "Per"
@@ -79,8 +155,8 @@
 			, "bonus": 20
 		}
 		, {
-			"name": "Interrogation"
-			, "stat": "WP"
+			"name": "Intimidate"
+			, "stat": "S"
 			, "bonus": 0
 		}
 		, {
@@ -173,17 +249,17 @@
 			]
 		}
 		, {
-			"name": "Wary"
-			, "effects": [
-				"All hivers gain a +1 bonus to Initiative rolls"
-			]
-		}
-		, {
 			"name": "Takedown"
 			, "effects": [
 				"You are skilled at taking an opponent alive"
 				, "As a Half Action you may declare that you are attempting to Takedown an opponent before Testing Weapon Skill"
 				, "If you hit and do at least 1 point of Damage, this damage is ignored and your opponent must make a Toughness Test of be Stunned for one Round"
+			]
+		}
+		, {
+			"name": "Wary"
+			, "effects": [
+				"All hivers gain a +1 bonus to Initiative rolls"
 			]
 		}
 	]
