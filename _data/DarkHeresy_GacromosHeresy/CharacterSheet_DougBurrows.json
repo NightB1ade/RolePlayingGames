@@ -84,6 +84,11 @@
 			, "bonus": 0
 		}
 		, {
+			"name": "Literacy"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
 			"name": "Navigation (Surface)"
 			, "stat": "Int"
 			, "bonus": 0
@@ -103,8 +108,20 @@
 			, "stat": "Int"
 			, "bonus": 0
 		}
+		, {
+			"name": "Swim"
+			, "stat": "S"
+			, "bonus": 0
+		}
 	]
 	, "talents": [{
+			"name": "Accustomed to Crowds"
+			, "effects": [
+				"Crowds do not count as Difficult Terrain for hivers"
+				, "When Running or Charging through a dense crowd, hivers take no penalty to the Agility Test to keep their feet"
+			]
+		}
+		, {
 			"name": "Basic Weapon Training (SP)"
 			, "effects": [
 				"No penalty to use these weapons"
@@ -117,9 +134,56 @@
 			]
 		}
 		, {
+			"name": "Caves of Steel"
+			, "effects": [
+				"Hivers treat the Tech-Use (Int) skill as a Basic Skill"
+			]
+		}
+		, {
+			"name": "Hivebound"
+			, "effects": [
+				"Hivers take a –10 penalty to all Survival (Int) Tests"
+				, "While out of a “proper hab” (e.g. places without manufactured goods, solid ceilings and electrical power) the hiver takes a –5 penalty to all Intelligence Tests"
+			]
+		}
+		, {
+			"name": "Melee Weapon Training (Primitive)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
 			"name": "Pistol Training (Las)"
 			, "effects": [
 				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Quick Draw"
+			, "effects": [
+				"You are quick to the draw, able to have a weapon in your hand and ready for combat in the blink of an eye"
+				, "You can Ready as a Free Action"
+			]
+		}
+		, {
+			"name": "Rapid Reload"
+			, "effects": [
+				"You have spent so long practising weapons drills that you can reload a gun in an instant"
+				, "All reload times are reduced by half (round down) – so a Half Action reload becomes a Free Action, a Full Action reload becomes a Half Action and so on"
+			]
+		}
+		, {
+			"name": "Wary"
+			, "effects": [
+				"All hivers gain a +1 bonus to Initiative rolls"
+			]
+		}
+		, {
+			"name": "Takedown"
+			, "effects": [
+				"You are skilled at taking an opponent alive"
+				, "As a Half Action you may declare that you are attempting to Takedown an opponent before Testing Weapon Skill"
+				, "If you hit and do at least 1 point of Damage, this damage is ignored and your opponent must make a Toughness Test of be Stunned for one Round"
 			]
 		}
 	]
