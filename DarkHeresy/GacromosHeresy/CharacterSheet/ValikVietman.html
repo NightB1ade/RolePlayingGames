@@ -1,20 +1,20 @@
 ---
-title: Valik
+title: Valik Vietman
 ---
 
 <div class="container">
 	<div class="row text-center">
 		<div class="col">
 			<p class="fs-3">Wounds</p>
-			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.wounds }}</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.wounds }}</p>
 		</div>
 		<div class="col">
 			<p class="fs-3">Fate Points</p>
-			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.fatePoints }}</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.fatePoints }}</p>
 		</div>
 		<div class="col">
 			<p class="fs-3">Insanity</p>
-			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.insanity }}</p>
+			<p class="fw-bold fs-2">{{ site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.insanity }}</p>
 		</div>
 	</div>
 
@@ -23,7 +23,7 @@ title: Valik
 
 	<h2>Characteristics</h2>
 	<div class="row text-center">
-		{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.characteristics %}
+		{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.characteristics %}
 		<div class="col">
 			<p>{{ characteristic.name }} ({{ characteristic.abbreviation }})</p>
 			<p class="fw-bold fs-2">{{ characteristic.stat }}</p>
@@ -46,12 +46,12 @@ title: Valik
 					</tr>
 				</thead>
 				<tbody>
-				{%- for untrainedBasicSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.untrainedBasicSkills %}
+				{%- for untrainedBasicSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.untrainedBasicSkills %}
 					<tr>
 						<td>{{ untrainedBasicSkill.name }}</td>
 						<td>{{ untrainedBasicSkill.stat }}</td>
 						<td class="text-center">
-							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.characteristics -%}
+							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.characteristics -%}
 								{%- if untrainedBasicSkill.stat == characteristic.abbreviation -%}
 									{{ characteristic.stat | plus: untrainedBasicSkill.bonus | divided_by: 2 }}
 								{%- endif -%}
@@ -76,13 +76,13 @@ title: Valik
 					</tr>
 				</thead>
 				<tbody>
-				{%- for trainedSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.trainedSkills %}
+				{%- for trainedSkill in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.trainedSkills %}
 					<tr>
 						<td>{{ trainedSkill.name }}</td>
 						<td>{{ trainedSkill.stat }}</td>
 						<td class="text-center">{% if trainedSkill.bonus != 0 %}{{ trainedSkill.bonus }}{% endif %}</td>
 						<td class="text-center">
-							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.characteristics -%}
+							{%- for characteristic in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.characteristics -%}
 								{%- if trainedSkill.stat == characteristic.abbreviation -%}
 									{{ characteristic.stat | plus: trainedSkill.bonus }}
 								{%- endif -%}
@@ -99,7 +99,7 @@ title: Valik
 	<div>
 		<h2>Talents</h2>
 		<dl class="row">
-		{%- for talent in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_Valik.talents %}
+		{%- for talent in site.data.DarkHeresy_GacromosHeresy.CharacterSheet_ValikVietman.talents %}
 			<dt class="col-sm-3">{{ talent.name }}</dt>
 			<dd class="col-sm-9"><ul class="list-unstyled">{%- for effect in talent.effects %}
 				<li>{{ effect }}</li>
