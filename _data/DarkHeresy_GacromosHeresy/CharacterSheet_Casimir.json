@@ -25,12 +25,12 @@
 		, {
 			"name": "Agility"
 			, "abbreviation": "Ag"
-			, "stat": 27
+			, "stat": 40
 		}
 		, {
 			"name": "Intelligence"
 			, "abbreviation": "Int"
-			, "stat": 40
+			, "stat": 32
 		}
 		, {
 			"name": "Perception"
@@ -125,7 +125,12 @@
 		}
 	]
 	, "trainedSkills": [{
-			"name": "Speak Low Gothic"
+			"name": "Speak Language (Low Gothic)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (High Gothic)"
 			, "stat": "Int"
 			, "bonus": 0
 		}
