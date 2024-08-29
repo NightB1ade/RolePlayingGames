@@ -224,10 +224,26 @@
 			]
 		}
 		, {
+			"name": "Failsafe Control"
+			, "effects": [
+				"All Mind Cleansed Inquisitorial agents have a failsafe command trigger implanted in their minds to prevent them from turning on their masters. Only the relevant NPC (their Inquisitor for example), should ever have access to this trigger, which usually must be delivered telepathically or by a specific sonic cadence (a simple code phrase is usually judged too risky). Effect: The trigger works just like the use of the Dominate Psychic Power (see page 178 in Dark Heresy). If the trigger is successful, you may be given an order or set of instructions you must carry out to the best of your abilities. However, if the command is antithetical or directly harmful to you, you may receive an appropriate bonus to resist the control."
+			]
+		}
+		, {
+			"name": "Imperial Conditioning"
+			, "effects": [
+				"+10 bonus on Willpower tests made to resist Fear or attempts to control of possess your mind"
+			]
+		}
+		, {
 			"name": "Jaded"
 			, "effects": [
 				"Never gain insanity points from any mundane horrors such as blood, death and violence. Supernatural terrors still affect you as normal."
 			]
+		}
+		, {
+			"name": "Melee Weapon Training (Primitive)"
+			, "effects": []
 		}
 		, {
 			"name": "Pistol Weapon Training (SP)"
@@ -238,8 +254,10 @@
 			, "effects": []
 		}
 		, {
-			"name": "Melee Weapon Training (Primitive)"
-			, "effects": []
+			"name": "Quick Draw"
+			, "effects": [
+				"You can ready as a Free Action"
+			]
 		}
 		, {
 			"name": "Resistance (Psychic Powers)"
@@ -248,27 +266,15 @@
 			]
 		}
 		, {
-			"name": "Unreadable Mind (Living Nightmare)"
-			, "effects": [
-				"The deep recesses of your mind cannot be read by psychic (or other) means and any attempt to do so simply finds a fathomless void of darkness. You are completely immune to the Psychic Power, Mind Scan, as well as any similar effects or abilities"
-			]
-		}
-		, {
-			"name": "Failsafe Control"
-			, "effects": [
-				"All Mind Cleansed Inquisitorial agents have a failsafe command trigger implanted in their minds to prevent them from turning on their masters. Only the relevant NPC (their Inquisitor for example), should ever have access to this trigger, which usually must be delivered telepathically or by a specific sonic cadence (a simple code phrase is usually judged too risky). Effect: The trigger works just like the use of the Dominate Psychic Power (see page 178 in Dark Heresy). If the trigger is successful, you may be given an order or set of instructions you must carry out to the best of your abilities. However, if the command is antithetical or directly harmful to you, you may receive an appropriate bonus to resist the control."
-			]
-		}
-		, {
-			"name": "Imnperial Conditioning"
-			, "effects": [
-				"+10 bonus on Willpower tests made to resist Fear or attempts to control of possess your mind"
-			]
-		}
-		, {
 			"name": "Through a Mirror Darkly"
 			, "effects": [
 				"Start with insanity points, At GM's discretion, certain rare events, individuals may trigger repressed memories. When this occurs you must pass a Willpower test or roll on the Shock Table. Talents that resist Fear or Insanity do not help with this."
+			]
+		}
+		, {
+			"name": "Unreadable Mind (Living Nightmare)"
+			, "effects": [
+				"The deep recesses of your mind cannot be read by psychic (or other) means and any attempt to do so simply finds a fathomless void of darkness. You are completely immune to the Psychic Power, Mind Scan, as well as any similar effects or abilities"
 			]
 		}
 	]
