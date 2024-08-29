@@ -223,6 +223,12 @@
 			]
 		}
 		, {
+			"name": "Best Quality Melee Weapon"
+			, "effects": [
+				"+10 tests made to attack and add 1 to the Damage"
+			]
+		}
+		, {
 			"name": "Combat Master"
 			, "effects": [
 				"Through a combination of reflex and perception you are able to keep many more opponents at bay in melee than a lesser skilled Acolyte might"
