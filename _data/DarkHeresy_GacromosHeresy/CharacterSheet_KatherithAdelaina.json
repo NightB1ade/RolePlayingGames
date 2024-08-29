@@ -223,6 +223,13 @@
 			]
 		}
 		, {
+			"name": "Combat Master"
+			, "effects": [
+				"Through a combination of reflex and perception you are able to keep many more opponents at bay in melee than a lesser skilled Acolyte might"
+				, "Opponents fighting you in hand-to-hand gain no bonuses for outnumbering you"
+			]
+		}
+		, {
 			"name": "Fearless"
 			, "effects": [
 				"You are immune to the effects of Fear and Pinning, but to disengage from combat or back down from a fight you must first succeed on a Willpower Test"
