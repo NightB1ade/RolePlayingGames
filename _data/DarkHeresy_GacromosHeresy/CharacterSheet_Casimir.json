@@ -74,6 +74,11 @@
 			, "bonus": 0
 		}
 		, {
+			"name": "Common Lore (Tech)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
 			"name": "Concealment"
 			, "stat": "Ag"
 			, "bonus": 0
@@ -109,44 +114,19 @@
 			, "bonus": 0
 		}
 		, {
-			"name": "Swim"
-			, "stat": "S"
-			, "bonus": 0
-		}
-		, {
-			"name": "Common Lore (Tech)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
 			"name": "Survival"
 			, "stat": "Int"
 			, "bonus": 0
 		}
+		, {
+			"name": "Swim"
+			, "stat": "S"
+			, "bonus": 0
+		}
 	]
 	, "trainedSkills": [{
-			"name": "Speak Language (Low Gothic)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Speak Language (High Gothic)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Chem Use"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Forbidden Lore (Psyker)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Interrogation"
-			, "stat": "WP"
+			"name": "Awareness"
+			, "stat": "Per"
 			, "bonus": 0
 		}
 		, {
@@ -155,28 +135,13 @@
 			, "bonus": 0
 		}
 		, {
-			"name": "Invocation"
-			, "stat": "WP"
-			, "bonus": 10
-		}
-		, {
-			"name": "Psyniscience"
-			, "stat": "Per"
-			, "bonus": 0
-		}
-		, {
-			"name": "Trade (Merchant)"
-			, "stat": "Fel"
-			, "bonus": 0
-		}
-		, {
-			"name": "Literacy"
+			"name": "Chem Use"
 			, "stat": "Int"
 			, "bonus": 0
 		}
 		, {
-			"name": "Awareness"
-			, "stat": "Per"
+			"name": "Common Lore (Imperium)"
+			, "stat": "Int"
 			, "bonus": 0
 		}
 		, {
@@ -190,8 +155,18 @@
 			, "bonus": 0
 		}
 		, {
+			"name": "Forbidden Lore (Psyker)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
 			"name": "Inquiry"
 			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
+			"name": "Interrogation"
+			, "stat": "WP"
 			, "bonus": 0
 		}
 		, {
@@ -200,27 +175,53 @@
 			, "bonus": 0
 		}
 		, {
+			"name": "Invocation"
+			, "stat": "WP"
+			, "bonus": 10
+		}
+		, {
+			"name": "Literacy"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
 			"name": "Logic"
 			, "stat": "Int"
 			, "bonus": 0
 		}
+		, {
+			"name": "Psyniscience"
+			, "stat": "Per"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (High Gothic)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Speak Language (Low Gothic)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Trade (Merchant)"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
 	]
 	, "talents": [{
-			"name": "Psy Rating 1"
-			, "effects": []
-		}
-		, {
-			"name": "Psy Rating 2"
-			, "effects": []
-		}
-		, {
-			"name": "Psy Rating 3"
-			, "effects": []
-		}
-		, {
 			"name": "Blind Fighting"
 			, "effects": [
 				"Take half the usual penalties when fighting in environments that obscure your vision, such as fog, smoke and darkness"
+			]
+		}
+		, {
+			"name": "Double Team"
+			, "effects": [
+				"When ganging up on an opponent with an ally, you gain an additional +10 bonus to WS tests"
+				, "If you both have this Talent you both gain an additional +10"
+				, "This is in addition to the normal bonuses gained from outnumbering an opponent"
 			]
 		}
 		, {
@@ -246,11 +247,23 @@
 			, "effects": []
 		}
 		, {
+			"name": "Pistol Weapon Training (Las)"
+			, "effects": []
+		}
+		, {
 			"name": "Pistol Weapon Training (SP)"
 			, "effects": []
 		}
 		, {
-			"name": "Pistol Weapon Training (Las)"
+			"name": "Psy Rating 1"
+			, "effects": []
+		}
+		, {
+			"name": "Psy Rating 2"
+			, "effects": []
+		}
+		, {
+			"name": "Psy Rating 3"
 			, "effects": []
 		}
 		, {
