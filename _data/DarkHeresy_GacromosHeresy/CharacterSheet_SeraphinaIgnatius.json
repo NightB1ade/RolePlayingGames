@@ -74,6 +74,16 @@
 			, "bonus": 0
 		}
 		, {
+			"name": "Common Lore (Philosophy)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Common Lore (War)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
 			"name": "Concealment"
 			, "stat": "Ag"
 			, "bonus": 0
@@ -133,21 +143,6 @@
 			, "stat": "S"
 			, "bonus": 0
 		}
-		, {
-			"name": "Common Lore (Imperium)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Common Lore (War)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Common Lore (Philosophy)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
 	]
 	, "trainedSkills": [{
 			"name": "Charm"
@@ -155,13 +150,8 @@
 			, "bonus": 10
 		}
 		, {
-			"name": "Dodge"
-			, "stat": "Ag"
-			, "bonus": 10
-		}
-		, {
-			"name": "Inquiry"
-			, "stat": "Fel"
+			"name": "Chem Use"
+			, "stat": "Int"
 			, "bonus": 0
 		}
 		, {
@@ -180,18 +170,43 @@
 			, "bonus": 0
 		}
 		, {
+			"name": "Common Lore (Imperium)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Dodge"
+			, "stat": "Ag"
+			, "bonus": 10
+		}
+		, {
+			"name": "Forbidden Lore (Warp)"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Inquiry"
+			, "stat": "Fel"
+			, "bonus": 0
+		}
+		, {
 			"name": "Literacy"
+			, "stat": "Int"
+			, "bonus": 0
+		}
+		, {
+			"name": "Medicae"
+			, "stat": "Int"
+			, "bonus": 10
+		}
+		, {
+			"name": "Navigation (Surface)"
 			, "stat": "Int"
 			, "bonus": 0
 		}
 		, {
 			"name": "Performer (Singer)"
 			, "stat": "Fel"
-			, "bonus": 0
-		}
-		, {
-			"name": "Trade (Copyist)"
-			, "stat": "Int"
 			, "bonus": 0
 		}
 		, {
@@ -205,40 +220,13 @@
 			, "bonus": 0
 		}
 		, {
-			"name": "Medicae"
-			, "stat": "Int"
-			, "bonus": 10
-		}
-		, {
-			"name": "Chem Use"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Navigation (Surface)"
-			, "stat": "Int"
-			, "bonus": 0
-		}
-		, {
-			"name": "Forbidden Lore (Warp)"
+			"name": "Trade (Copyist)"
 			, "stat": "Int"
 			, "bonus": 0
 		}
 	]
 	, "talents": [{
-			"name": "Basic Weapon Training (Primitive)"
-			, "effects": [
-				"No penalty to use these weapons"
-			]
-		}
-		, {
-			"name": "Melee Weapon Training (Primitive)"
-			, "effects": [
-				"No penalty to use these weapons"
-			]
-		}
-		, {
-			"name": "Pistol Training (Las)"
+			"name": "Basic Weapon Training (Flame)"
 			, "effects": [
 				"No penalty to use these weapons"
 			]
@@ -250,19 +238,7 @@
 			]
 		}
 		, {
-			"name": "Peer (Imperial Guard)"
-			, "effects": [
-				"+10 to Fel Test with this group"
-			]
-		}
-		, {
-			"name": "Pure Faith"
-			, "effects": [
-				"         You are always immune to the effects of Daemonic Presence (including the negative modifiers to your Willpower)         You may avoid taking a Fear Test, avoid acquiring Insanity Points and avoid gaining Corruption Points by spending a Fate Point         These safeguards remain in place for the duration of the encounter only         You may burn a Fate Point to resist the effects of any single Daemonic or psychic attack, effectively allowing You to emerge enscathed as if by a miracle"
-			]
-		}
-		, {
-			"name": "Basic Weapon Training (Flame)"
+			"name": "Basic Weapon Training (Primitive)"
 			, "effects": [
 				"No penalty to use these weapons"
 			]
@@ -283,9 +259,45 @@
 			]
 		}
 		, {
+			"name": "Melee Weapon Training (Primitive)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Nerves of Steel"
+			, "effects": [
+				"Can reroll failed Willpower Tests to avoid or recover from Pinning"
+			]
+		}
+		, {
+			"name": "Pistol Training (Las)"
+			, "effects": [
+				"No penalty to use these weapons"
+			]
+		}
+		, {
+			"name": "Peer (Imperial Guard)"
+			, "effects": [
+				"+10 to Fel Test with this group"
+			]
+		}
+		, {
+			"name": "Pure Faith"
+			, "effects": [
+				"         You are always immune to the effects of Daemonic Presence (including the negative modifiers to your Willpower)         You may avoid taking a Fear Test, avoid acquiring Insanity Points and avoid gaining Corruption Points by spending a Fate Point         These safeguards remain in place for the duration of the encounter only         You may burn a Fate Point to resist the effects of any single Daemonic or psychic attack, effectively allowing You to emerge enscathed as if by a miracle"
+			]
+		}
+		, {
 			"name": "Resistance (Fear)"
 			, "effects": [
 				"+10 to resist Fear"
+			]
+		}
+		, {
+			"name": "Resistance (Psychic Powers)"
+			, "effects": [
+				"+10 to resist psychic powers"
 			]
 		}
 		, {
