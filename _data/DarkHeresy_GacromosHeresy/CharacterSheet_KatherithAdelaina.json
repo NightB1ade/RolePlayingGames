@@ -330,6 +330,13 @@
 			]
 		}
 		, {
+			"name": "True Grit"
+			, "effects": [
+				"You are able to shrug off wounds that would fell lesser men"
+				, "Whenever you suffer Critical Damage, halve the result (rounding up)"
+			]
+		}
+		, {
 			"name": "Unshakeable Faith"
 			, "effects": [
 				"You may re-roll any failed Willpower Tests to avoid the effects of Fear"
