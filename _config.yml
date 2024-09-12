@@ -50,6 +50,12 @@ defaults:
             rpgdescription: Various Resources for Dark Heresy
     -
         scope:
+            path: DungeonsAndDragons/4e/ScalesOfWar
+        values:
+            rpgtitle: Scales of War
+            rpgdescription: A D&D4e Adventure Path
+    -
+        scope:
             path: DungeonsAndDragons/4e/ZodiacWheel
         values:
             rpgtitle: Zodiac Wheel
