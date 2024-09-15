@@ -333,23 +333,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Snake (Huge)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Snake (Large)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Snake (Medium)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Snake (Small)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Snake (Tiny)"
+				"name": "Snake (Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Spring"
 			}
 			, {
@@ -409,11 +393,7 @@
 	, {
 		"name": "Bandits"
 		, "monsters": [{
-				"name": "Bandit (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bandit (Male)"
+				"name": "Bandit (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -421,51 +401,27 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Bandit Ambusher (Female)"
+				"name": "Bandit Ambusher (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Bandit Ambusher (Male)"
+				"name": "Bandit Bruiser (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Bandit Bruiser (Female)"
+				"name": "Bandit Captain (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Bandit Bruiser (Male)"
+				"name": "Bandit Cutthroat (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Bandit Captain (Female)"
+				"name": "Bandit Guard (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Bandit Captain (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bandit Cutthroat (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bandit Cutthroat (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bandit Guard (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bandit Guard (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bandit Lieutenant (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bandit Lieutenant (Male)"
+				"name": "Bandit Lieutenant (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -493,11 +449,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Halfling Bandit (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Halfling Bandit (Male)"
+				"name": "Halfling Bandit (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -513,11 +465,7 @@
 	, {
 		"name": "Bards"
 		, "monsters": [{
-				"name": "Aasimar Bard (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Aasimar Bard (Male)"
+				"name": "Aasimar Bard (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -533,11 +481,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Dwarf Bard (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Dwarf Bard (Male)"
+				"name": "Dwarf Bard (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -545,59 +489,31 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Gnome Bard (Female) x2"
+				"name": "Gnome Bard (Female x2, Male x2)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Gnome Bard (Male) x2"
+				"name": "Halfling Bard (Female x2, Male x2)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Halfling Bard (Female) x2"
+				"name": "Half-Elf Bard (Female x2, Male x2)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Halfling Bard (Male) x2"
+				"name": "Half-Orc Bard (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Half-Elf Bard (Female) x2"
+				"name": "High Elf Bard (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Half-Elf Bard (Male) x2"
+				"name": "Human Bard (Female x7, Male x7)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Half-Orc Bard (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Half-Orc Bard (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "High Elf Bard (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "High Elf Bard (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Human Bard (Female) x7"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Human Bard (Male) x7"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Tiefling Bard (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Tiefling Bard (Male)"
+				"name": "Tiefling Bard (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -613,11 +529,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Aranea (Hybrid Form)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Aranea (Spider Form)"
+				"name": "Aranea (Hybrid Form, Spider Form)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -641,11 +553,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Drider (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Drider (Male)"
+				"name": "Drider (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -685,31 +593,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Giant Centipede (Colossal)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Centipede (Gargantuan)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Centipede (Huge)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Centipede (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Centipede (Medium)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Centipede (Small)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Centipede (Tiny)"
+				"name": "Giant Centipede (Colossal, Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -729,31 +613,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Giant Scorpion (Colossal)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Scorpion (Gargantuan)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Scorpion (Huge)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Scorpion (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Scorpion (Medium)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Scorpion (Small)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Scorpion (Tiny)"
+				"name": "Giant Scorpion (Colossal, Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -761,31 +621,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Giant Spider (Colossal)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Spider (Gargantuan)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Spider (Huge)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Spider (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Spider (Medium)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Spider (Small)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Spider (Tiny)"
+				"name": "Giant Spider (Colossal, Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -793,11 +629,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Giant Wasp (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Giant Wasp (Medium)"
+				"name": "Giant Wasp (Large, Medium)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -825,11 +657,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Purple Worm (Gargantuan)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Purple Worm (Huge)"
+				"name": "Purple Worm (Gargantuan, Huge)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -841,11 +669,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Scorpionfolk (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Scorpionfolk (Male)"
+				"name": "Scorpionfolk (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -865,11 +689,7 @@
 	, {
 		"name": "Catfolk"
 		, "monsters": [{
-				"name": "Catfolk (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Catfolk (Male)"
+				"name": "Catfolk (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -921,11 +741,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Rakshasa (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Rakshasa (Male)"
+				"name": "Rakshasa (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -949,11 +765,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Wemic (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wemic (Male)"
+				"name": "Wemic (Female, Male)"
 				, "collection": "Spring 2"
 			}
 		]
@@ -961,11 +773,7 @@
 	, {
 		"name": "Centaurs & Harpies"
 		, "monsters": [{
-				"name": "Centaur (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Centaur (Male)"
+				"name": "Centaur (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -993,11 +801,7 @@
 	, {
 		"name": "Clerics"
 		, "monsters": [{
-				"name": "Aasimar Cleric (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Aasimar Cleric (Male)"
+				"name": "Aasimar Cleric (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1009,11 +813,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Dwarf Cleric (Female) x3"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Dwarf Cleric (Male) x3"
+				"name": "Dwarf Cleric (Female x3, Male x3)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1025,11 +825,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Gnome Cleric (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Gnome Cleric (Male)"
+				"name": "Gnome Cleric (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1037,19 +833,11 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Halfling Cleric (Female) x2"
+				"name": "Halfling Cleric (Female x2, Male x2)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Halfling Cleric (Male) x2"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Half-Orc Cleric (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Half-Orc Cleric (Male)"
+				"name": "Half-Orc Cleric (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1057,35 +845,19 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Cleric (Female) x5"
+				"name": "Human Cleric (Female x5, Male x5)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Cleric (Male) x5"
+				"name": "Human Healer (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Healer (Female)"
+				"name": "Human Priest (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Healer (Male)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Human Priest (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Human Priest (Male)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Tiefling Cleric (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Tiefling Cleric (Male)"
+				"name": "Tiefling Cleric (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1109,15 +881,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Flesh Golem (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Flesh Golem (Medium, Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Flesh Golem (Medium, Male)"
+				"name": "Flesh Golem (Large, Medium Female, Medium Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1125,11 +889,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Iron Golem (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Iron Golem (Huge)"
+				"name": "Iron Golem (Huge, Large)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1157,11 +917,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Stone Golem (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Stone Golem (Huge)"
+				"name": "Stone Golem (Huge, Large)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1185,19 +941,11 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Balor (Type VI Demon, Huge)"
+				"name": "Balor (Type VI Demon, Huge, Large)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Balor (Type VI Demon, Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Bar-Igura (Medium)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Bar-Iguea (Large)"
+				"name": "Bar-Igura (Large, Medium)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1205,11 +953,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Cambion (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Cambion (Male)"
+				"name": "Cambion (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1289,23 +1033,7 @@
 	, {
 		"name": "Devils"
 		, "monsters": [{
-				"name": "Abishai (Black)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Abishai (Blue)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Abishai (Green)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Abishai (Red)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Abishai (White)"
+				"name": "Abishai (Black, Blue, Green, Red, White)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1389,11 +1117,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Pit Fiend (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Pit Fiend (Huge)"
+				"name": "Pit Fiend (Huge, Large)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1401,11 +1125,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Spined Devil (Medium)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Spined Devil (Small)"
+				"name": "Spined Devil (Medium, Small)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1425,27 +1145,7 @@
 	, {
 		"name": "Dragons"
 		, "monsters": [{
-				"name": "Black Dragon (Gargantuan)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Black Dragon (Huge)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Black Dragon (Large)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Black Dragon (Medium)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Black Dragon (Small)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Black Dragon (Tiny)"
+				"name": "Black Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1453,51 +1153,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Brass Dragon (Gargantuan)"
+				"name": "Brass Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Brass Dragon (Huge)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Brass Dragon (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Brass Dragon (Medium)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Brass Dragon (Small)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Brass Dragon (Tiny)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Copper Dragon (Gargantuan)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Copper Dragon (Huge)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Copper Dragon (Large)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Copper Dragon (Medium)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Copper Dragon (Small)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Copper Dragon (Tiny)"
+				"name": "Copper Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1505,11 +1165,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Dracolich (Gargantuan)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Dracolich (Huge)"
+				"name": "Dracolich (Gargantuan, Huge)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1525,35 +1181,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Fang Dragon (Huge)"
+				"name": "Fang Dragon (Huge, Large)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Fang Dragon (Large)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Green Dragon (Gargantuan)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Green Dragon (Huge)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Green Dragon (Large)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Green Dragon (Medium)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Green Dragon (Small)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Green Dragon (Tiny)"
+				"name": "Green Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Spring"
 			}
 			, {
@@ -1585,27 +1217,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Red Dragon (Colossal)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Red Dragon (Gargantuan)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Red Dragon (Huge)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Red Dragon (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Red Dragon (Medium)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Red Dragon (Small)"
+				"name": "Red Dragon (Colossal, Gargantuan, Huge, Large, Medium, Small)"
 				, "collection": "Summer"
 			}
 			, {
@@ -1629,11 +1241,7 @@
 	, {
 		"name": "Druids"
 		, "monsters": [{
-				"name": "Archdruid (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Archdruid (Male)"
+				"name": "Archdruid (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -1641,11 +1249,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Dwarf Druid (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Dwarf Druid (Male)"
+				"name": "Dwarf Druid (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -1653,27 +1257,15 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Gnome Druid (Female)"
+				"name": "Gnome Druid (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Gnome Druid (Male)"
+				"name": "Halfling Druid (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Halfling Druid (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Halfling Druid (Male)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Human Druid (Female) x5"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Human Druid (Male) x5"
+				"name": "Human Druid (Female x5, Male x5)"
 				, "collection": "Spring"
 			}
 			, {
@@ -1689,35 +1281,15 @@
 	, {
 		"name": "Faerie Court"
 		, "monsters": [{
-				"name": "Autumn Sidhe (Female)"
+				"name": "Autumn Sidhe (Female, Male x2)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Autumn Sidhe (Male) x2"
+				"name": "Bralani (Female, Male, Whirlwind Form)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Bralani (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bralani (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bralani (Whirlwind Form)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Coure (Ball of Light)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Coure (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Coure (Male)"
+				"name": "Coure (Ball of Light, Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1733,27 +1305,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Ghaele (Female)"
+				"name": "Ghaele (Female, Light Globe, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Ghaele (Light Globe)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Ghaele (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Firre (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Firre (Fire Form)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Firre (Male)"
+				"name": "Firre (Female, Fire Form, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1761,23 +1317,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Noviere (Female)"
+				"name": "Noviere (Female, Male, Water Form)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Noviere (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Noviere (Water Form)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Shiere (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Shiere (Male)"
+				"name": "Shiere (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1785,27 +1329,15 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Shiradi (Female)"
+				"name": "Shiradi (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Shiradi (Male)"
+				"name": "Spring Sidhe (Female x2, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Spring Sidhe (Female) x2"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Spring Sidhe (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Summer Sidhe (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Summer Sidhe (Male) x2"
+				"name": "Summer Sidhe (Female, Male x2)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1817,19 +1349,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Tulani (Female)"
+				"name": "Tulani (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Tulani (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wild Hunt Archer (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wild Hunt Archer (Male)"
+				"name": "Wild Hunt Archer (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1841,19 +1365,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Wild Hunt Noble (Female)"
+				"name": "Wild Hunt Noble (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Wild Hunt Noble (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wild Hunt Scout (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wild Hunt Scout (Male)"
+				"name": "Wild Hunt Scout (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1861,11 +1377,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Winter Sidhe (Female) x2"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Winter Sidhe (Male)"
+				"name": "Winter Sidhe (Female x2, Male)"
 				, "collection": "Spring 2"
 			}
 		]
@@ -1881,11 +1393,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Brownie (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Brownie (Male)"
+				"name": "Brownie (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -1925,11 +1433,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Leprechaun (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Leprechaun (Male)"
+				"name": "Leprechaun (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -1941,11 +1445,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Pixie (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Pixie (Male)"
+				"name": "Pixie (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -1977,19 +1477,11 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Spriggan (Female)"
+				"name": "Spriggan (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Spriggan (Male)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Sprite (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Sprite (Male)"
+				"name": "Sprite (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -2005,19 +1497,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Drow Fighter (Female)"
+				"name": "Drow Fighter (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Drow Fighter (Male)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Dwarf Fighter (Female) x3"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Dwarf Fighter (Male) x3"
+				"name": "Dwarf Fighter (Female x3, Male x3)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2025,19 +1509,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Gnome Fighter (Female)"
+				"name": "Gnome Fighter (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Gnome Fighter (Male)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Halfling Fighter (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Halfling Fighter (Male)"
+				"name": "Halfling Fighter (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2045,11 +1521,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Half-Ogre Fighter (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Half-Ogre Fighter (Male)"
+				"name": "Half-Ogre Fighter (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2057,27 +1529,15 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Human Fighter (Female) x5"
+				"name": "Human Fighter (Female x5, Male x5)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Human Fighter (Male) x5"
+				"name": "Human Gladiator (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Human Gladiator (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Human Gladiator (Male)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Human Guard (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Human Guard (Male)"
+				"name": "Human Guard (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2129,19 +1589,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Fire Elemental (Huge)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Fire Elemental (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Fire Elemental (Medium)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Fire Elemental (Small)"
+				"name": "Fire Elemental (Huge, Large, Medium, Small)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2161,11 +1609,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Magma Para-Elemental (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Magma Para-Elemental (Medium)"
+				"name": "Magma Para-Elemental (Large, Medium)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2345,11 +1789,7 @@
 	, {
 		"name": "Genies"
 		, "monsters": [{
-				"name": "Efreet (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Efreet (Male)"
+				"name": "Efreet (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2361,11 +1801,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Marid (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Marid (Male)"
+				"name": "Marid (Female, Male)"
 				, "collection": "Summer"
 			}
 		]
@@ -2373,15 +1809,7 @@
 	, {
 		"name": "Giants"
 		, "monsters": [{
-				"name": "Cyclops (Huge)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Cyclops (Large Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Cyclops (Large Male)"
+				"name": "Cyclops (Huge, Large Female, Large Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2389,19 +1817,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Firbolg (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Firbolg (Large Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Firbolg (Large Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Firbolg (Male)"
+				"name": "Firbolg (Female, Large Female, Large Male, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2417,11 +1833,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Fire Giant (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Fire Giant (Male)"
+				"name": "Fire Giant (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2437,43 +1849,23 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Forest Giant (Female)"
+				"name": "Forest Giant (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Forest Giant (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Sea Giant (Female)"
+				"name": "Sea Giant (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Sea Giant (Male)"
+				"name": "Storm Giant (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Storm Giant (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Storm Giant (Male)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Verbeeg (Female)"
+				"name": "Verbeeg (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Verbeeg (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Voadkyn (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Voadkyn (Male)"
+				"name": "Voadkyn (Female, Male)"
 				, "collection": "Spring 2"
 			}
 		]
@@ -2489,11 +1881,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Gnoll (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Gnoll (Male)"
+				"name": "Gnoll (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -2537,11 +1925,7 @@
 	, {
 		"name": "Goblins"
 		, "monsters": [{
-				"name": "Goblin (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Goblin (Male)"
+				"name": "Goblin (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -2589,11 +1973,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Goblin Javeliner (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Goblin Javeliner (Male)"
+				"name": "Goblin Javeliner (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -2613,11 +1993,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Goblin Rogue (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Goblin Rogue (Male)"
+				"name": "Goblin Rogue (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -2649,11 +2025,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Worg (Medium)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Worg (Large)"
+				"name": "Worg (Large, Medium)"
 				, "collection": "Spring"
 			}
 		]
@@ -2661,19 +2033,11 @@
 	, {
 		"name": "Guardian Beasts"
 		, "monsters": [{
-				"name": "Avoral (Female)"
+				"name": "Avoral (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Avoral (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bariaur (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bariaur (Male)"
+				"name": "Bariaur (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2685,19 +2049,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Cervidal (Female)"
+				"name": "Cervidal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Cervidal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Equinal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Equinal (Male)"
+				"name": "Equinal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2709,11 +2065,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Hollyphant (Large)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Hollyphant (Small)"
+				"name": "Hollyphant (Large, Small)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2721,11 +2073,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Leonal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Leonal (Male)"
+				"name": "Leonal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2737,11 +2085,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Lupinal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Lupinal (Male)"
+				"name": "Lupinal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2749,11 +2093,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Musteval (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Musteval (Male)"
+				"name": "Musteval (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2761,19 +2101,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Pachynal (Female)"
+				"name": "Pachynal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Pachynal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Procyal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Procyal (Male)"
+				"name": "Procyal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2781,19 +2113,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Ursinal (Female)"
+				"name": "Ursinal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Ursinal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Vulpinal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Vulpinal (Male)"
+				"name": "Vulpinal (Female, Male)"
 				, "collection": "Spring 2"
 			}
 		]
@@ -2801,11 +2125,7 @@
 	, {
 		"name": "Hobgoblins"
 		, "monsters": [{
-				"name": "Hobgoblin (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Hobgoblin (Male)"
+				"name": "Hobgoblin (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -2813,11 +2133,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Hobgoblin Archer (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Hobgoblin Archer (Male)"
+				"name": "Hobgoblin Archer (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -2833,11 +2149,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Hobgoblin Cleric (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Hobgoblin Cleric (Male)"
+				"name": "Hobgoblin Cleric (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -2857,11 +2169,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Hobgoblin Noncombatant (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Hobgoblin Noncombatant (Male)"
+				"name": "Hobgoblin Noncombatant (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -2881,11 +2189,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Hobgoblin Soldier (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Hobgoblin Soldier (Male)"
+				"name": "Hobgoblin Soldier (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -2901,11 +2205,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Hobgoblin Warrior (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Hobgoblin Warrior (Male)"
+				"name": "Hobgoblin Warrior (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -3157,11 +2457,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Lizardfolk (with club)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Lizardfolk (with spear)"
+				"name": "Lizardfolk (Club, Spear)"
 				, "collection": "Summer"
 			}
 			, {
@@ -3253,35 +2549,19 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Beasthide Shifter (Female)"
+				"name": "Beasthide Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Beasthide Shifter (Male)"
+				"name": "Cliffwalk Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Cliffwalk Shifter (Female)"
+				"name": "Dreamsight Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Cliffwalk Shifter (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Dreamsight Shifter (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Dreamsight Shifter (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Gorebrute Shifter (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Gorebrute Shifter (Male)"
+				"name": "Gorebrute Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -3289,83 +2569,39 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Longstride Shifter (Female)"
+				"name": "Longstride Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Longstride Shifter (Male)"
+				"name": "Longtooth Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Longtooth Shifter (Female)"
+				"name": "Razorclaw Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Longtooth Shifter (Male)"
+				"name": "Swiftwing Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Razorclaw Shifter (Female)"
+				"name": "Truedive Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Razorclaw Shifter (Male)"
+				"name": "Werebat (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Swiftwing Shifter (Female)"
+				"name": "Werebear (Large Female, Large Male, Medium Female, Medium Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Swiftwing Shifter (Male)"
+				"name": "Wereboar (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Truedive Shifter (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Truedive Shifter (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werebat (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werebat (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werebear (Large Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werebear (Large Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werebear (Medium Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werebear (Medium Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wereboar (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wereboar (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werecrocodile (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werecrocodile (Male)"
+				"name": "Werecrocodile (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -3377,11 +2613,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Wererat (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wererat (Male)"
+				"name": "Wererat (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -3393,43 +2625,19 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Weretiger (Large Female)"
+				"name": "Weretiger (Large Female, Large Male, Medium Female, Medium Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Weretiger (Large Male)"
+				"name": "Werewolf (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Weretiger (Medium Female)"
+				"name": "Werewolf Lord (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Weretiger (Medium Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werewolf (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werewolf (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werewolf Lord (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Werewolf Lord (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wildhunt Shifter (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Wildhunt Shifter (Male)"
+				"name": "Wildhunt Shifter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -3549,15 +2757,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Shark (Huge)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Shark (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Shark (Medium)"
+				"name": "Shark (Huge, Large, Medium)"
 				, "collection": "Summer"
 			}
 			, {
@@ -3749,11 +2949,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Necromancer (Female) x5"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Human Necromancer (Male) x5"
+				"name": "Human Necromancer (Female x5, Male x5)"
 				, "collection": "Autumn"
 			}
 		]
@@ -3761,11 +2957,7 @@
 	, {
 		"name": "Oceanfolk"
 		, "monsters": [{
-				"name": "Aquatic Elf (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Aquatic Elf (Male)"
+				"name": "Aquatic Elf (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -3801,11 +2993,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Koalinth (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Koalinth (Male)"
+				"name": "Koalinth (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -3873,11 +3061,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Merfolk (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Merfolk (Male)"
+				"name": "Merfolk (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -3925,11 +3109,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Ogre (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Ogre (Male)"
+				"name": "Ogre (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -3969,19 +3149,11 @@
 	, {
 		"name": "Orcs"
 		, "monsters": [{
-				"name": "Orc (Female)"
+				"name": "Orc (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Orc (Male)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Orc Archer (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Orc Archer (Male)"
+				"name": "Orc Archer (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4005,19 +3177,11 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Orc Civilian (Female)"
+				"name": "Orc Civilian (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Orc Civilian (Male)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Orc Cleric (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Orc Cleric (Male)"
+				"name": "Orc Cleric (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4061,11 +3225,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Orc Warrior (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Orc Warrior (Male)"
+				"name": "Orc Warrior (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4073,11 +3233,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Orog (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Orog (Male)"
+				"name": "Orog (Female, Male)"
 				, "collection": "Spring"
 			}
 		]
@@ -4085,11 +3241,7 @@
 	, {
 		"name": "Paladins"
 		, "monsters": [{
-				"name": "Aasimar Paladin (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Aasimar Paladin (Male)"
+				"name": "Aasimar Paladin (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4097,11 +3249,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Dwarf Paladin (Female) x2"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Dwarf Paladin (Male) x2"
+				"name": "Dwarf Paladin (Female x2, Male x2)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4109,27 +3257,15 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Gnome Paladin (Female)"
+				"name": "Gnome Paladin (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Gnome Paladin (Male)"
+				"name": "Half-Celestial Paladin (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Half-Celestial Paladin (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Half-Celestial Paladin (Male)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Halfling Paladin (Female) x2"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Halfling Paladin (Male) x2"
+				"name": "Halfling Paladin (Female x2, Male x2)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4141,27 +3277,15 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Half-Orc Paladin (Female)"
+				"name": "Half-Orc Paladin (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Half-Orc Paladin (Male)"
+				"name": "Human Paladin (Female x6, Male x6)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Paladin (Female) x6"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Human Paladin (Male) x6"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Tiefling Paladin (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Tiefling Paladin (Male)"
+				"name": "Tiefling Paladin (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4181,11 +3305,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Battlebriar (Huge)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Battlebriar (Large)"
+				"name": "Battlebriar (Huge, Large)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4285,11 +3405,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Yellow Musk Zombie (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Yellow Musk Zombie (Male)"
+				"name": "Yellow Musk Zombie (Female, Male)"
 				, "collection": "Spring"
 			}
 		]
@@ -4405,11 +3521,7 @@
 	, {
 		"name": "Rangers"
 		, "monsters": [{
-				"name": "Catfolk Ranger (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Catfolk Ranger (Male)"
+				"name": "Catfolk Ranger (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4417,19 +3529,11 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Drow Ranger (Female)"
+				"name": "Drow Ranger (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Drow Ranger (Male)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Dwarf Ranger (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Dwarf Ranger (Male)"
+				"name": "Dwarf Ranger (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4437,27 +3541,15 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Gnome Ranger (Female)"
+				"name": "Gnome Ranger (Female, Male x2)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Gnome Ranger (Male) x2"
+				"name": "Halfling Ranger (Female x2, Male x2)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Halfling Ranger (Female) x2"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Halfling Ranger (Male) x2"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Half-Ogre Ranger (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Half-Ogre Ranger (Male)"
+				"name": "Half-Ogre Ranger (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4465,11 +3557,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Human Ranger (Female) x6"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Human Ranger (Male) x6"
+				"name": "Human Ranger (Female x6, Male x6)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4477,11 +3565,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Shifter Ranger (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Shifter Ranger (Male)"
+				"name": "Shifter Ranger (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -4493,11 +3577,7 @@
 	, {
 		"name": "Sahuagin"
 		, "monsters": [{
-				"name": "Sahuagin (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Sahuagin (Male)"
+				"name": "Sahuagin (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -4569,11 +3649,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Dragon Turtle (Gargantuan)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Dragon Turtle (Huge)"
+				"name": "Dragon Turtle (Gargantuan, Huge)"
 				, "collection": "Summer"
 			}
 			, {
@@ -4597,11 +3673,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Kelpie (Horse)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Kelpie (Humanoid)"
+				"name": "Kelpie (Horse, Humanoid)"
 				, "collection": "Summer"
 			}
 			, {
@@ -4609,23 +3681,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Monstrous Crab (Gargantuan)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Monstrous Crab (Huge)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Monstrous Crab (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Monstrous Crab (Medium)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Monstrous Crab (Small)"
+				"name": "Monstrous Crab (Gargantuan, Huge, Large, Medium, Small)"
 				, "collection": "Summer"
 			}
 			, {
@@ -4637,11 +3693,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Nixie (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Nixie (Male)"
+				"name": "Nixie (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -4821,11 +3873,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Snaketongue (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Snaketongue (Male)"
+				"name": "Snaketongue (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -4841,19 +3889,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Snaketongue Cultist (Female)"
+				"name": "Snaketongue Cultist (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Snaketongue Cultist (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Snaketongue Hunter (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Snaketongue Hunter (Male)"
+				"name": "Snaketongue Hunter (Female, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -5057,11 +4097,7 @@
 				, "collection": "Sping 2"
 			}
 			, {
-				"name": "Forest Troll (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Forest Troll (Male)"
+				"name": "Forest Troll (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -5085,11 +4121,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Troll (Female)"
-				, "collection": "Spring"
-			}
-			, {
-				"name": "Troll (Male)"
+				"name": "Troll (Female, Male)"
 				, "collection": "Spring"
 			}
 			, {
@@ -5197,11 +4229,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Ghost (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Ghost (Male)"
+				"name": "Ghost (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -5249,11 +4277,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Revenant (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Revenant (Male)"
+				"name": "Revenant (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -5293,23 +4317,11 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Vampire (Female) x5"
+				"name": "Vampire (Female x5, Gaseous Form, Male x5)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Vampire (Male) x5"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Vampire (Gaseous Form)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Vampire Spawn (Female)"
-				, "collection": "Autumn"
-			}
-			, {
-				"name": "Vampire Spawn (Male)"
+				"name": "Vampire Spawn (Female, Male)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -5329,67 +4341,19 @@
 	, {
 		"name": "Water"
 		, "monsters": [{
-				"name": "Ooze Para-Elemental (Huge)"
+				"name": "Ooze Para-Elemental (Huge, Large, Medium, Small)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Ooze Para-Elemental (Large)"
+				"name": "Water Elemental (Huge, Large, Medium, Small)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Ooze Para-Elemental (Medium)"
+				"name": "Tojanida (Adult, Elder, Juvenille)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Ooze Para-Elemental (Small)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Water Elemental (Huge)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Water Elemental (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Water Elemental (Medium)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Water Elemental (Small)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Water Grue"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Water Weird (Large)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Water Weird (Medium)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Tojanida (Adult)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Tojanida (Elder)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Tojanida (Juvenille)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Triton (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Triton (Male)"
+				"name": "Triton (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -5413,11 +4377,19 @@
 				, "collection": "Summer"
 			}
 			, {
+				"name": "Water Grue"
+				, "collection": "Summer"
+			}
+			, {
 				"name": "Water Hawk"
 				, "collection": "Summer"
 			}
 			, {
 				"name": "Water Oracle"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Weird (Large, Medium)"
 				, "collection": "Summer"
 			}
 		]
@@ -5429,19 +4401,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Drow Wizard (Female)"
+				"name": "Drow Wizard (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Drow Wizard (Male)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Dwarf Wizard (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Dwarf Wizard (Male)"
+				"name": "Dwarf Wizard (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
@@ -5449,19 +4413,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Gnome Wizard (Female) x2"
+				"name": "Gnome Wizard (Female x2, Male x2)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Gnome Wizard (Male) x2"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Halfling Wizard (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Halfling Wizard (Male) x2"
+				"name": "Halfling Wizard (Female, Male x2)"
 				, "collection": "Summer"
 			}
 			, {
@@ -5469,19 +4425,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Human Apprentice (Female)"
+				"name": "Human Apprentice (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Human Apprentice (Male)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Human Wizard (Female) x7"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Human Wizard (Male) x7"
+				"name": "Human Wizard (Female x7, Male x7)"
 				, "collection": "Summer"
 			}
 			, {
@@ -5489,11 +4437,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Tiefling Wizard (Female)"
-				, "collection": "Summer"
-			}
-			, {
-				"name": "Tiefling Wizard (Male)"
+				"name": "Tiefling Wizard (Female, Male)"
 				, "collection": "Summer"
 			}
 			, {
