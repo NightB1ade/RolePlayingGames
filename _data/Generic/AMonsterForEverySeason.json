@@ -1,0 +1,1413 @@
+[{
+		"name": "Bugs"
+		, "monsters": [{
+				"name": "Ankheg"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Aranea (Hybrid Form)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Aranea (Spider Form)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Blade Spider"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Cave Fisher"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Deathjump Spider"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Demonweb Spider"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dire Maggot"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Drider (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Drider (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ettercap x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Fire Beetle"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Ant, Queen"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Ant, Soldier"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Ant, Winged"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Ant, Worker"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Bee"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Bee, Queen"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Bombadier Beetle"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Centipede (Colossal)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Centipede (Gargantuan)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Centipede (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Centipede (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Centipede (Medium)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Centipede (Small)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Centipede (Tiny)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Firefly"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Ladybug"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Praying Mantis"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Roly Poly"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Scorpion (Colossal)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Scorpion (Gargantuan)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Scorpion (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Scorpion (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Scorpion (Medium)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Scorpion (Small)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Scorpion (Tiny)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Slug"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Spider (Colossal)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Spider (Gargantuan)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Spider (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Spider (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Spider (Medium)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Spider (Small)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Spider (Tiny)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Stag Beetle"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Wasp (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Wasp (Medium)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gloomwing"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hellfire Scorpion"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Mantisfolk"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Mantisfolk Hunter"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Mantisfolk Psion"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Phase Spider"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Purple Worm (Gargantuan)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Purple Worm (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Purple Wormling"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Rot Grub"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Scorpionfolk (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Scorpionfolk (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Spider-Eater"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Stormclaw Scorpion"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Tenebrous Worm"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Clerics"
+		, "monsters": [{
+				"name": "Aasimar Cleric (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Aasimar Cleric (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dragonborn Cleric"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Drow Cleric"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dwarf Cleric (Female) x3"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dwarf Cleric (Male) x3"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dwarf Priest"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Elf Cleric x4"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gnome Cleric (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gnome Cleric (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gnome Healer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Halfling Cleric (Female) x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Halfling Cleric (Male) x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Orc Cleric (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Orc Cleric (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "High Elf Cleric x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Cleric (Female) x5"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Cleric (Male) x5"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Healer (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Healer (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Priest (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Priest (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Tiefling Cleric (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Tiefling Cleric (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Warforged Cleric"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Constructs"
+		, "monsters": [{
+				"name": "Caryatid Column"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Clay Golem"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Eidolon"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Flesh Golem (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Flesh Golem (Medium, Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Flesh Golem (Medium, Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Helmed Horror"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Iron Golem (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Iron Golem (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Kolyarut"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Marut"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Maug"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nimblewright"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Shadesteel Golem"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Shield Guardian"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Stone Golem (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Stone Golem (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Tin Golem"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Zelekhut"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Demons"
+		, "monsters": [{
+				"name": "Abyssal Maw"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Babau"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Balor (Type VI Demon, Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Balor (Type VI Demon, Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Bar-Igura (Medium)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Bar-Iguea (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Bebilith"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Cambion (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Cambion (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Carnage Demon"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Chasme"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dretch"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Glabrezu (Type III Demon)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Goristo"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hezrou (Type II Demon)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Incubus x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Manes"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Marilith (Type V Demon)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Molydeus"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nabassu"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nalfeshnee (Type IV Demon)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Rutterkin"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Quasit"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Shadow Demon"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Succubus x3"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Yochol"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Vrock (Type I Demon)"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Devils"
+		, "monsters": [{
+				"name": "Abishai (Black)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Abishai (Blue)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Abishai (Green)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Abishai (Red)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Abishai (White)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Archdevil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Assassin Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Barbed Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Bearded Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Bone Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Chain Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Erinyes"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Erinyes (with Rope)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Fallen Angel"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Harvester Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hellcat"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hell Hound"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Horned Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ice Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Imp"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Legion Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Lemure"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Misfortune Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nessian Warhound"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nupperibo"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Pit Fiend (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Pit Fiend (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Shocktroop Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Spined Devil (Medium)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Spined Devil (Small)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Styx Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "War Devil"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Withering Devil"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Dragons"
+		, "monsters": [{
+				"name": "Black Dragon (Gargantuan)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Black Dragon (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Black Dragon (Large)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Black Dragon (Medium)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Black Dragon (Small)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Black Dragon (Tiny)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dracolich (Gargantuan)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dracolich (Huge)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Dragon Sorcerer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Red Shadow Dragon (Large)"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Hobgoblins"
+		, "monsters": [{
+				"name": "Hobgoblin (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Assassin"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Archer (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Archer (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Barbarian"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Blackguard"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Captain"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Cleric (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Cleric (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Duskblade"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin High Cleric"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Leader"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Lieutenant"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Noncombatant (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Noncombatant (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Prisoner"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Ranger"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Samurai"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Sergeant"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Soldier (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Soldier (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Thug"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Warcaster"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Warlord"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Warrior (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hobgoblin Warrior (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Norker"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Necromancers"
+		, "monsters": [{
+				"name": "Elf Necromancer x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gnome Necromancer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Halfling Necromancer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Necromancer (Female) x5"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Necromancer (Male) x5"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Paladins"
+		, "monsters": [{
+				"name": "Aasimar Paladin (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Aasimar Paladin (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Celestial Steed"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dwarf Paladin (Female) x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dwarf Paladin (Male) x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Elf Paladin x3"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gnome Paladin (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gnome Paladin (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Celestial Paladin (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Celestial Paladin (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Halfling Paladin (Female) x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Halfling Paladin (Male) x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Dragon Paladin"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Ogre Paladin"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Orc Paladin (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Orc Paladin (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Paladin (Female) x6"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Human Paladin (Male) x6"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Tiefling Paladin (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Tiefling Paladin (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Warforged Paladin"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Skeletons"
+		, "monsters": [{
+				"name": "Armored Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Blazing Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Boneshard Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Chimera Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Decrepit Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dragon Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ettin Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Giant Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Horse Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Kobold Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Megaraptor Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Minotaur Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Owlbear Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Skeletal Tomb Guardian"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Skeleton x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Skeleton Archer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Troll Skeleton"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Wolf Skeleton"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Spooooooky!"
+		, "monsters": [{
+				"name": "Annis Hag"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Berbalang"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Bog Hag"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Cauchemar"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Death Hag"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Green Hag"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Flying Monkey"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Headless Horseman"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Howling Hag"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Lagoon Creature"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Night Hag"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nightmare"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nothic"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Patchwork Doll"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Pumpkinhead"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Vargouille"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "War Nightmare"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Western Hag"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Yeth Hound"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Undead"
+		, "monsters": [{
+				"name": "Abyssal Ghoul"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Allip"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Armored Ghoul"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Banshee"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Barrow Wight"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Battle Wight"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Bodak"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Boneclaw"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Crypt Thing"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Deathbringer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Death Knight x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Deathlock Wight"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Demilich"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dread Wraith"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Elf Lich"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Eye of Fear and Flame"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Famine Spirit"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Flameskull"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Flameskull, Great"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ghast"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ghost (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ghost (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ghost Legionnaire"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Ghoul x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Grim Reaper"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hound of Ill Omen"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Huecuva"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Lich x3"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Mohrg"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nightcrawler"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nightwalker"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Nightwing"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Pennaggolan"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Revenant (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Revenant (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Shadow"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Shadow, Greater"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Sheet Phantom"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Slaughter Wight"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Spectre"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Spellstitched Ghoul"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Spirit Devourer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Skull Lord"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Sword Wraith"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Vampire (Female) x5"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Vampire (Male) x5"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Vampire (Gaseous Form)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Vampire Spawn (Female)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Vampire Spawn (Male)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Viscera Devourer"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Wight"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Wraith"
+				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Zombies"
+		, "monsters": [{
+				"name": "Bugbear Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Chillborn Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Crawling Claw"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dire Rat Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dragon Zombie Giant Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Gravehound (Wolf Zombie)"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Grey Render Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Griffon Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Horse Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Hungry Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Juju Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Kobold Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Minotaur Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Owlbear Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Rotwing Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Wyvern Zombie"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Zombie x2"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Zombie Guard"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Zombie Hulk"
+				, "collection": "Autumn"
+			}
+			, {
+				"name": "Zombie Rotter"
+				, "collection": "Autumn"
+			}
+		]
+	}
+]

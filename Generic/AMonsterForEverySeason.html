@@ -1,0 +1,29 @@
+---
+title: A Monster for Every Season
+---
+
+<div class="container">
+	<div class="row">
+		{%- for monsterGroup in site.data.Generic.AMonsterForEverySeason %}
+		<div class="col col-12 col-sm-12 col-md-6 col-lg-4 col-xxl-3">
+			<h1>{{ monsterGroup.name }}</h1>
+			<table class="table table-dark table-striped table-hover w-auto">
+				<thead>
+					<tr>
+						<th>Monster</th>
+						<th>Collection</th>
+					</tr>
+				</thead>
+				<tbody>
+					{%- for monster in monsterGroup.monsters %}
+					<tr>
+						<td>{{ monster.name }}</td>
+						<td>{{ monster.collection }}</td>
+					</tr>
+					{%- endfor %}
+				</tbody>
+			</table>
+		</div>
+		{%- endfor %}
+	</div>
+</div>

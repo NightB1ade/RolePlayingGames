@@ -1,0 +1,44 @@
+{
+	"type": "array"
+	, "title": "Monster Groups"
+	, "format": "tabs"
+	, "uniqueItems": true
+	, "items": {
+		"type": "object"
+		, "title": "Monster Group"
+		, "headerTemplate": "{{ self.name }}"
+		, "required": [
+			"name"
+			, "monsters"
+		]
+		, "properties": {
+			"name": {
+				"type": "string"
+				, "title": "Name"
+			}
+			, "monsters": {
+				"type": "array"
+				, "title": "Monsters"
+				, "format": "table"
+				, "items": {
+					"type": "object"
+					, "title": "Monster"
+					, "required": [
+						"name"
+						, "collection"
+					]
+					, "properties": {
+						"name": {
+							"type": "string"
+							, "title": "Name"
+						}
+						, "collection": {
+							"type": "string"
+							, "title": "Collection"
+						}
+					}
+				}
+			}
+		}
+	}
+}
