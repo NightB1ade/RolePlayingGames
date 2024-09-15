@@ -1449,6 +1449,34 @@
 				, "collection": "Autumn"
 			}
 			, {
+				"name": "Bloodseeker Drake"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Brass Dragon (Gargantuan)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Brass Dragon (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Brass Dragon (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Brass Dragon (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Brass Dragon (Small)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Brass Dragon (Tiny)"
+				, "collection": "Summer"
+			}
+			, {
 				"name": "Copper Dragon (Gargantuan)"
 				, "collection": "Spring 2"
 			}
@@ -1473,12 +1501,28 @@
 				, "collection": "Spring 2"
 			}
 			, {
+				"name": "Crystal Drake"
+				, "collection": "Summer"
+			}
+			, {
 				"name": "Dracolich (Gargantuan)"
 				, "collection": "Autumn"
 			}
 			, {
 				"name": "Dracolich (Huge)"
 				, "collection": "Autumn"
+			}
+			, {
+				"name": "Dracotaur"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dracotaur Rager"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dragonne"
+				, "collection": "Summer"
 			}
 			, {
 				"name": "Fang Dragon (Huge)"
@@ -1517,8 +1561,20 @@
 				, "collection": "Spring"
 			}
 			, {
+				"name": "Half-Dragon Horse"
+				, "collection": "Summer"
+			}
+			, {
 				"name": "Half-Dragon Sorcerer"
 				, "collection": "Autumn"
+			}
+			, {
+				"name": "Half-Dragon Wolf"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Horned Drake"
+				, "collection": "Summer"
 			}
 			, {
 				"name": "Pseudodragon"
@@ -1527,6 +1583,30 @@
 			, {
 				"name": "Rage Drake"
 				, "collection": "Spring"
+			}
+			, {
+				"name": "Red Dragon (Colossal)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Red Dragon (Gargantuan)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Red Dragon (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Red Dragon (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Red Dragon (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Red Dragon (Small)"
+				, "collection": "Summer"
 			}
 			, {
 				"name": "Red Shadow Dragon (Large)"
@@ -1919,6 +1999,234 @@
 		]
 	}
 	, {
+		"name": "Fighters"
+		, "monsters": [{
+				"name": "Dragonborn Fighter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Drow Fighter (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Drow Fighter (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dwarf Fighter (Female) x3"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dwarf Fighter (Male) x3"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Elf Fighter x3"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Gnome Fighter (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Gnome Fighter (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Halfling Fighter (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Halfling Fighter (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Half-Dragon Fighter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Half-Ogre Fighter (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Half-Ogre Fighter (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "High Elf Fighter x2"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Fighter (Female) x5"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Fighter (Male) x5"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Gladiator (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Gladiator (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Guard (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Guard (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Warforged Fighter x3"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
+		"name": "Fire"
+		, "monsters": [{
+				"name": "Ash Rat"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Azer Beastlady"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Azer Foot Soldier"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Azer Rager"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Azer Taskmaster"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Azer Warrior"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Archon Blazesteel"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Archon Ash Disciple"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Archon Emberguard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Bat"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Elemental (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Elemental (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Elemental (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Elemental (Small)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Firelasher"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Oracle"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Flame Snake"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Magma Claw"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Magma Para-Elemental (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Magma Para-Elemental (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Magma Strider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Magmin"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Phoelarch Mage"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Phoelarch Warrior"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Phoera"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Rast"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Rockfire Dreadnought"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Salamander"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Salamander Archer"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Salamander Firetail"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Salamander Flamebrother"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Salamander Lancer"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Salamander Noble"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Thoqquaa"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
 		"name": "Frogfolk"
 		, "monsters": [{
 				"name": "Black Limbo Toad"
@@ -2035,6 +2343,34 @@
 		]
 	}
 	, {
+		"name": "Genies"
+		, "monsters": [{
+				"name": "Efreet (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Efreet (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Efreet Cinderlord"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Efreet Noble"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Marid (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Marid (Male)"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
 		"name": "Giants"
 		, "monsters": [{
 				"name": "Cyclops (Huge)"
@@ -2081,12 +2417,48 @@
 				, "collection": "Spring 2"
 			}
 			, {
+				"name": "Fire Giant (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Giant (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Giant Cleric"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Giant Forgecaller"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Fire Titan"
+				, "collection": "Summer"
+			}
+			, {
 				"name": "Forest Giant (Female)"
 				, "collection": "Spring 2"
 			}
 			, {
 				"name": "Forest Giant (Male)"
 				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Sea Giant (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sea Giant (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Storm Giant (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Storm Giant (Male)"
+				, "collection": "Summer"
 			}
 			, {
 				"name": "Verbeeg (Female)"
@@ -2287,6 +2659,146 @@
 		]
 	}
 	, {
+		"name": "Guardian Beasts"
+		, "monsters": [{
+				"name": "Avoral (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Avoral (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Bariaur (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Bariaur (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Bariaur Defender"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Bariaur Ranger"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Cervidal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Cervidal (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Equinal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Equinal (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Foo Dog"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Foo Lion"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Hollyphant (Large)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Hollyphant (Small)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Ki-Rin"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Leonal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Leonal (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Leskylor"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Leskylor (Three-Headed)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Lupinal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Lupinal (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Moon Dog"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Musteval (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Musteval (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Opinicus"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Pachynal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Pachynal (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Procyal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Procyal (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Swanmay"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Ursinal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Ursinal (Male)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Vulpinal (Female)"
+				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Vulpinal (Male)"
+				, "collection": "Spring 2"
+			}
+		]
+	}
+	, {
 		"name": "Hobgoblins"
 		, "monsters": [{
 				"name": "Hobgoblin (Female)"
@@ -2443,6 +2955,294 @@
 			, {
 				"name": "Thessalhydra"
 				, "collection": "Spring 2"
+			}
+		]
+	}
+	, {
+		"name": "Kobolds"
+		, "monsters": [{
+				"name": "Black Dragonwrought Kobold"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Blue Dragonwrought Kobold"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Green Dragonwrought Kobold"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Barbarian"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Bard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Civilian"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Dragonshield"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Gnomeslayer"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Leader"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Lieutenant"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Miner"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Minion"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Rat Master"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Sergeant"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Sentry"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Shaman"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Skirmisher"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Skyblade"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Slave"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Slinger"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Sorcerer"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Thief"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Trapsmith"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Weasel-Rider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kobold Wyrmpriest"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Red Dragonwrought Kobold"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Urd"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Urd Rock-Dropper"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "War Weasel"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "White Dragonwrought Kobold"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
+		"name": "Lizardfolk"
+		, "monsters": [{
+				"name": "Blackscale Lizardfolk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Blackscale Ranger"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Chameleonfolk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dark Talon Lizardfolk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dark Talon Lizardfolk Champion"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dark Talon Lizardfolk Shaman"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dark Talon Lizardfolk King"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dark Talon Lizardfolk Wasp-Rider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Firenewt"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Firenewt Leader"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Firenewt Strider-Rider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Firenewt Warlock"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Strider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Greenscale Darter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Greenscale Hunter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Greenscale Mystic"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizard King"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk (with club)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk (with spear)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Archer"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Barbarian"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Civilian"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Fighter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Human-Wrestler"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Leader"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Lieutenant"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Psion"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Ranger"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Rogue"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Shaman"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lizardfolk Sorcerer"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Poison Dusk Lizardfolk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Poison Dusk Lizardfolk Assassin"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Poison Dusk Lizardfolk Leader"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Poison Dusk Lizardfolk Lieutenant"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Poison Dusk Lizardfolk Shaman"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Poison Dusk Lizardfolk Wizard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Venomtongue"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Venomtongue Warlock"
+				, "collection": "Summer"
 			}
 		]
 	}
@@ -2639,6 +3439,150 @@
 		]
 	}
 	, {
+		"name": "Marine Animals"
+		, "monsters": [{
+				"name": "Baleen Whale (Humpback)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Barracuda"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Big Fish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Bigger Fish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Cachalot What (Sperm)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dire Barracuda"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dire Eel"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dire Shark"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dolphin"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dolphin, Psionic"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Eel"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Electric Eel"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Clam"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Leech"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Octopus"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Sea Anemone"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Seahorse"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Squid"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Jellyfish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Leopard Seal"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Little Fish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Manta Ray"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Octopus"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Orca (Killer Whale)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Otter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Porpoise"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sea Lion"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Shark (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Shark (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Shark (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Snapping Turtle"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Squid"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Stingray"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Swordfish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Walrus"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
 		"name": "Monsters"
 		, "monsters": [{
 				"name": "Al-mi'raj"
@@ -2811,6 +3755,214 @@
 			, {
 				"name": "Human Necromancer (Male) x5"
 				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Oceanfolk"
+		, "monsters": [{
+				"name": "Aquatic Elf (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Elf (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Elf Gish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Elf Ranger"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Elf Rogue"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Elf Soldier"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Elf Wizard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Ogre"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Aquatic Troll (Scrag)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Half-Celestial Locathah"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Koalinth (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Koalinth (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Koalinth Blackguard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Koalinth Cleric"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Koalinth Leader"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kooatowa"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kooatowa Guard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kooatowa Harpooner"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kooatowa Marauder"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kooatowa Monitor"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kooatowa Slaver"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kooatowa Whip"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Locathah"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Locathah Crossbowman"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Locathah Druid"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Locathah Eel Rider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Locathah Leader"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Locathah Sergeant"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merfolk (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merfolk (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merfolk Assassin"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merfolk Bard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merfolk Crossbowman"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merfolk Druid"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merfolk Wizard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Merrow"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Tortle"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Tortle Ninja"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
+		"name": "Ogres"
+		, "monsters": [{
+				"name": "Oni Mage"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Oni Night Haunter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre Barbarian"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre Nightstalker"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre Savage"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre Shaman"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre Skirmisher"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ogre War Hulk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Skullcrusher Ogre"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Zombie Ogre"
+				, "collection": "Summer"
 			}
 		]
 	}
@@ -3143,6 +4295,114 @@
 		]
 	}
 	, {
+		"name": "Pyramid Guardians"
+		, "monsters": [{
+				"name": "Androsphinx"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Criosphinx"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Crypt Thing"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Death Dog"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Eater of the Dead"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Mummy"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Giant Skeleton"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Gynosphinx"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Hiercosphinx"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Horusfolk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Horusfolk Cleric"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Jackalwere"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Krenshar"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Lammasu"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Marrulurk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Marrusault"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Marrutact"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Mirror Sphinx"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Mummy"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Mummy Knight"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Mummy Lord"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Mummy Queen"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Mummy Wizard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Shedu"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Skeleton"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Stone Golem"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
 		"name": "Rangers"
 		, "monsters": [{
 				"name": "Catfolk Ranger (Female)"
@@ -3227,6 +4487,202 @@
 			, {
 				"name": "Warforged Ranger"
 				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Sahuagin"
+		, "monsters": [{
+				"name": "Sahuagin (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Baron"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Chieftain"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Malenti"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Mutant"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Netter"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Priestess"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Raider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Sentry"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sahuagin Warlock"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
+		"name": "Sea Monsters"
+		, "monsters": [{
+				"name": "Acid Shark"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Blowfat Glowfish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Chuul"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Chuul Juggernaut"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Cuttlefish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dragon Eel"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dragonfish"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dragon Turtle (Gargantuan)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dragon Turtle (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Eye of the Deep"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Hippocampus"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ixitxachitl"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ixitxachitl, Vampiric"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kapoacinth"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kelpie (Horse)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kelpie (Humanoid)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Kraken"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Monstrous Crab (Gargantuan)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Monstrous Crab (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Monstrous Crab (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Monstrous Crab (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Monstrous Crab (Small)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Morkoth"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Nereid"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Nixie (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Nixie (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Nixie Druid"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Nixie Queen"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Scylla"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sea Drake"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sea Hag"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sea Kitty"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sea Serpent"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Seawolf"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Seawolk (Hybrid Form)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Sirine"
+				, "collection": "Summer"
 			}
 		]
 	}
@@ -3871,6 +5327,182 @@
 		]
 	}
 	, {
+		"name": "Water"
+		, "monsters": [{
+				"name": "Ooze Para-Elemental (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ooze Para-Elemental (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ooze Para-Elemental (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Ooze Para-Elemental (Small)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Elemental (Huge)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Elemental (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Elemental (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Elemental (Small)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Grue"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Weird (Large)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Weird (Medium)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Tojanida (Adult)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Tojanida (Elder)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Tojanida (Juvenille)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Triton (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Triton (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Triton King"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Triton Spellcaster"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Archon Shoal Reaver"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Archon Tide Strider"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Archon Wave Shaper"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Hawk"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Water Oracle"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
+		"name": "Wizards"
+		, "monsters": [{
+				"name": "Dragonborn Wizard"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Drow Wizard (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Drow Wizard (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dwarf Wizard (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Dwarf Wizard (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Elf Wizard x4"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Gnome Wizard (Female) x2"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Gnome Wizard (Male) x2"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Halfling Wizard (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Halfling Wizard (Male) x2"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Homonculus"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Apprentice (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Apprentice (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Wizard (Female) x7"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Human Wizard (Male) x7"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "High Elf Wizard x6"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Tiefling Wizard (Female)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Tiefling Wizard (Male)"
+				, "collection": "Summer"
+			}
+			, {
+				"name": "Warforged Wizard"
+				, "collection": "Summer"
+			}
+		]
+	}
+	, {
 		"name": "Zombies"
 		, "monsters": [{
 				"name": "Bugbear Zombie"
@@ -3951,146 +5583,6 @@
 			, {
 				"name": "Zombie Rotter"
 				, "collection": "Autumn"
-			}
-		]
-	}
-	, {
-		"name": "Guardian Beasts"
-		, "monsters": [{
-				"name": "Avoral (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Avoral (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bariaur (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bariaur (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bariaur Defender"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Bariaur Ranger"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Cervidal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Cervidal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Equinal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Equinal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Foo Dog"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Foo Lion"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Hollyphant (Large)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Hollyphant (Small)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Ki-Rin"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Leonal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Leonal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Leskylor"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Leskylor (Three-Headed)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Lupinal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Lupinal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Moon Dog"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Musteval (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Musteval (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Opinicus"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Pachynal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Pachynal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Procyal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Procyal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Swanmay"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Ursinal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Ursinal (Male)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Vulpinal (Female)"
-				, "collection": "Spring 2"
-			}
-			, {
-				"name": "Vulpinal (Male)"
-				, "collection": "Spring 2"
 			}
 		]
 	}
