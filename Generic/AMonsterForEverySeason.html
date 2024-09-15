@@ -4,8 +4,22 @@ title: A Monster for Every Season
 
 <div class="container">
 	<div class="row">
+		<div class="col col-12">
+			<table class="table table-dark w-auto">
+				<tr>
+					<td class="align-middle">Filter</td>
+					<td><input class="form-control"
+						type="text"
+						id="Filter"
+						oninput="FilterUpdate()">
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<div class="row">
 		{%- for tokenGroup in site.data.Generic.AMonsterForEverySeason %}
-		<div class="col col-12 col-sm-12 col-md-6 col-lg-4 col-xxl-3">
+		<div class="col col-12 col-sm-12 col-md-6 col-lg-4 col-xxl-3 TokenSection">
 			<h1>{{ tokenGroup.name }}</h1>
 			<p>{% for collection in tokenGroup.collections -%}
 					{%- if forloop.index0 != 0 -%}, {% endif -%}
@@ -21,8 +35,8 @@ title: A Monster for Every Season
 				</thead>
 				<tbody>
 					{%- for token in tokenGroup.tokens %}
-					<tr>
-						<td>{{ token.name }}</td>
+					<tr class="TokenRow">
+						<td class="TokenName">{{ token.name }}</td>
 						<td>{{ token.collection }}</td>
 					</tr>
 					{%- endfor %}
@@ -32,3 +46,8 @@ title: A Monster for Every Season
 		{%- endfor %}
 	</div>
 </div>
+
+
+
+
+<script src="{{ 'AMonsterForEverySeason.js?v=' | append: site.github.build_revision }}"></script>
