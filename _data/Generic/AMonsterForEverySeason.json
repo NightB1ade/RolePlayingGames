@@ -523,6 +523,78 @@
 		]
 	}
 	, {
+		"name": "Brain-Eaters"
+		, "monsters": [{
+				"name": "Brain Collector"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater (Female, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater Lich"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater Savant"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater Scientist"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater Soul Eater"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater Tadpole"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater Vampire"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain-Eater Wizard"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain Golem"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Degenerate Brain-Eater"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elder Brain-Eater"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Intellect Devourer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mind Slave (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mindwitness"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Paragon Brain-Eater"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ultimate Brain-Eater"
+				, "collection": "Summer 2"
+			}
+		]
+	}
+	, {
 		"name": "Bugs"
 		, "monsters": [{
 				"name": "Ankheg"
@@ -767,6 +839,114 @@
 			, {
 				"name": "Wemic (Female, Male)"
 				, "collection": "Spring 2"
+			}
+		]
+	}
+	, {
+		"name": "Celestials"
+		, "monsters": [{
+				"name": "Angel of Battle"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Angel of Light"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Angel of Protection"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Angel of Valor"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Angel of Vengeance"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Deva (Female x3, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Diva"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Asura (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Cherub x2"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Einherjar (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Empyreal Titan (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Hound Archon (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Hound Archon Hero"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Lantern Archon"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Monadic Deva (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Movanic Deva (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Per (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Planetar (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Seraph"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Solar (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Sword Archon (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Throne Archon (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Tome Archon (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Trumpet Archon (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Valkyrie x3"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Valkyrie Steed"
+				, "collection": "Summer 2"
 			}
 		]
 	}
@@ -1145,6 +1325,10 @@
 	, {
 		"name": "Dragons"
 		, "monsters": [{
+				"name": "Amethyst Drake (Huge, Large, Small)"
+				, "collection": "Summer 2"
+			}
+			, {
 				"name": "Black Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Autumn"
 			}
@@ -1159,6 +1343,10 @@
 			, {
 				"name": "Copper Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
 				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Crystal Dragon (Gargantuan, Medium)"
+				, "collection": "Summer 2"
 			}
 			, {
 				"name": "Crystal Drake"
@@ -1181,8 +1369,16 @@
 				, "collection": "Summer"
 			}
 			, {
+				"name": "Emerald Dragon (Huge)"
+				, "collection": "Summer 2"
+			}
+			, {
 				"name": "Fang Dragon (Huge, Large)"
 				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Gold Dragon (Colossal, Gargantuan, Huge, Large, Medium)"
+				, "collection": "Summer 2"
 			}
 			, {
 				"name": "Green Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
@@ -1225,12 +1421,20 @@
 				, "collection": "Autumn"
 			}
 			, {
+				"name": "Sapphire Dragon (Large)"
+				, "collection": "Summer 2"
+			}
+			, {
 				"name": "Spiretop Drake"
 				, "collection": "Spring"
 			}
 			, {
 				"name": "Spitting Drake"
 				, "collection": "Spring"
+			}
+			, {
+				"name": "Topaz Dragon (Huge, Large, Tiny)"
+				, "collection": "Summer 2"
 			}
 			, {
 				"name": "Wyvern"
@@ -1379,6 +1583,134 @@
 			, {
 				"name": "Winter Sidhe (Female x2, Male)"
 				, "collection": "Spring 2"
+			}
+		]
+	}
+	, {
+		"name": "Featherfolk"
+		, "monsters": [{
+				"name": "Birdfolk (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Archer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Bard"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Druid"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Flock Leader"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Necromancer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Priest"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Ranger"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Warrior (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Windcaller"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Wizard"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dire Corby"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ekek"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Hsiao"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Hsiao Priest"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kenku"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kenku Ringleader"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kenku Sneak"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kenku Sniper"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kenku Songstealer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kenku Thug"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kenku Wu Jen"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Nagpa"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Nagpa Witch"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pegataur"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Rocfolk"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Tengu"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Tengu, Human-Headed"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Winged Elf x3"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Winged Elf Cleric"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Winged Elf Sky Mage"
+				, "collection": "Summer 2"
 			}
 		]
 	}
@@ -2783,6 +3115,138 @@
 		]
 	}
 	, {
+		"name": "Mephits"
+		, "monsters": [{
+				"name": "Air Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ash Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dust Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Earth Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Fire Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ice Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Lightning Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Magma Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mineral Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ooze Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Radiant Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Salt Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Smoke Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Steam Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Vacuum Mephit"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Water Mephit"
+				, "collection": "Summer 2"
+			}
+		]
+	}
+	, {
+		"name": "Mind Warriors"
+		, "monsters": [{
+				"name": "Drow Soulknife"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elan Psy-Warrior"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elf Psy-Warrior"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elf Soulknife"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elf Soulbow"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dwarf Psy-Warrior (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Gnome Psy-Warrior (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Halfling Soulknife (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Half-Orc Psy-Warrior (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Human Psy-Warrior (Female x2, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Human Soulknife (Female x2, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kalashtar Psy-Warrior (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kalashtar Soulknife (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Psiforged Psy-Warrior"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Tiefling Soulknife (Female, Male)"
+				, "collection": "Summer 2"
+			}
+		]
+	}
+	, {
 		"name": "Monsters"
 		, "monsters": [{
 				"name": "Al-mi'raj"
@@ -3295,6 +3759,86 @@
 		]
 	}
 	, {
+		"name": "Pirates"
+		, "monsters": [{
+				"name": "Ancient Mariner"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Birdfolk Pirate"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elf Pirate x3"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ghost Captain"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ghost Pirate x2"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Goblin Pirate"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Half-Elf Pirate (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Halfling Pirate (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Half-Orc Pirate (Female, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Human Pirate (Female x7, Male x7)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Monstrous Pirate x3"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Parrot"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pirate Monkey"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pirate Witch"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ratfolk Pirate"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Skeleton Crew x2"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Skeleton Pirate"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Tiefling Pirate (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Watertouched Pirate (Female, Male)"
+				, "collection": "Summer 2"
+			}
+		]
+	}
+	, {
 		"name": "Plants"
 		, "monsters": [{
 				"name": "Assassin Vine"
@@ -3407,6 +3951,246 @@
 			, {
 				"name": "Yellow Musk Zombie (Female, Male)"
 				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Psions"
+		, "monsters": [{
+				"name": "Dwarf Psion (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elan Psion (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Elf Psion x3"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Gnome Psion (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Halfling Psion (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Human Psion (Female x7, Male x7)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kalashtar Psion (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Psicrystal x4"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Psiforged Psion"
+				, "collection": "Summer 2"
+			}
+		]
+	}
+	, {
+		"name": "Psychic Threats"
+		, "monsters": [{
+				"name": "Astral Construct (Huge, Large, Medium, Small)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Construct, Winged (Large, Medium)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Raider (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Raider Champion"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Raider Commander"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Raider Mageknight (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Astral Raider Psion"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Baku"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain in a Jar"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain in a Robot Body"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brain Mole"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Caller in Darkness"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Cerebrilith"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Cranium Rat"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dreamstealer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dromite x2"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dromite Wilder"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dromite Warrior"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Giant Psurlon"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Grey Glutton"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Limbo Adept (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Limbo Adept Anarch"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Limbo Adept Enlightened"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Limbo Adept Monk (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Limbo Adept Psion"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Maenad (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Maenad Wilder"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Nightmare Inducer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Oblex"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Oblex Elder"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Oblex Spawn"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Phrenic Cat"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Phrenic Gorilla"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Phrenic Mastermind"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Phthisic"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Psion-Killer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Psurion"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Psurion Adept"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Psurion Elder"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Shardmind (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Shardmind Battlemind"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Shardmind Psion"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Temporal Filcher"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Thought Eater"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Thought Slayer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Unbodied"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Xeph (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Xeph Psion"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Xeph Soulknife (Female, Male)"
+				, "collection": "Summer 2"
 			}
 		]
 	}
@@ -3735,6 +4519,98 @@
 			, {
 				"name": "Sirine"
 				, "collection": "Summer"
+			}
+		]
+	}
+	, {
+		"name": "Seafarers"
+		, "monsters": [{
+				"name": "Aquatic Elf Sailor"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Barrel"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Bosun"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Bucket"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Buried Treasure"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Cannon"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Cannonballs"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Cargo"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Deck Ape"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Explorer (Female, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Halfling Sailor (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Human Sailor (Female x3, Male x4)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Fisher (Female, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Lookout"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Naval Captain (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Naval Officer (Female, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Old Salt"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Rowboat"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Sea Captain"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ship's Wheel"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Ship's Wizard"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Stowaway"
+				, "collection": "Summer 2"
 			}
 		]
 	}
@@ -4335,6 +5211,310 @@
 			, {
 				"name": "Wraith"
 				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Wasteland"
+		, "monsters": [{
+				"name": "Air Drake"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Baazrag"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Beasthead Giant"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Braxat"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Belgoi x2"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Brohg"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Chathrang"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Crodlu"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Crodlu Chariot"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Crodlu, Heavy"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Defiler Wizard"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dune Freak"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dune Freak Leader"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dune Reaper"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dune Trader (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Dwarf Gladiator"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Earth Drake"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Erdland"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Erdlu"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Feral Mantisfolk"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Fire Drake"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Gaj"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Gilth"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Half-Dwarf (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Half-Giant (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Half-Giant Gladiator"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Human Gladiator (Female x2, Male x2)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Hurrum"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Id Fiend"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Inix"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Jankz"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Jhakar"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Jozhal"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kank"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kestrekel"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kip"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Kirre"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mantisfolk Hunter"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mantisfolk Noble"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mantisfolk Predator"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mantisfolk Prionicist"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mantisfolk Raider"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mantisfolk Scout"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Mekillot"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Nightmare Beast"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Preserver Wizard"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran x2"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran Archer"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran Druid"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran Leader"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran Psionicist"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran Ranger"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran Slave"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterran Thief"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterrax"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Pterrax Rider"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Rampager"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Razorwing"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Renk"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Salt Zombie"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Sand Spouse (Female, Male, True Form)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Scrab"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Scrab Defiler"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Scrab Leader"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Silk Wyrm"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Tembo"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Templar (Female, Male)"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Thrax"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Wasteland Druid"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Wasteland Elf x2"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Wasteland Elf Preserver"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Wasteland Raider x3"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Wasteland Raider Leader"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Water Drake"
+				, "collection": "Summer 2"
+			}
+			, {
+				"name": "Z'Tal"
+				, "collection": "Summer 2"
 			}
 		]
 	}
