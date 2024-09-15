@@ -101,6 +101,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 6
+		}]
 	}
 	, {
 		"name": "Animals"
@@ -493,6 +497,15 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+				"name": "Spring"
+				, "page": 6
+			}
+			, {
+				"name": "Spring 2"
+				, "page": 6
+			}
+		]
 	}
 	, {
 		"name": "Bandits"
@@ -565,6 +578,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 9
+		}]
 	}
 	, {
 		"name": "Barbarians"
@@ -609,6 +626,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 11
+		}]
 	}
 	, {
 		"name": "Bards"
@@ -669,6 +690,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 11
+		}]
 	}
 	, {
 		"name": "Brain-Eaters"
@@ -741,6 +766,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 6
+		}]
 	}
 	, {
 		"name": "Bugbears"
@@ -785,6 +814,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 14
+		}]
 	}
 	, {
 		"name": "Bugs"
@@ -949,6 +982,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 6
+		}]
 	}
 	, {
 		"name": "Catfolk"
@@ -1033,6 +1070,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 14
+		}]
 	}
 	, {
 		"name": "Celestials"
@@ -1141,6 +1182,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 9
+		}]
 	}
 	, {
 		"name": "Centaurs & Harpies"
@@ -1169,6 +1214,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 16
+		}]
 	}
 	, {
 		"name": "Clerics"
@@ -1237,6 +1286,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 19
+		}]
 	}
 	, {
 		"name": "Cold"
@@ -1365,6 +1418,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 15
+		}]
 	}
 	, {
 		"name": "Constructs"
@@ -1429,6 +1486,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 22
+		}]
 	}
 	, {
 		"name": "Demons"
@@ -1529,6 +1590,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 25
+		}]
 	}
 	, {
 		"name": "Devils"
@@ -1641,6 +1706,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 29
+		}]
 	}
 	, {
 		"name": "Dinosaurs"
@@ -1705,6 +1774,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 21
+		}]
 	}
 	, {
 		"name": "Dragons"
@@ -1833,6 +1906,31 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+				"name": "Spring"
+				, "page": 17
+			}
+			, {
+				"name": "Spring 2"
+				, "page": 16
+			}
+			, {
+				"name": "Summer"
+				, "page": 6
+			}
+			, {
+				"name": "Summer 2"
+				, "page": 15
+			}
+			, {
+				"name": "Autumn"
+				, "page": 33
+			}
+			, {
+				"name": "Winter"
+				, "page": 25
+			}
+		]
 	}
 	, {
 		"name": "Druids"
@@ -1873,6 +1971,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 19
+		}]
 	}
 	, {
 		"name": "Dungeon Objects"
@@ -1913,6 +2015,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 28
+		}]
 	}
 	, {
 		"name": "Earth"
@@ -2001,6 +2107,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 29
+		}]
 	}
 	, {
 		"name": "Faerie Court"
@@ -2105,6 +2215,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 18
+		}]
 	}
 	, {
 		"name": "Featherfolk"
@@ -2233,6 +2347,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 20
+		}]
 	}
 	, {
 		"name": "The Fey"
@@ -2341,6 +2459,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 21
+		}]
 	}
 	, {
 		"name": "Fighters"
@@ -2397,6 +2519,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 11
+		}]
 	}
 	, {
 		"name": "Fire"
@@ -2521,6 +2647,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 14
+		}]
 	}
 	, {
 		"name": "Frogfolk"
@@ -2637,6 +2767,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 22
+		}]
 	}
 	, {
 		"name": "Genies"
@@ -2671,6 +2805,15 @@
 			, {
 				"name": "Marid (Female, Male)"
 				, "collection": "Summer"
+			}
+		]
+		, "collections": [{
+				"name": "Summer"
+				, "page": 18
+			}
+			, {
+				"name": "Winter"
+				, "page": 32
 			}
 		]
 	}
@@ -2777,6 +2920,19 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+				"name": "Spring 2"
+				, "page": 25
+			}
+			, {
+				"name": "Summer"
+				, "page": 19
+			}
+			, {
+				"name": "Winter"
+				, "page": 33
+			}
+		]
 	}
 	, {
 		"name": "Gnolls"
@@ -2829,6 +2985,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 23
+		}]
 	}
 	, {
 		"name": "Goblins"
@@ -2937,6 +3097,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 24
+		}]
 	}
 	, {
 		"name": "Guardian Beasts"
@@ -3029,6 +3193,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 28
+		}]
 	}
 	, {
 		"name": "Hobgoblins"
@@ -3121,6 +3289,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 36
+		}]
 	}
 	, {
 		"name": "Hydrae"
@@ -3165,6 +3337,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 32
+		}]
 	}
 	, {
 		"name": "Kobolds"
@@ -3293,6 +3469,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 21
+		}]
 	}
 	, {
 		"name": "Lizardfolk"
@@ -3449,6 +3629,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 23
+		}]
 	}
 	, {
 		"name": "Lycanthropes"
@@ -3553,6 +3737,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 36
+		}]
 	}
 	, {
 		"name": "Marine Animals"
@@ -3689,6 +3877,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 26
+		}]
 	}
 	, {
 		"name": "Mephits"
@@ -3757,6 +3949,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 23
+		}]
 	}
 	, {
 		"name": "Mind Warriors"
@@ -3821,6 +4017,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 24
+		}]
 	}
 	, {
 		"name": "Monsters"
@@ -3891,6 +4091,15 @@
 			, {
 				"name": "Yeth Hound"
 				, "collection": "Spring 2"
+			}
+		]
+		, "collections": [{
+				"name": "Spring"
+				, "page": 26
+			}
+			, {
+				"name": "Spring 2"
+				, "page": 40
 			}
 		]
 	}
@@ -3973,6 +4182,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 27
+		}]
 	}
 	, {
 		"name": "Necromancers"
@@ -3993,6 +4206,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 38
+		}]
 	}
 	, {
 		"name": "Oceanfolk"
@@ -4137,6 +4354,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 32
+		}]
 	}
 	, {
 		"name": "Ogres"
@@ -4185,6 +4406,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 35
+		}]
 	}
 	, {
 		"name": "Oozes"
@@ -4241,6 +4466,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 36
+		}]
 	}
 	, {
 		"name": "Orcs"
@@ -4333,6 +4562,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 30
+		}]
 	}
 	, {
 		"name": "Paladins"
@@ -4389,6 +4622,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 39
+		}]
 	}
 	, {
 		"name": "Pirates"
@@ -4469,6 +4706,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 26
+		}]
 	}
 	, {
 		"name": "Plants"
@@ -4585,6 +4826,15 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+				"name": "Spring"
+				, "page": 32
+			}
+			, {
+				"name": "Spring 2"
+				, "page": 42
+			}
+		]
 	}
 	, {
 		"name": "Psions"
@@ -4625,6 +4875,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 29
+		}]
 	}
 	, {
 		"name": "Psychic Threats"
@@ -4825,6 +5079,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 31
+		}]
 	}
 	, {
 		"name": "Pyramid Guardians"
@@ -4933,6 +5191,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 37
+		}]
 	}
 	, {
 		"name": "Rangers"
@@ -4989,6 +5251,10 @@
 				, "collection": "Spring"
 			}
 		]
+		, "collections": [{
+			"name": "Spring"
+			, "page": 35
+		}]
 	}
 	, {
 		"name": "Rogues"
@@ -5045,6 +5311,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 39
+		}]
 	}
 	, {
 		"name": "Sahuagin"
@@ -5089,6 +5359,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 40
+		}]
 	}
 	, {
 		"name": "Sea Monsters"
@@ -5209,6 +5483,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 41
+		}]
 	}
 	, {
 		"name": "Seafarers"
@@ -5301,6 +5579,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 38
+		}]
 	}
 	, {
 		"name": "Serpentine"
@@ -5489,6 +5771,10 @@
 				, "collection": "Spring 2"
 			}
 		]
+		, "collections": [{
+			"name": "Spring 2"
+			, "page": 43
+		}]
 	}
 	, {
 		"name": "Skeletons"
@@ -5565,6 +5851,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 42
+		}]
 	}
 	, {
 		"name": "Spooooooky!"
@@ -5645,6 +5935,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 45
+		}]
 	}
 	, {
 		"name": "Townfolk"
@@ -5709,6 +6003,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 42
+		}]
 	}
 	, {
 		"name": "Trolls"
@@ -5771,6 +6069,15 @@
 			, {
 				"name": "War Troll"
 				, "collection": "Spring"
+			}
+		]
+		, "collections": [{
+				"name": "Spring"
+				, "page": 38
+			}
+			, {
+				"name": "Spring 2"
+				, "page": 48
 			}
 		]
 	}
@@ -5965,6 +6272,10 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 47
+		}]
 	}
 	, {
 		"name": "Underfolk"
@@ -6105,6 +6416,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 44
+		}]
 	}
 	, {
 		"name": "Wasteland"
@@ -6409,6 +6724,10 @@
 				, "collection": "Summer 2"
 			}
 		]
+		, "collections": [{
+			"name": "Summer 2"
+			, "page": 41
+		}]
 	}
 	, {
 		"name": "Water"
@@ -6465,6 +6784,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 48
+		}]
 	}
 	, {
 		"name": "Weird"
@@ -6685,6 +7008,10 @@
 				, "collection": "Winter"
 			}
 		]
+		, "collections": [{
+			"name": "Winter"
+			, "page": 47
+		}]
 	}
 	, {
 		"name": "Wizards"
@@ -6737,6 +7064,10 @@
 				, "collection": "Summer"
 			}
 		]
+		, "collections": [{
+			"name": "Summer"
+			, "page": 51
+		}]
 	}
 	, {
 		"name": "Zombies"
@@ -6821,5 +7152,9 @@
 				, "collection": "Autumn"
 			}
 		]
+		, "collections": [{
+			"name": "Autumn"
+			, "page": 53
+		}]
 	}
 ]

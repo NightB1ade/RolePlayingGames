@@ -16,6 +16,29 @@
 				"type": "string"
 				, "title": "Name"
 			}
+			, "collections": {
+				"type": "array"
+				, "title": "Collections"
+				, "format": "table"
+				, "items": {
+					"type": "object"
+					, "title": "Collection"
+					, "required": [
+						"name"
+						, "page"
+					]
+					, "properties": {
+						"name": {
+							"type": "string"
+							, "title": "Name"
+						}
+						, "page": {
+							"type": "integer"
+							, "title": "Page"
+						}
+					}
+				}
+			}
 			, "tokens": {
 				"type": "array"
 				, "title": "Tokens"
