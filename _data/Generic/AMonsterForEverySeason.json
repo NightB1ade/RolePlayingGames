@@ -1,6 +1,6 @@
 [{
 		"name": "Air"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aerial Servant"
 				, "collection": "Winter"
 			}
@@ -104,7 +104,7 @@
 	}
 	, {
 		"name": "Animals"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aardvark"
 				, "collection": "Spring 2"
 			}
@@ -496,7 +496,7 @@
 	}
 	, {
 		"name": "Bandits"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Bandit (Female, Male)"
 				, "collection": "Spring 2"
 			}
@@ -568,7 +568,7 @@
 	}
 	, {
 		"name": "Barbarians"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Dragonborn Barbarian"
 				, "collection": "Winter"
 			}
@@ -612,7 +612,7 @@
 	}
 	, {
 		"name": "Bards"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aasimar Bard (Female, Male)"
 				, "collection": "Spring 2"
 			}
@@ -672,7 +672,7 @@
 	}
 	, {
 		"name": "Brain-Eaters"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Brain Collector"
 				, "collection": "Summer 2"
 			}
@@ -744,7 +744,7 @@
 	}
 	, {
 		"name": "Bugbears"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Bugbear (Female, Male)"
 				, "collection": "Winter"
 			}
@@ -788,7 +788,7 @@
 	}
 	, {
 		"name": "Bugs"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Ankheg"
 				, "collection": "Autumn"
 			}
@@ -952,7 +952,7 @@
 	}
 	, {
 		"name": "Catfolk"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Catfolk (Female, Male)"
 				, "collection": "Spring 2"
 			}
@@ -1036,7 +1036,7 @@
 	}
 	, {
 		"name": "Celestials"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Angel of Battle"
 				, "collection": "Summer 2"
 			}
@@ -1144,7 +1144,7 @@
 	}
 	, {
 		"name": "Centaurs & Harpies"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Centaur (Female, Male)"
 				, "collection": "Spring"
 			}
@@ -1172,7 +1172,7 @@
 	}
 	, {
 		"name": "Clerics"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aasimar Cleric (Female, Male)"
 				, "collection": "Autumn"
 			}
@@ -1240,7 +1240,7 @@
 	}
 	, {
 		"name": "Cold"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Abominable Yeti"
 				, "collection": "Winter"
 			}
@@ -1368,7 +1368,7 @@
 	}
 	, {
 		"name": "Constructs"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Caryatid Column"
 				, "collection": "Autumn"
 			}
@@ -1432,7 +1432,7 @@
 	}
 	, {
 		"name": "Demons"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Abyssal Maw"
 				, "collection": "Autumn"
 			}
@@ -1532,7 +1532,7 @@
 	}
 	, {
 		"name": "Devils"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Abishai (Black, Blue, Green, Red, White)"
 				, "collection": "Autumn"
 			}
@@ -1644,7 +1644,7 @@
 	}
 	, {
 		"name": "Dinosaurs"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Allosaurus"
 				, "collection": "Winter"
 			}
@@ -1708,7 +1708,7 @@
 	}
 	, {
 		"name": "Dragons"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Amethyst Drake (Huge, Large, Small)"
 				, "collection": "Summer 2"
 			}
@@ -1836,7 +1836,7 @@
 	}
 	, {
 		"name": "Druids"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Archdruid (Female, Male)"
 				, "collection": "Spring"
 			}
@@ -1876,7 +1876,7 @@
 	}
 	, {
 		"name": "Dungeon Objects"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Anvil"
 				, "collection": "Winter"
 			}
@@ -1916,7 +1916,7 @@
 	}
 	, {
 		"name": "Earth"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Crysmal"
 				, "collection": "Winter"
 			}
@@ -2004,7 +2004,7 @@
 	}
 	, {
 		"name": "Faerie Court"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Autumn Sidhe (Female, Male x2)"
 				, "collection": "Spring 2"
 			}
@@ -2108,7 +2108,7 @@
 	}
 	, {
 		"name": "Featherfolk"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Birdfolk (Female, Male)"
 				, "collection": "Summer 2"
 			}
@@ -2236,7 +2236,7 @@
 	}
 	, {
 		"name": "The Fey"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Banshrae"
 				, "collection": "Spring"
 			}
@@ -2344,7 +2344,7 @@
 	}
 	, {
 		"name": "Fighters"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Dragonborn Fighter"
 				, "collection": "Summer"
 			}
@@ -2400,7 +2400,7 @@
 	}
 	, {
 		"name": "Fire"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Ash Rat"
 				, "collection": "Summer"
 			}
@@ -2524,7 +2524,7 @@
 	}
 	, {
 		"name": "Frogfolk"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Black Limbo Toad"
 				, "collection": "Spring 2"
 			}
@@ -2640,7 +2640,7 @@
 	}
 	, {
 		"name": "Genies"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Dao (Female, Male)"
 				, "collection": "Winter"
 			}
@@ -2676,7 +2676,7 @@
 	}
 	, {
 		"name": "Giants"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Cloud Giant (Female, Male)"
 				, "collection": "Winter"
 			}
@@ -2780,7 +2780,7 @@
 	}
 	, {
 		"name": "Gnolls"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Cacklefiend Hyena"
 				, "collection": "Spring"
 			}
@@ -2832,7 +2832,7 @@
 	}
 	, {
 		"name": "Goblins"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Goblin (Female, Male)"
 				, "collection": "Spring"
 			}
@@ -2940,7 +2940,7 @@
 	}
 	, {
 		"name": "Guardian Beasts"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Avoral (Female, Male)"
 				, "collection": "Spring 2"
 			}
@@ -3032,7 +3032,7 @@
 	}
 	, {
 		"name": "Hobgoblins"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Hobgoblin (Female, Male)"
 				, "collection": "Autumn"
 			}
@@ -3124,7 +3124,7 @@
 	}
 	, {
 		"name": "Hydrae"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Cryohydra (9-Headed)"
 				, "collection": "Spring 2"
 			}
@@ -3168,7 +3168,7 @@
 	}
 	, {
 		"name": "Kobolds"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Black Dragonwrought Kobold"
 				, "collection": "Summer"
 			}
@@ -3296,7 +3296,7 @@
 	}
 	, {
 		"name": "Lizardfolk"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Blackscale Lizardfolk"
 				, "collection": "Summer"
 			}
@@ -3452,7 +3452,7 @@
 	}
 	, {
 		"name": "Lycanthropes"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Barghest"
 				, "collection": "Spring 2"
 			}
@@ -3556,7 +3556,7 @@
 	}
 	, {
 		"name": "Marine Animals"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Baleen Whale (Humpback)"
 				, "collection": "Summer"
 			}
@@ -3692,7 +3692,7 @@
 	}
 	, {
 		"name": "Mephits"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Air Mephit"
 				, "collection": "Summer 2"
 			}
@@ -3760,7 +3760,7 @@
 	}
 	, {
 		"name": "Mind Warriors"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Drow Soulknife"
 				, "collection": "Summer 2"
 			}
@@ -3824,7 +3824,7 @@
 	}
 	, {
 		"name": "Monsters"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Al-mi'raj"
 				, "collection": "Spring 2"
 			}
@@ -3896,7 +3896,7 @@
 	}
 	, {
 		"name": "Mounts"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Camel"
 				, "collection": "Spring"
 			}
@@ -3976,7 +3976,7 @@
 	}
 	, {
 		"name": "Necromancers"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Elf Necromancer x2"
 				, "collection": "Autumn"
 			}
@@ -3996,7 +3996,7 @@
 	}
 	, {
 		"name": "Oceanfolk"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aquatic Elf (Female, Male)"
 				, "collection": "Summer"
 			}
@@ -4140,7 +4140,7 @@
 	}
 	, {
 		"name": "Ogres"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Oni Mage"
 				, "collection": "Summer"
 			}
@@ -4188,7 +4188,7 @@
 	}
 	, {
 		"name": "Oozes"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Arcane Ooze"
 				, "collection": "Winter"
 			}
@@ -4244,7 +4244,7 @@
 	}
 	, {
 		"name": "Orcs"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Orc (Female, Male)"
 				, "collection": "Spring"
 			}
@@ -4336,7 +4336,7 @@
 	}
 	, {
 		"name": "Paladins"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aasimar Paladin (Female, Male)"
 				, "collection": "Autumn"
 			}
@@ -4392,7 +4392,7 @@
 	}
 	, {
 		"name": "Pirates"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Ancient Mariner"
 				, "collection": "Summer 2"
 			}
@@ -4472,7 +4472,7 @@
 	}
 	, {
 		"name": "Plants"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Assassin Vine"
 				, "collection": "Spring"
 			}
@@ -4588,7 +4588,7 @@
 	}
 	, {
 		"name": "Psions"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Dwarf Psion (Female, Male)"
 				, "collection": "Summer 2"
 			}
@@ -4628,7 +4628,7 @@
 	}
 	, {
 		"name": "Psychic Threats"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Astral Construct (Huge, Large, Medium, Small)"
 				, "collection": "Summer 2"
 			}
@@ -4828,7 +4828,7 @@
 	}
 	, {
 		"name": "Pyramid Guardians"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Androsphinx"
 				, "collection": "Summer"
 			}
@@ -4936,7 +4936,7 @@
 	}
 	, {
 		"name": "Rangers"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Catfolk Ranger (Female, Male)"
 				, "collection": "Spring"
 			}
@@ -4992,7 +4992,7 @@
 	}
 	, {
 		"name": "Rogues"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Changeling Rogue"
 				, "collection": "Winter"
 			}
@@ -5048,7 +5048,7 @@
 	}
 	, {
 		"name": "Sahuagin"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Sahuagin (Female, Male)"
 				, "collection": "Summer"
 			}
@@ -5092,7 +5092,7 @@
 	}
 	, {
 		"name": "Sea Monsters"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Acid Shark"
 				, "collection": "Summer"
 			}
@@ -5212,7 +5212,7 @@
 	}
 	, {
 		"name": "Seafarers"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aquatic Elf Sailor"
 				, "collection": "Summer 2"
 			}
@@ -5304,7 +5304,7 @@
 	}
 	, {
 		"name": "Serpentine"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Amphiptere"
 				, "collection": "Spring 2"
 			}
@@ -5492,7 +5492,7 @@
 	}
 	, {
 		"name": "Skeletons"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Armored Skeleton"
 				, "collection": "Autumn"
 			}
@@ -5568,7 +5568,7 @@
 	}
 	, {
 		"name": "Spooooooky!"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Annis Hag"
 				, "collection": "Autumn"
 			}
@@ -5648,7 +5648,7 @@
 	}
 	, {
 		"name": "Townfolk"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Bartender (Female, Male)"
 				, "collection": "Winter"
 			}
@@ -5712,7 +5712,7 @@
 	}
 	, {
 		"name": "Trolls"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Bridge Troll"
 				, "collection": "Spring"
 			}
@@ -5776,7 +5776,7 @@
 	}
 	, {
 		"name": "Undead"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Abyssal Ghoul"
 				, "collection": "Autumn"
 			}
@@ -5968,7 +5968,7 @@
 	}
 	, {
 		"name": "Underfolk"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Deep Gnome (Female, Male x2)"
 				, "collection": "Winter"
 			}
@@ -6108,7 +6108,7 @@
 	}
 	, {
 		"name": "Wasteland"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Air Drake"
 				, "collection": "Summer 2"
 			}
@@ -6412,7 +6412,7 @@
 	}
 	, {
 		"name": "Water"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Ooze Para-Elemental (Huge, Large, Medium, Small)"
 				, "collection": "Summer"
 			}
@@ -6468,7 +6468,7 @@
 	}
 	, {
 		"name": "Weird"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Aboleth"
 				, "collection": "Winter"
 			}
@@ -6688,7 +6688,7 @@
 	}
 	, {
 		"name": "Wizards"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Dragonborn Wizard"
 				, "collection": "Summer"
 			}
@@ -6740,7 +6740,7 @@
 	}
 	, {
 		"name": "Zombies"
-		, "monsters": [{
+		, "tokens": [{
 				"name": "Bugbear Zombie"
 				, "collection": "Autumn"
 			}

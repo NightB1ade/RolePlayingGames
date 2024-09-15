@@ -1,28 +1,28 @@
 {
 	"type": "array"
-	, "title": "Monster Groups"
+	, "title": "Token Groups"
 	, "format": "tabs"
 	, "uniqueItems": true
 	, "items": {
 		"type": "object"
-		, "title": "Monster Group"
+		, "title": "Token Group"
 		, "headerTemplate": "{{ self.name }}"
 		, "required": [
 			"name"
-			, "monsters"
+			, "tokens"
 		]
 		, "properties": {
 			"name": {
 				"type": "string"
 				, "title": "Name"
 			}
-			, "monsters": {
+			, "tokens": {
 				"type": "array"
-				, "title": "Monsters"
+				, "title": "Tokens"
 				, "format": "table"
 				, "items": {
 					"type": "object"
-					, "title": "Monster"
+					, "title": "Token"
 					, "required": [
 						"name"
 						, "collection"
