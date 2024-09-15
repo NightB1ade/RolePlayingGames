@@ -1,4 +1,108 @@
 [{
+		"name": "Air"
+		, "monsters": [{
+				"name": "Aerial Servant"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Air Elemental (Huge, Large, Medium, Small)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Air Grue"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Arrowhawk (Adult, Elder, Juvenile)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Belker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dust Devil"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Giant Eagle"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Giant Owl"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Giant Vulture"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Invisible Stalker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Peryton"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Riding Cloud"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Roc (Adult, Young)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Roc Chick"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shardstorm Vortex"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Storm Archon Lightning Walker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Storm Archon Squallshield"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Storm Archon Tempest Weaver"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Storm Elemental (Large)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Sylph"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Tempest Wisp"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Thunderbird"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Thunderblast Cyclone"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Wind Oracle"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Windstriker"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
 		"name": "Animals"
 		, "monsters": [{
 				"name": "Aardvark"
@@ -463,6 +567,50 @@
 		]
 	}
 	, {
+		"name": "Barbarians"
+		, "monsters": [{
+				"name": "Dragonborn Barbarian"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dwarf Barbarian (Female x2, Male x2)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Elf Barbarian x3"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Goliath Barbarian (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Halfling Barbarian (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Half-Ogre Barbarian (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Half-Orc Barbarian (Female x7, Male x7)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Human Barbarian (Female x5, Male x5)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shifter Barbarian (Female x2, Male x2)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Warforged Barbarian"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
 		"name": "Bards"
 		, "monsters": [{
 				"name": "Aasimar Bard (Female, Male)"
@@ -591,6 +739,50 @@
 			, {
 				"name": "Ultimate Brain-Eater"
 				, "collection": "Summer 2"
+			}
+		]
+	}
+	, {
+		"name": "Bugbears"
+		, "monsters": [{
+				"name": "Bugbear (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Barbarian (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Chief"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Civilian"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Warrior (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Ranger"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Rogue (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Sergeant"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Shaman"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bugbear Strangler"
+				, "collection": "Winter"
 			}
 		]
 	}
@@ -1047,6 +1239,134 @@
 		]
 	}
 	, {
+		"name": "Cold"
+		, "monsters": [{
+				"name": "Abominable Yeti"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Chillfire Destroyer"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dire Polar Bear"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dire Rhinoceros"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Evil Snowman"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Frost Dwarf (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Frost Salamander"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Frost Worm"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Giant Arctic Fox"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Glyptodon"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ice Archon Rimehammer"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ice Archon Hellscourge"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ice Archon Frostshaper"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ice Assassin"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ice Oracle"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ice Para-Elemental (Huge, Large, Medium, Small)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ice Troll"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Neanderthal (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Neanderthal Chief"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Neanderthal Mystic"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Rejkar"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Remorhaz"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Remorhaz (Young)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Snow Elf (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Snow Elf Wizard"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Uldra (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Urskan (Armoured Bear)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Wendigo"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Winter Wolf"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Wooly Mammoth"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Yeti"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
 		"name": "Constructs"
 		, "monsters": [{
 				"name": "Caryatid Column"
@@ -1323,6 +1643,70 @@
 		]
 	}
 	, {
+		"name": "Dinosaurs"
+		, "monsters": [{
+				"name": "Allosaurus"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ankylosaurus (Macetail Behemoth)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bloodstriker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Brontosaurus"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Deinoychus"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Elasmosaurus"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Fleshraker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Megaraptor"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Plesiosaurus"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Pteranodon"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Quetzalcoatlus"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Stegosaurus (Bloodspike Behemoth)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Swindlespitter"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Triceratops"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Tyrannosaurus Rex"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
 		"name": "Dragons"
 		, "monsters": [{
 				"name": "Amethyst Drake (Huge, Large, Small)"
@@ -1335,6 +1719,10 @@
 			, {
 				"name": "Bloodseeker Drake"
 				, "collection": "Summer"
+			}
+			, {
+				"name": "Blue Dragon (Gargantuan, Huge, Large, Medium, Small)"
+				, "collection": "Winter"
 			}
 			, {
 				"name": "Brass Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
@@ -1437,6 +1825,10 @@
 				, "collection": "Summer 2"
 			}
 			, {
+				"name": "White Dragon (Gargantuan, Huge, Large, Medium, Small, Tiny)"
+				, "collection": "Winter"
+			}
+			, {
 				"name": "Wyvern"
 				, "collection": "Spring"
 			}
@@ -1479,6 +1871,134 @@
 			, {
 				"name": "Warforged Druid"
 				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Dungeon Objects"
+		, "monsters": [{
+				"name": "Anvil"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bear Trap"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Campfire"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Cauldron"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Chest (Medium, Small)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Crystal Ball"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Sack of Treasure"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Swirly Portal"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Weapon Rack"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
+		"name": "Earth"
+		, "monsters": [{
+				"name": "Crysmal"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Earth Archon Groundrager"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Earth Archon Rumbler"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Earth Archon Seismic Striker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Earth Elemental (Huge, Large, Medium, Small)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Earth Grue"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Earth Oracle"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Earthwind Ravager"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Galeb Duhr"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Galeb Duhr Rockcaller"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gargoyle"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Margoyle"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Mud Buddy"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Mud Lasher"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Pech (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Rockfist Smasher"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Sandling"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Stone Spike"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Stormstone Fury"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Xaren"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Xorn (Adult, Elder, Juvenile)"
+				, "collection": "Winter"
 			}
 		]
 	}
@@ -2121,6 +2641,22 @@
 	, {
 		"name": "Genies"
 		, "monsters": [{
+				"name": "Dao (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Djinn (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Djinn Noble"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Djinn Thunderer"
+				, "collection": "Winter"
+			}
+			, {
 				"name": "Efreet (Female, Male)"
 				, "collection": "Summer"
 			}
@@ -2141,8 +2677,20 @@
 	, {
 		"name": "Giants"
 		, "monsters": [{
+				"name": "Cloud Giant (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
 				"name": "Cyclops (Huge, Large Female, Large Male)"
 				, "collection": "Spring 2"
+			}
+			, {
+				"name": "Earth Titan"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ettin (Female, Male)"
+				, "collection": "Winter"
 			}
 			, {
 				"name": "Fey Cyclops"
@@ -2185,8 +2733,36 @@
 				, "collection": "Spring 2"
 			}
 			, {
+				"name": "Frost Giant (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Frost Giant Berserker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Frost Giant Jarl"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Hill Giant (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Minotaur"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Minotaur Warrior"
+				, "collection": "Winter"
+			}
+			, {
 				"name": "Sea Giant (Female, Male)"
 				, "collection": "Summer"
+			}
+			, {
+				"name": "Stone Giant (Female, Male)"
+				, "collection": "Winter"
 			}
 			, {
 				"name": "Storm Giant (Female, Male)"
@@ -3611,6 +4187,62 @@
 		]
 	}
 	, {
+		"name": "Oozes"
+		, "monsters": [{
+				"name": "Arcane Ooze"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Awakened Ooze"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Black Pudding"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Elder Black Pudding"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gelatinous Cube (Huge, Large)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Green Slime"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Ooze"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Mimic (Chest)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ochre Jelly"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Oozeform (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Slithering Tracker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Stunjelly"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Yellow Mold"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
 		"name": "Orcs"
 		, "monsters": [{
 				"name": "Orc (Female, Male)"
@@ -4359,6 +4991,62 @@
 		]
 	}
 	, {
+		"name": "Rogues"
+		, "monsters": [{
+				"name": "Changeling Rogue"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dragonborn Rogue"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Drow Rogue (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dwarf Rogue (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Elf Rogue x3"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gnome Rogue (Female x2, Male x2)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Halfling Rogue (Female x4, Male x4)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Half-Orc Rogue (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "High Elf Rogue (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Human Rogue (Female x7, Male x7)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Ratfolk Rogue (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Tiefling Rogue (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Warforged Rogue"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
 		"name": "Sahuagin"
 		, "monsters": [{
 				"name": "Sahuagin (Female, Male)"
@@ -4959,6 +5647,70 @@
 		]
 	}
 	, {
+		"name": "Townfolk"
+		, "monsters": [{
+				"name": "Bartender (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Beggar"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Blacksmith (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Chicken"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Child (Female, Male x2)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Cow"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dwarf Blacksmith"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Merchant (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Pig"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shopkeeper (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Waitress x2"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Waiter"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Village Elder (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Commoner (Female x3, Male x3)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Tavern Drunk"
+				, "collection": "Winter"
+			}
+		]
+	}
+	, {
 		"name": "Trolls"
 		, "monsters": [{
 				"name": "Bridge Troll"
@@ -5211,6 +5963,146 @@
 			, {
 				"name": "Wraith"
 				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Underfolk"
+		, "monsters": [{
+				"name": "Deep Gnome (Female, Male x2)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Deep Gnome Cleric"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Deep Gnome Elder"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Deep Gnome Illusionist"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Deep Gnome Stoneshaper"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Derro (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Derro Savant"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Derro Scout"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Doppelganger"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Doppelganger Assassin"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gibberling"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Dwarf (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Dwarf Artificer"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Dwarf Blackguard"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Dwarf General"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Dwarf Psychic Warrior"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Dwarf Slavedriver"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grimlock (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grimlock Chief"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shulk (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Molefolk"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Molefolk Assassin"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Molefolk Wizard"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Mongrelfolk x3"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Quaggoth (Female, Male)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Quaggoth Barbarian"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Medusa"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Medusa Archer"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Medusa Bard"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Medusa Warrior (Maedar)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shadowfolk Chainfighter"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shadowfolk Gloomblade"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shadowfolk Warrior"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shadowfolk Witch"
+				, "collection": "Winter"
 			}
 		]
 	}
@@ -5571,6 +6463,226 @@
 			, {
 				"name": "Water Weird (Large, Medium)"
 				, "collection": "Summer"
+			}
+		]
+	}
+	, {
+		"name": "Weird"
+		, "monsters": [{
+				"name": "Aboleth"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Aboleth Mage"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Aboleth Overseer"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Aboleth Servitor"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Balhannoth"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Behir"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Blink Dog"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Bulette"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Catoblepas"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Choker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Cloaker"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Cockatrice"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Corpse Creeper"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Darkmantle"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Death Kiss"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Die Tyrant"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Delver"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Destrachan"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Digester"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Dire Bulette"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Enormous Corpse Creeper"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Eyeball"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Eye Director"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Eye Tyrant (Elder, Lesser, Normal)"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Eye Tyrant Mage"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Flumph"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gas Spore"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gibbering Abomination"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gibbering Mouther"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gibbering Orb"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Girallon"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Gouger"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grell"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grell Patriarch"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grell Philosopher"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grey Render"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grick"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Grick Alpha"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Hook Horror"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Iron Gorgon"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Misplacement Panther"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Misplacement Panther Pack Lord"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Neeohghee"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Neeohghee Defiler"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Neo-Otyugh"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Otyugh"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Roper"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Shocker Lizard"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Skum"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Spectator"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Stirge"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Truly Horrid Umber Hulk"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Umber Hulk"
+				, "collection": "Winter"
+			}
+			, {
+				"name": "Yrthak"
+				, "collection": "Winter"
 			}
 		]
 	}
