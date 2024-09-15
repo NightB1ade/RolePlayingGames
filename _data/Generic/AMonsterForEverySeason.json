@@ -1,4 +1,332 @@
 [{
+		"name": "Animals"
+		, "monsters": [{
+				"name": "Ape"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Armadillo"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Baboon"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Badger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Bat"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Billy Goat Gruff"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Bison"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Black Bear"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Blood Hawk"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Boar"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Brown Bear"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Cat"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Cheetah"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Crocodile"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Deer"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Ape"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Badger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Bat"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Bear"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Boar"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Hyena"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Lion"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Rat"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Sloth"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Tiger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Toad"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Weasel"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Wolf"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dire Wolverine"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dog"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Eagle"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Elephant"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Elk"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Fox"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Ape"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Chameleon"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Crocodile"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Elk"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Frog"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Goat"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Lizard"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Giant Tortoise"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gibbon"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Hawk"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Hedgehog"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Hippopotamus"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Hyena"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Jackal"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Kangaroo"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Lemur"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Lion"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Lizard"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Lynx"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Monitor Lizard"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Monkey"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Moose"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Okapi"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Ostrich"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Otter"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Owl"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pather"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Penguin"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Polar Bear"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Raccoon"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Rat"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Raven"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Rhinoceros"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Snake (Huge)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Snake (Large)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Snake (Medium)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Snake (Small)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Snake (Tiny)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Tiger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Toad"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Turtle"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Vulture"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "War Elephant"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Weasel"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Wildebeest"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Wolf"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Wolverine"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
 		"name": "Bugs"
 		, "monsters": [{
 				"name": "Ankheg"
@@ -251,6 +579,38 @@
 			, {
 				"name": "Tenebrous Worm"
 				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Centaurs & Harpies"
+		, "monsters": [{
+				"name": "Centaur (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Centaur (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Centaur Beserker"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Centaur Hunter"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Centaur Mystic"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Harpy"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Harpy Archer"
+				, "collection": "Spring"
 			}
 		]
 	}
@@ -721,12 +1081,428 @@
 				, "collection": "Autumn"
 			}
 			, {
+				"name": "Green Dragon (Gargantuan)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Green Dragon (Huge)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Green Dragon (Large)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Green Dragon (Medium)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Green Dragon (Small)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Green Dragon (Tiny)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Guard Drake"
+				, "collection": "Spring"
+			}
+			, {
 				"name": "Half-Dragon Sorcerer"
 				, "collection": "Autumn"
 			}
 			, {
+				"name": "Pseudodragon"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Rage Drake"
+				, "collection": "Spring"
+			}
+			, {
 				"name": "Red Shadow Dragon (Large)"
 				, "collection": "Autumn"
+			}
+			, {
+				"name": "Spiretop Drake"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Spitting Drake"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Wyvern"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Druids"
+		, "monsters": [{
+				"name": "Archdruid (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Archdruid (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Catfolk Druid"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dwarf Druid (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dwarf Druid (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Elf Druid x7"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnome Druid (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnome Druid (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Halfling Druid (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Halfling Druid (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Human Druid (Female) x5"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Human Druid (Male) x5"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Shifter Druid"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Warforged Druid"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "The Fey"
+		, "monsters": [{
+				"name": "Banshrae"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Briar Witch Dryad"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Brownie (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Brownie (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dryad"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Faerie Dragon"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gremlin"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Grig"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Grig Fiddler"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Jermlaine"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Killmoulis"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Kitsune"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Lamia Swarm"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Leprechaun (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Leprechaun (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Meenlock"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Nymph"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pixie (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pixie (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pixie Bard"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pixie Druid"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pixie Sorceress"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pooka"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Quickling"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Satyr"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Satyr Piper"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Spriggan (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Spriggan (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Sprite (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Sprite (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Will O'Wisp"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Gnolls"
+		, "monsters": [{
+				"name": "Cacklefiend Hyena"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Flind"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Claw Fighter"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Demonic Scourge"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Fang of Yoonowho"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Huntmaster"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Marauder"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Pack Lord"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Ranger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnoll Shaman"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Half-Fiend Gnoll"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Goblins"
+		, "monsters": [{
+				"name": "Goblin (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Alchemist"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Archer"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Bat-Bomber"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Blackblade"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Boss"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Civilian"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Cleric"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Cutter"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Dark Knight"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Druid"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Hexer"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Javeliner (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Javeliner (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Jester"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin King"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Lieutenant"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Ranger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Rogue (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Rogue (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Sentry"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Sergeant"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Sharpshooter"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Skullcleaver"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Slave"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Goblin Worgrider"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Half-Fiend Goblin"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Worg (Medium)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Worg (Large)"
+				, "collection": "Spring"
 			}
 		]
 	}
@@ -847,6 +1623,118 @@
 		]
 	}
 	, {
+		"name": "Monsters"
+		, "monsters": [{
+				"name": "Basilisk"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Chimera"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Griffon"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Lamia"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Manticore"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Owlbear"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Oxidation Critter"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Mounts"
+		, "monsters": [{
+				"name": "Camel"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Donkey"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Llama"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pack Mule"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pack Yak"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Pegasus"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Hippogriff"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Racing Bird"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Racing Snail"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Riding Boar"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Riding Dog"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Riding Horse x2"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Riding Pony"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Riding Lizard"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Riding Zebra"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Unicorn"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Warhorse x2"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Warpony"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "War Rhino"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
 		"name": "Necromancers"
 		, "monsters": [{
 				"name": "Elf Necromancer x2"
@@ -867,6 +1755,122 @@
 			, {
 				"name": "Human Necromancer (Male) x5"
 				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Orcs"
+		, "monsters": [{
+				"name": "Orc (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Archer (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Archer (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Assassin"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Beserker"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Bloodrager"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Boar Knight"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Chieftain"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Civilian (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Civilian (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Cleric (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Cleric (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Drudge"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Fighter"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Gatekeeper"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Raider"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Ranger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Shaman"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Slave"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Tribesman"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Tribeswoman"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Warchief"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Warrior (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Warrior (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orc Witch"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orog (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Orog (Male)"
+				, "collection": "Spring"
 			}
 		]
 	}
@@ -955,6 +1959,186 @@
 			, {
 				"name": "Warforged Paladin"
 				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Plants"
+		, "monsters": [{
+				"name": "Assassin Vine"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Awakened Shrub"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Battlebriar (Huge)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Battlebriar (Large)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Cactusfolk"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Fungusfolk Adult"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Fungusfolk Sovereign"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Fungusfolk Sprout"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Needle Blight"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Phantom Fungus"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Plumbing Pipe Plant"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Shambling Mound"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Shrieker"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Topiary Guardian"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Treant"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Tri-Flower Frond"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Twig Blight"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Vine Blight"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Violet Fungus"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Yellow Musk Creeper"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Yellow Musk Zombie (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Yellow Musk Zombie (Male)"
+				, "collection": "Spring"
+			}
+		]
+	}
+	, {
+		"name": "Rangers"
+		, "monsters": [{
+				"name": "Catfolk Ranger (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Catfolk Ranger (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dragonborn Ranger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Drow Ranger (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Drow Ranger (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dwarf Ranger (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Dwarf Ranger (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Elf Ranger x5"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnome Ranger (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Gnome Ranger (Male) x2"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Halfling Ranger (Female) x2"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Halfling Ranger (Male) x2"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Half-Ogre Ranger (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Half-Ogre Ranger (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "High Elf Ranger x2"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Human Ranger (Female) x6"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Human Ranger (Male) x6"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Kobold Ranger"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Shifter Ranger (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Shifter Ranger (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Warforged Ranger"
+				, "collection": "Spring"
 			}
 		]
 	}
@@ -1111,6 +2295,62 @@
 			, {
 				"name": "Yeth Hound"
 				, "collection": "Autumn"
+			}
+		]
+	}
+	, {
+		"name": "Trolls"
+		, "monsters": [{
+				"name": "Bridge Troll"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Cave Troll"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Forest Troll (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Forest Troll (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Forest Troll Chieftain"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Forest Troll Witch Doctor"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Mountain Troll"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Troll (Female)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Troll (Male)"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Troll Hunter"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Troll Spellcaster"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "Two-Headed Troll"
+				, "collection": "Spring"
+			}
+			, {
+				"name": "War Troll"
+				, "collection": "Spring"
 			}
 		]
 	}
