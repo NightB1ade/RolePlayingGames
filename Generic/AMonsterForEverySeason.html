@@ -6,16 +6,16 @@ title: A Monster for Every Season
 	<div class="row">
 		{%- for tokenGroup in site.data.Generic.AMonsterForEverySeason %}
 		<div class="col col-12 col-sm-12 col-md-6 col-lg-4 col-xxl-3">
-			<h1>{{ tokenGrou.name }}</h1>
+			<h1>{{ tokenGroup.name }}</h1>
 			<table class="table table-dark table-striped table-hover w-auto">
 				<thead>
 					<tr>
-						<th>Monster</th>
+						<th>Token</th>
 						<th>Collection</th>
 					</tr>
 				</thead>
 				<tbody>
-					{%- for token in tokenGrou.monsters %}
+					{%- for token in tokenGroup.tokens %}
 					<tr>
 						<td>{{ token.name }}</td>
 						<td>{{ token.collection }}</td>
