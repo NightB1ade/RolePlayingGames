@@ -40,7 +40,7 @@
 		, {
 			"name": "Willpower"
 			, "abbreviation": "WP"
-			, "stat": 45
+			, "stat": 50
 		}
 		, {
 			"name": "Fellowship"
