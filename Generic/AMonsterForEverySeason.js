@@ -7,7 +7,7 @@ function FilterUpdate() {
 		var tokenRows = tokenSection[i].getElementsByClassName("TokenRow");
 
 		if (
-			tokenSection[i].getElementsByTagName("h1").textContent
+			tokenSection[i].getElementsByTagName("h1")[0].textContent
 				.toLowerCase().indexOf(filterText) > -1
 		) {
 			tokenSection[i].style.display = "";
