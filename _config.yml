@@ -152,6 +152,12 @@ defaults:
             rpgdescription: Our Summary of SR5e Rules
     -
         scope:
+            path: Starfinder/2e/Playtest
+        values:
+            rpgtitle: Playtest
+            rpgdescription: Starfinder 2e
+    -
+        scope:
             path: WrathAndGlory/RulesAndResources
         values:
             rpgtitle: Rules and Resources
