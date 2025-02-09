@@ -74,6 +74,12 @@ defaults:
             rpgdescription: A D&D5e game about going into hell
     -
         scope:
+            path: DungeonsAndDragons/5.5e/EscapingAesilwode
+        values:
+            rpgtitle: Escaping Aesilwode
+            rpgdescription: A D&D5e game about running away
+    -
+        scope:
             path: Generic
         values:
             rpgtitle: Generic
