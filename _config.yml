@@ -110,6 +110,12 @@ defaults:
             rpgdescription: Five Volunteers are Given a Job
     -
         scope:
+            path: Pathfinder/2e/RulesAndResources
+        values:
+            rpgtitle: Rules and Resources
+            rpgdescription: Various Resources for PF2e
+    -
+        scope:
             path: RighteousBlood/BloodAndHonour
         values:
             rpgtitle: Blood and Honour
