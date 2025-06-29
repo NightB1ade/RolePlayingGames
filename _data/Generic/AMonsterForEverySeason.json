@@ -510,7 +510,7 @@
 	, {
 		"name": "Bandits"
 		, "tokens": [{
-				"name": "Bandit (Female, Male)"
+				"name": "Bandit (Female, Male ×2)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -590,11 +590,11 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Dwarf Barbarian (Female x2, Male x2)"
+				"name": "Dwarf Barbarian (Female ×2, Male ×2)"
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Elf Barbarian x3"
+				"name": "Elf Barbarian ×3"
 				, "collection": "Winter"
 			}
 			, {
@@ -610,15 +610,15 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Half-Orc Barbarian (Female x7, Male x7)"
+				"name": "Half-Orc Barbarian (Female ×7, Male ×7)"
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Human Barbarian (Female x5, Male x5)"
+				"name": "Human Barbarian (Female ×5, Male ×5)"
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Shifter Barbarian (Female x2, Male x2)"
+				"name": "Shifter Barbarian (Female ×2, Male ×2)"
 				, "collection": "Winter"
 			}
 			, {
@@ -654,19 +654,19 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Elf Bard x4"
+				"name": "Elf Bard ×4"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Gnome Bard (Female x2, Male x2)"
+				"name": "Gnome Bard (Female ×2, Male ×2)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Halfling Bard (Female x2, Male x2)"
+				"name": "Halfling Bard (Female ×2, Male ×2)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Half-Elf Bard (Female x2, Male x2)"
+				"name": "Half-Elf Bard (Female ×2, Male ×2)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -678,7 +678,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Human Bard (Female x7, Male x7)"
+				"name": "Human Bard (Female ×7, Male ×7)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -702,7 +702,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Brain-Eater (Female, Male x2)"
+				"name": "Brain-Eater (Female, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -858,7 +858,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Ettercap x2"
+				"name": "Ettercap ×2"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1030,7 +1030,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Catgirl x2"
+				"name": "Catgirl ×2"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -1102,7 +1102,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Astral Deva (Female x3, Male x2)"
+				"name": "Astral Deva (Female ×3, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -1114,7 +1114,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Cherub x2"
+				"name": "Cherub ×2"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -1178,7 +1178,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Valkyrie x3"
+				"name": "Valkyrie ×3"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -1238,7 +1238,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Dwarf Cleric (Female x3, Male x3)"
+				"name": "Dwarf Cleric (Female ×3, Male ×3)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1246,7 +1246,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Elf Cleric x4"
+				"name": "Elf Cleric ×4"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1258,7 +1258,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Halfling Cleric (Female x2, Male x2)"
+				"name": "Halfling Cleric (Female ×2, Male ×2)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1266,11 +1266,11 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "High Elf Cleric x2"
+				"name": "High Elf Cleric ×2"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Cleric (Female x5, Male x5)"
+				"name": "Human Cleric (Female ×5, Male ×5)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1546,7 +1546,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Incubus x2"
+				"name": "Incubus ×2"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1582,7 +1582,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Succubus x3"
+				"name": "Succubus ×3"
 				, "collection": "Autumn"
 			}
 			, {
@@ -1951,7 +1951,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Elf Druid x7"
+				"name": "Elf Druid ×7"
 				, "collection": "Spring"
 			}
 			, {
@@ -1963,7 +1963,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Human Druid (Female x5, Male x5)"
+				"name": "Human Druid (Female ×5, Male ×5)"
 				, "collection": "Spring"
 			}
 			, {
@@ -2119,7 +2119,7 @@
 	, {
 		"name": "Faerie Court"
 		, "tokens": [{
-				"name": "Autumn Sidhe (Female, Male x2)"
+				"name": "Autumn Sidhe (Female, Male ×2)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2171,11 +2171,11 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Spring Sidhe (Female x2, Male)"
+				"name": "Spring Sidhe (Female ×2, Male)"
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Summer Sidhe (Female, Male x2)"
+				"name": "Summer Sidhe (Female, Male ×2)"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -2215,7 +2215,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Winter Sidhe (Female x2, Male)"
+				"name": "Winter Sidhe (Female ×2, Male)"
 				, "collection": "Spring 2"
 			}
 		]
@@ -2339,7 +2339,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Winged Elf x3"
+				"name": "Winged Elf ×3"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -2479,11 +2479,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Dwarf Fighter (Female x3, Male x3)"
+				"name": "Dwarf Fighter (Female ×3, Male ×3)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Elf Fighter x3"
+				"name": "Elf Fighter ×3"
 				, "collection": "Summer"
 			}
 			, {
@@ -2503,11 +2503,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "High Elf Fighter x2"
+				"name": "High Elf Fighter ×2"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Human Fighter (Female x5, Male x5)"
+				"name": "Human Fighter (Female ×5, Male ×5)"
 				, "collection": "Summer"
 			}
 			, {
@@ -2519,7 +2519,7 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Warforged Fighter x3"
+				"name": "Warforged Fighter ×3"
 				, "collection": "Summer"
 			}
 		]
@@ -2695,7 +2695,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Death Limbo Toad x2"
+				"name": "Death Limbo Toad ×2"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -3997,11 +3997,11 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Human Psy-Warrior (Female x2, Male x2)"
+				"name": "Human Psy-Warrior (Female ×2, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Human Soulknife (Female x2, Male x2)"
+				"name": "Human Soulknife (Female ×2, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4154,7 +4154,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Riding Horse x2"
+				"name": "Riding Horse ×2"
 				, "collection": "Spring"
 			}
 			, {
@@ -4174,7 +4174,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Warhorse x2"
+				"name": "Warhorse ×2"
 				, "collection": "Spring"
 			}
 			, {
@@ -4194,7 +4194,7 @@
 	, {
 		"name": "Necromancers"
 		, "tokens": [{
-				"name": "Elf Necromancer x2"
+				"name": "Elf Necromancer ×2"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4206,7 +4206,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Necromancer (Female x5, Male x5)"
+				"name": "Human Necromancer (Female ×5, Male ×5)"
 				, "collection": "Autumn"
 			}
 		]
@@ -4582,11 +4582,11 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Dwarf Paladin (Female x2, Male x2)"
+				"name": "Dwarf Paladin (Female ×2, Male ×2)"
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Elf Paladin x3"
+				"name": "Elf Paladin ×3"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4598,7 +4598,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Halfling Paladin (Female x2, Male x2)"
+				"name": "Halfling Paladin (Female ×2, Male ×2)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4614,7 +4614,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Human Paladin (Female x6, Male x6)"
+				"name": "Human Paladin (Female ×6, Male ×6)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -4642,7 +4642,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Elf Pirate x3"
+				"name": "Elf Pirate ×3"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4650,7 +4650,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Ghost Pirate x2"
+				"name": "Ghost Pirate ×2"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4666,15 +4666,15 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Half-Orc Pirate (Female, Male x2)"
+				"name": "Half-Orc Pirate (Female, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Human Pirate (Female x7, Male x7)"
+				"name": "Human Pirate (Female ×7, Male ×7)"
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Monstrous Pirate x3"
+				"name": "Monstrous Pirate ×3"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4694,7 +4694,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Skeleton Crew x2"
+				"name": "Skeleton Crew ×2"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4802,7 +4802,7 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Vegepygmy x2"
+				"name": "Vegepygmy ×2"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -4851,7 +4851,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Elf Psion x3"
+				"name": "Elf Psion ×3"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4863,7 +4863,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Human Psion (Female x7, Male x7)"
+				"name": "Human Psion (Female ×7, Male ×7)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4871,7 +4871,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Psicrystal x4"
+				"name": "Psicrystal ×4"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4947,7 +4947,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Dromite x2"
+				"name": "Dromite ×2"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -4999,7 +4999,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Oblex"
+				"name": "Oble"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -5219,15 +5219,15 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Elf Ranger x5"
+				"name": "Elf Ranger ×5"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Gnome Ranger (Female, Male x2)"
+				"name": "Gnome Ranger (Female, Male ×2)"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Halfling Ranger (Female x2, Male x2)"
+				"name": "Halfling Ranger (Female ×2, Male ×2)"
 				, "collection": "Spring"
 			}
 			, {
@@ -5235,11 +5235,11 @@
 				, "collection": "Spring"
 			}
 			, {
-				"name": "High Elf Ranger x2"
+				"name": "High Elf Ranger ×2"
 				, "collection": "Spring"
 			}
 			, {
-				"name": "Human Ranger (Female x6, Male x6)"
+				"name": "Human Ranger (Female ×6, Male ×6)"
 				, "collection": "Spring"
 			}
 			, {
@@ -5279,15 +5279,15 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Elf Rogue x3"
+				"name": "Elf Rogue ×3"
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Gnome Rogue (Female x2, Male x2)"
+				"name": "Gnome Rogue (Female ×2, Male ×2)"
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Halfling Rogue (Female x4, Male x4)"
+				"name": "Halfling Rogue (Female ×4, Male ×4)"
 				, "collection": "Winter"
 			}
 			, {
@@ -5299,7 +5299,7 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Human Rogue (Female x7, Male x7)"
+				"name": "Human Rogue (Female ×7, Male ×7)"
 				, "collection": "Winter"
 			}
 			, {
@@ -5531,7 +5531,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Explorer (Female, Male x2)"
+				"name": "Explorer (Female, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -5539,11 +5539,11 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Human Sailor (Female x3, Male x4)"
+				"name": "Human Sailor (Female ×3, Male ×4)"
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Fisher (Female, Male x2)"
+				"name": "Fisher (Female, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -5555,7 +5555,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Naval Officer (Female, Male x2)"
+				"name": "Naval Officer (Female, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -5627,7 +5627,7 @@
 				, "collection": "Spring 2"
 			}
 			, {
-				"name": "Lilend x2"
+				"name": "Lilend ×2"
 				, "collection": "Spring 2"
 			}
 			, {
@@ -5839,7 +5839,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Skeleton x2"
+				"name": "Skeleton ×2"
 				, "collection": "Autumn"
 			}
 			, {
@@ -5963,7 +5963,7 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Child (Female, Male x2)"
+				"name": "Child (Female, Male ×2)"
 				, "collection": "Winter"
 			}
 			, {
@@ -5987,7 +5987,7 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Waitress x2"
+				"name": "Waitress ×2"
 				, "collection": "Winter"
 			}
 			, {
@@ -5999,7 +5999,7 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Commoner (Female x3, Male x3)"
+				"name": "Commoner (Female ×3, Male ×3)"
 				, "collection": "Winter"
 			}
 			, {
@@ -6128,7 +6128,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Death Knight x2"
+				"name": "Death Knight ×2"
 				, "collection": "Autumn"
 			}
 			, {
@@ -6176,7 +6176,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Ghoul x2"
+				"name": "Ghoul ×2"
 				, "collection": "Autumn"
 			}
 			, {
@@ -6192,7 +6192,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Lich x3"
+				"name": "Lich ×3"
 				, "collection": "Autumn"
 			}
 			, {
@@ -6256,7 +6256,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Vampire (Female x5, Gaseous Form, Male x5)"
+				"name": "Vampire (Female ×5, Gaseous Form, Male ×5)"
 				, "collection": "Autumn"
 			}
 			, {
@@ -6284,7 +6284,7 @@
 	, {
 		"name": "Underfolk"
 		, "tokens": [{
-				"name": "Deep Gnome (Female, Male x2)"
+				"name": "Deep Gnome (Female, Male ×2)"
 				, "collection": "Winter"
 			}
 			, {
@@ -6376,7 +6376,7 @@
 				, "collection": "Winter"
 			}
 			, {
-				"name": "Mongrelfolk x3"
+				"name": "Mongrelfolk ×3"
 				, "collection": "Winter"
 			}
 			, {
@@ -6444,7 +6444,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Belgoi x2"
+				"name": "Belgoi ×2"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -6532,7 +6532,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Human Gladiator (Female x2, Male x2)"
+				"name": "Human Gladiator (Female ×2, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -6612,7 +6612,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Pterran x2"
+				"name": "Pterran ×2"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -6712,7 +6712,7 @@
 				, "collection": "Summer 2"
 			}
 			, {
-				"name": "Wasteland Raider (Female, Male x2)"
+				"name": "Wasteland Raider (Female, Male ×2)"
 				, "collection": "Summer 2"
 			}
 			, {
@@ -7032,15 +7032,15 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Elf Wizard x4"
+				"name": "Elf Wizard ×4"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Gnome Wizard (Female x2, Male x2)"
+				"name": "Gnome Wizard (Female ×2, Male ×2)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Halfling Wizard (Female, Male x2)"
+				"name": "Halfling Wizard (Female, Male ×2)"
 				, "collection": "Summer"
 			}
 			, {
@@ -7052,11 +7052,11 @@
 				, "collection": "Summer"
 			}
 			, {
-				"name": "Human Wizard (Female x7, Male x7)"
+				"name": "Human Wizard (Female ×7, Male ×7)"
 				, "collection": "Summer"
 			}
 			, {
-				"name": "High Elf Wizard x6"
+				"name": "High Elf Wizard ×6"
 				, "collection": "Summer"
 			}
 			, {
@@ -7140,7 +7140,7 @@
 				, "collection": "Autumn"
 			}
 			, {
-				"name": "Zombie x2"
+				"name": "Zombie ×2"
 				, "collection": "Autumn"
 			}
 			, {
